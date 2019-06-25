@@ -11,12 +11,14 @@ FOOTPOSTRM='fi'
 echo $HEADPREINST >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
 echo $HEADPOSTRM >> ${PWD}/debian/lliurex-langpack-kde.postrm.debhelper
 
-MOPATH="debian/lliurex-langpack-kde/usr/share/locale/ca@valencia/LC_MESSAGES/"
+
+MOPATH="/usr/share/locale/ca@valencia/LC_MESSAGES/"
+INSTALLMOPATH="debian/lliurex-langpack-kde$MOPATH"
 mkdir -p $MOPATH
 
 for POFILE in $(find . -type f -name *.po -not -path debian); do
 	APPNAME=$(basename $POFILE .po)
-	msgfmt $POFILE -o ${MOPATH}/$APPNAME.mo
+	msgfmt $POFILE -o ${INSTALLMOPATH}/$APPNAME.mo
 	echo "dpkg-divert --package lliurex-langpack-kde --add --rename ${MOPATH}/$APPNAME.mo" >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
 	echo "dpkg-divert --package lliurex-langpack-kde --remove --rename ${MOPATH}/$APPNAME.mo" >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
 
