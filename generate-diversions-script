@@ -20,7 +20,7 @@ for POFILE in $(find . -type f -name *.po -not -path debian); do
 	APPNAME=$(basename $POFILE .po)
 	msgfmt $POFILE -o ${INSTALLMOPATH}$APPNAME.mo
 	echo "dpkg-divert --package lliurex-langpack-kde --quiet --add --rename ${MOPATH}${APPNAME}.mo" >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
-	echo "dpkg-divert --package lliurex-langpack-kde --quiet --remove --rename ${MOPATH}${APPNAME}.mo" >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
+	echo "dpkg-divert --package lliurex-langpack-kde --quiet --remove --rename ${MOPATH}${APPNAME}.mo" >> ${PWD}/debian/lliurex-langpack-kde.postrm.debhelper
 
 done
 
