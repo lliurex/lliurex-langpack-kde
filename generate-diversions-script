@@ -1,11 +1,11 @@
 #!/bin/bash
 PWD=$(pwd)
 
-HEADPREINST='if [ "$1" = "install" || "$1" = "upgrade" ]; then'
+HEADPREINST='if [ "$1" = "install" -o "$1" = "upgrade" ]; then'
 FOOTPREINST='fi'
 
 
-HEADPOSTRM='if [ "$1" = "purge" || "$1" = "remove" || "$1" = "upgrade" ]; then'
+HEADPOSTRM='if [ "$1" = "purge" -o "$1" = "remove" -o "$1" = "upgrade" ]; then'
 FOOTPOSTRM='fi'
 
 echo $HEADPREINST >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
