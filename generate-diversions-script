@@ -14,7 +14,7 @@ echo $HEADPOSTRM >> ${PWD}/debian/lliurex-langpack-kde.postrm.debhelper
 
 MOPATH="/usr/share/locale/ca@valencia/LC_MESSAGES/"
 INSTALLMOPATH="debian/lliurex-langpack-kde$MOPATH"
-mkdir -p $MOPATH
+mkdir -p $INSTALLMOPATH
 
 for POFILE in $(find . -type f -name *.po -not -path debian); do
 	APPNAME=$(basename $POFILE .po)
