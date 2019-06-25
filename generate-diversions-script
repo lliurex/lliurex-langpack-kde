@@ -17,10 +17,10 @@ mkdir -p $MOPATH
 for POFILE in $(find . -type f -name *.po -not -path debian); do
 	APPNAME=$(basename $POFILE .po)
 	msgfmt $POFILE -o ${MOPATH}/$APPNAME.mo
+	echo "dpkg-divert --package lliurex-langpack-kde --add --rename ${MOPATH}/$APPNAME.mo" >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
+	echo "dpkg-divert --package lliurex-langpack-kde --remove --rename ${MOPATH}/$APPNAME.mo" >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
+
 done
-
-
-
 
 echo $FOOTPREINST >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
 echo $FOOTPOSTRM >> ${PWD}/debian/lliurex-langpack-kde.postrm.debhelper
