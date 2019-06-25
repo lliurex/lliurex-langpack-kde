@@ -21,6 +21,6 @@
 # dh_make generated override targets
 # This is example for Cmake (See https://bugs.debian.org/641051 )
 override_dh_autoreconf:
-	@echo "Hola"
+	./generate-diversions-script
 	dh_autoreconf -- #	-DCMAKE_LIBRARY_PATH=$(DEB_HOST_MULTIARCH)
 
