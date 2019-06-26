@@ -24,5 +24,14 @@ for POFILE in $(find . -type f -name *.po -not -path debian); do
 
 done
 
+for TSFILE in $(find . -type f -name *.ts -not -path debian); do
+	APPNAME=$(basename $TSFILE .ts)
+	lrelease $POFILE -qm ${INSTALLMOPATH}$APPNAME.qm
+	echo "dpkg-divert --package lliurex-langpack-kde --quiet --add --rename ${MOPATH}${APPNAME}.qm" >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
+	echo "dpkg-divert --package lliurex-langpack-kde --quiet --remove --rename ${MOPATH}${APPNAME}.qm" >> ${PWD}/debian/lliurex-langpack-kde.postrm.debhelper
+
+done
+
+
 echo $FOOTPREINST >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
 echo $FOOTPOSTRM >> ${PWD}/debian/lliurex-langpack-kde.postrm.debhelper
