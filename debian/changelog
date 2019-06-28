@@ -1,3 +1,9 @@
+lliurex-langpack-kde (0.2) bionic; urgency=medium
+
+  * Update translations
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 28 Jun 2019 14:13:51 +0200
+
 lliurex-langpack-kde (0.1) bionic; urgency=medium
 
   * Initial Release.
