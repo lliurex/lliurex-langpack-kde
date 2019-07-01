@@ -1,3 +1,10 @@
+lliurex-langpack-kde (0.3.1) bionic; urgency=medium
+
+  * Convert po files to ts
+  * Delete converted po files
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 01 Jul 2019 09:11:01 +0200
+
 lliurex-langpack-kde (0.3) bionic; urgency=medium
 
   * Update translations
