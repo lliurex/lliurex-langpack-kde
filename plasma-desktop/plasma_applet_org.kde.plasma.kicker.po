@@ -5,13 +5,14 @@
 #
 # Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2017.
 # Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016, 2017, 2019.
+# Alfredo vicente <alviboi@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_org.kde.plasma.kicker\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 07:46+0200\n"
-"PO-Revision-Date: 2019-06-27 11:16+0200\n"
-"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"POT-Creation-Date: 2019-06-23 03:18+0200\n"
+"PO-Revision-Date: 2019-07-05 11:38+0200\n"
+"Last-Translator: Alfredo vicente <alviboi@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Lokalize 19.04.2\n"
 
 #: package/contents/config/config.qml:26
 #, kde-format
@@ -51,128 +52,133 @@ msgstr "En l'activitat actual"
 msgid "Show In Favorites"
 msgstr "Mostra als preferits"
 
-#: package/contents/ui/ConfigGeneral.qml:58
+#: package/contents/ui/ConfigGeneral.qml:59
 #, kde-format
 msgid "Icon:"
 msgstr "Icona:"
 
-#: package/contents/ui/ConfigGeneral.qml:138
+#: package/contents/ui/ConfigGeneral.qml:139
 #, kde-format
 msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose..."
 msgstr "Trieu..."
 
-#: package/contents/ui/ConfigGeneral.qml:143
+#: package/contents/ui/ConfigGeneral.qml:144
 #, kde-format
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Clear Icon"
 msgstr "Neteja la icona"
 
-#: package/contents/ui/ConfigGeneral.qml:161
+#: package/contents/ui/ConfigGeneral.qml:162
 #, kde-format
 msgid "Show applications as:"
 msgstr "Mostra les aplicacions per:"
 
-#: package/contents/ui/ConfigGeneral.qml:163
+#: package/contents/ui/ConfigGeneral.qml:164
 #, kde-format
 msgid "Name only"
 msgstr "Només el nom"
 
-#: package/contents/ui/ConfigGeneral.qml:163
+#: package/contents/ui/ConfigGeneral.qml:164
 #, kde-format
 msgid "Description only"
 msgstr "Només la descripció"
 
-#: package/contents/ui/ConfigGeneral.qml:163
+#: package/contents/ui/ConfigGeneral.qml:164
 #, kde-format
 msgid "Name (Description)"
 msgstr "Nom (Descripció)"
 
-#: package/contents/ui/ConfigGeneral.qml:163
+#: package/contents/ui/ConfigGeneral.qml:164
 #, kde-format
 msgid "Description (Name)"
 msgstr "Descripció (Nom)"
 
-#: package/contents/ui/ConfigGeneral.qml:173
+#: package/contents/ui/ConfigGeneral.qml:174
 #, kde-format
 msgid "Behavior:"
 msgstr "Comportament:"
 
-#: package/contents/ui/ConfigGeneral.qml:175
+#: package/contents/ui/ConfigGeneral.qml:176
 #, kde-format
 msgid "Sort applications alphabetically"
 msgstr "Ordena alfabèticament les aplicacions"
 
-#: package/contents/ui/ConfigGeneral.qml:183
+#: package/contents/ui/ConfigGeneral.qml:184
 #, kde-format
 msgid "Flatten sub-menus to a single level"
 msgstr "Aplana els submenús en un únic nivell"
 
-#: package/contents/ui/ConfigGeneral.qml:194
+#: package/contents/ui/ConfigGeneral.qml:192
+#, kde-format
+msgid "Show icons on the root level of the menu"
+msgstr "Mostra les icones al nivell arrel del menú"
+
+#: package/contents/ui/ConfigGeneral.qml:202
 #, kde-format
 msgid "Show categories:"
 msgstr "Mostra les categories:"
 
-#: package/contents/ui/ConfigGeneral.qml:197
+#: package/contents/ui/ConfigGeneral.qml:205
 #, kde-format
 msgid "Recent applications"
 msgstr "Aplicacions recents"
 
-#: package/contents/ui/ConfigGeneral.qml:198
+#: package/contents/ui/ConfigGeneral.qml:206
 #, kde-format
 msgid "Often used applications"
 msgstr "Aplicacions usades sovint"
 
-#: package/contents/ui/ConfigGeneral.qml:205
+#: package/contents/ui/ConfigGeneral.qml:213
 #, kde-format
 msgid "Recent documents"
 msgstr "Documents recents"
 
-#: package/contents/ui/ConfigGeneral.qml:206
+#: package/contents/ui/ConfigGeneral.qml:214
 #, kde-format
 msgid "Often used documents"
 msgstr "Documents usats sovint"
 
-#: package/contents/ui/ConfigGeneral.qml:213
+#: package/contents/ui/ConfigGeneral.qml:221
 #, kde-format
 msgid "Recent contacts"
 msgstr "Contactes recents"
 
-#: package/contents/ui/ConfigGeneral.qml:214
+#: package/contents/ui/ConfigGeneral.qml:222
 #, kde-format
 msgid "Often used contacts"
 msgstr "Contactes usats sovint"
 
-#: package/contents/ui/ConfigGeneral.qml:220
+#: package/contents/ui/ConfigGeneral.qml:228
 #, kde-format
 msgid "Sort items in categories by:"
 msgstr "Ordena els elements en categories per:"
 
-#: package/contents/ui/ConfigGeneral.qml:221
+#: package/contents/ui/ConfigGeneral.qml:229
 #, kde-format
 msgctxt ""
 "@item:inlistbox Sort items in categories by [Recently used | Often used]"
 msgid "Recently used"
 msgstr "Usats recentment"
 
-#: package/contents/ui/ConfigGeneral.qml:221
+#: package/contents/ui/ConfigGeneral.qml:229
 #, kde-format
 msgctxt ""
 "@item:inlistbox Sort items in categories by [Recently used | Ofetn used]"
 msgid "Often used"
 msgstr "Usats sovint"
 
-#: package/contents/ui/ConfigGeneral.qml:231
+#: package/contents/ui/ConfigGeneral.qml:239
 #, kde-format
 msgid "Search:"
 msgstr "Busca:"
 
-#: package/contents/ui/ConfigGeneral.qml:233
+#: package/contents/ui/ConfigGeneral.qml:241
 #, kde-format
 msgid "Expand search to bookmarks, files and emails"
 msgstr "Amplia la cerca a les adreces d'interés, fitxers i correus electrònics"
 
-#: package/contents/ui/ConfigGeneral.qml:241
+#: package/contents/ui/ConfigGeneral.qml:249
 #, kde-format
 msgid "Align search results to bottom"
 msgstr "Alinea els resultats de la cerca a la part inferior"
@@ -197,14 +203,14 @@ msgstr "Preferits"
 #: package/contents/ui/DashboardTabBar.qml:55
 #, kde-format
 msgid "Widgets"
-msgstr "Estris («widgets»)"
+msgstr "Ginys («widgets»)"
 
 #: package/contents/ui/DashboardTabBar.qml:44
 #, kde-format
 msgid "Apps & Docs"
 msgstr "Aplicacions i documents"
 
-#: package/contents/ui/main.qml:271
+#: package/contents/ui/main.qml:272
 #, kde-format
 msgid "Edit Applications..."
 msgstr "Edita les aplicacions..."
@@ -232,14 +238,14 @@ msgstr "Afig a l'escriptori"
 #: plugin/actionlist.cpp:157
 #, kde-format
 msgid "Add to Panel (Widget)"
-msgstr "Afig al quadre (estri «widget»)"
+msgstr "Afig al plafó (giny «widget»)"
 
 #: plugin/actionlist.cpp:161
 #, kde-format
 msgid "Pin to Task Manager"
 msgstr "Fixa al gestor de tasques"
 
-#: plugin/actionlist.cpp:268 plugin/rootmodel.cpp:390
+#: plugin/actionlist.cpp:270 plugin/rootmodel.cpp:390
 #, kde-format
 msgid "Recent Documents"
 msgstr "Documents recents"
@@ -277,9 +283,9 @@ msgctxt "Generic name (App name)"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: plugin/appsmodel.cpp:45 plugin/appsmodel.cpp:69 plugin/computermodel.cpp:110
-#: plugin/computermodel.cpp:242 plugin/recentusagemodel.cpp:149
-#: plugin/recentusagemodel.cpp:209
+#: plugin/appsmodel.cpp:45 plugin/appsmodel.cpp:69
+#: plugin/computermodel.cpp:110 plugin/computermodel.cpp:242
+#: plugin/recentusagemodel.cpp:149 plugin/recentusagemodel.cpp:209
 #, kde-format
 msgid "Applications"
 msgstr "Aplicacions"
@@ -296,13 +302,13 @@ msgstr "Deixa d'amagar les aplicacions en «%1»"
 
 #: plugin/computermodel.cpp:104
 #, kde-format
-msgid "Run Command..."
-msgstr "Executa una ordre..."
+msgid "Show KRunner"
+msgstr "Mostra el KRunner"
 
 #: plugin/computermodel.cpp:108
 #, kde-format
-msgid "Run a command or a search query"
-msgstr "Executa una ordre o una consulta de cerca"
+msgid "Search, calculate, or run a command"
+msgstr "Cerca, calcula, o executa una ordre"
 
 #: plugin/computermodel.cpp:161
 #, kde-format
@@ -384,17 +390,17 @@ msgstr "Contactes recents"
 msgid "Often Used Documents"
 msgstr "Documents utilitzats sovint"
 
-#: plugin/rootmodel.cpp:401
+#: plugin/rootmodel.cpp:403
 #, kde-format
 msgid "Recent Applications"
 msgstr "Aplicacions recents"
 
-#: plugin/rootmodel.cpp:402
+#: plugin/rootmodel.cpp:404
 #, kde-format
 msgid "Often Used Applications"
 msgstr "Aplicacions utilitzades sovint"
 
-#: plugin/rootmodel.cpp:416
+#: plugin/rootmodel.cpp:420
 #, kde-format
 msgid "Power / Session"
 msgstr "Energia / Sessió"

@@ -5,13 +5,14 @@
 #
 # Josep Ma. Ferrer <txemaq@gmail.com>, 2013, 2014, 2015, 2016, 2017, 2018, 2019.
 # Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016.
+# Alfredo vicente <alviboi@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma_shell_org.kde.plasma.desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-15 07:36+0200\n"
-"PO-Revision-Date: 2019-06-27 11:41+0200\n"
-"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"POT-Creation-Date: 2019-06-15 03:21+0200\n"
+"PO-Revision-Date: 2019-07-05 11:43+0200\n"
+"Last-Translator: Alfredo vicente <alviboi@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Lokalize 19.04.2\n"
 
 #: contents/activitymanager/ActivityItem.qml:206
 msgid "Currently being used"
@@ -144,7 +145,7 @@ msgstr "Afig una acció"
 #: contents/configuration/ConfigurationContainmentAppearance.qml:75
 msgid "Layout cannot be changed while widgets are locked"
 msgstr ""
-"La disposició no es pot canviar mentre que els estris («widgets»)  estiguen "
+"La disposició no es pot canviar mentre que els ginys («widgets») estiguen "
 "bloquejats"
 
 #: contents/configuration/ConfigurationContainmentAppearance.qml:90
@@ -191,7 +192,7 @@ msgstr "Vora de la pantalla"
 msgid "Click and drag the button to a screen edge to move the panel there."
 msgstr ""
 "Cliqueu i arrossegueu el botó a una vora de la pantalla per moure-hi el "
-"quadre."
+"plafó."
 
 #: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:43
 msgid "Panel Alignment"
@@ -255,7 +256,7 @@ msgstr "Cliqueu i arrossegueu el botó per a canviar la mida del plafó."
 
 #: contents/configuration/panelconfiguration/ToolBar.qml:33
 msgid "Lock Widgets"
-msgstr "Bloqueja els estris («widgets»)"
+msgstr "Bloqueja els ginys («widgets»)"
 
 #: contents/configuration/panelconfiguration/ToolBar.qml:34
 msgid "Remove Panel"
@@ -263,7 +264,7 @@ msgstr "Elimina el plafó"
 
 #: contents/configuration/panelconfiguration/ToolBar.qml:35
 msgid "Add Widgets..."
-msgstr "Afig estris («widgets»)..."
+msgstr "Afig ginys («widgets»)..."
 
 #: contents/configuration/panelconfiguration/ToolBar.qml:36
 msgid "Add Spacer"
@@ -279,7 +280,7 @@ msgstr "Tanca"
 
 #: contents/explorer/AppletAlternatives.qml:83
 msgid "Alternative Widgets"
-msgstr "Estris («widgets») alternatius"
+msgstr "Ginys («widgets») alternatius"
 
 #: contents/explorer/AppletAlternatives.qml:174
 msgid "Switch"
@@ -291,7 +292,7 @@ msgstr "Desfés la desinstal·lació"
 
 #: contents/explorer/AppletDelegate.qml:180
 msgid "Uninstall widget"
-msgstr "Desinstal·la l'estri («widget»)"
+msgstr "Desinstal·la el giny («widget»)"
 
 #: contents/explorer/Tooltip.qml:106
 msgid "License:"
@@ -311,7 +312,7 @@ msgstr "Desinstal·la"
 
 #: contents/explorer/WidgetExplorer.qml:216
 msgid "Widgets"
-msgstr "Estris («widgets»)"
+msgstr "Ginys («widgets»)"
 
 #: contents/explorer/WidgetExplorer.qml:224
 msgid "Categories"
@@ -319,4 +320,4 @@ msgstr "Categories"
 
 #: contents/explorer/WidgetExplorer.qml:355
 msgid "Get New Widgets..."
-msgstr "Obtín estris («widgets») nous..."
+msgstr "Obtín ginys («widgets») nous..."
