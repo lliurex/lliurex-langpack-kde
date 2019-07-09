@@ -1,3 +1,9 @@
+lliurex-langpack-kde (0.4) bionic; urgency=medium
+
+  * New translations
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 09 Jul 2019 09:57:34 +0200
+
 lliurex-langpack-kde (0.3.1) bionic; urgency=medium
 
   * Convert po files to ts
