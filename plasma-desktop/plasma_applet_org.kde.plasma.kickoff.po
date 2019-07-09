@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_org.kde.plasma.kickoff\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 07:46+0200\n"
+"POT-Creation-Date: 2019-07-05 03:18+0200\n"
 "PO-Revision-Date: 2019-06-27 11:19+0200\n"
 "Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -62,37 +62,37 @@ msgid "Show In Favorites"
 msgstr "Mostra en les preferides"
 
 #: package/contents/ui/ConfigButtons.qml:36
-#: package/contents/ui/FullRepresentation.qml:748
+#: package/contents/ui/FullRepresentation.qml:729
 #, kde-format
 msgid "Favorites"
 msgstr "Preferides"
 
 #: package/contents/ui/ConfigButtons.qml:37
-#: package/contents/ui/FullRepresentation.qml:750
+#: package/contents/ui/FullRepresentation.qml:731
 #, kde-format
 msgid "Applications"
 msgstr "Aplicacions"
 
 #: package/contents/ui/ConfigButtons.qml:38
-#: package/contents/ui/FullRepresentation.qml:752
+#: package/contents/ui/FullRepresentation.qml:733
 #, kde-format
 msgid "Computer"
 msgstr "Ordinador"
 
 #: package/contents/ui/ConfigButtons.qml:39
-#: package/contents/ui/FullRepresentation.qml:754
+#: package/contents/ui/FullRepresentation.qml:735
 #, kde-format
 msgid "History"
 msgstr "Historial"
 
 #: package/contents/ui/ConfigButtons.qml:40
-#: package/contents/ui/FullRepresentation.qml:756
+#: package/contents/ui/FullRepresentation.qml:737
 #, kde-format
 msgid "Often Used"
 msgstr "S'utilitzen sovint"
 
 #: package/contents/ui/ConfigButtons.qml:41
-#: package/contents/ui/FullRepresentation.qml:758
+#: package/contents/ui/FullRepresentation.qml:739
 #, kde-format
 msgid "Leave"
 msgstr "Ix"

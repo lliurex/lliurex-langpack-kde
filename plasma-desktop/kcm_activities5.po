@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_activities5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 07:46+0200\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2019-06-27 12:01+0200\n"
 "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -43,7 +43,8 @@ msgid ""
 "Error loading the QML files. Check your installation.\n"
 "Missing %1"
 msgstr ""
-"S'ha produït un error en carregar els fitxers QML. Verifiqueu la instal·lació.\n"
+"S'ha produït un error en carregar els fitxers QML. Verifiqueu la "
+"instal·lació.\n"
 "Falta %1"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
@@ -246,7 +247,8 @@ msgstr "Bloqueja totes les aplicacions que no estiguen en aquesta llista"
 #: ui/SwitchingTabBase.ui:23
 #, kde-format
 msgid "Remember the current virtual desktop for each activity (needs restart)"
-msgstr "Recorda l'escriptori virtual actual per a cada activitat (cal reiniciar)"
+msgstr ""
+"Recorda l'escriptori virtual actual per a cada activitat (cal reiniciar)"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: ui/SwitchingTabBase.ui:33
