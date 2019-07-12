@@ -1,0 +1,245 @@
+# Translation of kcm_sddm.po to Catalan (Valencian)
+# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2015, 2016, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_sddm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-07-03 03:29+0200\n"
+"PO-Revision-Date: 2019-07-04 14:36+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: sddmauthhelper.cpp:166 sddmauthhelper.cpp:186 sddmauthhelper.cpp:193
+#, kde-format
+msgid "Invalid theme package"
+msgstr "El paquet de tema no és vàlid"
+
+#: sddmauthhelper.cpp:171
+#, kde-format
+msgid "Could not open file"
+msgstr "No s'ha pogut obrir el fitxer"
+
+#: sddmauthhelper.cpp:201
+#, kde-format
+msgid "Could not decompress archive"
+msgstr "No s'ha pogut descomprimir l'arxiu"
+
+#: sddmthemeinstaller.cpp:40
+#, kde-format
+msgid "SDDM theme installer"
+msgstr "Instal·lador de temes d'SDDM"
+
+#: sddmthemeinstaller.cpp:47
+#, kde-format
+msgid "Install a theme."
+msgstr "Instal·la un tema."
+
+#: sddmthemeinstaller.cpp:48
+#, kde-format
+msgid "Uninstall a theme."
+msgstr "Desinstal·la un tema."
+
+#: sddmthemeinstaller.cpp:50
+#, kde-format
+msgid "The theme to install, must be an existing archive file."
+msgstr "El tema a instal·lar, cal que siga un fitxer d'arxiu existent."
+
+#: sddmthemeinstaller.cpp:76
+#, kde-format
+msgid "Unable to install theme"
+msgstr "No s'ha pogut desinstal·lar el tema"
+
+#: src/configwidgets/selectimagebutton.cpp:41
+#, kde-format
+msgid "Load from file..."
+msgstr "Carrega des d'un fitxer..."
+
+#: src/configwidgets/selectimagebutton.cpp:42
+#, kde-format
+msgid "Clear Image"
+msgstr "Neteja la imatge"
+
+#: src/configwidgets/selectimagebutton.cpp:75
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Image"
+msgstr "Seleccioneu una imatge"
+
+#: src/cursortheme/dummytheme.cpp:25
+#, kde-format
+msgid "Default"
+msgstr "Per defecte"
+
+#: src/cursortheme/dummytheme.cpp:25
+#, kde-format
+msgid "The default cursor theme in SDDM"
+msgstr "El tema de cursor per defecte en SDDM"
+
+#: src/cursortheme/thememodel.cpp:71
+#, kde-format
+msgid "Name"
+msgstr "Nom"
+
+#: src/cursortheme/thememodel.cpp:74
+#, kde-format
+msgid "Description"
+msgstr "Descripció"
+
+#: src/cursortheme/xcursortheme.cpp:73
+#, kde-format
+msgctxt ""
+"@info The argument is the list of available sizes (in pixel). Example: "
+"'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
+msgid "(Available sizes: %1)"
+msgstr "(Mides disponibles: %1)"
+
+#: src/qml/main.qml:90 src/themesdelegate.cpp:65
+#, kde-format
+msgid "No preview available"
+msgstr "Sense vista prèvia disponible"
+
+#: src/qml/main.qml:115
+#, kde-format
+msgid ", by "
+msgstr ", per "
+
+#: src/sddmkcm.cpp:43
+#, kde-format
+msgid "SDDM KDE Config"
+msgstr "Configuració de SDDM per KDE"
+
+#: src/sddmkcm.cpp:45
+#, kde-format
+msgid "Login screen using the SDDM"
+msgstr "Pantalla d'inici de sessió usant el SDDM"
+
+#: src/sddmkcm.cpp:49 src/sddmkcm.cpp:50
+#, kde-format
+msgid "Author"
+msgstr "Autor"
+
+#: src/sddmkcm.cpp:122
+#, kde-format
+msgid "Theme"
+msgstr "Tema"
+
+#: src/sddmkcm.cpp:127
+#, kde-format
+msgid "Advanced"
+msgstr "Avançat"
+
+#: src/sessionmodel.cpp:87
+#, kde-format
+msgctxt "%1 is the name of a session"
+msgid "%1 (Wayland)"
+msgstr "%1 (Wayland)"
+
+#: src/themeconfig.cpp:191
+#, kde-format
+msgid "Download New SDDM Themes"
+msgstr "Baixa temes nous d'SDDM"
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoLogin)
+#: src/ui/advanceconfig.ui:39
+#, kde-format
+msgid "as user:"
+msgstr "com a usuari:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/ui/advanceconfig.ui:56
+#, kde-format
+msgid "with session:"
+msgstr "amb la sessió:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, reloginAfterQuit)
+#: src/ui/advanceconfig.ui:81
+#, kde-format
+msgid "Log in again immediately after logging off"
+msgstr "Torneu a connectar immediatament després de desconnectar"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/ui/advanceconfig.ui:88
+#, kde-format
+msgid "Minimum user UID:"
+msgstr "UID mínim de l'usuari:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/ui/advanceconfig.ui:108
+#, kde-format
+msgid "Maximum user UID:"
+msgstr "UID màxim de l'usuari:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/ui/advanceconfig.ui:128
+#, kde-format
+msgid "Halt command:"
+msgstr "Ordre de parada:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/ui/advanceconfig.ui:145
+#, kde-format
+msgid "Reboot command:"
+msgstr "Ordre de reinici:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/ui/advanceconfig.ui:162
+#, kde-format
+msgid "Automatically log in:"
+msgstr "Accedeix automàticament:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/ui/advanceconfig.ui:172
+#, kde-format
+msgid "Cursor theme:"
+msgstr "Tema del cursor:"
+
+#. i18n: ectx: property (text), widget (SelectImageButton, selectBackgroundButton)
+#: src/ui/themeconfig.ui:101
+#, kde-format
+msgid "..."
+msgstr "..."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/ui/themeconfig.ui:108
+#, kde-format
+msgid "Background:"
+msgstr "Fons:"
+
+#. i18n: ectx: property (text), widget (QPushButton, removeThemeButton)
+#: src/ui/themeconfig.ui:156
+#, kde-format
+msgid "Remove"
+msgstr "Elimina"
+
+#. i18n: ectx: property (text), widget (QPushButton, installFromFileButton)
+#: src/ui/themeconfig.ui:180
+#, kde-format
+msgid "Install From File..."
+msgstr "Instal·la des d'un fitxer..."
+
+#. i18n: ectx: property (text), widget (QPushButton, getNewButton)
+#: src/ui/themeconfig.ui:191
+#, kde-format
+msgid "Get New Login Screens..."
+msgstr "Obtén pantalles noves d'inici de sessió..."

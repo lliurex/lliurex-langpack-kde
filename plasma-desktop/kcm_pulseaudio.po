@@ -1,0 +1,300 @@
+# Translation of kcm_pulseaudio.po to Catalan (Valencian)
+# Copyright (C) 2015-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2015, 2016, 2018.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_pulseaudio\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"PO-Revision-Date: 2019-05-01 10:09+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Antoni Bella"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "antonibella5@yahoo.com"
+
+#: kcm/module.cpp:39
+#, kde-format
+msgctxt "@title"
+msgid "Configure the Audio Volume"
+msgstr "Configura el volum de l'àudio"
+
+#: kcm/module.cpp:43
+#, kde-format
+msgctxt "@info:credit"
+msgid "Copyright 2015 Harald Sitter"
+msgstr "Copyright 2015 Harald Sitter"
+
+#: kcm/module.cpp:45
+#, kde-format
+msgctxt "@info:credit"
+msgid "Harald Sitter"
+msgstr "Harald Sitter"
+
+#: kcm/module.cpp:46
+#, kde-format
+msgctxt "@info:credit"
+msgid "Author"
+msgstr "Autor"
+
+#: kcm/package/contents/ui/Advanced.qml:49
+#, kde-format
+msgid "Device Profiles"
+msgstr "Perfils de dispositiu"
+
+#: kcm/package/contents/ui/Advanced.qml:50
+#, kde-format
+msgctxt "@label"
+msgid "No Device Profiles Available"
+msgstr "No hi ha disponible cap perfil de dispositiu"
+
+#: kcm/package/contents/ui/Advanced.qml:66
+#, kde-format
+msgid "Advanced Output Configuration"
+msgstr "Configuració avançada de l'eixida"
+
+#: kcm/package/contents/ui/Advanced.qml:79
+#, kde-format
+msgid ""
+"Add virtual output device for simultaneous output on all local sound cards"
+msgstr ""
+"Afig un dispositiu d'eixida virtual per a enviar simultàniament l'eixida a "
+"totes les targetes de so locals"
+
+#: kcm/package/contents/ui/Advanced.qml:90
+#, kde-format
+msgid ""
+"Automatically switch all running streams when a new output becomes available"
+msgstr ""
+"Canvia automàticament tots els fluxos en execució quan hi haja disponible "
+"una nova eixida"
+
+#: kcm/package/contents/ui/Advanced.qml:101
+#, kde-format
+msgid "Requires %1 PulseAudio module"
+msgstr "Requereix el mòdul %1 del PulseAudio"
+
+#: kcm/package/contents/ui/Advanced.qml:107
+#, kde-format
+msgid "Speaker Placement and Testing"
+msgstr "Situació de l'altaveu i proves"
+
+#: kcm/package/contents/ui/Advanced.qml:115
+#, kde-format
+msgctxt "@label"
+msgid "Output:"
+msgstr "Eixida:"
+
+#: kcm/package/contents/ui/Advanced.qml:154
+#, kde-format
+msgid "Front Left"
+msgstr "Frontal esquerra"
+
+#: kcm/package/contents/ui/Advanced.qml:165
+#, kde-format
+msgid "Front Center"
+msgstr "Frontal centre"
+
+#: kcm/package/contents/ui/Advanced.qml:176
+#, kde-format
+msgid "Front Right"
+msgstr "Frontal dreta"
+
+#: kcm/package/contents/ui/Advanced.qml:187
+#, kde-format
+msgid "Side Left"
+msgstr "Banda esquerra"
+
+#: kcm/package/contents/ui/Advanced.qml:213
+#, kde-format
+msgid "Side Right"
+msgstr "Banda dreta"
+
+#: kcm/package/contents/ui/Advanced.qml:223
+#, kde-format
+msgid "Rear Left"
+msgstr "Posterior esquerra"
+
+#: kcm/package/contents/ui/Advanced.qml:233
+#, kde-format
+msgid "Subwoofer"
+msgstr "Altaveu de greus"
+
+#: kcm/package/contents/ui/Advanced.qml:243
+#, kde-format
+msgid "Rear Right"
+msgstr "Posterior dreta"
+
+#: kcm/package/contents/ui/Applications.qml:48
+#, kde-format
+msgid "Playback"
+msgstr "Reproducció"
+
+#: kcm/package/contents/ui/Applications.qml:49
+#, kde-format
+msgctxt "@label"
+msgid "No Applications Playing Audio"
+msgstr "Sense aplicacions de reproducció d'àudio"
+
+#: kcm/package/contents/ui/Applications.qml:87
+#, kde-format
+msgid "Capture"
+msgstr "Captura"
+
+#: kcm/package/contents/ui/Applications.qml:88
+#, kde-format
+msgctxt "@label"
+msgid "No Applications Recording Audio"
+msgstr "Sense aplicacions de gravació d'àudio"
+
+#: kcm/package/contents/ui/CardListItem.qml:51
+#, kde-format
+msgctxt "@label"
+msgid "Profile:"
+msgstr "Perfil:"
+
+#: kcm/package/contents/ui/DefaultDeviceButton.qml:28
+#, kde-format
+msgid "Default"
+msgstr "Predeterminat"
+
+#: kcm/package/contents/ui/DeviceListItem.qml:73
+#, kde-format
+msgid "Port"
+msgstr "Port"
+
+#: kcm/package/contents/ui/DeviceListItem.qml:91
+#, kde-format
+msgctxt "Port is unavailable"
+msgid " (unavailable)"
+msgstr " (no disponible)"
+
+#: kcm/package/contents/ui/DeviceListItem.qml:93
+#, kde-format
+msgctxt "Port is unplugged"
+msgid " (unplugged)"
+msgstr " (desconnectat)"
+
+#: kcm/package/contents/ui/Devices.qml:45
+#, kde-format
+msgid "Outputs"
+msgstr "Eixides"
+
+#: kcm/package/contents/ui/Devices.qml:46
+#, kde-format
+msgctxt "@label"
+msgid "No Output Devices Available"
+msgstr "Sense dispositius d'eixida disponibles"
+
+#: kcm/package/contents/ui/Devices.qml:63
+#, kde-format
+msgid "Inputs"
+msgstr "Entrades"
+
+#: kcm/package/contents/ui/Devices.qml:64
+#, kde-format
+msgctxt "@label"
+msgid "No Input Devices Available"
+msgstr "Sense dispositius d'entrada disponibles"
+
+#: kcm/package/contents/ui/main.qml:34
+#, kde-format
+msgid "This module allows configuring the Pulseaudio sound subsystem."
+msgstr "Aquest mòdul permet configurar el subsistema de so PulseAudio."
+
+#: kcm/package/contents/ui/main.qml:46
+#, kde-format
+msgctxt "@title:tab"
+msgid "Devices"
+msgstr "Dispositius"
+
+#: kcm/package/contents/ui/main.qml:49
+#, kde-format
+msgctxt "@title:tab"
+msgid "Applications"
+msgstr "Aplicacions"
+
+#: kcm/package/contents/ui/main.qml:52
+#, kde-format
+msgctxt "@title:tab"
+msgid "Advanced"
+msgstr "Avançat"
+
+#: kcm/package/contents/ui/MuteButton.qml:28
+#, kde-format
+msgid "Mute audio"
+msgstr "Silencia l'àudio"
+
+#: kcm/package/contents/ui/StreamListItem.qml:57
+#, kde-format
+msgid "Notification Sounds"
+msgstr "Sons de notificació"
+
+#: kcm/package/contents/ui/StreamListItem.qml:59
+#, kde-format
+msgctxt "label of stream items"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: kcm/package/contents/ui/VolumeSlider.qml:88
+#, kde-format
+msgid "100%"
+msgstr "100%"
+
+#: kcm/package/contents/ui/VolumeSlider.qml:104
+#, kde-format
+msgctxt "volume percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: kcm/package/contents/ui/VolumeSlider.qml:110
+#, kde-format
+msgctxt "only used for sizing, should be widest possible string"
+msgid "100%"
+msgstr "100%"
+
+#: qml/microphoneindicator.cpp:113
+#, kde-format
+msgid "Mute"
+msgstr "Silenci"
+
+#: qml/microphoneindicator.cpp:143 qml/microphoneindicator.cpp:151
+#, kde-format
+msgid "Microphone"
+msgstr "Micròfon"
+
+#: qml/microphoneindicator.cpp:146
+#, kde-format
+msgctxt "App is using mic"
+msgid "%1 is using the microphone"
+msgstr "%1 està usant el micròfon"
+
+#: qml/microphoneindicator.cpp:148
+#, kde-format
+msgctxt "list separator"
+msgid ", "
+msgstr ", "
+
+#: qml/microphoneindicator.cpp:148
+#, kde-format
+msgctxt "List of apps is using mic"
+msgid "%1 are using the microphone"
+msgstr "%1 estan usant el micròfon"
