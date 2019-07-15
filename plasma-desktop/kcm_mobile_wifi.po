@@ -1,0 +1,281 @@
+# Translation of kcm_mobile_wifi.po to Catalan (Valencian)
+# Copyright (C) 2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_mobile_wifi\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-07-12 03:18+0200\n"
+"PO-Revision-Date: 2018-12-30 13:54+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: package/contents/ui/ConnectionEditor.qml:31
+#, kde-format
+msgid "Connection Editor"
+msgstr "Editor de connexions"
+
+#: package/contents/ui/ConnectionEditor.qml:39
+#: package/contents/ui/TetheringSetting.qml:115
+#, kde-format
+msgid "SSID"
+msgstr "SSID"
+
+#: package/contents/ui/ConnectionEditor.qml:47
+#: package/contents/ui/NetworkSettings.qml:95
+#, kde-format
+msgid "None"
+msgstr "Cap"
+
+#: package/contents/ui/ConnectionEditor.qml:79
+#: package/contents/ui/NetworkSettings.qml:49
+#, kde-format
+msgid "Save"
+msgstr "Guarda"
+
+#: package/contents/ui/ConnectionEditor.qml:96 package/contents/ui/main.qml:194
+#, kde-format
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Saved networks"
+msgstr "Xarxes guardades"
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Available networks"
+msgstr "Xarxes disponibles"
+
+#: package/contents/ui/main.qml:107
+#, kde-format
+msgid "Disable Wi-Fi"
+msgstr "Inhabilita el wifi"
+
+#: package/contents/ui/main.qml:107
+#, kde-format
+msgid "Enable Wi-Fi"
+msgstr "Habilita el wifi"
+
+#: package/contents/ui/main.qml:115
+#, kde-format
+msgid "Add custom connection"
+msgstr "Afig una connexió personalitzada"
+
+#: package/contents/ui/main.qml:124
+#, kde-format
+msgid "Create Hotspot"
+msgstr "Crea un punt d'accés wifi"
+
+#: package/contents/ui/main.qml:132
+#, kde-format
+msgid "Saved Connections"
+msgstr "Connexions guardades"
+
+#: package/contents/ui/main.qml:183
+#, kde-format
+msgid "Delete connection %1 from device?"
+msgstr "Voleu suprimir la connexió %1 del dispositiu?"
+
+#: package/contents/ui/main.qml:186
+#, kde-format
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: package/contents/ui/NetworkSettings.qml:65
+#, kde-format
+msgid "Connection Name"
+msgstr "Nom de la connexió"
+
+#: package/contents/ui/NetworkSettings.qml:80
+#, kde-format
+msgid "Security"
+msgstr "Seguretat"
+
+#: package/contents/ui/NetworkSettings.qml:86
+#, fuzzy, kde-format
+msgid "Security type:"
+msgstr "Seguretat"
+
+#: package/contents/ui/NetworkSettings.qml:96
+#, kde-format
+msgid "WEP Key"
+msgstr "Clau WEP"
+
+#: package/contents/ui/NetworkSettings.qml:97
+#, kde-format
+msgid "Dynamic WEP"
+msgstr "WEP dinàmica"
+
+#: package/contents/ui/NetworkSettings.qml:98
+#, kde-format
+msgid "WPA/WPA2 Personal"
+msgstr "WPA/WPA2 personal"
+
+#: package/contents/ui/NetworkSettings.qml:99
+#, kde-format
+msgid "WPA/WPA2 Enterprise"
+msgstr "WPA/WPA2 corporativa"
+
+#: package/contents/ui/NetworkSettings.qml:110
+#, fuzzy, kde-format
+msgid "Password:"
+msgstr "Contrasenya..."
+
+#: package/contents/ui/NetworkSettings.qml:117
+#, fuzzy, kde-format
+msgid "Authentication:"
+msgstr "Autenticació"
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "TLS"
+msgstr "TLS"
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "LEAP"
+msgstr "LEAP"
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "FAST"
+msgstr "FAST"
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "Tunneled TLS"
+msgstr "TLS en túnel"
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "Protected EAP"
+msgstr "EAP protegit"
+
+#: package/contents/ui/NetworkSettings.qml:135
+#, kde-format
+msgid "Automatic"
+msgstr "Automàtica"
+
+#: package/contents/ui/NetworkSettings.qml:135
+#, kde-format
+msgid "Manual"
+msgstr "Manual"
+
+#: package/contents/ui/NetworkSettings.qml:156
+#, fuzzy, kde-format
+msgid "IP Address:"
+msgstr "Adreça IP"
+
+#: package/contents/ui/NetworkSettings.qml:167
+#, fuzzy, kde-format
+msgid "Gateway:"
+msgstr "Passarel·la"
+
+#: package/contents/ui/NetworkSettings.qml:178
+#, fuzzy, kde-format
+msgid "Network prefix length:"
+msgstr "Longitud del prefix de xarxa"
+
+#: package/contents/ui/NetworkSettings.qml:187
+#, kde-format
+msgid "DNS:"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:229
+#, kde-format
+msgid "(Unchanged)"
+msgstr "(Sense canvis)"
+
+#: package/contents/ui/PasswordField.qml:28
+#, kde-format
+msgid "Password..."
+msgstr "Contrasenya..."
+
+#: package/contents/ui/TetheringSetting.qml:41
+#, kde-format
+msgid "Wi-fi hotspot"
+msgstr "Punt d'accés wifi"
+
+#: package/contents/ui/TetheringSetting.qml:103
+#, kde-format
+msgid "Configure"
+msgstr "Configura"
+
+#: package/contents/ui/TetheringSetting.qml:122
+#, kde-format
+msgid "My Hotspot"
+msgstr "El meu punt d'accés wifi"
+
+#: package/contents/ui/TetheringSetting.qml:132
+#, kde-format
+msgid "Hide this network"
+msgstr "Oculta aquesta xarxa"
+
+#: package/contents/ui/TetheringSetting.qml:142
+#, kde-format
+msgid "Protect hotspot with WPA2/PSK password"
+msgstr "Protegeix el punt d'accés wifi amb una contrasenya WPA2/PSK"
+
+#: package/contents/ui/TetheringSetting.qml:152
+#, kde-format
+msgid "Save Hotspot configuration"
+msgstr "Guarda la configuració del punt d'accés wifi"
+
+#: package/contents/ui/TetheringSetting.qml:180
+#: package/contents/ui/TetheringSetting.qml:217
+#, kde-format
+msgid "Hotspot is inactive"
+msgstr "El punt d'accés wifi està inactiu"
+
+#: package/contents/ui/TetheringSetting.qml:187
+#, kde-format
+msgid "Not possible to start Access point."
+msgstr "No és possible iniciar el punt d'accés."
+
+#: package/contents/ui/TetheringSetting.qml:196
+#: package/contents/ui/TetheringSetting.qml:210
+#, kde-format
+msgid "Access point running: %1"
+msgstr "Punt d'accés en execució: %1"
+
+#: package/contents/ui/TetheringSetting.qml:203
+#, kde-format
+msgid "No suitable configuration found."
+msgstr "No s'ha trobat cap configuració adequada."
+
+#: package/contents/ui/TetheringSetting.qml:251
+#, kde-format
+msgid "Access point available: %1"
+msgstr "Punt d'accés disponible: %1"
+
+#: wifisettings.cpp:45
+#, kde-format
+msgid "Configure Wi-Fi networks"
+msgstr "Configura les xarxes Wi-Fi"
+
+#: wifisettings.cpp:47
+#, kde-format
+msgid "Martin Kacej"
+msgstr "Martin Kacej"
