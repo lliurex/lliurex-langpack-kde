@@ -2,6 +2,7 @@
 # Copyright (C) 2012-2018 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
 #
 # Josep Ma. Ferrer <txemaq@gmail.com>, 2012, 2014, 2015, 2016, 2017, 2018.
 # Antoni Bella Pérez <antonibella5@yahoo.com>, 2015, 2016.
@@ -92,17 +93,17 @@ msgstr "Temps d'espera de l'estalvi de pantalla"
 msgid "Sets the minutes after which the screen is locked."
 msgstr "Estableix els minuts després dels quals es bloqueja la pantalla."
 
-#: ksldapp.cpp:177
+#: ksldapp.cpp:175
 #, kde-format
 msgid "Lock Session"
 msgstr "Bloqueja la sessió"
 
-#: ksldapp.cpp:392
+#: ksldapp.cpp:390
 #, kde-format
 msgid "Screen locked"
 msgstr "Pantalla bloquejada"
 
-#: ksldapp.cpp:549
+#: ksldapp.cpp:547
 #, kde-format
 msgid "Screen unlocked"
 msgstr "Pantalla desbloquejada"

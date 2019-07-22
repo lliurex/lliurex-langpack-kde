@@ -1,0 +1,118 @@
+# Translation of milou._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2014 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: milou desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"PO-Revision-Date: 2014-06-22 14:11+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: lib/miloupreviewplugin.desktop:4
+msgctxt "Comment"
+msgid "Milou Preview Plugin"
+msgstr "Connector de vista prèvia del Milou"
+
+#: lib/previews/milouapplicationpreview.desktop:5
+msgctxt "Name"
+msgid "Milou Application Preview Plugin"
+msgstr "Connector de vista prèvia d'aplicacions del Milou"
+
+#: lib/previews/milouaudiopreview.desktop:5
+msgctxt "Name"
+msgid "Milou Audio Preview Plugin"
+msgstr "Connector de vista prèvia d'àudio del Milou"
+
+#: lib/previews/milouaudiopreview.desktop:45
+msgctxt "Comment"
+msgid "Preview generated for audio files"
+msgstr "Vista prèvia generada pels fitxers d'àudio"
+
+#: lib/previews/miloubookmarkpreview.desktop:5
+msgctxt "Name"
+msgid "Milou Bookmark Preview Plugin"
+msgstr "Connector de vista prèvia d'adreces d'interés del Milou"
+
+#: lib/previews/miloubookmarkpreview.desktop:45
+msgctxt "Comment"
+msgid "Preview generated for bookmarks"
+msgstr "Vista prèvia generada per les adreces d'interés"
+
+#: lib/previews/milouemailpreview.desktop:5
+msgctxt "Name"
+msgid "Milou Email Preview Plugin"
+msgstr "Connector de vista prèvia de correus del Milou"
+
+#: lib/previews/milouemailpreview.desktop:45
+msgctxt "Comment"
+msgid "Preview generated for emails"
+msgstr "Vista prèvia generada pels correus electrònics"
+
+#: lib/previews/miloufilepreview.desktop:5
+msgctxt "Name"
+msgid "Milou File Preview Plugin"
+msgstr "Connector de vista prèvia de fitxers del Milou"
+
+#: lib/previews/milouimagepreview.desktop:5
+msgctxt "Name"
+msgid "Milou Image Preview Plugin"
+msgstr "Connector de vista prèvia de fitxers del Milou"
+
+#: lib/previews/milouimagepreview.desktop:45
+msgctxt "Comment"
+msgid "Preview generated for image files"
+msgstr "Vista prèvia generada pels fitxers d'imatge"
+
+#: lib/previews/milouokularpreview.desktop:5
+msgctxt "Name"
+msgid "Milou Okular Preview Plugin"
+msgstr "Connector de vista prèvia per l'Okular del Milou"
+
+#: lib/previews/milouokularpreview.desktop:45
+msgctxt "Comment"
+msgid "Preview generated for documents via Okular"
+msgstr "Vista prèvia generada per documents via l'Okular"
+
+#: lib/previews/miloutextpreview.desktop:5
+msgctxt "Name"
+msgid "Milou Text Preview Plugin"
+msgstr "Connector de vista prèvia de texts del Milou"
+
+#: lib/previews/miloutextpreview.desktop:45
+msgctxt "Comment"
+msgid "Preview generated for text files"
+msgstr "Vista prèvia generada pels fitxers de text"
+
+#: lib/previews/videos/milouvideopreview.desktop:5
+msgctxt "Name"
+msgid "Milou Video Preview Plugin"
+msgstr "Connector de vista prèvia de vídeos del Milou"
+
+#: lib/previews/videos/milouvideopreview.desktop:45
+msgctxt "Comment"
+msgid "Preview generated for videos"
+msgstr "Vista prèvia generada pels vídeos"
+
+#: plasmoid/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Search"
+msgstr "Cerca"
+
+#: plasmoid/package/metadata.desktop:45
+msgctxt "Comment"
+msgid "Search and Launch"
+msgstr "Cerca i llança"
