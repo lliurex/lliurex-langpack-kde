@@ -1,0 +1,249 @@
+# Translation of plasma_applet_org.kde.plasma.battery.po to Catalan (Valencian)
+# Copyright (C) 2007-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018.
+# Orestes Mas Casals <orestes@tsc.upc.edu>, 2008.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.battery\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-06-22 03:22+0200\n"
+"PO-Revision-Date: 2019-07-16 08:43+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgid "General"
+msgstr "General"
+
+#: package/contents/ui/BatteryItem.qml:53
+#, kde-format
+msgid ""
+"The capacity of this battery is %1%. This means it is broken and needs a "
+"replacement. Please contact your hardware vendor for more details."
+msgstr ""
+"La capacitat d'aquesta bateria és del %1%. Això vol dir que la bateria està "
+"trencada i s'ha de canviar. Contacteu amb el venedor del vostre maquinari "
+"per a més detalls."
+
+#: package/contents/ui/BatteryItem.qml:186
+#, kde-format
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/batterymonitor.qml:56
+#, kde-format
+msgid "No Batteries Available"
+msgstr "No hi ha cap bateria disponible"
+
+#: package/contents/ui/batterymonitor.qml:60
+#, kde-format
+msgid "Battery and Brightness"
+msgstr "Bateria i brillantor"
+
+#: package/contents/ui/batterymonitor.qml:62 package/contents/ui/logic.js:26
+#, kde-format
+msgid "Fully Charged"
+msgstr "Totalment carregada"
+
+#: package/contents/ui/batterymonitor.qml:67
+#, kde-format
+msgid "%1% Charging"
+msgstr "S'està carregant %1%"
+
+#: package/contents/ui/batterymonitor.qml:69
+#, kde-format
+msgid "%1% Plugged in, not Charging"
+msgstr "Connectat %1%, no s'està carregant"
+
+#: package/contents/ui/batterymonitor.qml:71
+#, kde-format
+msgid "%1% Plugged in"
+msgstr "Connectat %1%"
+
+#: package/contents/ui/batterymonitor.qml:75
+#, kde-format
+msgctxt "%1 is remaining time, %2 is percentage"
+msgid "%1 Remaining (%2%)"
+msgstr "Resta %1 (%2%)"
+
+#: package/contents/ui/batterymonitor.qml:79
+#, kde-format
+msgid "%1% Battery Remaining"
+msgstr "Resta un %1% de la bateria"
+
+#: package/contents/ui/batterymonitor.qml:83
+#, kde-format
+msgid "Power management is disabled"
+msgstr "S'ha desactivat la gestió d'energia"
+
+#: package/contents/ui/batterymonitor.qml:143
+#, kde-format
+msgid "&Show Energy Information..."
+msgstr "&Mostra la informació de l'energia"
+
+#: package/contents/ui/batterymonitor.qml:146
+#, kde-format
+msgid "&Configure Power Saving..."
+msgstr "&Configura l'estalvi d'energia..."
+
+#: package/contents/ui/batterymonitor.qml:235
+#, kde-format
+msgid "The battery applet has enabled system-wide inhibition"
+msgstr "La miniaplicació de bateria ha activat la inhibició global del sistema"
+
+#: package/contents/ui/CompactRepresentation.qml:73
+#, kde-format
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/CompactRepresentation.qml:73
+#, kde-format
+msgctxt "short symbol to signal there is no battery curently available"
+msgid "-"
+msgstr "-"
+
+#: package/contents/ui/ConfigGeneral.qml:38
+#, kde-format
+msgid "Show percentage"
+msgstr "Mostra el percentatge"
+
+#: package/contents/ui/logic.js:25
+#, kde-format
+msgid "Discharging"
+msgstr "S'està descarregant"
+
+#: package/contents/ui/logic.js:27
+#, kde-format
+msgid "Charging"
+msgstr "S'està carregant"
+
+#: package/contents/ui/logic.js:29
+#, kde-format
+msgid "Not Charging"
+msgstr "No s'està carregant"
+
+#: package/contents/ui/logic.js:32
+#, kde-format
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "No hi és"
+
+#: package/contents/ui/logic.js:40
+#, kde-format
+msgid "Time To Full:"
+msgstr "Temps per a omplir:"
+
+#: package/contents/ui/logic.js:40
+#, kde-format
+msgid "Time To Empty:"
+msgstr "Temps per a buidar:"
+
+#: package/contents/ui/logic.js:45
+#, kde-format
+msgid "Capacity:"
+msgstr "Capacitat:"
+
+#: package/contents/ui/logic.js:46
+#, kde-format
+msgctxt "Placeholder is battery capacity"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/logic.js:52
+#, kde-format
+msgid "Vendor:"
+msgstr "Fabricant:"
+
+#: package/contents/ui/logic.js:57
+#, kde-format
+msgid "Model:"
+msgstr "Model:"
+
+#: package/contents/ui/PopupDialog.qml:62
+#, kde-format
+msgctxt "Used for measurement"
+msgid "100%"
+msgstr "100%"
+
+#: package/contents/ui/PopupDialog.qml:79
+#, kde-format
+msgid "Display Brightness"
+msgstr "Brillantor de la pantalla"
+
+#: package/contents/ui/PopupDialog.qml:98
+#, kde-format
+msgid "Keyboard Brightness"
+msgstr "Brillantor del teclat"
+
+#: package/contents/ui/PowerManagementItem.qml:46
+#, kde-format
+msgid ""
+"Disabling power management will prevent your screen and computer from "
+"turning off automatically.\n"
+"\n"
+"Most applications will automatically suppress power management when they "
+"don't want to have you interrupted."
+msgstr ""
+"La desactivació de la gestió d'energia evitarà que la pantalla i l'ordinador "
+"s'apaguen automàticament.\n"
+"\n"
+"La majoria de les aplicacions impediran automàticament la gestió d'energia "
+"quan no vulguen que se us interrompa."
+
+#: package/contents/ui/PowerManagementItem.qml:71
+#, kde-format
+msgid "Enable Power Management"
+msgstr "Activa la gestió d'energia"
+
+#: package/contents/ui/PowerManagementItem.qml:79
+#, kde-format
+msgid "Configure Power Saving..."
+msgstr "Configura l'estalvi d'energia..."
+
+#: package/contents/ui/PowerManagementItem.qml:96
+#, kde-format
+msgid ""
+"Your notebook is configured not to suspend when closing the lid while an "
+"external monitor is connected."
+msgstr ""
+"Aquest portàtil està configurat per a no suspendre's en tancar la tapa quan "
+"hi haja un monitor extern connectat."
+
+#: package/contents/ui/PowerManagementItem.qml:106
+#, kde-format
+msgctxt "Some Application and n others are currently suppressing PM"
+msgid "%2 and %1 other application are currently suppressing power management."
+msgid_plural ""
+"%2 and %1 other applications are currently suppressing power management."
+msgstr[0] ""
+"Actualment el %2 i %1 altra aplicació estan impedint la gestió d'energia."
+msgstr[1] ""
+"Actualment el %2 i %1 altres aplicacions estan suprimint la gestió d'energia."
+
+#: package/contents/ui/PowerManagementItem.qml:112
+#, kde-format
+msgctxt "Some Application is suppressing PM"
+msgid "%1 is currently suppressing power management."
+msgstr "Actualment %1 està impedint la gestió d'energia."
+
+#: package/contents/ui/PowerManagementItem.qml:115
+#, kde-format
+msgctxt "Some Application is suppressing PM: Reason provided by the app"
+msgid "%1 is currently suppressing power management: %2"
+msgstr "Actualment %1 està impedint la gestió d'energia: %2"

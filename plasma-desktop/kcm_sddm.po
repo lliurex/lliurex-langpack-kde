@@ -2,15 +2,17 @@
 # Copyright (C) 2014-2019 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
 #
 # Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2015, 2016, 2017, 2018, 2019.
+# Alfredo vicente <alviboi@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: kcm_sddm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-03 03:29+0200\n"
-"PO-Revision-Date: 2019-07-04 14:36+0200\n"
-"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"POT-Creation-Date: 2019-06-17 03:19+0200\n"
+"PO-Revision-Date: 2019-07-22 11:06+0200\n"
+"Last-Translator: Alfredo vicente <alviboi@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Lokalize 19.04.2\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -30,17 +32,17 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "txemaq@gmail.com"
 
-#: sddmauthhelper.cpp:166 sddmauthhelper.cpp:186 sddmauthhelper.cpp:193
+#: sddmauthhelper.cpp:309 sddmauthhelper.cpp:329 sddmauthhelper.cpp:336
 #, kde-format
 msgid "Invalid theme package"
 msgstr "El paquet de tema no és vàlid"
 
-#: sddmauthhelper.cpp:171
+#: sddmauthhelper.cpp:314
 #, kde-format
 msgid "Could not open file"
 msgstr "No s'ha pogut obrir el fitxer"
 
-#: sddmauthhelper.cpp:201
+#: sddmauthhelper.cpp:344
 #, kde-format
 msgid "Could not decompress archive"
 msgstr "No s'ha pogut descomprimir l'arxiu"
@@ -85,34 +87,6 @@ msgstr "Neteja la imatge"
 msgctxt "@title:window"
 msgid "Select Image"
 msgstr "Seleccioneu una imatge"
-
-#: src/cursortheme/dummytheme.cpp:25
-#, kde-format
-msgid "Default"
-msgstr "Per defecte"
-
-#: src/cursortheme/dummytheme.cpp:25
-#, kde-format
-msgid "The default cursor theme in SDDM"
-msgstr "El tema de cursor per defecte en SDDM"
-
-#: src/cursortheme/thememodel.cpp:71
-#, kde-format
-msgid "Name"
-msgstr "Nom"
-
-#: src/cursortheme/thememodel.cpp:74
-#, kde-format
-msgid "Description"
-msgstr "Descripció"
-
-#: src/cursortheme/xcursortheme.cpp:73
-#, kde-format
-msgctxt ""
-"@info The argument is the list of available sizes (in pixel). Example: "
-"'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
-msgid "(Available sizes: %1)"
-msgstr "(Mides disponibles: %1)"
 
 #: src/qml/main.qml:90 src/themesdelegate.cpp:65
 #, kde-format
@@ -160,59 +134,82 @@ msgstr "%1 (Wayland)"
 msgid "Download New SDDM Themes"
 msgstr "Baixa temes nous d'SDDM"
 
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/ui/advanceconfig.ui:25
+#, kde-format
+msgid "Automatically log in:"
+msgstr "Accedeix automàticament:"
+
 #. i18n: ectx: property (text), widget (QCheckBox, autoLogin)
-#: src/ui/advanceconfig.ui:39
+#: src/ui/advanceconfig.ui:34
 #, kde-format
 msgid "as user:"
 msgstr "com a usuari:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
-#: src/ui/advanceconfig.ui:56
+#: src/ui/advanceconfig.ui:51
 #, kde-format
 msgid "with session:"
 msgstr "amb la sessió:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, reloginAfterQuit)
-#: src/ui/advanceconfig.ui:81
+#: src/ui/advanceconfig.ui:76
 #, kde-format
 msgid "Log in again immediately after logging off"
 msgstr "Torneu a connectar immediatament després de desconnectar"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
-#: src/ui/advanceconfig.ui:88
+#: src/ui/advanceconfig.ui:96
 #, kde-format
 msgid "Minimum user UID:"
 msgstr "UID mínim de l'usuari:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
-#: src/ui/advanceconfig.ui:108
+#: src/ui/advanceconfig.ui:116
 #, kde-format
 msgid "Maximum user UID:"
 msgstr "UID màxim de l'usuari:"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: src/ui/advanceconfig.ui:128
+#: src/ui/advanceconfig.ui:149
 #, kde-format
 msgid "Halt command:"
 msgstr "Ordre de parada:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
-#: src/ui/advanceconfig.ui:145
+#: src/ui/advanceconfig.ui:166
 #, kde-format
 msgid "Reboot command:"
 msgstr "Ordre de reinici:"
 
-#. i18n: ectx: property (text), widget (QLabel, label_3)
-#: src/ui/advanceconfig.ui:162
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: src/ui/advanceconfig.ui:196
 #, kde-format
-msgid "Automatically log in:"
-msgstr "Accedeix automàticament:"
+msgid "Settings synchronization:"
+msgstr "Sincronització de paràmetres:"
 
-#. i18n: ectx: property (text), widget (QLabel, label_7)
-#: src/ui/advanceconfig.ui:172
+#. i18n: ectx: property (text), widget (QPushButton, syncSettings)
+#: src/ui/advanceconfig.ui:205
 #, kde-format
-msgid "Cursor theme:"
-msgstr "Tema del cursor:"
+msgid "Sync"
+msgstr "Sincronització"
+
+#. i18n: ectx: property (text), widget (QPushButton, resetSettings)
+#: src/ui/advanceconfig.ui:215
+#, kde-format
+msgid "Reset"
+msgstr "Reinicialitza"
+
+#. i18n: ectx: property (text), widget (QLabel, syncExplanation)
+#: src/ui/advanceconfig.ui:239
+#, kde-format
+msgid ""
+"Settings synchronization allows you to transfer your theme customization "
+"(color scheme, font, font rendering, icon and Plasma theme) to SDDM."
+msgstr ""
+"La sincronització dels paràmetres us permet transferir la vostra"
+" personalització del tema (esquema de colors, tipus de lletra, renderització"
+" del tipus de lletra, icones i tema de Plasma) a SDDM."
 
 #. i18n: ectx: property (text), widget (SelectImageButton, selectBackgroundButton)
 #: src/ui/themeconfig.ui:101
@@ -242,4 +239,4 @@ msgstr "Instal·la des d'un fitxer..."
 #: src/ui/themeconfig.ui:191
 #, kde-format
 msgid "Get New Login Screens..."
-msgstr "Obtén pantalles noves d'inici de sessió..."
+msgstr "Obtín pantalles noves d'inici de sessió..."
