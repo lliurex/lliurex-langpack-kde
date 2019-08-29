@@ -489,8 +489,8 @@ msgstr "Dimoni Bluetooth"
 msgid "(c) 2010, UFO Coders"
 msgstr "(c) 2010, UFO Coders"
 
-#: kded/bluedevildaemon.cpp:94 kded/bluedevildaemon.cpp:97
-#: sendfile/main.cpp:45 wizard/main.cpp:47
+#: kded/bluedevildaemon.cpp:94 kded/bluedevildaemon.cpp:97 sendfile/main.cpp:45
+#: wizard/main.cpp:47
 #, kde-format
 msgid "Previous Maintainer"
 msgstr "Mantenidor anterior"

@@ -1,0 +1,97 @@
+# Translation of plymouth-kcm._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2016-2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: plymouth-kcm desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-24 01:27+0000\n"
+"PO-Revision-Date: 2017-01-06 14:08+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: src/kcmplymouth_actions.actions:2
+msgctxt "Name"
+msgid "Plymouth Control Module"
+msgstr "Mòdul de control del Plymouth"
+
+#: src/kcmplymouth_actions.actions:42
+msgctxt "Name"
+msgid "Save the Plymouth Theme"
+msgstr "Guarda el tema del Plymouth"
+
+#: src/kcmplymouth_actions.actions:78
+msgctxt "Description"
+msgid "System policies prevent you from applying the Plymouth theme."
+msgstr ""
+"Les polítiques del sistema impedeixen que apliqueu el tema del Plymouth."
+
+#: src/kcmplymouth_actions.actions:117
+msgctxt "Name"
+msgid "Install a new Plymouth Theme"
+msgstr "Instal·la un tema nou del Plymouth"
+
+#: src/kcmplymouth_actions.actions:153
+msgctxt "Description"
+msgid "System policies prevent you from installing a Plymouth theme."
+msgstr ""
+"Les polítiques del sistema impedeixen que instal·leu un tema del Plymouth."
+
+#: src/kcmplymouth_actions.actions:192
+msgctxt "Name"
+msgid "Uninstall a new Plymouth Theme"
+msgstr "Desinstal·la un tema nou del Plymouth"
+
+#: src/kcmplymouth_actions.actions:228
+msgctxt "Description"
+msgid "System policies prevent you from uninstalling a Plymouth theme."
+msgstr ""
+"Les polítiques del sistema impedeixen que desinstal·leu un tema del Plymouth."
+
+#: src/kcm_plymouth.desktop:14
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plymouth Splash Screen"
+msgctxt "Name"
+msgid "Boot Splash Screen"
+msgstr "Pantalla de presentació del Plymouth"
+
+#: src/kcm_plymouth.desktop:38
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plymouth splash screen"
+msgctxt "Comment"
+msgid "Choose Plymouth boot splash screen"
+msgstr "Pantalla de presentació del Plymouth"
+
+#: src/kcm_plymouth.desktop:62
+#, fuzzy
+#| msgctxt "X-KDE-Keywords"
+#| msgid "plymouth,splash,splash screen"
+msgctxt "X-KDE-Keywords"
+msgid "plymouth,splash,splash screen,boot splash"
+msgstr "plymouth,splash,pantalla de presentació"
+
+#: src/package/metadata.desktop:2
+msgctxt "Name"
+msgid "System Splash"
+msgstr "Pantalla de presentació del sistema"
+
+#: src/package/metadata.desktop:39
+msgctxt "Comment"
+msgid "Plymouth splash screen"
+msgstr "Pantalla de presentació del Plymouth"
+
+#~ msgctxt "Name"
+#~ msgid "Boot Splash"
+#~ msgstr "Pantalla de presentació d'inici"

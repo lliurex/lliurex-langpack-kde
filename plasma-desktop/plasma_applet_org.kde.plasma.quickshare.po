@@ -1,0 +1,191 @@
+# Translation of plasma_applet_org.kde.plasma.quickshare.po to Catalan (Valencian)
+# Copyright (C) 2008-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2 or later.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2008, 2010, 2015, 2018.
+# Joan Maspons <joanmaspons@gmail.com>, 2009.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.quickshare\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"PO-Revision-Date: 2018-04-20 23:12+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: contents/config/config.qml:27
+#, kde-format
+msgctxt "@title"
+msgid "General"
+msgstr "General"
+
+#: contents/ui/main.qml:224
+#, kde-format
+msgctxt "@action"
+msgid "Paste"
+msgstr "Enganxa"
+
+#: contents/ui/main.qml:252 contents/ui/main.qml:293
+#, kde-format
+msgid "Share"
+msgstr "Comparteix"
+
+#: contents/ui/main.qml:253 contents/ui/main.qml:294
+#, kde-format
+msgid "Drop text or an image onto me to upload it to an online service."
+msgstr "Deixeu text o una imatge sobre meu per pujar-los a un servei en línia."
+
+#: contents/ui/main.qml:294
+#, kde-format
+msgid "Upload %1 to an online service"
+msgstr "Puja %1 a un servei en línia"
+
+#: contents/ui/main.qml:309
+#, kde-format
+msgid "Sending..."
+msgstr "S'està enviant..."
+
+#: contents/ui/main.qml:310
+#, kde-format
+msgid "Please wait"
+msgstr "Per favor, espereu"
+
+#: contents/ui/main.qml:318
+#, kde-format
+msgid "Successfully uploaded"
+msgstr "S'ha pujat correctament"
+
+#: contents/ui/main.qml:319
+#, kde-format
+msgid "<a href='%1'>%1</a>"
+msgstr "<a href='%1'>%1</a>"
+
+#: contents/ui/main.qml:327
+#, kde-format
+msgid "Error during upload."
+msgstr "Hi ha hagut un error durant la pujada."
+
+#: contents/ui/main.qml:328
+#, kde-format
+msgid "Please, try again."
+msgstr "Torneu-ho a provar."
+
+#: contents/ui/settingsGeneral.qml:34
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "History size:"
+msgstr "Mida de l'historial:"
+
+#: contents/ui/settingsGeneral.qml:44
+#, kde-format
+msgctxt "@option:check"
+msgid "Copy automatically:"
+msgstr "Copia automàticament:"
+
+#: contents/ui/ShareDialog.qml:42
+#, kde-format
+msgid "Shares for '%1'"
+msgstr "Comparticions per «%1»"
+
+#: contents/ui/ShowUrlDialog.qml:54
+#, kde-format
+msgid "The URL was just shared"
+msgstr "S'ha compartit l'URL"
+
+#: contents/ui/ShowUrlDialog.qml:60
+#, kde-format
+msgctxt "@option:check"
+msgid "Don't show this dialog, copy automatically."
+msgstr "No mostres aquest diàleg, copia automàticament."
+
+#: contents/ui/ShowUrlDialog.qml:68
+#, kde-format
+msgctxt "@action:button"
+msgid "Close"
+msgstr "Tanca"
+
+#~ msgid "Text Service:"
+#~ msgstr "Servei per a text:"
+
+#~ msgid "Image Service:"
+#~ msgstr "Servei per a imatges:"
+
+#~ msgctxt "The status of the applet has not been set - i.e. it is unset."
+#~ msgid "Unset"
+#~ msgstr "Desassigna"
+
+#~ msgctxt ""
+#~ "Notification when the pastebin applet has copied the URL to the clipboard"
+#~ msgid "The URL for your paste has been copied to the clipboard"
+#~ msgstr "L'URL per a enganxar s'ha copiat al porta-retalls"
+
+#~ msgid "Open browser"
+#~ msgstr "Obre el navegador"
+
+#~ msgid "Pastebin Config Dialog"
+#~ msgstr "Diàleg de configuració del Pastebin"
+
+#~ msgid "Pastebin server:"
+#~ msgstr "Servidor del Pastebin:"
+
+#~ msgid "&Get New Providers"
+#~ msgstr "Aconse&gueix proveïdors nous"
+
+#~ msgid "Drop!"
+#~ msgstr "Deixeu anar!"
+
+#~ msgid "Error: Try Again"
+#~ msgstr "Hi ha hagut un error: torneu-ho a provar"
+
+#~ msgid "Pastebin.com"
+#~ msgstr "Pastebin.com"
+
+#~ msgid "Imagebin.ca"
+#~ msgstr "Imagebin.ca"
+
+#~ msgid "Imageshack.us"
+#~ msgstr "Imageshack.us"
+
+#~ msgid "Simplest-Image-Hosting.net"
+#~ msgstr "Simplest-Image-Hosting.net"
+
+#~ msgid "Imgur"
+#~ msgstr "Imgur"
+
+#~ msgid "Make Imagebin images:"
+#~ msgstr "Fes imatges Imagebin:"
+
+#~ msgid "Public"
+#~ msgstr "Públic"
+
+#~ msgid "Private"
+#~ msgstr "Privat"
+
+#~ msgid "Pastebin Server Config Dialog"
+#~ msgstr "Diàleg de configuració del servidor del Pastebin"
+
+#~ msgid "Server address:"
+#~ msgstr "Adreça del servidor:"
+
+#~ msgid "Pastebin.ca:"
+#~ msgstr "Pastebin.ca:"
+
+#~ msgid "Pastebin.com:"
+#~ msgstr "Pastebin.com:"
+
+#~ msgid "Imagebin.ca:"
+#~ msgstr "Imagebin.ca:"
+
+#~ msgid "ImageShack.us:"
+#~ msgstr "ImageShack.us:"
+
+#~ msgid "Drag text/image here to post to server"
+#~ msgstr "Arrossegueu aquí el text/imatge a enviar al servidor"
