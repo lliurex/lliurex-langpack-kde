@@ -1,0 +1,5357 @@
+# Translation of marble.po to Catalan (Valencian)
+# Copyright (C) 2007-2018 This_file_is_part_of_KDE
+#
+# Orestes Mas Casals <orestes@tsc.upc.edu>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017.
+# Joan Maspons <joanmaspons@gmail.com>, 2011.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2012, 2013, 2014, 2015, 2018.
+# empar <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: marble\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:03+0200\n"
+"PO-Revision-Date: 2019-11-07 10:05+0100\n"
+"Last-Translator: empar <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Orestes Mas Casals,Joan Maspons Ventura"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "orestes@tsc.upc.edu,joanmaspons@gmail.com"
+
+#: kdemain.cpp:96
+#, kde-format
+msgid "Marble Virtual Globe"
+msgstr "El globus terraqüi virtual Marble"
+
+#: kdemain.cpp:98
+#, kde-format
+msgid "A World Atlas."
+msgstr "Un atles del món."
+
+#: kdemain.cpp:100
+#, kde-format
+msgid "(c) 2007-%1"
+msgstr "(c) 2007-%1"
+
+#: kdemain.cpp:105 kdemain.cpp:291
+#, kde-format
+msgid "Torsten Rahn"
+msgstr "Torsten Rahn"
+
+#: kdemain.cpp:106
+#, kde-format
+msgid "Developer and Original Author"
+msgstr "Desenvolupador i autor original"
+
+#: kdemain.cpp:108
+#, kde-format
+msgid "Bernhard Beschow"
+msgstr "Bernhard Beschow"
+
+#: kdemain.cpp:109
+#, kde-format
+msgid "WMS Support, Mobile, Performance"
+msgstr "Implementació WMS, mòbil, rendiment"
+
+#: kdemain.cpp:111
+#, kde-format
+msgid "Thibaut Gridel"
+msgstr "Thibaut Gridel"
+
+#: kdemain.cpp:112
+#, kde-format
+msgid "Geodata"
+msgstr "Geodata"
+
+#: kdemain.cpp:114
+#, kde-format
+msgid "Jens-Michael Hoffmann"
+msgstr "Jens-Michael Hoffmann"
+
+#: kdemain.cpp:115
+#, kde-format
+msgid "OpenStreetMap Integration, OSM Namefinder, Download Management"
+msgstr "Integració d'OpenStreetMap, cercador de noms OSM, gestor de baixades"
+
+#: kdemain.cpp:117
+#, kde-format
+msgid "Florian E&szlig;er"
+msgstr "Florian E&szlig;er"
+
+#: kdemain.cpp:118
+#, kde-format
+msgid "Elevation Profile"
+msgstr "Perfil de desnivell"
+
+#: kdemain.cpp:120
+#, kde-format
+msgid "Wes Hardaker"
+msgstr "Wes Hardaker"
+
+#: kdemain.cpp:121
+#, kde-format
+msgid "APRS Plugin"
+msgstr "Connector d'APRS"
+
+#: kdemain.cpp:123 kdemain.cpp:207
+#, kde-format
+msgid "Bastian Holst"
+msgstr "Bastian Holst"
+
+#: kdemain.cpp:124
+#, kde-format
+msgid "Online Services support"
+msgstr "Implementació dels serveis en línia"
+
+#: kdemain.cpp:126 kdemain.cpp:177
+#, kde-format
+msgid "Guillaume Martres"
+msgstr "Guillaume Martres"
+
+#: kdemain.cpp:127
+#, kde-format
+msgid "Satellites"
+msgstr "Satèl·lits"
+
+#: kdemain.cpp:129 kdemain.cpp:173
+#, kde-format
+msgid "Rene Kuettner"
+msgstr "Rene Kuettner"
+
+#: kdemain.cpp:130
+#, kde-format
+msgid "Satellites, Eclipses"
+msgstr "Satèl·lits, eclipsis"
+
+#: kdemain.cpp:132
+#, kde-format
+msgid "Friedrich W. H. Kossebau"
+msgstr "Friedrich W. H. Kossebau"
+
+#: kdemain.cpp:133
+#, kde-format
+msgid "Plasma Integration, Bugfixes"
+msgstr "Integració amb Plasma, correcció d'errors"
+
+#: kdemain.cpp:135
+#, kde-format
+msgid "Dennis Nienhüser"
+msgstr "Dennis Nienhüser"
+
+#: kdemain.cpp:136
+#, kde-format
+msgid "Routing, Navigation, Mobile"
+msgstr "Itineraris, Navegació, Mòbil"
+
+#: kdemain.cpp:138
+#, kde-format
+msgid "Niko Sams"
+msgstr "Niko Sams"
+
+#: kdemain.cpp:139
+#, kde-format
+msgid "Routing, Elevation Profile"
+msgstr "Itineraris, Perfil de desnivell"
+
+#: kdemain.cpp:141 kdemain.cpp:211
+#, kde-format
+msgid "Patrick Spendrin"
+msgstr "Patrick Spendrin"
+
+#: kdemain.cpp:142
+#, kde-format
+msgid "Core Developer: KML and Windows support"
+msgstr "Desenvolupador principal: Implementació de KML i Windows"
+
+#: kdemain.cpp:144
+#, kde-format
+msgid "Eckhart Wörner"
+msgstr "Eckhart Wörner"
+
+#: kdemain.cpp:145
+#, kde-format
+msgid "Bugfixes"
+msgstr "Correcció d'errors"
+
+#: kdemain.cpp:150
+#, kde-format
+msgid "Inge Wallin"
+msgstr "Inge Wallin"
+
+#: kdemain.cpp:151
+#, kde-format
+msgid "Core Developer and Co-Maintainer"
+msgstr "Desenvolupador principal i comantenidor"
+
+#: kdemain.cpp:153
+#, kde-format
+msgid "Henry de Valence"
+msgstr "Henry de Valence"
+
+#: kdemain.cpp:154
+#, kde-format
+msgid "Core Developer: Marble Runners, World-Clock Plasmoid"
+msgstr "Desenvolupador principal: Marble Runners, plasmoide World-Clock"
+
+#: kdemain.cpp:156
+#, kde-format
+msgid "Pino Toscano"
+msgstr "Pino Toscano"
+
+#: kdemain.cpp:157
+#, kde-format
+msgid "Network plugins"
+msgstr "Connectors de xarxa"
+
+#: kdemain.cpp:159
+#, kde-format
+msgid "Harshit Jain"
+msgstr "Harshit Jain"
+
+#: kdemain.cpp:160
+#, kde-format
+msgid "Planet filter"
+msgstr "Filtre de planetes"
+
+#: kdemain.cpp:162
+#, kde-format
+msgid "Simon Edwards"
+msgstr "Simon Edwards"
+
+#: kdemain.cpp:163
+#, kde-format
+msgid "Marble Python Bindings"
+msgstr "Lligams Python del Marble"
+
+#: kdemain.cpp:165
+#, kde-format
+msgid "Magnus Valle"
+msgstr "Magnus Valle"
+
+#: kdemain.cpp:166
+#, kde-format
+msgid "Historical Maps"
+msgstr "Mapes històrics"
+
+#: kdemain.cpp:168
+#, kde-format
+msgid "Médéric Boquien"
+msgstr "Médéric Boquien"
+
+#: kdemain.cpp:169
+#, kde-format
+msgid "Astronomical Observatories"
+msgstr "Observatoris astronòmics"
+
+#: kdemain.cpp:174
+#, kde-format
+msgid ""
+"ESA Summer of Code in Space 2012 Project: Visualization of planetary "
+"satellites"
+msgstr ""
+"Projecte ESA Summer of Code in Space 2012: Visualització dels satèl·lits "
+"planetaris"
+
+#: kdemain.cpp:178
+#, kde-format
+msgid ""
+"ESA Summer of Code in Space 2011 Project: Visualization of Satellite Orbits"
+msgstr ""
+"Projecte ESA Summer of Code in Space 2011: Visualització de les òrbites dels "
+"satèl·lits"
+
+#: kdemain.cpp:183
+#, kde-format
+msgid "Konstantin Oblaukhov"
+msgstr "Konstantin Oblaukhov"
+
+#: kdemain.cpp:184
+#, kde-format
+msgid "Google Summer of Code 2011 Project: OpenStreetMap Vector Rendering"
+msgstr ""
+"Projecte Google Summer of Code 2011: Renderització vectorial d'OpenStreetMap"
+
+#: kdemain.cpp:187
+#, kde-format
+msgid "Daniel Marth"
+msgstr "Daniel Marth"
+
+#: kdemain.cpp:188
+#, kde-format
+msgid "Google Summer of Code 2011 Project: Marble Touch on MeeGo"
+msgstr "Projecte Google Summer of Code 2011: Marble Touch en MeeGo"
+
+#: kdemain.cpp:191
+#, kde-format
+msgid "Gaurav Gupta"
+msgstr "Gaurav Gupta"
+
+#: kdemain.cpp:192
+#, kde-format
+msgid "Google Summer of Code 2010 Project: Bookmarks"
+msgstr "Projecte Google Summer of Code 2010: Adreces d'interés"
+
+#: kdemain.cpp:195
+#, kde-format
+msgid "Harshit Jain "
+msgstr "Harshit Jain "
+
+#: kdemain.cpp:196
+#, kde-format
+msgid "Google Summer of Code 2010 Project: Time Support"
+msgstr "Projecte Google Summer of Code 2010: Implementació del temps"
+
+#: kdemain.cpp:199
+#, kde-format
+msgid "Siddharth Srivastava"
+msgstr "Siddharth Srivastava"
+
+#: kdemain.cpp:200
+#, kde-format
+msgid "Google Summer of Code 2010 Project: Turn-by-turn Navigation"
+msgstr "Projecte Google Summer of Code 2010: Navegació guiada"
+
+#: kdemain.cpp:203 kdemain.cpp:223
+#, kde-format
+msgid "Andrew Manson"
+msgstr "Andrew Manson"
+
+#: kdemain.cpp:204
+#, kde-format
+msgid "Google Summer of Code 2009 Project: OSM Annotation"
+msgstr "Projecte Google Summer of Code 2009: Anotació d'OSM"
+
+#: kdemain.cpp:208
+#, kde-format
+msgid "Google Summer of Code 2009 Project: Online Services"
+msgstr "Projecte Google Summer of Code 2009: Serveis en línia"
+
+#: kdemain.cpp:212
+#, kde-format
+msgid "Google Summer of Code 2008 Project: Vector Tiles for Marble"
+msgstr "Projecte Google Summer of Code 2008: Mosaic vectorial per a Marble"
+
+#: kdemain.cpp:215
+#, kde-format
+msgid "Shashank Singh"
+msgstr "Shashank Singh"
+
+#: kdemain.cpp:216
+#, kde-format
+msgid ""
+"Google Summer of Code 2008 Project: Panoramio / Wikipedia -photo support for "
+"Marble"
+msgstr ""
+"Projecte Google Summer of Code 2008: Implementació de les fotografies de "
+"Panoramio / Viquipèdia en Marble"
+
+#: kdemain.cpp:219
+#, kde-format
+msgid "Carlos Licea"
+msgstr "Carlos Licea"
+
+#: kdemain.cpp:220
+#, kde-format
+msgid ""
+"Google Summer of Code 2007 Project: Equirectangular Projection (\"Flat Map\")"
+msgstr ""
+"Projecte Google Summer of Code 2007: Projecció equirectangular («Mapa pla»)"
+
+#: kdemain.cpp:224
+#, kde-format
+msgid "Google Summer of Code 2007 Project: GPS Support for Marble"
+msgstr "Projecte Google Summer of Code 2007: Implementació GPS en Marble"
+
+#: kdemain.cpp:227
+#, kde-format
+msgid "Murad Tagirov"
+msgstr "Murad Tagirov"
+
+#: kdemain.cpp:228
+#, kde-format
+msgid "Google Summer of Code 2007 Project: KML Support for Marble"
+msgstr "Projecte Google Summer of Code 2007: Implementació de KML en Marble"
+
+#: kdemain.cpp:233
+#, kde-format
+msgid "Simon Schmeisser"
+msgstr "Simon Schmeisser"
+
+#: kdemain.cpp:234 kdemain.cpp:236 kdemain.cpp:238 kdemain.cpp:240
+#: kdemain.cpp:242 kdemain.cpp:244 kdemain.cpp:246 kdemain.cpp:248
+#: kdemain.cpp:250 kdemain.cpp:252 kdemain.cpp:254 kdemain.cpp:256
+#: kdemain.cpp:258 kdemain.cpp:260 kdemain.cpp:262 kdemain.cpp:264
+#: kdemain.cpp:266 kdemain.cpp:268 kdemain.cpp:270
+#, kde-format
+msgid "Development & Patches"
+msgstr "Desenvolupament i pedaços"
+
+#: kdemain.cpp:235
+#, kde-format
+msgid "Claudiu Covaci"
+msgstr "Claudiu Covaci"
+
+#: kdemain.cpp:237
+#, kde-format
+msgid "David Roberts"
+msgstr "David Roberts"
+
+#: kdemain.cpp:239
+#, kde-format
+msgid "Nikolas Zimmermann"
+msgstr "Nikolas Zimmermann"
+
+#: kdemain.cpp:241
+#, kde-format
+msgid "Jan Becker"
+msgstr "Jan Becker"
+
+#: kdemain.cpp:243
+#, kde-format
+msgid "Stefan Asserhäll"
+msgstr "Stefan Asserhäll"
+
+#: kdemain.cpp:245
+#, kde-format
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: kdemain.cpp:247
+#, kde-format
+msgid "Mayank Madan"
+msgstr "Mayank Madan"
+
+#: kdemain.cpp:249
+#, kde-format
+msgid "Prashanth Udupa"
+msgstr "Prashanth Udupa"
+
+#: kdemain.cpp:251
+#, kde-format
+msgid "Anne-Marie Mahfouf"
+msgstr "Anne-Marie Mahfouf"
+
+#: kdemain.cpp:253
+#, kde-format
+msgid "Josef Spillner"
+msgstr "Josef Spillner"
+
+#: kdemain.cpp:255
+#, kde-format
+msgid "Frerich Raabe"
+msgstr "Frerich Raabe"
+
+#: kdemain.cpp:257
+#, kde-format
+msgid "Frederik Gladhorn"
+msgstr "Frederik Gladhorn"
+
+#: kdemain.cpp:259
+#, kde-format
+msgid "Fredrik Höglund"
+msgstr "Fredrik Höglund"
+
+#: kdemain.cpp:261
+#, kde-format
+msgid "Albert Astals Cid"
+msgstr "Albert Astals Cid"
+
+#: kdemain.cpp:263
+#, kde-format
+msgid "Thomas Zander"
+msgstr "Thomas Zander"
+
+#: kdemain.cpp:265
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kdemain.cpp:267
+#, kde-format
+msgid "Kris Thomsen"
+msgstr "Kris Thomsen"
+
+#: kdemain.cpp:269
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+#: kdemain.cpp:271
+#, kde-format
+msgid "Christophe Leske"
+msgstr "Christophe Leske"
+
+#: kdemain.cpp:272 kdemain.cpp:274 kdemain.cpp:276 kdemain.cpp:278
+#: kdemain.cpp:280 kdemain.cpp:282 kdemain.cpp:284 kdemain.cpp:286
+#: kdemain.cpp:288
+#, kde-format
+msgid "Platforms & Distributions"
+msgstr "Plataformes i distribucions"
+
+#: kdemain.cpp:273
+#, kde-format
+msgid "Sebastian Wiedenroth"
+msgstr "Sebastian Wiedenroth"
+
+#: kdemain.cpp:275
+#, kde-format
+msgid "Tim Sutton"
+msgstr "Tim Sutton"
+
+#: kdemain.cpp:277
+#, kde-format
+msgid "Christian Ehrlicher"
+msgstr "Christian Ehrlicher"
+
+#: kdemain.cpp:279
+#, kde-format
+msgid "Ralf Habacker"
+msgstr "Ralf Habacker"
+
+#: kdemain.cpp:281
+#, kde-format
+msgid "Steffen Joeris"
+msgstr "Steffen Joeris"
+
+#: kdemain.cpp:283
+#, kde-format
+msgid "Marcus Czeslinski"
+msgstr "Marcus Czeslinski"
+
+#: kdemain.cpp:285
+#, kde-format
+msgid "Marcus D. Hanwell"
+msgstr "Marcus D. Hanwell"
+
+#: kdemain.cpp:287
+#, kde-format
+msgid "Chitlesh Goorah"
+msgstr "Chitlesh Goorah"
+
+#: kdemain.cpp:289
+#, kde-format
+msgid "Nuno Pinheiro"
+msgstr "Nuno Pinheiro"
+
+#: kdemain.cpp:290 kdemain.cpp:292
+#, kde-format
+msgid "Artwork"
+msgstr "Grafisme"
+
+#: kdemain.cpp:295
+#, kde-format
+msgid "Luis Silva"
+msgstr "Luis Silva"
+
+#: kdemain.cpp:296 kdemain.cpp:298 kdemain.cpp:300 kdemain.cpp:302
+#: kdemain.cpp:304 kdemain.cpp:306 kdemain.cpp:308 kdemain.cpp:310
+#: kdemain.cpp:312 kdemain.cpp:314
+#, kde-format
+msgid "Various Suggestions & Testing"
+msgstr "Suggeriments diversos i proves"
+
+#: kdemain.cpp:297
+#, kde-format
+msgid "Stefan Jordan"
+msgstr "Stefan Jordan"
+
+#: kdemain.cpp:299
+#, kde-format
+msgid "Robert Scott"
+msgstr "Robert Scott"
+
+#: kdemain.cpp:301
+#, kde-format
+msgid "Lubos Petrovic"
+msgstr "Lubos Petrovic"
+
+#: kdemain.cpp:303
+#, kde-format
+msgid "Benoit Sigoure"
+msgstr "Benoit Sigoure"
+
+#: kdemain.cpp:305
+#, kde-format
+msgid "Martin Konold"
+msgstr "Martin Konold"
+
+#: kdemain.cpp:307
+#, kde-format
+msgid "Matthias Welwarsky"
+msgstr "Matthias Welwarsky"
+
+#: kdemain.cpp:309
+#, kde-format
+msgid "Rainer Endres"
+msgstr "Rainer Endres"
+
+#: kdemain.cpp:311
+#, kde-format
+msgid "Ralf Gesellensetter"
+msgstr "Ralf Gesellensetter"
+
+#: kdemain.cpp:313
+#, kde-format
+msgid "Tim Alder"
+msgstr "Tim Alder"
+
+#: kdemain.cpp:315
+#, kde-format
+msgid "John Layt"
+msgstr "John Layt"
+
+#: kdemain.cpp:316
+#, kde-format
+msgid ""
+"Special thanks for providing an important source of inspiration by creating "
+"Marble's predecessor \"Kartographer\"."
+msgstr ""
+"Un agraïment especial per proporcionar una important font d'inspiració en"
+" crear «Kartographer», el predecessor de Marble."
+
+#: kdemain.cpp:334
+#, kde-format
+msgid "Enable debug output"
+msgstr "Activa l'eixida de depuració"
+
+#: kdemain.cpp:336
+#, kde-format
+msgid "Display OSM placemarks according to the level selected"
+msgstr "Mostra les marques de llocs de l'OSM segons el nivell seleccionat"
+
+#: kdemain.cpp:338
+#, kde-format
+msgid "Make a time measurement to check performance"
+msgstr "Realitza una mesura de temps per comprovar el rendiment"
+
+#: kdemain.cpp:340
+#, kde-format
+msgid "Show frame rate"
+msgstr "Mostra la velocitat dels fotogrames"
+
+#: kdemain.cpp:342
+#, kde-format
+msgid "Show tile IDs"
+msgstr "Mostra els ID dels mosaics"
+
+#: kdemain.cpp:344
+#, kde-format
+msgid "Show time spent in each layer"
+msgstr "Mostra el temps invertit en cada capa"
+
+#: kdemain.cpp:346
+#, kde-format
+msgid "Use a different directory <directory> which contains map data."
+msgstr "Usa un directori <directori> diferent que conté dades de mapa."
+
+#: kdemain.cpp:348
+#, kde-format
+msgid "Do not use the interface optimized for small screens"
+msgstr "No uses la interfície optimitzada per a pantalles xicotetes"
+
+#: kdemain.cpp:349
+#, kde-format
+msgid "Use the interface optimized for small screens"
+msgstr "Usa la interfície optimitzada per a pantalles xicotetes"
+
+#: kdemain.cpp:351
+#, kde-format
+msgid "Do not use the interface optimized for high resolutions"
+msgstr "No uses la interfície optimitzada per a resolucions altes"
+
+#: kdemain.cpp:352
+#, kde-format
+msgid "Use the interface optimized for high resolutions"
+msgstr "Usa la interfície optimitzada per a resolucions altes"
+
+#: kdemain.cpp:354
+#, kde-format
+msgid "Show map at given lat lon <coordinates>"
+msgstr "Mostra el mapa en les <coordenades> lat., lon. donades"
+
+#: kdemain.cpp:356
+#, kde-format
+msgid "Show map at given geo <uri>"
+msgstr "Mostra el mapa en l'<URI> de geolocalització indicat"
+
+#: kdemain.cpp:358
+#, kde-format
+msgid "Set the distance of the observer to the globe (in km)"
+msgstr "Estableix la distància de l'observador al globus (en km)"
+
+#: kdemain.cpp:360
+#, kde-format
+msgid "Use map <id> (e.g. \"earth/openstreetmap/openstreetmap.dgml\")"
+msgstr "Usa l'<ID> del mapa (p. ex. «earth/openstreetmap/openstreetmap.dgml»)"
+
+#: kdemain.cpp:362
+#, kde-format
+msgid "One or more placemark files to be opened"
+msgstr "Un o més fitxers de marques de llocs a obrir"
+
+#. i18n: ectx: label, entry, group (Time)
+#: marble.kcfg:58
+#, kde-format
+msgid "The date and time of marble clock"
+msgstr "La data i hora del rellotge de Marble"
+
+#. i18n: ectx: label, entry, group (Time)
+#: marble.kcfg:61
+#, kde-format
+msgid "The speed of marble clock"
+msgstr "La velocitat del rellotge de Marble"
+
+#. i18n: ectx: label, entry, group (View)
+#: marble.kcfg:107
+#, kde-format
+msgid "The unit chosen to measure distances."
+msgstr "Les unitats seleccionades per a mesurar distàncies."
+
+#. i18n: ectx: label, entry, group (View)
+#: marble.kcfg:115
+#, kde-format
+msgid "The unit chosen to measure angles."
+msgstr "Les unitats seleccionades per a mesurar angles."
+
+#. i18n: ectx: label, entry, group (View)
+#: marble.kcfg:124
+#, kde-format
+msgid "The quality at which a still map gets painted."
+msgstr "La qualitat amb què es dibuixa un mapa estàtic."
+
+#. i18n: ectx: label, entry, group (View)
+#: marble.kcfg:135
+#, kde-format
+msgid "The quality at which an animated map gets painted."
+msgstr "La qualitat amb què es dibuixa un mapa animat."
+
+#. i18n: ectx: label, entry, group (View)
+#: marble.kcfg:146
+#, kde-format
+msgid "The localization of the labels."
+msgstr "La ubicació de les etiquetes."
+
+#. i18n: ectx: label, entry (mapFont), group (View)
+#: marble.kcfg:155
+#, kde-format
+msgid "The general font used on the map."
+msgstr "El tipus de lletra general utilitzat en el mapa."
+
+#. i18n: ectx: label, entry (lastFileOpenDir), group (View)
+#: marble.kcfg:159
+#, kde-format
+msgid "The last directory that was opened by File->Open."
+msgstr "L'últim directori que s'ha obert via Fitxer->Obri."
+
+#. i18n: ectx: label, entry, group (Navigation)
+#: marble.kcfg:179
+#, kde-format
+msgid "The behaviour of the planet's axis on mouse dragging."
+msgstr "El comportament dels eixos del planeta en arrossegar el ratolí."
+
+#. i18n: ectx: label, entry, group (Navigation)
+#: marble.kcfg:187
+#, kde-format
+msgid "The location shown on application startup."
+msgstr "La ubicació mostrada en iniciar l'aplicació."
+
+#. i18n: ectx: label, entry, group (Navigation)
+#: marble.kcfg:198
+#, kde-format
+msgid "Display animation on voyage to target."
+msgstr "Anima el desplaçament fins a l'objectiu."
+
+#. i18n: ectx: label, entry, group (Navigation)
+#: marble.kcfg:202
+#, kde-format
+msgid "The external OpenStreetMap editor application"
+msgstr "L'aplicació externa d'edició d'OpenStreetMap"
+
+#. i18n: ectx: label, entry, group (Cache)
+#: marble.kcfg:208
+#, kde-format
+msgid "Cache for tiles reserved in the physical memory."
+msgstr "Memòria cau per al mosaic reservada en la memòria física."
+
+#. i18n: ectx: label, entry, group (Cache)
+#: marble.kcfg:214
+#, kde-format
+msgid "Maximum space on the hard disk that can be used to store tiles."
+msgstr ""
+"Espai màxim del disc dur que es pot utilitzar per a emmagatzemar el mosaic."
+
+#. i18n: ectx: label, entry (proxyUrl), group (Cache)
+#: marble.kcfg:220
+#, kde-format
+msgid "URL for the proxy server."
+msgstr "L'URL del servidor intermediari."
+
+#. i18n: ectx: label, entry, group (Cache)
+#: marble.kcfg:224
+#, kde-format
+msgid "Port for the proxy server."
+msgstr "El port del servidor intermediari."
+
+#. i18n: ectx: label, entry (proxyUser), group (Cache)
+#: marble.kcfg:230
+#, kde-format
+msgid "Username for authorization."
+msgstr "Nom d'usuari per a l'autorització."
+
+#. i18n: ectx: label, entry (proxyPass), group (Cache)
+#: marble.kcfg:233
+#, kde-format
+msgid "Password for authorization."
+msgstr "Contrasenya per a l'autorització."
+
+#. i18n: ectx: label, entry (proxyHttp), group (Cache)
+#: marble.kcfg:236
+#, kde-format
+msgid "Proxy type is HTTP"
+msgstr "El tipus de servidor intermediari és HTTP"
+
+#. i18n: ectx: label, entry (proxySocks5), group (Cache)
+#: marble.kcfg:247
+#, kde-format
+msgid "Proxy type is Socks5"
+msgstr "El tipus de servidor intermediari és Socks5"
+
+#. i18n: ectx: label, entry (proxyAuth), group (Cache)
+#: marble.kcfg:251
+#, kde-format
+msgid "Proxy requires Authentication"
+msgstr "El servidor intermediari requereix autenticació"
+
+#. i18n: ectx: label, entry (activePositionTrackingPlugin), group (Plugins)
+#: marble.kcfg:257
+#, kde-format
+msgid "The position tracking plugin used to determine the current location"
+msgstr ""
+"El connector de seguiment de la posició usat per a determinar la ubicació"
+" actual"
+
+#: marble_part.cpp:108
+#, kde-format
+msgid "Position: %1"
+msgstr "Posició: %1"
+
+#: marble_part.cpp:109
+#, kde-format
+msgid "Altitude: %1"
+msgstr "Altitud: %1"
+
+#: marble_part.cpp:110
+#, kde-format
+msgid "Tile Zoom Level: %1"
+msgstr "Nivell de zoom dels mosaics: %1"
+
+#: marble_part.cpp:111
+#, kde-format
+msgid "Time: %1"
+msgstr "Hora: %1"
+
+#: marble_part.cpp:214
+#, kde-format
+msgid "marble_part"
+msgstr "marble_part"
+
+#: marble_part.cpp:217
+#, kde-format
+msgid "A Virtual Globe"
+msgstr "Un globus terraqüi virtual"
+
+#: marble_part.cpp:231
+#, kde-format
+msgid "Sorry, unable to open '%1'. The file is not accessible."
+msgstr "No s'ha pogut obrir «%1». El fitxer no és accessible."
+
+#: marble_part.cpp:232
+#, kde-format
+msgid "File not accessible"
+msgstr "El fitxer no és accessible"
+
+#: marble_part.cpp:253
+#, kde-format
+msgid "All Supported Files"
+msgstr "Tots els fitxers acceptats"
+
+#: marble_part.cpp:259
+#, kde-format
+msgid "Open File"
+msgstr "Obri un fitxer"
+
+#: marble_part.cpp:276
+#, kde-format
+msgid "Export Map"
+msgstr "Exporta el mapa"
+
+#: marble_part.cpp:277
+#, kde-format
+msgid "Images *.jpg *.png"
+msgstr "Imatges *.jpg *.png"
+
+#: marble_part.cpp:291
+#, kde-format
+msgctxt "Application name"
+msgid "Marble"
+msgstr "Marble"
+
+#: marble_part.cpp:292
+#, kde-format
+msgid "An error occurred while trying to save the file.\n"
+msgstr "S'ha produït un error en intentar guardar el fitxer.\n"
+
+#: marble_part.cpp:483
+#, kde-format
+msgid "Unnamed"
+msgstr "Sense nom"
+
+#: marble_part.cpp:714
+#, kde-format
+msgctxt "Action for downloading an entire region of a map"
+msgid "Download Region..."
+msgstr "Descarrega una regió..."
+
+#: marble_part.cpp:728
+#, kde-format
+msgctxt "Action for saving the map to a file"
+msgid "&Export Map..."
+msgstr "&Exporta el mapa..."
+
+#: marble_part.cpp:737
+#, kde-format
+msgctxt "Action for toggling offline mode"
+msgid "&Work Offline"
+msgstr "&Treballa desconnectat"
+
+#: marble_part.cpp:747
+#, kde-format
+msgctxt "Action for copying the map to the clipboard"
+msgid "&Copy Map"
+msgstr "&Copia el mapa"
+
+#: marble_part.cpp:754
+#, kde-format
+msgctxt "Action for copying the coordinates to the clipboard"
+msgid "C&opy Coordinates"
+msgstr "C&opia les coordenades"
+
+#: marble_part.cpp:762
+#, kde-format
+msgctxt "Action for opening a file"
+msgid "&Open..."
+msgstr "&Obri..."
+
+#: marble_part.cpp:770
+#, kde-format
+msgctxt "Action for downloading maps (GHNS)"
+msgid "Download Maps..."
+msgstr "Descarrega mapes..."
+
+#: marble_part.cpp:774
+#, kde-format
+msgctxt "Status tip"
+msgid "Download new maps"
+msgstr "Descarrega mapes nous"
+
+#: marble_part.cpp:779
+#, kde-format
+msgctxt "Action for creating new maps"
+msgid "&Create a New Map..."
+msgstr "&Crea un mapa nou..."
+
+#: marble_part.cpp:784
+#, kde-format
+msgctxt "Status tip"
+msgid "A wizard guides you through the creation of your own map theme."
+msgstr "Un assistent us guia a través de la creació d'un tema de mapa propi."
+
+#: marble_part.cpp:811
+#, kde-format
+msgctxt "Action for toggling clouds"
+msgid "&Clouds"
+msgstr "&Núvols"
+
+#: marble_part.cpp:818
+#, kde-format
+msgctxt "Action for sun control dialog"
+msgid "S&un Control..."
+msgstr "Control del &sol..."
+
+#: marble_part.cpp:828
+#, kde-format
+msgctxt "Action for time control dialog"
+msgid "&Time Control..."
+msgstr "Control de &data i hora..."
+
+#: marble_part.cpp:837
+#, kde-format
+msgctxt "Action for locking float items on the map"
+msgid "Lock Position"
+msgstr "Fixa la posició"
+
+#: marble_part.cpp:848
+#, kde-format
+msgid "Show Shadow"
+msgstr "Mostra l'ombra"
+
+#: marble_part.cpp:851
+#, kde-format
+msgid "Hide Shadow"
+msgstr "Oculta l'ombra"
+
+#: marble_part.cpp:852
+#, kde-format
+msgid "Shows and hides the shadow of the sun"
+msgstr "Mostra i oculta l'ombra del sol"
+
+#: marble_part.cpp:856
+#, kde-format
+msgid "Show sun icon on the Sub-Solar Point"
+msgstr "Mostra la icona del sol en el punt subsolar"
+
+#: marble_part.cpp:858
+#, kde-format
+msgid "Hide sun icon on the Sub-Solar Point"
+msgstr "Oculta la icona del sol en el punt subsolar"
+
+#: marble_part.cpp:859
+#, kde-format
+msgid "Show sun icon on the sub-solar point"
+msgstr "Mostra la icona del sol en el punt subsolar"
+
+#: marble_part.cpp:864
+#, kde-format
+msgid "Lock Globe to the Sub-Solar Point"
+msgstr "Bloqueja el globus en el punt subsolar"
+
+#: marble_part.cpp:866
+#, kde-format
+msgid "Unlock Globe to the Sub-Solar Point"
+msgstr "Desbloqueja el globus del punt subsolar"
+
+#: marble_part.cpp:867
+#, kde-format
+msgid "Lock globe to the sub-solar point"
+msgstr "Bloqueja el globus en el punt subsolar"
+
+#: marble_part.cpp:882
+#, kde-format
+msgctxt "Add Bookmark"
+msgid "&Add Bookmark"
+msgstr "&Afig una adreça d'interés"
+
+#: marble_part.cpp:890
+#, kde-format
+msgctxt "Show Bookmarks"
+msgid "Show &Bookmarks"
+msgstr "Mostra les &adreces d'interés"
+
+#: marble_part.cpp:891
+#, kde-format
+msgid "Show or hide bookmarks in the map"
+msgstr "Mostra o oculta les adreces d'interés en el mapa"
+
+#: marble_part.cpp:899
+#, kde-format
+msgid "&Set Home Location"
+msgstr "&Estableix la ubicació inicial"
+
+#: marble_part.cpp:906
+#, kde-format
+msgctxt "Manage Bookmarks"
+msgid "&Manage Bookmarks"
+msgstr "&Gestiona les adreces d'interés"
+
+#: marble_part.cpp:918
+#, kde-format
+msgctxt "Edit the map in an external application"
+msgid "&Edit Map"
+msgstr "&Edita el mapa"
+
+#: marble_part.cpp:926
+#, kde-format
+msgid "&Record Movie"
+msgstr "Gr&ava una pel·lícula"
+
+#: marble_part.cpp:928
+#, kde-format
+msgid "Records a movie of the globe"
+msgstr "Grava una pel·lícula del globus terraqüi"
+
+#: marble_part.cpp:934
+#, kde-format
+msgid "&Stop recording"
+msgstr "&Para la gravació"
+
+#: marble_part.cpp:936
+#, kde-format
+msgid "Stop recording a movie of the globe"
+msgstr "Para la gravació d'una pel·lícula del globus terraqüi"
+
+#: marble_part.cpp:1288
+#, kde-format
+msgctxt "Action for toggling"
+msgid "Show Position"
+msgstr "Mostra la posició"
+
+#: marble_part.cpp:1290
+#, kde-format
+msgctxt "Action for toggling"
+msgid "Show Date and Time"
+msgstr "Mostra la data i hora"
+
+#: marble_part.cpp:1292
+#, kde-format
+msgctxt "Action for toggling"
+msgid "Show Altitude"
+msgstr "Mostra l'altitud"
+
+#: marble_part.cpp:1295
+#, kde-format
+msgctxt "Action for toggling"
+msgid "Show Tile Zoom Level"
+msgstr "Mostra el nivell de zoom del mosaic"
+
+#: marble_part.cpp:1297
+#, kde-format
+msgctxt "Action for toggling"
+msgid "Show Download Progress Bar"
+msgstr "Mostra la barra de progrés de les baixades"
+
+#: marble_part.cpp:1405
+#, kde-format
+msgid "View"
+msgstr "Visualitza"
+
+#: marble_part.cpp:1416
+#, kde-format
+msgid "Navigation"
+msgstr "Navegació"
+
+#: marble_part.cpp:1427
+#, kde-format
+msgid "Cache & Proxy"
+msgstr "Memòria cau i servidor intermediari"
+
+#: marble_part.cpp:1440
+#, kde-format
+msgid "Date & Time"
+msgstr "Data i hora"
+
+#: marble_part.cpp:1448
+#, kde-format
+msgid "Synchronization"
+msgstr "Sincronització"
+
+#: marble_part.cpp:1461
+#, kde-format
+msgid "Routing"
+msgstr "Itineraris"
+
+#: marble_part.cpp:1469
+#, kde-format
+msgid "Plugins"
+msgstr "Connectors"
+
+#. i18n: ectx: Menu (file)
+#: marble_part.rc:6 marbleui.rc:5
+#, kde-format
+msgid "&File"
+msgstr "&Fitxer"
+
+#. i18n: ectx: Menu (edit)
+#: marble_part.rc:21 marbleui.rc:14
+#, kde-format
+msgid "&Edit"
+msgstr "&Edita"
+
+#. i18n: ectx: Menu (view)
+#: marble_part.rc:31 marbleui.rc:18
+#, kde-format
+msgid "&View"
+msgstr "&Visualitza"
+
+#. i18n: ectx: Menu (infoboxes)
+#: marble_part.rc:36
+#, kde-format
+msgid "&Info Boxes"
+msgstr "&Rètols informatius"
+
+#. i18n: ectx: Menu (onlineservices)
+#: marble_part.rc:42
+#, kde-format
+msgid "&Online Services"
+msgstr "Serveis en &línia"
+
+#. i18n: ectx: Menu (settings)
+#: marble_part.rc:55 marbleui.rc:31
+#, kde-format
+msgid "&Settings"
+msgstr "&Configuració"
+
+#. i18n: ectx: Menu (panels)
+#: marble_part.rc:59
+#, kde-format
+msgid "&Panels"
+msgstr "&Plafons"
+
+#. i18n: ectx: Menu (viewSize)
+#: marble_part.rc:65
+#, kde-format
+msgid "&View Size"
+msgstr "Mida de la &vista"
+
+#. i18n: ectx: Menu (bookmarks)
+#: marble_part.rc:73 marbleui.rc:29
+#, kde-format
+msgid "&Bookmarks"
+msgstr "&Adreces d'interés"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: marble_part.rc:84 marbleui.rc:36
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Barra d'eines principal"
+
+#. i18n: ectx: ToolBar (pluginToolBar)
+#: marble_part.rc:97
+#, kde-format
+msgid "Edit Toolbar"
+msgstr "Barra d'eines d'edició"
+
+#~ msgid "The graphics system that is used by Qt to render the graphics."
+#~ msgstr ""
+#~ "El sistema gràfic utilitzat per les Qt per a renderitzar els gràfics."
+
+#~ msgid "Native"
+#~ msgstr "Natiu"
+
+#~ msgid "Native (X11)"
+#~ msgstr "Natiu (X11)"
+
+#~ msgid "Native (Mac OS X Core Graphics)"
+#~ msgstr "Natiu (Mac OS X Core Graphics)"
+
+#~ msgid ""
+#~ "You have decided to run Marble with a different graphics system.\n"
+#~ "For this change to become effective, Marble has to be restarted.\n"
+#~ "Please close the application and start Marble again."
+#~ msgstr ""
+#~ "Heu decidit executar el Marble amb un sistema gràfic diferent.\n"
+#~ "Per tal que aquest canvi es faci efectiu, el Marble s'ha de reiniciar.\n"
+#~ "Si us plau, tanqueu l'aplicació i engegueu el Marble de nou."
+
+#~ msgid "Graphics System Change"
+#~ msgstr "Canvi de Sistema Gràfic"
+
+#~ msgid "Night Sky"
+#~ msgstr "Cel nocturn"
+
+#~ msgid ""
+#~ "<p>The <i>night sky</i>.</p><p>Displays the stars and constellations at "
+#~ "night.</p>"
+#~ msgstr ""
+#~ "<p>El <i>cel nocturn</i>.</p><p>Mostra les estrelles i constel·lacions a "
+#~ "la nit.</p>"
+
+#~ msgid "Mountain"
+#~ msgstr "Muntanya"
+
+#~ msgid "Volcano"
+#~ msgstr "Volcà"
+
+#~ msgid "Geographic Pole"
+#~ msgstr "Pol geogràfic"
+
+#~ msgid "Magnetic Pole"
+#~ msgstr "Pol magnètic"
+
+#~ msgid "Airport"
+#~ msgstr "Aeroport"
+
+#~ msgid "Shipwreck"
+#~ msgstr "Naufragi"
+
+#~ msgid "Astronomical Observatory"
+#~ msgstr "Observatori astronòmic"
+
+#~ msgid ""
+#~ "<p>The moon.</p><p>The map is based on data from the Clementine Moon "
+#~ "mission (UVVIS Basemap Mosaic). Credits: NASA/SDIO, Courtesy <a href="
+#~ "\"http://astrogeology.usgs.gov\">USGS Astrogeology Research Program</a></"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>La Lluna.</p><p>El mapa es basa en dades de la missió "
+#~ "«Clementine» (UVVIS Basemap Mosaic). Credits: NASA/SDIO, Cortesia del <a "
+#~ "href=\"http://astrogeology.usgs.gov\">Programa de Recerca Astrogeològica "
+#~ "USGS</a></p>"
+
+#~ msgid "Explore the Moon"
+#~ msgstr "Explora la Lluna"
+
+#~ msgid "Landing Sites"
+#~ msgstr "Punts d'allunatge"
+
+#~ msgid "Craters"
+#~ msgstr "Cràters"
+
+#~ msgid "Maria"
+#~ msgstr "Mars"
+
+#~ msgid "Other features"
+#~ msgstr "Altres característiques"
+
+#~ msgid ""
+#~ "<a href=\"tour://moon/clementine/tour.kml\">Play a tour of different "
+#~ "landing sites.</a>"
+#~ msgstr ""
+#~ "<a href=\"tour://moon/clementine/tour.kml\">Fes un recorregut pels "
+#~ "diferents llocs d'allunatge.</a>"
+
+#~ msgid "Manned landing site"
+#~ msgstr "Allunatge tripulat"
+
+#~ msgid "Robotic rover"
+#~ msgstr "Vehicle robòtic"
+
+#~ msgid "Unmanned soft landing"
+#~ msgstr "Allunatge suau no tripulat"
+
+#~ msgid "Unmanned hard landing"
+#~ msgstr "Allunatge brusc no tripulat"
+
+#~ msgid "Crater, impact crater"
+#~ msgstr "Cràter, cràter d'impacte"
+
+#~ msgid "Mons, mountain"
+#~ msgstr "Mont, muntanya"
+
+#~ msgid "Vallis, valley"
+#~ msgstr "Vallis, vall"
+
+#~ msgid "Selenographic Pole"
+#~ msgstr "Pol selenogràfic"
+
+#~ msgid "Plain Map"
+#~ msgstr "Mapa simple"
+
+#~ msgid ""
+#~ "<p>A <i>plain map</i>.</p><p>It uses vector lines to mark coastlines and "
+#~ "country borders, etc...</p>"
+#~ msgstr ""
+#~ "<p>Un <i>mapa simple</i>.</p><p>Utilitza línies vectorials per a dibuixar "
+#~ "la línia de la costa i les fronteres de països, etc.</p>"
+
+#~ msgid "Urban Areas"
+#~ msgstr "Àrees urbanes"
+
+#~ msgid "Boundaries"
+#~ msgstr "Fronteres"
+
+#~ msgid "Water Bodies"
+#~ msgstr "Masses d'aigua"
+
+#~ msgid "Ice and Glaciers"
+#~ msgstr "Gel i glaceres"
+
+#~ msgid "International"
+#~ msgstr "Internacional"
+
+#~ msgid "State"
+#~ msgstr "Estat"
+
+#~ msgid "Disputed Areas"
+#~ msgstr "Àrees en disputa"
+
+#~ msgid "Maritime Borders"
+#~ msgstr "Fronteres marítimes"
+
+#~ msgid "Lake"
+#~ msgstr "Llac"
+
+#~ msgid "Historic Lake"
+#~ msgstr "Llac històric"
+
+#~ msgid "Playa"
+#~ msgstr "Platja"
+
+#~ msgid "River"
+#~ msgstr "Riu"
+
+#~ msgid "Glaciers"
+#~ msgstr "Glaceres"
+
+#~ msgid "Antarctic Iceshelves"
+#~ msgstr "Plataformes de gel antàrtiques"
+
+#~ msgid "Temperature (July)"
+#~ msgstr "Temperatura (Juliol)"
+
+#~ msgid "A map which shows the average temperature in July."
+#~ msgstr "Un mapa que mostra la temperatura mitjana al juliol."
+
+#~ msgid "42&deg;C"
+#~ msgstr "42&deg;C"
+
+#~ msgid "32&deg;C"
+#~ msgstr "32&deg;C"
+
+#~ msgid "23&deg;C"
+#~ msgstr "23&deg;C"
+
+#~ msgid "12&deg;C"
+#~ msgstr "12&deg;C"
+
+#~ msgid "1&deg;C"
+#~ msgstr "1&deg;C"
+
+#~ msgid "-10&deg;C"
+#~ msgstr "-10&deg;C"
+
+#~ msgid "-21&deg;C"
+#~ msgstr "-21&deg;C"
+
+#~ msgid "-32&deg;C"
+#~ msgstr "-32&deg;C"
+
+#~ msgid "-41&deg;C"
+#~ msgstr "-41&deg;C"
+
+#~ msgid "-69&deg;C"
+#~ msgstr "-69&deg;C"
+
+#~ msgid "Earth at Night"
+#~ msgstr "La terra de nit"
+
+#~ msgid ""
+#~ "This image of <i>Earth's city lights</i> was created with data from the "
+#~ "Defense Meteorological Satellite Program (DMSP) Operational Linescan "
+#~ "System (OLS)."
+#~ msgstr ""
+#~ "Aquesta imatge dels <i>llums de ciutats de la terra</i> ha estat creada a "
+#~ "partir de l'Operational Linescan System (OLS) del Programa de Satèl·lits "
+#~ "Meteorològics de la Defensa (DMSP, EUA)."
+
+#~ msgid "Surface"
+#~ msgstr "Superfície"
+
+#~ msgid "Light terrain"
+#~ msgstr "Terreny clar"
+
+#~ msgid "Dark terrain"
+#~ msgstr "Terreny fosc"
+
+#~ msgid "Water"
+#~ msgstr "Aigua"
+
+#~ msgid "Atlas"
+#~ msgstr "Atles"
+
+#~ msgid ""
+#~ "<p>A <i>classic topographic map</i>.</p><p>It uses vector lines to mark "
+#~ "coastlines, country borders etc. and bitmap graphics to create the height "
+#~ "relief.</p>"
+#~ msgstr ""
+#~ "<p>Un <i>mapa topogràfic clàssic</i>.</p><p>Utilitza línies vectorials "
+#~ "per a dibuixar la línia de la costa, les fronteres dels països, etc., i "
+#~ "gràfics de mapa de bits per crear el relleu.</p>"
+
+#~ msgid "Relief"
+#~ msgstr "Relleu"
+
+#~ msgid "Elevation"
+#~ msgstr "Desnivell"
+
+#~ msgid "7000 m"
+#~ msgstr "7000 m"
+
+#~ msgid "5000 m"
+#~ msgstr "5000 m"
+
+#~ msgid "3500 m"
+#~ msgstr "3500 m"
+
+#~ msgid "2000 m"
+#~ msgstr "2000 m"
+
+#~ msgid "1000 m"
+#~ msgstr "1000 m"
+
+#~ msgid "500 m"
+#~ msgstr "500 m"
+
+#~ msgid "200 m"
+#~ msgstr "200 m"
+
+#~ msgid "50 m"
+#~ msgstr "50 m"
+
+#~ msgid "0 m"
+#~ msgstr "0 m"
+
+#~ msgid "0 m (Water)"
+#~ msgstr "0 m (Aigua)"
+
+#~ msgid "-50 m"
+#~ msgstr "-50 m"
+
+#~ msgid "-200 m"
+#~ msgstr "-200 m"
+
+#~ msgid "-2000 m"
+#~ msgstr "-2000 m"
+
+#~ msgid "-4000 m"
+#~ msgstr "-4000 m"
+
+#~ msgid "-6500 m"
+#~ msgstr "-6500 m"
+
+#~ msgid "-11000 m"
+#~ msgstr "-11000 m"
+
+#~ msgid "Temperature (December)"
+#~ msgstr "Temperatura (Desembre)"
+
+#~ msgid "A map which shows the average temperature in December."
+#~ msgstr "Un mapa que mostra la temperatura mitjana al Desembre."
+
+#~ msgid "Vector OSM"
+#~ msgstr "Vectorial d'OSM"
+
+#~ msgid ""
+#~ "<p>A <i>global roadmap</i> created by the OpenStreetMap (OSM) project.</"
+#~ "p><p>OSM is an open community which creates free editable maps. The OSM "
+#~ "data was rendered using Mapnik.</p>"
+#~ msgstr ""
+#~ "<p>Un <i>mapa de carreteres global</i> creat pel projecte OpenStreetMap "
+#~ "(OSM).</p><p>OSM és una comunitat oberta que crea mapes editables "
+#~ "lliures. Les dades OSM s'han renderitzat amb Mapnik.</p>"
+
+#~ msgid "OSM Bitmap Tiles"
+#~ msgstr "Mosaics de mapa de bits OSM"
+
+#~ msgid "Explore the Earth"
+#~ msgstr "Explora la Terra"
+
+#~ msgid "Hillshading"
+#~ msgstr "Ombrejat del relleu"
+
+#~ msgid "Transportation"
+#~ msgstr "Transports"
+
+#~ msgid "Areas"
+#~ msgstr "Àrees"
+
+#~ msgid "Education"
+#~ msgstr "Educació"
+
+#~ msgid "Financial"
+#~ msgstr "Serveis financers"
+
+#~ msgid "Healthcare"
+#~ msgstr "Serveis sanitaris"
+
+#~ msgid "Entertainment"
+#~ msgstr "Lleure"
+
+#~ msgid "Public Buildings"
+#~ msgstr "Edificis públics"
+
+#~ msgid "Accommodation"
+#~ msgstr "Allotjament"
+
+#~ msgid "Emergency"
+#~ msgstr "Emergència"
+
+#~ msgid "Historic"
+#~ msgstr "Històric"
+
+#~ msgid "Food and Drinks"
+#~ msgstr "Queviures"
+
+#~ msgid "Shop"
+#~ msgstr "Botiga"
+
+#~ msgid ""
+#~ "<a href=\"tour://earth/openstreetmap/tour.kml\">Play a tour of popular "
+#~ "places.</a>"
+#~ msgstr ""
+#~ "<a href=\"tour://earth/openstreetmap/tour.kml\">Fes un recorregut pels "
+#~ "llocs més populars.</a>"
+
+#~ msgid "Motorway"
+#~ msgstr "Autopistes"
+
+#~ msgid "Trunk road"
+#~ msgstr "Carretera nacional"
+
+#~ msgid "Primary road"
+#~ msgstr "Carretera principal"
+
+#~ msgid "Secondary road"
+#~ msgstr "Carretera secundària"
+
+#~ msgid "Unclassified road"
+#~ msgstr "Carretera sense classificar"
+
+#~ msgid "Unsurfaced road"
+#~ msgstr "Carretera sense asfaltar"
+
+#~ msgid "Track"
+#~ msgstr "Pista"
+
+#~ msgid "Byway"
+#~ msgstr "Camí"
+
+#~ msgid "Bridleway"
+#~ msgstr "Camí per a cavalcar"
+
+#~ msgid "Cycleway"
+#~ msgstr "Carril bici"
+
+#~ msgid "Footway"
+#~ msgstr "Camí de vianants"
+
+#~ msgid "Railway station"
+#~ msgstr "Estació de ferrocarril"
+
+#~ msgid "Railway"
+#~ msgstr "Ferrocarril"
+
+#~ msgid "Subway"
+#~ msgstr "Metro"
+
+#~ msgid "Lightrail, tram"
+#~ msgstr "Tren lleuger, tramvia"
+
+#~ msgid "Airport runway, taxiway"
+#~ msgstr "Pista d'aeroport"
+
+#~ msgid "Airport apron, terminal"
+#~ msgstr "Terminal aeroportuària"
+
+#~ msgid "Administrative boundary"
+#~ msgstr "Frontera administrativa"
+
+#~ msgid "Bridge"
+#~ msgstr "Pont"
+
+#~ msgid "Tunnel"
+#~ msgstr "Túnel"
+
+#~ msgid "Forest"
+#~ msgstr "Bosc"
+
+#~ msgid "Wood"
+#~ msgstr "Bosquet"
+
+#~ msgid "Golf course"
+#~ msgstr "Camp de golf"
+
+#~ msgid "Park"
+#~ msgstr "Parc"
+
+#~ msgid "Residential Area"
+#~ msgstr "Àrea residencial"
+
+#~ msgid "Tourist attraction"
+#~ msgstr "Atracció turística"
+
+#~ msgid "Common, meadow"
+#~ msgstr "Prat"
+
+#~ msgid "Retail area"
+#~ msgstr "Àrea de botigues"
+
+#~ msgid "Industrial Area"
+#~ msgstr "Àrea industrial"
+
+#~ msgid "Commercial Area"
+#~ msgstr "Àrea comercial"
+
+#~ msgid "Heathland"
+#~ msgstr "Complex de salut"
+
+#~ msgid "Lake, reservoir"
+#~ msgstr "Llac, dipòsit"
+
+#~ msgid "Farm"
+#~ msgstr "Granja"
+
+#~ msgid "Brownfield site"
+#~ msgstr "Erm"
+
+#~ msgid "Cemetery"
+#~ msgstr "Cementiri"
+
+#~ msgid "Allotments"
+#~ msgstr "Conreus"
+
+#~ msgid "Sports pitch"
+#~ msgstr "Àrea esportiva"
+
+#~ msgid "Sports centre"
+#~ msgstr "Centre esportiu"
+
+#~ msgid "Nature reserve"
+#~ msgstr "Reserva natural"
+
+#~ msgid "Military area"
+#~ msgstr "Àrea militar"
+
+#~ msgid "School, university"
+#~ msgstr "Escola, universitat"
+
+#~ msgid "Significant Building"
+#~ msgstr "Edifici singular"
+
+#~ msgid "Summit, peak"
+#~ msgstr "Cim, pic"
+
+#~ msgid "College"
+#~ msgstr "Facultat/institut"
+
+#~ msgid "Kindergarten"
+#~ msgstr "Llar d'infants"
+
+#~ msgid "Library"
+#~ msgstr "Biblioteca"
+
+#~ msgid "School"
+#~ msgstr "Escola"
+
+#~ msgid "University"
+#~ msgstr "Universitat"
+
+#~ msgid "ATM"
+#~ msgstr "Caixer automàtic"
+
+#~ msgid "Bank"
+#~ msgstr "Banc"
+
+#~ msgid "Bureau de change"
+#~ msgstr "Canvi de divises"
+
+#~ msgid "Dentist"
+#~ msgstr "Dentista"
+
+#~ msgid "Doctors"
+#~ msgstr "Metges"
+
+#~ msgid "Pharmacy"
+#~ msgstr "Farmàcia"
+
+#~ msgid "Veterinary"
+#~ msgstr "Veterinari"
+
+#~ msgid "Cinema"
+#~ msgstr "Cinema"
+
+#~ msgid "Theatre"
+#~ msgstr "Teatre"
+
+#~ msgid "Court"
+#~ msgstr "Jutjats"
+
+#~ msgid "Embassy"
+#~ msgstr "Ambaixada"
+
+#~ msgid "Church"
+#~ msgstr "Església"
+
+#~ msgid "Playground"
+#~ msgstr "Zona de joc"
+
+#~ msgid "Place of worship"
+#~ msgstr "Lloc de pregària"
+
+#~ msgid "Post office"
+#~ msgstr "Oficina de correus"
+
+#~ msgid "Public building"
+#~ msgstr "Edifici públic"
+
+#~ msgid "Toilets"
+#~ msgstr "Lavabos"
+
+#~ msgid "Hotel"
+#~ msgstr "Hotel"
+
+#~ msgid "Motel"
+#~ msgstr "Motel"
+
+#~ msgid "Hospital"
+#~ msgstr "Hospital"
+
+#~ msgid "Fire station"
+#~ msgstr "Quarter de bombers"
+
+#~ msgid "Monument"
+#~ msgstr "Monument"
+
+#~ msgid "Ruins"
+#~ msgstr "Runes"
+
+#~ msgid "Bar"
+#~ msgstr "Bar"
+
+#~ msgid "Cafe"
+#~ msgstr "Cafè"
+
+#~ msgid "Drinking water"
+#~ msgstr "Aigua potable"
+
+#~ msgid "Fast Food"
+#~ msgstr "Menjar ràpid"
+
+#~ msgid "Ice Cream"
+#~ msgstr "Gelats"
+
+#~ msgid "Pub"
+#~ msgstr "Pub"
+
+#~ msgid "Restaurant"
+#~ msgstr "Restaurant"
+
+#~ msgid "Alcohol"
+#~ msgstr "Alcohol"
+
+#~ msgid "Bakery"
+#~ msgstr "Forn"
+
+#~ msgid "Books"
+#~ msgstr "Llibres"
+
+#~ msgid "Car"
+#~ msgstr "Cotxe"
+
+#~ msgid "Clothes"
+#~ msgstr "Roba"
+
+#~ msgid "Convenience"
+#~ msgstr "Botiga a l'abast"
+
+#~ msgid "Gas"
+#~ msgstr "Gas"
+
+#~ msgid "Gift"
+#~ msgstr "Regals"
+
+#~ msgid "Precipitation (July)"
+#~ msgstr "Precipitació (Juliol)"
+
+#~ msgid ""
+#~ "A map which shows the average precipitation (rain/snow/hail/etc) in July."
+#~ msgstr ""
+#~ "Un mapa que mostra la precipitació mitjana (pluja/neu/pedra/etc.) al "
+#~ "Juliol."
+
+#~ msgid "Precipitation"
+#~ msgstr "Precipitació"
+
+#~ msgid "0 mm"
+#~ msgstr "0 mm"
+
+#~ msgid "10 mm"
+#~ msgstr "10 mm"
+
+#~ msgid "40 mm"
+#~ msgstr "40 mm"
+
+#~ msgid "63 mm"
+#~ msgstr "63 mm"
+
+#~ msgid "89 mm"
+#~ msgstr "89 mm"
+
+#~ msgid "127 mm"
+#~ msgstr "127 mm"
+
+#~ msgid "256 mm"
+#~ msgstr "256 mm"
+
+#~ msgid "512 mm"
+#~ msgstr "512 mm"
+
+#~ msgid "1024 mm or more"
+#~ msgstr "1024 mm o més"
+
+#~ msgid "Empty globe"
+#~ msgstr "Globus buit"
+
+#~ msgid ""
+#~ "<p>An <i>empty globe</i> used as a base to load and view .osm files "
+#~ "(offline maps).</p>"
+#~ msgstr ""
+#~ "<p>Un <i>globus buit</i> usat com a base per carregar i veure fitxers ."
+#~ "osm (mapes fora de línia).</p>"
+
+#~ msgid "Satellite View"
+#~ msgstr "Vista de satèl·lit"
+
+#~ msgid ""
+#~ "<p>Earth as seen from Space.</p><p>The map is based on NASA's beautiful "
+#~ "\"Blue Marble Next Generation\" pictures. Credits: NASA's Earth "
+#~ "Observatory</p>"
+#~ msgstr ""
+#~ "<p>La terra vista des de l'espai.</p><p>El mapa està basat en les belles "
+#~ "imatges de la NASA «Blue Marble Next Generation» (nova generació de la "
+#~ "bala blava). Crèdits: Observatori de la terra, NASA.</p>"
+
+#~ msgid "Ice"
+#~ msgstr "Gel"
+
+#~ msgid "Vegetation"
+#~ msgstr "Vegetació"
+
+#~ msgid "Desert"
+#~ msgstr "Desert"
+
+#~ msgid "Political Map"
+#~ msgstr "Mapa polític"
+
+#~ msgid ""
+#~ "<p>A <i>Political Map</i>.</p><p>The theme displays various countries.</p>"
+#~ msgstr "<p>A <i>Mapa polític</i>.</p><p>El tema mostra diversos països.</p>"
+
+#~ msgid "Rivers"
+#~ msgstr "Rius"
+
+#~ msgid "Precipitation (December)"
+#~ msgstr "Precipitació (Desembre)"
+
+#~ msgid "A map which shows the average precipitation in December."
+#~ msgstr "Un mapa que mostra la precipitació mitjana al desembre."
+
+#~ msgid "SRTM Data"
+#~ msgstr "Dades SRTM"
+
+#~ msgid "Behaim Globe 1492"
+#~ msgstr "Globus terraqüi de Behaim de 1492"
+
+#~ msgid ""
+#~ "<p> Martin Behaim's <i>Erdapfel</i> is the oldest existent globe of the "
+#~ "Earth. <i>Credits: Germanisches Nationalmuseum, Nuremberg, License: CC BY-"
+#~ "SA 3.0.</i></p>"
+#~ msgstr ""
+#~ "<p>L'<i>Erdapfel</i> del Martin Behaim és el globus terraqüi existent més "
+#~ "antic. <i>Crèdits: Germanisches Nationalmuseum, Nuremberg, License: CC BY-"
+#~ "SA 3.0.</i></p>"
+
+#~ msgid "Places (in German)"
+#~ msgstr "Llocs (en alemany)"
+
+#~ msgid "Behaim Places"
+#~ msgstr "Llocs del Behaim"
+
+#~ msgid "Texts and illustrations"
+#~ msgstr "Textos i il·lustracions"
+
+#~ msgid "Facsimile drawings"
+#~ msgstr "Dibuixos facsímils"
+
+#~ msgid "Ravenstein (1908)"
+#~ msgstr "Ravenstein (1908)"
+
+#~ msgid "Ghillany (1853)"
+#~ msgstr "Ghillany (1853)"
+
+#~ msgid "Reference lines"
+#~ msgstr "Línies de referència"
+
+#~ msgid "Accurate Coastline"
+#~ msgstr "Línia de la costa acurada"
+
+#~ msgid "Historical Map 1689"
+#~ msgstr "Mapa històric, 1689"
+
+#~ msgid ""
+#~ "<i>Historical world map</i> from the year 1689 created by G. van Schagen "
+#~ "in Amsterdam."
+#~ msgstr ""
+#~ "<i>Mapamundi històric</i> de l'any 1689 creat a Amsterdam per G. van "
+#~ "Schagen."
+
+#~ msgid "Town"
+#~ msgstr "Ciutat"
+
+#~ msgid "OpenStreetMap"
+#~ msgstr "OpenStreetMap"
+
+#~ msgid "Clouds"
+#~ msgstr "Núvols"
+
+#~ msgid ""
+#~ "A Real Time Cloud Map that gets updated every 3 hours. It uses GOES, "
+#~ "METEOSAT, and GMS satellite imagery downloaded from the Geostationary "
+#~ "Satellite Imagery page at Dundee University.  Credits: Hari Nair, Xplanet "
+#~ "Project"
+#~ msgstr ""
+#~ "Un mapa en temps real dels núvols, que s'actualitza cada 3 hores. "
+#~ "Utilitza imatges dels satèl·lits GOES, METEOSAT i GMS descarregades des "
+#~ "de la pàgina d'imatges de satèl·lits geoestacionaris de la universitat de "
+#~ "Dundee. Crèdits: Hari Nair, projecte Xplanet"
+
+#~ msgid "Marble: Legend"
+#~ msgstr "Marble: Llegenda"
+
+#~ msgid "<a href="
+#~ msgstr "<a href="
+
+#~ msgid "Population:"
+#~ msgstr "Població:"
+
+#~ msgid "&gt; 1&nbsp;000&nbsp;000"
+#~ msgstr "&gt; 1&nbsp;000&nbsp;000"
+
+#~ msgid "&ge; 100&nbsp;000"
+#~ msgstr "&ge; 100&nbsp;000"
+
+#~ msgid "&ge; 10&nbsp;000"
+#~ msgstr "&ge; 10&nbsp;000"
+
+#~ msgid "&lt; 10&nbsp;000"
+#~ msgstr "&lt; 10&nbsp;000"
+
+#~ msgid "<br/>"
+#~ msgstr "<br/>"
+
+#~ msgid "Capitals:"
+#~ msgstr "Capitals:"
+
+#~ msgid "Red:&nbsp;Nation"
+#~ msgstr "Vermell: Nació"
+
+#~ msgid "Orange:&nbsp;State"
+#~ msgstr "Taronja: Estat"
+
+#~ msgid "Yellow:&nbsp;County"
+#~ msgstr "Groc: Comtat"
+
+#~ msgid "White:&nbsp;None"
+#~ msgstr "Blanc: Cap"
+
+#~ msgid "<!-- ##customLegendEntries:all## -->"
+#~ msgstr "<!-- ##customLegendEntries:all## -->"
+
+#~ msgid "Marble - Game"
+#~ msgstr "Marble - Joc"
+
+#~ msgid "The Earth"
+#~ msgstr "La Terra"
+
+#~ msgid "The Marble widget displays a virtual globe."
+#~ msgstr "L'estri Marble mostra un globus terraqüi virtual."
+
+#~ msgid "Navigation Control"
+#~ msgstr "Control de navegació"
+
+#~ msgid "Use this control to navigate."
+#~ msgstr "Utilitzeu aquest control per a navegar."
+
+#~ msgid "Show places"
+#~ msgstr "Mostra els llocs"
+
+#~ msgid "Show relief"
+#~ msgstr "Mostra el relleu"
+
+#~ msgid "Show scale bar"
+#~ msgstr "Mostra la barra d'escala"
+
+#~ msgid "Show borders"
+#~ msgstr "Mostra les fronteres"
+
+#~ msgid "Show ice / snow"
+#~ msgstr "Mostra el gel / neu"
+
+#~ msgid "Show compass"
+#~ msgstr "Mostra la brúixola"
+
+#~ msgid "Show grid"
+#~ msgstr "Mostra la graella"
+
+#~ msgid "Show rivers / lakes"
+#~ msgstr "Mostra els rius / llacs"
+
+#~ msgid "Show elevation model"
+#~ msgstr "Mostra el model de desnivell"
+
+#~ msgid "Coordinates: "
+#~ msgstr "Coordenades: "
+
+#~ msgid "Add link"
+#~ msgstr "Afegeix un enllaç"
+
+#~ msgid "URL:"
+#~ msgstr "URL:"
+
+#~ msgid "Name:"
+#~ msgstr "Nom:"
+
+#~ msgid "Bookmark Manager - Marble"
+#~ msgstr "Gestor d'adreces d'interès - Marble"
+
+#~ msgid "Import Bookmarks..."
+#~ msgstr "Importa les adreces d'interès..."
+
+#~ msgid "Export Bookmarks..."
+#~ msgstr "Exporta les adreces d'interès..."
+
+#~ msgid "Folders"
+#~ msgstr "Carpetes"
+
+#~ msgid "New"
+#~ msgstr "Nova"
+
+#~ msgid "Rename"
+#~ msgstr "Reanomena"
+
+#~ msgid "Delete"
+#~ msgstr "Suprimeix"
+
+#~ msgid "Bookmarks"
+#~ msgstr "Punts"
+
+#~ msgid "Edit"
+#~ msgstr "Edita"
+
+#~ msgid "Cloud Routes"
+#~ msgstr "Itineraris al núvol"
+
+#~ msgid "No route available."
+#~ msgstr "No hi ha cap itinerari disponible."
+
+#~ msgid "Current Location"
+#~ msgstr "Emplaçament actual"
+
+#~ msgid "Position Tracking"
+#~ msgstr "Seguiment de la posició"
+
+#~ msgid "Disabled"
+#~ msgstr "Desactivat"
+
+#~ msgid "Show Track"
+#~ msgstr "Mostra la pista"
+
+#~ msgid "Clear Track"
+#~ msgstr "Neteja la pista"
+
+#~ msgid "..."
+#~ msgstr "..."
+
+#~ msgid "No position available."
+#~ msgstr "No hi ha cap posició disponible."
+
+#~ msgctxt "Select the method to use to recenter your GPS location on map."
+#~ msgid "Select the method to use to re-center your GPS location on map."
+#~ msgstr ""
+#~ "Seleccioneu el mètode a usar per tornar a centrar la posició del GPS al "
+#~ "mapa."
+
+#~ msgid "Map Adjustment"
+#~ msgstr "Ajustos del mapa"
+
+#~ msgctxt "Disable Auto Recenter"
+#~ msgid "Disabled"
+#~ msgstr "Desactivat"
+
+#~ msgctxt "Always keep gps location at the center of the map"
+#~ msgid "Keep at Center"
+#~ msgstr "Mantén al centre"
+
+#~ msgctxt "Auto center when required"
+#~ msgid "When required"
+#~ msgstr "Quan sigui necessari"
+
+#~ msgctxt "Auto Zoom to appropriate zoom level"
+#~ msgid "Auto Zoom to appropriate zoom level"
+#~ msgstr "Zoom automàtic al nivell apropiat"
+
+#~ msgid "Auto Zoom"
+#~ msgstr "Zoom automàtic"
+
+#~ msgid "Data Migration"
+#~ msgstr "Migració de dades"
+
+#~ msgid ""
+#~ "Marble has found map data stored by a previous Marble version.<br/>Should "
+#~ "this data get converted so that it can be used by the current version?"
+#~ msgstr ""
+#~ "El Marble ha trobat dades de mapes emmagatzemats per versions prèvies del "
+#~ "Marble.<br/>Voleu que aquestes dades es converteixin perquè es puguin "
+#~ "usar amb la versió actual?"
+
+#~ msgid "Edit Bookmark - Marble"
+#~ msgstr "Edita una adreça d'interès - Marble"
+
+#~ msgid "&Description"
+#~ msgstr "&Descripció"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<table border=\"0\" style=\"-qt-table-type: root; margin-top:4px; margin-"
+#~ "bottom:4px; margin-left:4px; margin-right:4px;\">\n"
+#~ "<tr>\n"
+#~ "<td style=\"border: none;\">\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-family:'Ubuntu';\"><br /></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-family:'Ubuntu';\"><br /></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-family:'Ubuntu';\"><br /></p></td></tr></table></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<table border=\"0\" style=\"-qt-table-type: root; margin-top:4px; margin-"
+#~ "bottom:4px; margin-left:4px; margin-right:4px;\">\n"
+#~ "<tr>\n"
+#~ "<td style=\"border: none;\">\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-family:'Ubuntu';\"><br /></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-family:'Ubuntu';\"><br /></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-family:'Ubuntu';\"><br /></p></td></tr></table></body></html>"
+
+#~ msgid "&Folder"
+#~ msgstr "&Carpeta"
+
+#~ msgid "&Add Folder"
+#~ msgstr "&Afegeix una carpeta"
+
+#~ msgid "Edit placemark"
+#~ msgstr "Edita marca de lloc"
+
+#~ msgid "Description"
+#~ msgstr "Descripció"
+
+#~ msgid "Show Balloon Popup"
+#~ msgstr "Mostra un globus emergent"
+
+#~ msgid "Style, Color"
+#~ msgstr "Estil, Color"
+
+#~ msgid "Label"
+#~ msgstr "Etiqueta"
+
+#~ msgid "Color:"
+#~ msgstr "Color:"
+
+#~ msgid "Scale:"
+#~ msgstr "Escala:"
+
+#~ msgid "Icon"
+#~ msgstr "Icona"
+
+#~ msgid "Show placemark"
+#~ msgstr "Mostra les marques de lloc"
+
+#~ msgid "Bold"
+#~ msgstr "Negreta"
+
+#~ msgid "Italics"
+#~ msgstr "Cursiva"
+
+#~ msgid "Underlined"
+#~ msgstr "Subratllada"
+
+#~ msgid "Add image"
+#~ msgstr "Afegeix una imatge"
+
+#~ msgid "Elevation:"
+#~ msgstr "Desnivell:"
+
+#~ msgid " m"
+#~ msgstr " m"
+
+#~ msgid "above sea level"
+#~ msgstr "sobre el nivell del mar"
+
+#~ msgid "External Map Editor Selection"
+#~ msgstr "Selecció de l'editor de mapes extern"
+
+#~ msgid "External Map Editor"
+#~ msgstr "Editor de mapes extern"
+
+#~ msgid "Web browser (iD)"
+#~ msgstr "Navegador web (iD)"
+
+#~ msgid "Merkaartor"
+#~ msgstr "Merkaartor"
+
+#~ msgid "JOSM"
+#~ msgstr "JOSM"
+
+#~ msgid ""
+#~ "Deactivate to be prompted for a map editor selection next time again. "
+#~ "Otherwise, your choice is remembered and will be used automatically in "
+#~ "the future. If you want to alter the default map editor later, you can do "
+#~ "so in the Marble Settings."
+#~ msgstr ""
+#~ "Desactiva que es torni a sol·licitar la selecció de l'editor de mapes. Si "
+#~ "no, el què escolliu es recordarà i s'usarà automàticament en el futur. Si "
+#~ "més endavant voleu canviar l'editor de mapes predeterminat, podeu fer-ho "
+#~ "als arranjaments del Marble."
+
+#~ msgid "Make my selection the default map editor"
+#~ msgstr "Fes de la meva selecció l'editor de mapes predeterminat"
+
+#~ msgid "Editor Details"
+#~ msgstr "Detalls de l'editor"
+
+#~ msgid "Editor Preview"
+#~ msgstr "Vista prèvia de l'editor"
+
+#~ msgid ""
+#~ "iD is an OpenStreetMap editor for quick editing tasks and beginners. It "
+#~ "requires a web browser."
+#~ msgstr ""
+#~ "iD és un editor de l'OpenStreetMap per a tasques d'edició ràpides i "
+#~ "principiants. Requereix un navegador web."
+
+#~ msgid "File View"
+#~ msgstr "Vista de fitxer"
+
+#~ msgid "&Save"
+#~ msgstr "&Desa"
+
+#~ msgid "&Close"
+#~ msgstr "&Tanca"
+
+#~ msgid "Formatted text"
+#~ msgstr "Text amb format"
+
+#~ msgid "6"
+#~ msgstr "6"
+
+#~ msgid "8"
+#~ msgstr "8"
+
+#~ msgid "9"
+#~ msgstr "9"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "11"
+#~ msgstr "11"
+
+#~ msgid "12"
+#~ msgstr "12"
+
+#~ msgid "14"
+#~ msgstr "14"
+
+#~ msgid "16"
+#~ msgstr "16"
+
+#~ msgid "18"
+#~ msgstr "18"
+
+#~ msgid "20"
+#~ msgstr "20"
+
+#~ msgid "24"
+#~ msgstr "24"
+
+#~ msgid "36"
+#~ msgstr "36"
+
+#~ msgid "48"
+#~ msgstr "48"
+
+#~ msgid "72"
+#~ msgstr "72"
+
+#~ msgid "96"
+#~ msgstr "96"
+
+#~ msgid "toolBar"
+#~ msgstr "Barra d'eines"
+
+#~ msgid "Color"
+#~ msgstr "Color"
+
+#~ msgid "Go To..."
+#~ msgstr "Vés a..."
+
+#~ msgid ""
+#~ "Enter a search term and press Enter. <a href=\"http://userbase.kde.org/"
+#~ "Marble/Search\">Details...</a>"
+#~ msgstr ""
+#~ "Introduïu un terme de cerca i premeu Retorn. <a href=\"http://userbase."
+#~ "kde.org/ Marble/Search\">Detalls...</a>"
+
+#~ msgid "Browse"
+#~ msgstr "Navega"
+
+#~ msgid "Search"
+#~ msgstr "Cerca"
+
+#~ msgid "Select a geographic region"
+#~ msgstr "Escolliu una regió geogràfica"
+
+#~ msgid "Northern Latitude"
+#~ msgstr "Latitud Nord"
+
+#~ msgid "°"
+#~ msgstr "°"
+
+#~ msgid "&N"
+#~ msgstr "&N"
+
+#~ msgid "Western Longitude"
+#~ msgstr "Longitud Oest"
+
+#~ msgid "&W"
+#~ msgstr "&O"
+
+#~ msgid "Eastern Longitude"
+#~ msgstr "Longitud Est"
+
+#~ msgid "&E"
+#~ msgstr "&E"
+
+#~ msgid "Southern Latitude"
+#~ msgstr "Latitud Sud"
+
+#~ msgid "&S"
+#~ msgstr "&S"
+
+#~ msgid "′"
+#~ msgstr "′"
+
+#~ msgid "″"
+#~ msgstr "″"
+
+#~ msgid "Legend"
+#~ msgstr "Llegenda"
+
+#~ msgid "about:blank"
+#~ msgstr "quant a:en blanc"
+
+#~ msgid "Marble - Install Maps"
+#~ msgstr "Marble - Instal·lació de mapes"
+
+#~ msgid "Map View"
+#~ msgstr "Vista de mapa"
+
+#~ msgid "&Projection"
+#~ msgstr "&Projecció"
+
+#~ msgid "Globe"
+#~ msgstr "Globus"
+
+#~ msgid "Flat Map"
+#~ msgstr "Mapa pla"
+
+#~ msgid "Mercator"
+#~ msgstr "Mercator"
+
+#~ msgid "Gnomonic"
+#~ msgstr "Gnomònica"
+
+#~ msgid "Stereographic"
+#~ msgstr "Estereogràfica"
+
+#~ msgid "Lambert Azimuthal Equal Area"
+#~ msgstr "Azimutal homologràfica de Lambert"
+
+#~ msgid "Azimuthal Equidistant"
+#~ msgstr "Azimutal equidistant"
+
+#~ msgid "Vertical Perspective Globe"
+#~ msgstr "Perspectiva vertical del globus"
+
+#~ msgid "&Celestial Body"
+#~ msgstr "Cos &celestial"
+
+#~ msgid "&Theme"
+#~ msgstr "&Tema"
+
+#~ msgid "Here you can choose the preferred map view from different topics."
+#~ msgstr ""
+#~ "Aquí podeu escollir la vista preferida del mapa entre diversos modes."
+
+#~ msgid "Marble Map Theme Creation Wizard"
+#~ msgstr "Assistent per a la creació de temes de mapa del Marble"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Welcome to the Map Creation Wizard!</span></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
+#~ "\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">We will guide you "
+#~ "through the process of creating a map theme for Marble. In the end you "
+#~ "will have your own map that you can view in Marble.</p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Please choose the "
+#~ "source that you want to use for the data of your map theme:</p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
+#~ "\"></p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Us donem la benvinguda a l'assistent de creació de mapes!</"
+#~ "span></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
+#~ "\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">A continuació se us "
+#~ "guiarà a través del procés de creació d'un tema de mapa pel Marble. al "
+#~ "final obtindreu un mapa que podreu visualitzar en el Marble.</p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Escolliu la font de "
+#~ "dades que voleu utilitzar per al vostre tema de mapa:</p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
+#~ "\"></p></body></html>"
+
+#~ msgid ""
+#~ "Connects to a server on the Internet. The map data is queried via the WMS "
+#~ "protocol."
+#~ msgstr ""
+#~ "Connecta a un servidor d'Internet. Les dades del mapa es consulten via el "
+#~ "protocol WMS."
+
+#~ msgid "Web Map Service (WMS)"
+#~ msgstr "Servei web de mapes (WMS)"
+
+#~ msgid ""
+#~ "You need to provide a bitmap image of a world map that is stored on disk."
+#~ msgstr ""
+#~ "Heu de proporcionar una imatge bitmap d'un mapamundi desada al disc."
+
+#~ msgid "A single image showing the whole world"
+#~ msgstr "Una única imatge que mostri el món sencer"
+
+#~ msgid ""
+#~ "Connects to a server on the Internet. The map data is queried via a "
+#~ "static URL."
+#~ msgstr ""
+#~ "Connecta a un servidor d'Internet. Les dades del mapa es consulten via un "
+#~ "URL estàtic."
+
+#~ msgid "Online map providing indexed tiles (e.g. Open Street Map)"
+#~ msgstr "Mapa en línia que ofereix mosaics indexats (p. ex. Open Street Map)"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">WMS Server</span></p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Please choose a <a href="
+#~ "\"http://en.wikipedia.org/wiki/Web_Map_Service\"><span style=\" text-"
+#~ "decoration: underline; color:#0057ae;\">WMS</span></a> server or enter a "
+#~ "custom server URL.</p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Servidor WMS</span></p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Seleccioneu un servidor "
+#~ "<a href=\"http://en.wikipedia.org/wiki/Web_Map_Service\"><span style=\" "
+#~ "text-decoration: underline; color:#0057ae;\">WMS</span></a> o introduïu "
+#~ "l'URL d'un servidor personalitzat.</p></body></html>"
+
+#~ msgid "WMS Server:"
+#~ msgstr "Servidor WMS:"
+
+#~ msgid "Custom"
+#~ msgstr "A mida"
+
+#~ msgid "http://"
+#~ msgstr "http://"
+
+#~ msgid "Available Maps:"
+#~ msgstr "Mapes disponibles:"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">World Map Bitmap Image</span></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-weight:600;\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Please choose the "
+#~ "location of a world map that is stored in a single image file (JPG, PNG, "
+#~ "etc.). It needs to be provided in <a href=\"http://en.wikipedia.org/wiki/"
+#~ "Equirectangular_projection\"><span style=\" text-decoration: underline; "
+#~ "color:#0057ae;\">Equirectangular projection</span></a>, so the shape "
+#~ "should look like this (size ratio: 2:1):</p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><img src=\":/data/svg/"
+#~ "worldmap.svg\" width=\"150\" /></p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Imatge de mapa de bits del mapamundi</span></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-weight:600;\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Escolliu l'emplaçament "
+#~ "d'un mapamundi que estigui desat en un únic fitxer d'imatge (JPG, PNG, "
+#~ "etc.). Cal que estigui en <a href=\"http://en.wikipedia.org/wiki/"
+#~ "Equirectangular_projection\"><span style=\" text-decoration: underline; "
+#~ "color:#0057ae;\">Projecció equirectangular</span></a>, per la qual cosa "
+#~ "la forma serà semblant a aquesta (ràtio: 2:1):</p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><img src=\":/data/svg/"
+#~ "worldmap.svg\" width=\"150\" /></p></body></html>"
+
+#~ msgid "Source Image:"
+#~ msgstr "Imatge origen:"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+#~ "size:9pt; font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif'; font-weight:600;\">URL Scheme for Indexed Tiles</"
+#~ "span></p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif';\">Please enter the URL used for downloading "
+#~ "individual tiles. Use the placeholders </span><span style=\" font-"
+#~ "family:'Sans Serif'; font-style:italic;\">{x}</span><span style=\" font-"
+#~ "family:'Sans Serif';\">, </span><span style=\" font-family:'Sans Serif'; "
+#~ "font-style:italic;\">{y}</span><span style=\" font-family:'Sans Serif';"
+#~ "\">, and </span><span style=\" font-family:'Sans Serif'; font-style:"
+#~ "italic;\">{zoomLevel}</span><span style=\" font-family:'Sans Serif';\"> "
+#~ "to reference a tile from the index.</span></p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+#~ "size:9pt; font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif'; font-weight:600;\">Esquema d'URL pels mosaics "
+#~ "indexats</span></p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif';\">Introduïu l'URL utilitzat per descarregar rajoles "
+#~ "individuals. Useu els marcadors de posició </span><span style=\" font-"
+#~ "family:'Sans Serif'; font-style:italic;\">{x}</span><span style=\" font-"
+#~ "family:'Sans Serif';\">, </span><span style=\" font-family:'Sans Serif'; "
+#~ "font-style:italic;\">{y}</span><span style=\" font-family:'Sans Serif';"
+#~ "\">, i </span><span style=\" font-family:'Sans Serif'; font-style:italic;"
+#~ "\">{zoomLevel}</span><span style=\" font-family:'Sans Serif';\"> per "
+#~ "referenciar una rajola des de l'índex.</span></p></body></html>"
+
+#~ msgid "URL Scheme:"
+#~ msgstr "Esquema d'URL:"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+#~ "size:9pt; font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif'; font-weight:600;\">General Information</span></p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif';\">Please specify a title, a name and an icon for "
+#~ "your new map. Add a description to let users know what your map is about. "
+#~ "</span></p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+#~ "size:9pt; font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif'; font-weight:600;\">Informació general</span></p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif';\">Especifiqueu un títol, nom i icona pel nou mapa. "
+#~ "Afegiu-hi una descripció per tal que els usuaris sàpiguen de què va el "
+#~ "mapa. </span></p></body></html>"
+
+#~ msgid "Map Title:"
+#~ msgstr "Títol del mapa:"
+
+#~ msgid "A short concise name for your map theme."
+#~ msgstr "Un nom curt i concís pel vostre tema de mapa."
+
+#~ msgid "Map Name:"
+#~ msgstr "Nom del mapa:"
+
+#~ msgid "The lowercase map theme id."
+#~ msgstr "L'id del tema de mapa, en minúscula."
+
+#~ msgid "The folder name of your new theme."
+#~ msgstr "El nom de la carpeta del nou tema."
+
+#~ msgid "Description:"
+#~ msgstr "Descripció:"
+
+#~ msgid ""
+#~ "A short description of your map theme. Here you can provide information "
+#~ "about the purpose, origin, copyright and license of the data used in your "
+#~ "map theme."
+#~ msgstr ""
+#~ "Una breu descripció del tema de mapa. Aquí podeu oferir informació sobre "
+#~ "el propòsit, origen, copyright i llicència de les dades usades en el tema "
+#~ "de mapa."
+
+#~ msgid "It will appear in a tool tip and may contain HTML formatting."
+#~ msgstr "Apareixerà en un rètol informatiu i pot contenir format HTML."
+
+#~ msgid "Preview Image:"
+#~ msgstr "Previsualitza la imatge:"
+
+#~ msgid "preview image"
+#~ msgstr "previsualitza la imatge"
+
+#~ msgid "Change..."
+#~ msgstr "Canvia..."
+
+#~ msgid "Legend Image:"
+#~ msgstr "Imatge de la llegenda:"
+
+#~ msgid "Places of Interest"
+#~ msgstr "Llocs d'interès"
+
+#~ msgid "Populated Places"
+#~ msgstr "Llocs poblats"
+
+#~ msgid "Terrain"
+#~ msgstr "Terreny"
+
+#~ msgid "Coordinate Grid"
+#~ msgstr "Graella de coordenades"
+
+#~ msgid "Border Lines"
+#~ msgstr "Línies de frontera"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Summary</span></p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Congratulations! You "
+#~ "have entered all the data that is necessary to create your map theme. "
+#~ "Check the summary below carefully and press the \"Finish\" button to "
+#~ "create the theme. </p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Please consider "
+#~ "contributing the map theme back to the Marble community if the license "
+#~ "and the terms of use allow for it.</p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
+#~ "\"></p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Resum</span></p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">L'enhorabona! Heu "
+#~ "introduït totes les dades necessàries crear el tema de mapa. Comproveu "
+#~ "curosament el formulari del dessota i premeu el botó «Acaba» per crear el "
+#~ "tema.</p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Considereu també la "
+#~ "possibilitat de donar aquest mapa a la comunitat del Marble si la "
+#~ "llicència i les condicions d'ús ho permeten.</p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
+#~ "\"></p></body></html>"
+
+#~ msgid "Map name goes here."
+#~ msgstr "Aquí hi va el nom del mapa."
+
+#~ msgid "Map Theme:"
+#~ msgstr "Tema del mapa:"
+
+#~ msgid "Map theme goes here."
+#~ msgstr "Aquí hi va el tema del mapa."
+
+#~ msgid "Thumbnail image goes here."
+#~ msgstr "Aquí hi va la imatge en miniatura."
+
+#~ msgid "Preview Map"
+#~ msgstr "Previsualitza el mapa"
+
+#~ msgid "About Marble"
+#~ msgstr "Quant al Marble"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal; text-decoration:none;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Marble Virtual Globe</span></p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal; text-decoration:none;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Marble: Globus terraqüi virtual</span></p></body></html>"
+
+#~ msgid "Version Unknown"
+#~ msgstr "Versió desconeguda"
+
+#~ msgid "&About"
+#~ msgstr "&Quant a"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-size:9pt;\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:9pt;\">(c) 2007, The Marble Project</span></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-size:9pt; font-style:italic;\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:9pt;\">http://edu.kde.org/marble</span></p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-size:9pt;\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:9pt;\">(c) 2007, El projecte Marble</span></p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-size:9pt; font-style:italic;\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:9pt;\">http://edu.kde.org/marble</span></p></body></html>"
+
+#~ msgid "A&uthors"
+#~ msgstr "A&utors"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-size:9pt;\"></p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-size:9pt;\"></p></body></html>"
+
+#~ msgid "&Data"
+#~ msgstr "&Dades"
+
+#~ msgid "&License Agreement"
+#~ msgstr "Acord de &llicència"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-family:'MS Shell Dlg 2'; font-size:8pt;\"></p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+#~ "font-family:'MS Shell Dlg 2'; font-size:8pt;\"></p></body></html>"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">There are two caches "
+#~ "being used for Marble: The physical memory which is needed to keep map "
+#~ "data in the computer's memory. Increasing the value will make the "
+#~ "application more responsive. The hard disc memory cache is used by "
+#~ "download contents from the Internet (e.g. Wikipedia data or map data). "
+#~ "Decrease this value if you want to save space on the hard disc and if "
+#~ "high usage of the Internet is not an issue. </p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">El Marble usa dues "
+#~ "menes de caus: La memòria física necessària per a mantenir les dades del "
+#~ "mapa a la memòria de l'ordinador. Incrementant el valor farà l'aplicació "
+#~ "més àgil. El cau de disc s'utilitza per descarregar continguts d'Internet "
+#~ "(p. ex. dades de la Viquipèdia o dades de mapes). Disminuïu aquest valor "
+#~ "si voleu estalviar espai en disc i si no us importa fer un ús elevat de "
+#~ "la connexió a Internet. </p></body></html>"
+
+#~ msgid "C&ache"
+#~ msgstr "C&au"
+
+#~ msgid "&Physical memory:"
+#~ msgstr "&Memòria física:"
+
+#~ msgid " MB"
+#~ msgstr "MB"
+
+#~ msgid "C&lear"
+#~ msgstr "&Neteja"
+
+#~ msgid "&Hard disc:"
+#~ msgstr "&Disc dur:"
+
+#~ msgid "Unlimited"
+#~ msgstr "Sense límit"
+
+#~ msgid "Cl&ear"
+#~ msgstr "N&eteja"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Proxy settings for your "
+#~ "local intranet. Please leave empty if there is no proxy.</p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Arranjaments de "
+#~ "l'intermediari de la vostra intranet local. Deixeu-ho en blanc si no hi "
+#~ "ha intermediari.</p></body></html>"
+
+#~ msgid "&Proxy"
+#~ msgstr "&Intermediari"
+
+#~ msgid "&Proxy:"
+#~ msgstr "&Intermediari:"
+
+#~ msgid "P&ort:"
+#~ msgstr "P&ort:"
+
+#~ msgid "Proxy type:"
+#~ msgstr "Tipus de servidor intermediari:"
+
+#~ msgid "Http"
+#~ msgstr "Http"
+
+#~ msgid "Socks5"
+#~ msgstr "Socks5"
+
+#~ msgid "Requires authentication"
+#~ msgstr "Requereix autenticació"
+
+#~ msgid "U&sername:"
+#~ msgstr "Nom d'&usuari:"
+
+#~ msgid "&Password:"
+#~ msgstr "&Contrasenya:"
+
+#~ msgid "Enable synchronization"
+#~ msgstr "Activa la sincronització"
+
+#~ msgid ""
+#~ "Allows you to store routes in owncloud. Each route must be uploaded/"
+#~ "downloaded manually."
+#~ msgstr ""
+#~ "Permet emmagatzemar rutes al núvol propi. Cada itinerari s'haurà de "
+#~ "publicar/baixar manualment."
+
+#~ msgid "Enable route synchronization"
+#~ msgstr "Activa la sincronització de l'itinerari"
+
+#~ msgid "Automatically sync all bookmarks to the server."
+#~ msgstr ""
+#~ "Sincronitza automàticament totes les adreces d'interès amb el servidor."
+
+#~ msgid "Enable bookmark synchronization"
+#~ msgstr "Activa la sincronització de les adreces d'interès"
+
+#~ msgid "Sync now"
+#~ msgstr "Sincronitza ara"
+
+#~ msgid "Credentials"
+#~ msgstr "Credencials"
+
+#~ msgid "Server:"
+#~ msgstr "Servidor:"
+
+#~ msgid "Remote server URL, e.g. myserver.com/owncloud"
+#~ msgstr "L'URL del servidor remot, p. ex. servidor_meu.com/núvol_propi"
+
+#~ msgid "Username:"
+#~ msgstr "Nom d'usuari:"
+
+#~ msgid "Password:"
+#~ msgstr "Contrasenya:"
+
+#~ msgid "Test Login"
+#~ msgstr "Prova la identificació"
+
+#~ msgid "Marble Cache Settings"
+#~ msgstr "Arranjaments del cau de Marble"
+
+#~ msgid "Dragging and Animation"
+#~ msgstr "Arrossegament i animació"
+
+#~ msgid "&Drag location:"
+#~ msgstr "&Arrossega l'emplaçament:"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">While dragging the "
+#~ "mouse there are two standard behaviours when dealing with a virtual globe:"
+#~ "</p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">The location below "
+#~ "mouse pointer will follow the cursor exactly: As a result e.g. the north "
+#~ "pole will not stay at the top which can lead to confusion. By default "
+#~ "Marble makes sure that north is always up which results in a dragging "
+#~ "behaviour where the location below the mouse pointer slightly \"detaches"
+#~ "\" from the cursor. </p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Hi ha dos comportaments "
+#~ "usuals mentre es mou un globus terraqüi amb el ratolí:</p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">L'emplaçament sota el "
+#~ "punter del ratolí seguirà exactament el cursor: En conseqüència p. ex. el "
+#~ "pol nord no restarà al capdamunt, cosa que pot induir a confusió. Per "
+#~ "omissió, el Marble s'assegura que el nord quedi sempre a dalt, cosa que "
+#~ "fa que en arrossegar el globus l'emplaçament sota el punter no segueixi "
+#~ "exactament el cursor. </p></body></html>"
+
+#~ msgid "Keep Planet Axis Vertically"
+#~ msgstr "Mantén vertical l'eix del planeta"
+
+#~ msgid "Follow Mouse Pointer"
+#~ msgstr "Segueix el punter del ratolí"
+
+#~ msgid "Use kinetic spinning when dragging the map"
+#~ msgstr "Usa un gir cinètic en arrossegar el mapa"
+
+#~ msgid "&Inertial Globe Rotation"
+#~ msgstr "Rotació &Inercial del Globus"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">When searching for a "
+#~ "location Marble can either move instantly to the new location or it can "
+#~ "show a travel animation from the previous place to the new place.</p></"
+#~ "body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Quan s'està cercant un "
+#~ "emplaçament, el Marble pot desplaçar-se instantàniament a la nova posició "
+#~ "o bé pot mostrar un moviment animat des de la posició prèvia a la nova.</"
+#~ "p></body></html>"
+
+#~ msgid "&Animate voyage to the target"
+#~ msgstr "&Anima el desplaçament fins a l'objectiu"
+
+#~ msgid "&On startup:"
+#~ msgstr "&En arrencar:"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">By default Marble will "
+#~ "display the home location immediately after the application has started. "
+#~ "As an alternative it can also show the last position that was active when "
+#~ "the user left the application. </p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Per omissió el Marble "
+#~ "mostrarà l'emplaçament de casa vostra immediatament després d'engegar. "
+#~ "Com a alternativa pot mostrar també la darrera posició que es va visitar "
+#~ "just abans de tancar l'aplicació. </p></body></html>"
+
+#~ msgid "Show Home Location"
+#~ msgstr "Mostra l'emplaçament de casa"
+
+#~ msgid "Return to Last Location Visited"
+#~ msgstr "Retorna al darrer emplaçament visitat"
+
+#~ msgid "&External Editor:"
+#~ msgstr "&Editor extern:"
+
+#~ msgid ""
+#~ "<p>The application that is launched to edit maps. Potlatch (default) "
+#~ "requires a web browser with flash support to be installed. When selecting "
+#~ "josm or merkaartor, make sure that the respective application is "
+#~ "installed.</p>"
+#~ msgstr ""
+#~ "<p>L'aplicació que s'engega per editar mapes. Potlatch (predeterminat) "
+#~ "requereix que s'instal·li un navegador web que admeti flash. Quan "
+#~ "seleccioneu josm o merkaartor, assegureu-vos que les respectives "
+#~ "aplicacions estan instal·lades.</p>"
+
+#~ msgid "Always ask"
+#~ msgstr "Pregunta sempre"
+
+#~ msgid "Potlatch (Web browser)"
+#~ msgstr "Potlatch (navegador web)"
+
+#~ msgid "Up"
+#~ msgstr "Amunt"
+
+#~ msgid "Tilts the globe's axis towards the user."
+#~ msgstr "Inclina l'eix del globus envers l'usuari."
+
+#~ msgid "Left"
+#~ msgstr "Esquerra"
+
+#~ msgid "Rotates the globe counterclockwise around its axis."
+#~ msgstr "Gira el globus en sentit antihorari al voltant del seu eix."
+
+#~ msgid "Reset View"
+#~ msgstr "Restaura la vista"
+
+#~ msgid "Click this button to restore the original zoom level and view angle."
+#~ msgstr ""
+#~ "Cliqueu aquest botó per restablir el nivell de zoom i l'angle de visió "
+#~ "originals."
+
+#~ msgid "Home"
+#~ msgstr "Casa vostra"
+
+#~ msgid "Right"
+#~ msgstr "Dreta"
+
+#~ msgid "Rotates the globe clockwise around its axis."
+#~ msgstr "Gira el globus en sentit horari al voltant del seu eix."
+
+#~ msgid "Down"
+#~ msgstr "Avall"
+
+#~ msgid "Tilts the globe's axis away from the user."
+#~ msgstr "Inclina l'eix del globus allunyant-lo de l'usuari."
+
+#~ msgid "Zoom In"
+#~ msgstr "Apropa"
+
+#~ msgid "Zoom in by pressing this button to see more detail."
+#~ msgstr "Premeu aquest botó per ampliar el zoom i veure més detall."
+
+#~ msgid "+"
+#~ msgstr "+"
+
+#~ msgid "Zoom Slider"
+#~ msgstr "Control lliscant de zoom"
+
+#~ msgid "Use this slider to adjust the zoom level of the map."
+#~ msgstr ""
+#~ "Useu aquest control lliscant per ajustar el nivell de zoom del mapa."
+
+#~ msgid "Zoom Out"
+#~ msgstr "Allunya"
+
+#~ msgid "Zoom out by pressing this button to see less detail."
+#~ msgstr "Premeu aquest botó per allunyar el zoom i veure menys detall."
+
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif';\">This is Marble's machine room for advanced users. "
+#~ "Here you can select and deselect the functionality that is provided "
+#~ "through plugins. </span></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif';\">Deselecting a plugin will remove the functionality "
+#~ "from the map, menus and toolbars. </span></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif';\">Also some of the plugins might allow for tweaking "
+#~ "their configuration a bit. </span></p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif';\">Aquesta és la sala de màquines del Marble per a "
+#~ "usuaris avançats. Aquí podeu seleccionar i desseleccionar les "
+#~ "funcionalitats proporcionades a través dels connectors. </span></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif';\">Si desseleccioneu un connector s'eliminarà la seva "
+#~ "funcionalitat del mapa, menús i barra d'eines. </span></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "family:'Sans Serif';\">Els connectors també poden permetre certs "
+#~ "ajustaments a la seva configuració. </span></p></body></html>"
+
+#~ msgid "P&lugins"
+#~ msgstr "Connector&s"
+
+#~ msgid "Time Zone"
+#~ msgstr "Zona horària"
+
+#~ msgid "UTC"
+#~ msgstr "UTC"
+
+#~ msgid "System time zone"
+#~ msgstr "Zona horària del sistema"
+
+#~ msgid "Choose Time zone"
+#~ msgstr "Escolliu la zona horària"
+
+#~ msgid "Universal Time Coordinated"
+#~ msgstr "Temps Coordinat Universal"
+
+#~ msgid "European Central Time"
+#~ msgstr "Temps de l'Europa central"
+
+#~ msgid "Eastern European Time"
+#~ msgstr "Temps de l'Europa oriental"
+
+#~ msgid "Egypt Standard Time"
+#~ msgstr "Temps estàndard Egipci"
+
+#~ msgid "Eastern African Time"
+#~ msgstr "Temps africà oriental"
+
+#~ msgid "Middle East Time"
+#~ msgstr "Temps de l'orient mitjà"
+
+#~ msgid "Near East Time"
+#~ msgstr "Temps del pròxim orient"
+
+#~ msgid "Pakistan Lahore Time"
+#~ msgstr "Temps del Lahore pakistanès"
+
+#~ msgid "India Standard Time"
+#~ msgstr "Temps estàndard de l'Índia"
+
+#~ msgid "Bangladesh Standard Time"
+#~ msgstr "Temps estàndard de Bangla Desh"
+
+#~ msgid "Vietnam Standard Time"
+#~ msgstr "Temps estàndard de Vietnam"
+
+#~ msgid "China Taiwan Time"
+#~ msgstr "Temps del Taiwan xinès"
+
+#~ msgid "Japan Standard Time"
+#~ msgstr "Temps estàndard del Japó"
+
+#~ msgid "Australia Central Time"
+#~ msgstr "Temps d'Austràlia central"
+
+#~ msgid "Australia Eastern Time"
+#~ msgstr "Temps d'Austràlia oriental"
+
+#~ msgid "Solomon Standard Time"
+#~ msgstr "Temps estàndard de les Salomó"
+
+#~ msgid "New Zealand Standard Time"
+#~ msgstr "Temps estàndard de Nova Zelanda"
+
+#~ msgid "Midway Islands Time"
+#~ msgstr "Temps de les Illes Midway"
+
+#~ msgid "Hawaii Standard Time"
+#~ msgstr "Temps estàndard de Hawaii"
+
+#~ msgid "Alaska Standard Time"
+#~ msgstr "Temps estàndard d'Alaska"
+
+#~ msgid "Pacific Standard Time"
+#~ msgstr "Temps estàndard del pacífic"
+
+#~ msgid "Phoenix Standard Time"
+#~ msgstr "Temps estàndard de Phoenix"
+
+#~ msgid "Mountain Standard Time"
+#~ msgstr "Temps estàndard de les muntanyes"
+
+#~ msgid "Central Standard Time"
+#~ msgstr "Temps estàndard central"
+
+#~ msgid "Eastern Standard Time"
+#~ msgstr "Temps estàndard oriental"
+
+#~ msgid "Indiana Eastern Standard Time"
+#~ msgstr "Temps estàndard oriental d'Indiana"
+
+#~ msgid "Puerto Rico and US Virgin Islands Time"
+#~ msgstr "Temps de Puerto Rico i Illes Verges Americanes"
+
+#~ msgid "Canada Newfoundland Time"
+#~ msgstr "Temps de Newfoundland canadenc"
+
+#~ msgid "Argentina Standard Time"
+#~ msgstr "Temps estàndard d'Argentina"
+
+#~ msgid "Brazil Eastern Time"
+#~ msgstr "Temps oriental del Brasil"
+
+#~ msgid "Central African Time"
+#~ msgstr "Temps central africà"
+
+#~ msgid "When Marble starts"
+#~ msgstr "Quan s'iniciï el Marble"
+
+#~ msgid "Load system time"
+#~ msgstr "Carrega l'hora del sistema"
+
+#~ msgid "Load last session time"
+#~ msgstr "Carrega l'hora de la darrera sessió"
+
+#~ msgid "&Units"
+#~ msgstr "&Unitats"
+
+#~ msgid "&Distance:"
+#~ msgstr "&Distància:"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">The unit that gets used "
+#~ "to measure altitude, lengths and distances (e.g. km, mi, ft).</p></body></"
+#~ "html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">La unitat que "
+#~ "s'acostuma a usar per a mesurar altituds, longituds i distàncies (p. ex. "
+#~ "km, mi, canes).</p></body></html>"
+
+#~ msgid "Kilometer, Meter"
+#~ msgstr "Quilòmetres, Metres"
+
+#~ msgid "Miles, Feet"
+#~ msgstr "Milles, Peus"
+
+#~ msgid "Nautical miles, Knots"
+#~ msgstr "Milles nàutiques, Nusos"
+
+#~ msgid "An&gle:"
+#~ msgstr "An&gle:"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Specifies the notation "
+#~ "of angles in coordinates: By default the Degree-Minute-Second notation (e."
+#~ "g. 54°30'00\" ) gets used. As an alternative you can choose decimal "
+#~ "degrees (e.g. 54.5°).</p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Especifica la notació "
+#~ "dels angles en les coordenades: Per omissió s'usa Graus-Minuts-Segons (p. "
+#~ "ex. 54°30'00\"). Com a alternativa podeu escollir graus decimals (p. ex. "
+#~ "54.5°). </p></body></html>"
+
+#~ msgid "Degree (DMS)"
+#~ msgstr "Graus (GMS)"
+
+#~ msgid "Degree (Decimal)"
+#~ msgstr "Graus (Decimal)"
+
+#~ msgid "Universal Transverse Mercator (UTM)"
+#~ msgstr "Projecció Universal Transversa de Mercator (UTM)"
+
+#~ msgid "Map &Quality"
+#~ msgstr "&Qualitat del mapa"
+
+#~ msgid "&Still image:"
+#~ msgstr "Imatge &estàtica:"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Specifies the map "
+#~ "quality that gets displayed while there is no user input. Usually this "
+#~ "allows for high map quality as speed is no concern.</p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Especifica la qualitat "
+#~ "del mapa que es mostra quan l'usuari no hi interacciona. Usualment això "
+#~ "permet més qualitat atès que la velocitat no és rellevant.</p></body></"
+#~ "html>"
+
+#~ msgid "Low Quality"
+#~ msgstr "Qualitat baixa"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "High Quality"
+#~ msgstr "Qualitat alta"
+
+#~ msgid "Print Quality"
+#~ msgstr "Qualitat d'impressió"
+
+#~ msgid "During &animations:"
+#~ msgstr "Durant les &animacions:"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Specifies the map "
+#~ "quality that gets displayed during map animations (e.g. while dragging "
+#~ "the globe). </p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Especially on slow "
+#~ "machines it is advisable to set this option to \"low quality\" as this "
+#~ "will give better speed.</p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Especifica la qualitat "
+#~ "del mapa que es mostra durant les animacions (p. ex. quan s'està movent "
+#~ "el globus). </p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Especialment en "
+#~ "màquines lentes és recomanable establir aquesta opció a «qualitat baixa», "
+#~ "perquè s'aconseguirà més velocitat.</p></body></html>"
+
+#~ msgid "G&raphics system:"
+#~ msgstr "Sistema g&ràfic:"
+
+#~ msgid ""
+#~ "Specifies the graphics system that Qt uses to draw the map.\n"
+#~ "Changing this setting might be a good idea if there are performance "
+#~ "issues with the system's graphics drivers."
+#~ msgstr ""
+#~ "Especifica el sistema gràfic que les Qt utilitzaran per a dibuixar el "
+#~ "mapa.\n"
+#~ "El canvi d'aquest paràmetre pot ser una bona idea si hi ha problemes de "
+#~ "rendiment amb els controladors del sistema gràfic."
+
+#~ msgid "Raster (Software rendering)"
+#~ msgstr "Ràster (renderització per programari)"
+
+#~ msgid "OpenGL"
+#~ msgstr "OpenGL"
+
+#~ msgid "&Text Labels"
+#~ msgstr "Etiquetes de &text"
+
+#~ msgid "&Place names:"
+#~ msgstr "&Mostra els noms:"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Places often have "
+#~ "different names in different languages. The label on the map can show the "
+#~ "name in the user's language. Alternatively it can display the name in the "
+#~ "official language and glyphs of that place. </p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Sovint els llocs tenen "
+#~ "noms diferents en llengües diferents. L'etiqueta en el mapa pot mostrar "
+#~ "el nom en la llengua de l'usuari. Alternativament, pot mostrar el nom en "
+#~ "l'idioma i caràcters oficials d'aquell lloc. </p></body></html>"
+
+#~ msgid "Custom & Native Language"
+#~ msgstr "Idiomes nadiu i personalitzat"
+
+#~ msgid "Custom Language"
+#~ msgstr "Idioma personalitzat"
+
+#~ msgid "Native Language"
+#~ msgstr "Idioma nadiu"
+
+#~ msgid "Default map &font:"
+#~ msgstr "&Tipus de lletra del mapa per omissió:"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
+#~ "gets used on the map.</p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">El tipus de lletra per "
+#~ "omissió que s'usa al mapa.</p></body></html>"
+
+#~ msgid "Movie Recording - Marble"
+#~ msgstr "Enregistrament de pel·lícula - Marble"
+
+#~ msgid "Destination video"
+#~ msgstr "Vídeo de destinació"
+
+#~ msgid "Open..."
+#~ msgstr "Obre..."
+
+#~ msgid "FPS (frames per second)"
+#~ msgstr "FPS (Fotogrames per segon)"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel·la"
+
+#~ msgid "Start"
+#~ msgstr "Inicia"
+
+#~ msgid "New Bookmark Folder - Marble"
+#~ msgstr "Nova carpeta d'adreces d'interès - Marble"
+
+#~ msgid "&Folder Name"
+#~ msgstr "&Nom de la carpeta"
+
+#~ msgid "Current Relations"
+#~ msgstr "Relacions actuals"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Type"
+#~ msgstr "Tipus"
+
+#~ msgid "Role"
+#~ msgstr "Rol"
+
+#~ msgid "Add Relation"
+#~ msgstr "Afegeix una relació"
+
+#~ msgid "Current Tags"
+#~ msgstr "Etiquetes actuals"
+
+#~ msgid "Key"
+#~ msgstr "Clau"
+
+#~ msgid "Value"
+#~ msgstr "Valor"
+
+#~ msgid "<<"
+#~ msgstr "<<"
+
+#~ msgid ">>"
+#~ msgstr ">>"
+
+#~ msgid "Related Tags"
+#~ msgstr "Etiquetes relacionades"
+
+#~ msgid "Browse..."
+#~ msgstr "Navega..."
+
+#~ msgid "Icon Link:"
+#~ msgstr "Enllaç a la icona:"
+
+#~ msgid "ID:"
+#~ msgstr "ID:"
+
+#~ msgid "Target ID:"
+#~ msgstr "ID de la destinació:"
+
+#~ msgid "Position:"
+#~ msgstr "Posició:"
+
+#~ msgid "Marble"
+#~ msgstr "Marble"
+
+#~ msgid "Map"
+#~ msgstr "Mapa"
+
+#~ msgid "Visible Globe Region"
+#~ msgstr "Regió visible del globus"
+
+#~ msgid "Outer Space"
+#~ msgstr "Espai exterior"
+
+#~ msgid "Route"
+#~ msgstr "Itinerari"
+
+#~ msgid "Route Summary"
+#~ msgstr "Resum de l'itinerari"
+
+#~ msgid "Driving Instructions"
+#~ msgstr "Instruccions de conducció"
+
+#~ msgid "Footer"
+#~ msgstr "Peu de pàgina"
+
+#~ msgid "Configure Routing Profile"
+#~ msgstr "Configura el perfil de l'itinerari"
+
+#~ msgid "Active Route Services"
+#~ msgstr "Serveis d'itinerari actius"
+
+#~ msgid "Service Settings"
+#~ msgstr "Arranjaments del servei"
+
+#~ msgid "No configuration available"
+#~ msgstr "No hi ha cap configuració disponible"
+
+#~ msgid "Select Service to Configure"
+#~ msgstr "Selecciona el servei a configurar"
+
+#~ msgid "Configure"
+#~ msgstr "Configura"
+
+#~ msgid "&Add"
+#~ msgstr "&Afegeix"
+
+#~ msgid "&Configure"
+#~ msgstr "&Configura"
+
+#~ msgid "&Remove"
+#~ msgstr "&Elimina"
+
+#~ msgid "Move &Up"
+#~ msgstr "Mou am&unt"
+
+#~ msgid "Move &Down"
+#~ msgstr "Mou a&vall"
+
+#~ msgid "Car (fastest)"
+#~ msgstr "Cotxe (més ràpida)"
+
+#~ msgid "Car (shortest)"
+#~ msgstr "Cotxe (més curta)"
+
+#~ msgid "Bicycle"
+#~ msgstr "Bicicleta"
+
+#~ msgid "Pedestrian"
+#~ msgstr "Vianant"
+
+#~ msgid "No results."
+#~ msgstr "No s'han trobat resultats."
+
+#~ msgid "Show Details"
+#~ msgstr "Mostra els detalls"
+
+#~ msgid "Choose alternative routes"
+#~ msgstr "Escull itineraris alternatius"
+
+#~ msgid "Sun Control"
+#~ msgstr "Control del sol"
+
+#~ msgid "Sun Shading"
+#~ msgstr "Ombrejat solar"
+
+#~ msgid "Shadow"
+#~ msgstr "Ombra"
+
+#~ msgid "Night Map"
+#~ msgstr "Mapa nocturn"
+
+#~ msgid "Subsolar Point"
+#~ msgstr "Punt Subsolar"
+
+#~ msgid ""
+#~ "Display <a href=\"http://en.wikipedia.org/wiki/Subsolar_point\">Subsolar "
+#~ "Point</a> icon"
+#~ msgstr ""
+#~ "Mostra la icona de <a href=\"http://ca.wikipedia.org/wiki/Punt_subsolar"
+#~ "\"> Punt Subsolar</a>"
+
+#~ msgid ""
+#~ "<b>Lock</b> map view to <a href=\"http://en.wikipedia.org/wiki/"
+#~ "Subsolar_point\">Subsolar Point</a>."
+#~ msgstr ""
+#~ "<b>Bloqueja</b> la vista del mapa en un <a href=\"http://ca.wikipedia.org/"
+#~ "wiki/Punt_subsolar\">Punt Subsolar</a>."
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Attention: Panning the map is disabled now! </span></p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Uncheck the \"Lock map "
+#~ "view to Subsolar Point\" option to allow for viewing a different place on "
+#~ "the globe again.</p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "weight:600;\">Atenció: Ara mateix el desplaçament del mapa està "
+#~ "desactivat</span></p>\n"
+#~ "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Desmarqueu l'opció "
+#~ "«Bloqueja la vista del mapa en un Punt Subsolar» per poder visualitzar "
+#~ "altra vegada un lloc diferent del globus.</p></body></html>"
+
+#~ msgid "OK"
+#~ msgstr "D'acord"
+
+#~ msgid "Apply"
+#~ msgstr "Aplica"
+
+#~ msgid "Creating Map"
+#~ msgstr "S'està creant el mapa"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style="
+#~ "\" white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
+#~ "weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
+#~ "top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
+#~ "indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Satellite "
+#~ "View</span></p><p style=\" margin-top:0px; margin-bottom:0px; margin-"
+#~ "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Earth "
+#~ "as seen from Space. The map is based on NASA's beautiful \"Blue Marble "
+#~ "Next Generation\" pictures. Credits: NASA's Earth Observatory</p></body></"
+#~ "html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style="
+#~ "\" white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
+#~ "weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
+#~ "top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
+#~ "indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Vista de "
+#~ "satèl·lit</span></p><p style=\" margin-top:0px; margin-bottom:0px; margin-"
+#~ "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">La "
+#~ "terra vista des de l'espai. El mapa està basat en les boniques imatges "
+#~ "«Blue Marble Next Generation» de la NASA. Crèdits: Observatori de la "
+#~ "terra (NASA)</p></body></html>"
+
+#~ msgid ""
+#~ "Marble needs to create this map. This only needs to be done once and may "
+#~ "take a few seconds."
+#~ msgstr ""
+#~ "Al Marble li cal crear aquest mapa. Només cal fer-ho un cop i pot trigar "
+#~ "alguns segons."
+
+#~ msgid "&Cancel"
+#~ msgstr "&Cancel·la"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "&Tile Level Range:"
+#~ msgstr "Interval de nivells del &mosaic:"
+
+#~ msgid "Minimum Tile Level"
+#~ msgstr "Nivell del mosaic mínim"
+
+#~ msgid "to"
+#~ msgstr "a"
+
+#~ msgid "Maximum Tile Level"
+#~ msgstr "Nivell del mosaic màxim"
+
+#~ msgid "Time Control"
+#~ msgstr "Control de l'hora"
+
+#~ msgid "Time"
+#~ msgstr "Hora"
+
+#~ msgid "New Date Time      :"
+#~ msgstr "Data i hora nova:"
+
+#~ msgid "Refresh Interval     :"
+#~ msgstr "Interval de refresc:"
+
+#~ msgid " seconds"
+#~ msgstr " segons"
+
+#~ msgid "Now"
+#~ msgstr "Ara"
+
+#~ msgid "Current Date Time :"
+#~ msgstr "Data i hora actual:"
+
+#~ msgid "Time Speed"
+#~ msgstr "Velocitat del temps"
+
+#~ msgid "Close"
+#~ msgstr "Tanca"
+
+#~ msgid "Tour"
+#~ msgstr "Recorregut"
+
+#~ msgid "--:--"
+#~ msgstr "--:--"
+
+#~ msgid "Move up"
+#~ msgstr "Mou amunt"
+
+#~ msgid "Move down"
+#~ msgstr "Mou avall"
+
+#~ msgid "New Tour"
+#~ msgstr "Recorregut nou"
+
+#~ msgid "Save Tour"
+#~ msgstr "Desa el recorregut"
+
+#~ msgid "Save Tour As"
+#~ msgstr "Desa el recorregut com a"
+
+#~ msgid "Open Tour"
+#~ msgstr "Obre un recorregut"
+
+#~ msgid "Play"
+#~ msgstr "Reprodueix"
+
+#~ msgid "Begins touring"
+#~ msgstr "Comença el recorregut"
+
+#~ msgid "Stop"
+#~ msgstr "Atura"
+
+#~ msgid "Stops touring (playing again will start tour from the start)"
+#~ msgstr ""
+#~ "Atura el recorregut (la nova reproducció engegarà el recorregut des de "
+#~ "l'inici)"
+
+#~ msgid "Converts the loaded tour into a movie"
+#~ msgstr "Converteix el recorregut carregat en una pel·lícula"
+
+#~ msgid "Worldclock Applet Configuration"
+#~ msgstr "Configuració de la miniaplicació Rellotge Global"
+
+#~ msgid "Map Display"
+#~ msgstr "Visualització del mapa"
+
+#~ msgid "Projection:"
+#~ msgstr "Projecció:"
+
+#~ msgid "Equirectangular"
+#~ msgstr "Equirectangular"
+
+#~ msgid "Center map on longitude:"
+#~ msgstr "Centra el mapa a la longitud:"
+
+#~ msgid "Center map on daylight"
+#~ msgstr "Centra mapa a la zona il·luminada"
+
+#~ msgid "Show date"
+#~ msgstr "Mostra la data"
+
+#~ msgid "Time Zones"
+#~ msgstr "Zones horàries"
+
+#~ msgid "Use custom timezone selection"
+#~ msgstr "Utilitza una selecció de zona horària personalitzada"
+
+#~ msgid "Edit ground overlay"
+#~ msgstr "Edita el recobriment del sòl"
+
+#~ msgid "Coordinates"
+#~ msgstr "Coordenades"
+
+#~ msgid "N"
+#~ msgstr "N"
+
+#~ msgid "W"
+#~ msgstr "O"
+
+#~ msgid "E"
+#~ msgstr "E"
+
+#~ msgid "S"
+#~ msgstr "S"
+
+#~ msgid "Rotation"
+#~ msgstr "Rotació"
+
+#~ msgid "Add polygon"
+#~ msgstr "Afegeix un polígon"
+
+#~ msgid "Lines"
+#~ msgstr "Línies"
+
+#~ msgid "Width:"
+#~ msgstr "Amplada:"
+
+#~ msgid "Area"
+#~ msgstr "Àrea"
+
+#~ msgid "Filled"
+#~ msgstr "Farcit"
+
+#~ msgid "Not Filled"
+#~ msgstr "Sense omplir"
+
+#~ msgid "Nodes"
+#~ msgstr "Nodes"
+
+#~ msgid "Add path"
+#~ msgstr "Afegeix un camí"
+
+#~ msgid "Display"
+#~ msgstr "Visualització"
+
+#~ msgid "Fade data older than (minutes)"
+#~ msgstr "Fes desaparèixer les dades més antigues de (minuts)"
+
+#~ msgid "Do not show data older than (minutes)"
+#~ msgstr "No mostris les dades més antigues de (minuts)"
+
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgid "APRS Data Sources"
+#~ msgstr "Fonts de dades APRS"
+
+#~ msgid "Should information be gathered from the Internet APRS data source?"
+#~ msgstr "S'ha de recollir informació de les fonts de dades APRS d'Internet?"
+
+#~ msgid "Collect data from an APRS Internet server"
+#~ msgstr "Recull dades d'un servidor d'Internet APRS"
+
+#~ msgid "Server"
+#~ msgstr "Servidor"
+
+#~ msgid "rotate.aprs.net"
+#~ msgstr "rotate.aprs.net"
+
+#~ msgid "Port"
+#~ msgstr "Port"
+
+#~ msgid "10253"
+#~ msgstr "10253"
+
+#~ msgid "Dump TCP/IP records to the debug stream"
+#~ msgstr "Bolca els registres TCP/IP al flux de depuració"
+
+#~ msgid "Device"
+#~ msgstr "Dispositiu"
+
+#~ msgid "TNC Terminal Port"
+#~ msgstr "Port del terminal TNC"
+
+#~ msgid "Should information be gathered from a serial port?"
+#~ msgstr "S'ha de recollir informació del port en sèrie?"
+
+#~ msgid "Collect data from a serial TNC (In Text Mode)"
+#~ msgstr "Recull dades d'un TNC de sèrie (en mode text)"
+
+#~ msgid "TTY"
+#~ msgstr "TTY"
+
+#~ msgid "/dev/ttyUSB0"
+#~ msgstr "/dev/ttyUSB0"
+
+#~ msgid "Dump TTY records to the debug stream"
+#~ msgstr "Bolca els registres TTY al flux de depuració"
+
+#~ msgid "File"
+#~ msgstr "Fitxer"
+
+#~ msgid "Should information be gathered from a file?"
+#~ msgstr "S'ha de recollir informació d'un fitxer?"
+
+#~ msgid "Collect data from a file"
+#~ msgstr "Recull dades d'un fitxer"
+
+#~ msgid "Dump file records to the debug stream"
+#~ msgstr "Bolca els registres del fitxer al flux de depuració"
+
+#~ msgid "Configure Compass Plugin"
+#~ msgstr "Configura el connector de la brúixola"
+
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+#~ msgid "Default"
+#~ msgstr "Per omissió"
+
+#~ msgid "Arrows"
+#~ msgstr "Fletxes"
+
+#~ msgid "Atom"
+#~ msgstr "Àtom"
+
+#~ msgid "Magnet"
+#~ msgstr "Imant"
+
+#~ msgid "Configure Crosshairs Plugin"
+#~ msgstr "Configura el connector del punt de mira"
+
+#~ msgid "Gun 1"
+#~ msgstr "Arma 1"
+
+#~ msgid "Gun 2"
+#~ msgstr "Arma 2"
+
+#~ msgid "Circled"
+#~ msgstr "Encerclat"
+
+#~ msgid "German"
+#~ msgstr "Alemany"
+
+#~ msgid "Dialog"
+#~ msgstr "Diàleg"
+
+#~ msgid "Filter"
+#~ msgstr "Filtre"
+
+#~ msgid "Maximum number of results:"
+#~ msgstr "Nombre màxim de resultats:"
+
+#~ msgid "Minimum magnitude:"
+#~ msgstr "Magnitud mínima:"
+
+#~ msgid "Time Range"
+#~ msgstr "Interval de temps"
+
+#~ msgid "Past"
+#~ msgstr "Darrers"
+
+#~ msgid "From"
+#~ msgstr "Des de"
+
+#~ msgid "days"
+#~ msgstr "dies"
+
+#~ msgid "Eclipse Browser"
+#~ msgstr "Navegador d'eclipsis"
+
+#~ msgid "Show eclipses for year:"
+#~ msgstr "Mostra els eclipsis per l'any:"
+
+#~ msgid "&Settings..."
+#~ msgstr "&Arranjament..."
+
+#~ msgid "&Go To Selected Eclipse"
+#~ msgstr "&Vés a l'eclipsi seleccionat"
+
+#~ msgid "Eclipses Configuration"
+#~ msgstr "Configuració dels eclipsis"
+
+#~ msgid "View &Options"
+#~ msgstr "&Opcions de visualització"
+
+#~ msgid "Enable &Lunar Eclipses"
+#~ msgstr "Activa els eclipsis de la &Lluna"
+
+#~ msgid "Show Eclipse Control &Widget"
+#~ msgstr "Mostra l'estri de control dels eclipsis"
+
+#~ msgid "&Eclipse Elements"
+#~ msgstr "&Elements dels eclipsis"
+
+#~ msgid "&Northern Penumbra"
+#~ msgstr "Penombra del &nord"
+
+#~ msgid "&Umbra"
+#~ msgstr "&Ombra"
+
+#~ msgid "Position of Eclipse &Maximum"
+#~ msgstr "Posició de l'eclipsi &màxim"
+
+#~ msgid "Central &Line"
+#~ msgstr "&Línia central "
+
+#~ msgid "Full &Penumbra"
+#~ msgstr "&Penombra completa"
+
+#~ msgid "Sunrise and Sunset &Boundaries"
+#~ msgstr "&Límits d'alba i posta de sol"
+
+#~ msgid "&Southern Penumbra"
+#~ msgstr "Penombra del &sud"
+
+#~ msgid "Penumbra with 60% Ma&gnitude"
+#~ msgstr "Penombra de ma&gnitud 60%"
+
+#~ msgid "&Reminder"
+#~ msgstr "&Recordatori"
+
+#~ msgid "Remind about eclipse events"
+#~ msgstr "Recordatori quant als esdeveniments d'eclipsi"
+
+#~ msgid "Eclipse Event"
+#~ msgstr "Esdeveniment d'eclipsi"
+
+#~ msgid ""
+#~ "<html><head/><body><p>Marble has detected that the following <span style="
+#~ "\" font-weight:600;\">eclipse events</span> will occur in the near "
+#~ "future. If you want more information on a specific event, select it and "
+#~ "click OK.</p></body></html>"
+#~ msgstr ""
+#~ "<html><head/><body><p>El Marble ha detectat que ocorreran els <span style="
+#~ "\" font-weight:600;\">esdeveniments d'eclipsi</span> següents en el "
+#~ "proper futur. Si voleu més informació quant a un esdeveniment específic, "
+#~ "seleccioneu-lo i cliqueu «D'acord».</p></body></html>"
+
+#~ msgid "Do not remind me about eclipse events again"
+#~ msgstr "No tornis a recordar quant als esdeveniments d'eclipsi"
+
+#~ msgid "Configure Elevation Profile Plugin"
+#~ msgstr "Configura el connector del perfil de desnivell"
+
+#~ msgid "Speed"
+#~ msgstr "Velocitat"
+
+#~ msgid "Direction"
+#~ msgstr "Direcció"
+
+#~ msgid "Altitude"
+#~ msgstr "Altitud"
+
+#~ msgid "Precision"
+#~ msgstr "Precisió"
+
+#~ msgid "Coordinate Grid Plugin"
+#~ msgstr "Connector de la graella de coordenades"
+
+#~ msgid "C&olors"
+#~ msgstr "C&olors"
+
+#~ msgid "&Grid:"
+#~ msgstr "&Graella:"
+
+#~ msgid "Color of the coordinate grid."
+#~ msgstr "Color de la graella de coordenades."
+
+#~ msgid "&Tropics:"
+#~ msgstr "&Tròpics:"
+
+#~ msgid "Color of the tropical circles."
+#~ msgstr "Color dels cercles tropicals."
+
+#~ msgid "&Equator:"
+#~ msgstr "&Equador:"
+
+#~ msgid "Color of the equator."
+#~ msgstr "Color de l'equador."
+
+#~ msgid "Labels"
+#~ msgstr "Etiquetes"
+
+#~ msgid "&Named Labels"
+#~ msgstr "Etiquetes a&nomenades"
+
+#~ msgid "Show Labels for Prime meridian, Equator, Tropics."
+#~ msgstr "Mostra etiquetes pel primer meridià, l'equador i els tròpics."
+
+#~ msgid "&Numerical Labels"
+#~ msgstr "Etiquetes &numèriques"
+
+#~ msgid "Show numerical Labels."
+#~ msgstr "Mostra etiquetes numèriques."
+
+#~ msgid "Configure Scale Bar Plugin"
+#~ msgstr "Configura el connector de la barra d'escala"
+
+#~ msgid "Show Ratio Scale"
+#~ msgstr "Mostra l'escala de ràtios"
+
+#~ msgid "Minimize"
+#~ msgstr "Minimitza"
+
+#~ msgid "Marble - Measure Tool Configuration"
+#~ msgstr "Marble - Configuració de l'eina de mesura"
+
+#~ msgid "Ruler Type"
+#~ msgstr "Tipus de regla"
+
+#~ msgid "Polygon"
+#~ msgstr "Polígon"
+
+#~ msgid "Circle"
+#~ msgstr "Cercle"
+
+#~ msgid "Segment labels"
+#~ msgstr "Etiquetes de segment"
+
+#~ msgid "Distance "
+#~ msgstr "Distància "
+
+#~ msgid "Bearing"
+#~ msgstr "Orientació"
+
+#~ msgid "Bearing Change"
+#~ msgstr "Canvi d'orientació"
+
+#~ msgid "Perimeter"
+#~ msgstr "Perímetre"
+
+#~ msgid "Radius"
+#~ msgstr "Radi"
+
+#~ msgid "Circumference"
+#~ msgstr "Circumferència"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "Cache name:"
+#~ msgstr "Nom del cau:"
+
+#~ msgid "User name:"
+#~ msgstr "Nom d'usuari:"
+
+#~ msgid "Type:"
+#~ msgstr "Tipus:"
+
+#~ msgid "Status:"
+#~ msgstr "Estat:"
+
+#~ msgid "Country:"
+#~ msgstr "País:"
+
+#~ msgid "Size:"
+#~ msgstr "Mida:"
+
+#~ msgid "Difficulty:"
+#~ msgstr "Dificultat:"
+
+#~ msgid "Terrain:"
+#~ msgstr "Terreny:"
+
+#~ msgid "Longitude:"
+#~ msgstr "Longitud:"
+
+#~ msgid "Latitude:"
+#~ msgstr "Latitud:"
+
+#~ msgid "Date hidden:"
+#~ msgstr "Data d'ocultació:"
+
+#~ msgid "Date created:"
+#~ msgstr "Data de creació:"
+
+#~ msgid "Date last modified:"
+#~ msgstr "Data de la darrera modificació:"
+
+#~ msgid "Log"
+#~ msgstr "Registre"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Següent"
+
+#~ msgid "Minimum difficulty:"
+#~ msgstr "Dificultat mínima:"
+
+#~ msgid "Maximum difficulty:"
+#~ msgstr "Dificultat màxima:"
+
+#~ msgid "Maximum Distance:"
+#~ msgstr "Distància màxima:"
+
+#~ msgid "Start:"
+#~ msgstr "Inici:"
+
+#~ msgid "End:"
+#~ msgstr "Final:"
+
+#~ msgid "TextLabel"
+#~ msgstr "EtiquetaDeText"
+
+#~ msgid "Hint"
+#~ msgstr "Consell"
+
+#~ msgid "Logs"
+#~ msgstr "Registres"
+
+#~ msgid "Marble - OpenDesktop plugin configuration"
+#~ msgstr "Marble - Configuració del connector OpenDesktop"
+
+#~ msgid "Number of displayed items on the screen:"
+#~ msgstr "Nombre d'elements mostrats a la pantalla:"
+
+#~ msgid "Map &Image"
+#~ msgstr "&Imatge del mapa"
+
+#~ msgid "&Planet:"
+#~ msgstr "&Planeta:"
+
+#~ msgid "&Size:"
+#~ msgstr "&Mida:"
+
+#~ msgid "x"
+#~ msgstr "x"
+
+#~ msgid "Preview"
+#~ msgstr "Vista prèvia"
+
+#~ msgid "Filename"
+#~ msgstr "Nom de fitxer"
+
+#~ msgid "Position I&ndicator:"
+#~ msgstr "I&ndicador de posició:"
+
+#~ msgid "Configure Photo Plugin"
+#~ msgstr "Configura el connector de fotografies"
+
+#~ msgid "License"
+#~ msgstr "Llicència"
+
+#~ msgid "Number of items on the screen"
+#~ msgstr "Nombre d'elements a la pantalla"
+
+#~ msgid "Configure Position Marker Plugin"
+#~ msgstr "Configura el connector del marcador de posició"
+
+#~ msgid "Cursor Shape"
+#~ msgstr "Forma del cursor"
+
+#~ msgid "&Arrow"
+#~ msgstr "&Fletxa"
+
+#~ msgid "&Custom:"
+#~ msgstr "&A mida:"
+
+#~ msgid ""
+#~ "Position marker images indicating the direction should point north (top)."
+#~ msgstr ""
+#~ "Imatges del marcador de posició indicant la direcció que ha d'apuntar al "
+#~ "nord (dalt)."
+
+#~ msgid "Trail"
+#~ msgstr "Traça"
+
+#~ msgid "&Accuracy:"
+#~ msgstr "&Exactitud:"
+
+#~ msgid "Color of the position marker's accuracy indicator."
+#~ msgstr "Color de l'indicador d'exactitud del marcador de posició."
+
+#~ msgid "Trail:"
+#~ msgstr "Traça:"
+
+#~ msgid "Color of the position marker's trail."
+#~ msgstr "Color de la traça del marcador de posició."
+
+#~ msgid "Routing Configuration - Marble"
+#~ msgstr "Configuració dels itineraris - Marble"
+
+#~ msgid "Audible Turn Instructions"
+#~ msgstr "Instruccions de conducció audibles"
+
+#~ msgid "Play a sound"
+#~ msgstr "Reprodueix un so"
+
+#~ msgid "Use this speaker"
+#~ msgstr "Usa aquest locutor"
+
+#~ msgid ""
+#~ "<a href=\"http://userbase.kde.org/Marble/CustomSpeakers\">Get more "
+#~ "speakers</a>"
+#~ msgstr ""
+#~ "<a href=\"http://userbase.kde.org/Marble/CustomSpeakers\">Aconsegueix més "
+#~ "locutors</a>"
+
+#~ msgid "Guidance Mode"
+#~ msgstr "Mode de guiatge"
+
+#~ msgid "R"
+#~ msgstr "R"
+
+#~ msgid "Toggle GPS"
+#~ msgstr "Commuta el GPS"
+
+#~ msgid "zoom out"
+#~ msgstr "allunya"
+
+#~ msgid "zoom in"
+#~ msgstr "apropa"
+
+#~ msgid "total time remaining"
+#~ msgstr "temps restant total"
+
+#~ msgid "Satellites Configuration - Marble"
+#~ msgstr "Configuració dels satèl·lits - Marble"
+
+#~ msgid "&Satellites"
+#~ msgstr "&Satèl·lits"
+
+#~ msgid "&Data Sources"
+#~ msgstr "Fonts de &dades"
+
+#~ msgid ""
+#~ "<html><head/><body><p><span style=\" font-weight:600;\">Last update:</"
+#~ "span></p></body></html>"
+#~ msgstr ""
+#~ "<html><head/><body><p><span style=\" font-weight:600;\">Darrera "
+#~ "actualització:</span></p></body></html>"
+
+#~ msgid "&Reload All Data Sources"
+#~ msgstr "&Recarrega totes les fonts de dades"
+
+#~ msgid "Satellite Data Sources:"
+#~ msgstr "Fonts de dades de satèl·lits:"
+
+#~ msgid "Add a new data source (URL)."
+#~ msgstr "Afegeix una nova font de dades (URL)."
+
+#~ msgid "Open a new data source from disk."
+#~ msgstr "Obre una nova font de dades del disc."
+
+#~ msgid "Remove selected data source."
+#~ msgstr "Elimina la font de dades seleccionada."
+
+#~ msgid "(Built-in Data Sources for Earth Satellites)"
+#~ msgstr "(Fonts de dades internes de satèl·lits terrestres)"
+
+#~ msgid ""
+#~ "<html><head/><body><p>Supported formats: <a href=\"http://techbase.kde."
+#~ "org/Projects/Marble/SatelliteCatalogFormat\"><span style=\" text-"
+#~ "decoration: underline; color:#0000ff;\">Marble Satellite Catalogue</"
+#~ "span></a>, <a href=\"http://en.wikipedia.org/wiki/Two-line_element_set"
+#~ "\"><span style=\" text-decoration: underline; color:#0000ff;\">Two-Line-"
+#~ "Element Set</span></a></p></body></html>"
+#~ msgstr ""
+#~ "<html><head/><body><p>Formats acceptats: <a href=\"http://techbase.kde."
+#~ "org/Projects/Marble/SatelliteCatalogFormat\"><span style=\" text-"
+#~ "decoration: underline; color:#0000ff;\">Catàleg de satèl·lits del Marble</"
+#~ "span></a>, <a href=\"http://en.wikipedia.org/wiki/Two-line_element_set"
+#~ "\"><span style=\" text-decoration: underline; color:#0000ff;\">Conjunt "
+#~ "d'elements de dues línies</span></a></p></body></html>"
+
+#~ msgid "Plugin Inactive"
+#~ msgstr "Connector inactiu"
+
+#~ msgid "&Activate Plugin"
+#~ msgstr "&Activa el connector"
+
+#~ msgid ""
+#~ "Configuration options not available since the plugin is disabled at the "
+#~ "moment."
+#~ msgstr ""
+#~ "Les opcions de configuració no estan disponibles atès que el connector es "
+#~ "troba desactivat en aquest moment."
+
+#~ msgid "km/h"
+#~ msgstr "km/h"
+
+#~ msgid "Configure Stars Plugin"
+#~ msgstr "Configura el connector de les estrelles"
+
+#~ msgid "Celestial Objects"
+#~ msgstr "Objectes celestes"
+
+#~ msgid "Star Magnitude Limit"
+#~ msgstr "Límit de magnitud dels estels"
+
+#~ msgid " mag"
+#~ msgstr " mag."
+
+#~ msgid "Solar System"
+#~ msgstr "Sistema solar"
+
+#~ msgid "Sun"
+#~ msgstr "Sol"
+
+#~ msgid "Moon"
+#~ msgstr "Lluna"
+
+#~ msgid "Mercury"
+#~ msgstr "Mercuri"
+
+#~ msgid "Venus"
+#~ msgstr "Venus"
+
+#~ msgid "Earth"
+#~ msgstr "Terra"
+
+#~ msgid "Mars"
+#~ msgstr "Mart"
+
+#~ msgid "Jupiter"
+#~ msgstr "Júpiter"
+
+#~ msgid "Saturn"
+#~ msgstr "Saturn"
+
+#~ msgid "Uranus"
+#~ msgstr "Urà"
+
+#~ msgid "Neptune"
+#~ msgstr "Neptú"
+
+#~ msgid "Use name labels"
+#~ msgstr "Empra etiquetes per als noms"
+
+#~ msgid "Magnify Sun and Moon"
+#~ msgstr "Amplia el Sol i la Lluna"
+
+#~ msgid "Other"
+#~ msgstr "Altres"
+
+#~ msgid "Deep Sky Object Labels"
+#~ msgstr "Etiquetes dels objectes de cel profund"
+
+#~ msgid "Deep Sky Objects"
+#~ msgstr "Objectes de cel profund"
+
+#~ msgid "Lines and Orientation"
+#~ msgstr "Línies i Orientació"
+
+#~ msgid "Constellations"
+#~ msgstr "Constel·lacions"
+
+#~ msgid "Names"
+#~ msgstr "Noms"
+
+#~ msgid "Latin Name"
+#~ msgstr "Nom llatí"
+
+#~ msgid "Native Translation"
+#~ msgstr "Traducció nativa"
+
+#~ msgid "Abbreviation"
+#~ msgstr "Abreviatura"
+
+#~ msgid "Celestial Equator"
+#~ msgstr "Equador celeste"
+
+#~ msgid "Celestial Poles"
+#~ msgstr "Pols celestes"
+
+#~ msgid "Ecliptic"
+#~ msgstr "Eclíptica"
+
+#~ msgid "Configure Weather Plugin"
+#~ msgstr "Configura el connector de la meteorologia"
+
+#~ msgid "Information"
+#~ msgstr "Informació"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Here you can "
+#~ "choose if you want the weather condition to be shown (for example, clouds "
+#~ "or clear sky.) Marble will only show the condition if this information is "
+#~ "available.</p></body></html>\n"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Aquí podeu "
+#~ "escollir si voleu mostrar una certa condició meteorològica (per exemple, "
+#~ "cel ennuvolat o serè). El Marble només us mostrarà la condició si la "
+#~ "informació està disponible.</p></body></html>\n"
+
+#~ msgid "Weather condition"
+#~ msgstr "Condicions meteorològiques"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Selects if you "
+#~ "want the temperature to be shown. The temperature will only be shown for "
+#~ "the stations it is available for.</p></body></html>\n"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Escolliu si "
+#~ "voleu que es mostri la temperatura. Aquesta només es mostrarà per les "
+#~ "estacions en què estigui disponible.</p></body></html>\n"
+
+#~ msgid "Temperature"
+#~ msgstr "Temperatura"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Select if you "
+#~ "want the wind direction to be shown. The wind direction will only be "
+#~ "shown if it is available for the particular station.</p></body></html>\n"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Escolliu si "
+#~ "voleu que es mostri la direcció del vent. Només es mostrarà si està "
+#~ "disponible per aquesta estació particular.</p></body></html>\n"
+
+#~ msgid "Wind direction"
+#~ msgstr "Direcció del vent"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Select if you "
+#~ "want the wind speed to be shown. The wind speed will only be shown if it "
+#~ "is available for the particular station.</p></body></html>\n"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Escolliu si "
+#~ "voleu que es mostri la velocitat del vent. Només es mostrarà si està "
+#~ "disponible per aquesta estació particular.</p></body></html>\n"
+
+#~ msgid "Wind speed"
+#~ msgstr "Velocitat del vent"
+
+#~ msgid "Units"
+#~ msgstr "Unitats"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">The unit used to "
+#~ "measure the temperature.</p></body></html>\n"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">La unitat "
+#~ "emprada per mesurar la temperatura.</p></body></html>\n"
+
+#~ msgid "Celsius"
+#~ msgstr "Celsius"
+
+#~ msgid "Fahrenheit"
+#~ msgstr "Fahrenheit"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">The unit used to "
+#~ "measure the wind speed.</p></body></html>\n"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">La unitat "
+#~ "emprada per mesurar la velocitat del vent.</p></body></html>\n"
+
+#~ msgid "Kilometers per hour"
+#~ msgstr "Quilòmetres per hora"
+
+#~ msgid "Miles per hour"
+#~ msgstr "Milles per hora"
+
+#~ msgid "Meters per second"
+#~ msgstr "Metres per segon"
+
+#~ msgid "Knots"
+#~ msgstr "Nusos"
+
+#~ msgid "Beaufort"
+#~ msgstr "Beaufort"
+
+#~ msgid "Pressure"
+#~ msgstr "Pressió"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">The unit used to "
+#~ "measure the air pressure.</p></body></html>\n"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
+#~ "font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:"
+#~ "normal;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+#~ "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">La unitat "
+#~ "emprada per mesurar la pressió atmosfèrica.</p></body></html>\n"
+
+#~ msgid "Hecto Pascals"
+#~ msgstr "Hectopascals"
+
+#~ msgid "Kilo Pascals"
+#~ msgstr "Kilopascals"
+
+#~ msgid "Bars"
+#~ msgstr "Bars"
+
+#~ msgid "Millimeters of Mercury"
+#~ msgstr "Mil·límetres de mercuri"
+
+#~ msgid "Inches of Mercury"
+#~ msgstr "Polzades de mercuri"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Miscel·lània"
+
+#~ msgid "Weather update interval"
+#~ msgstr "Interval d'actualització del temps atmosfèric"
+
+#~ msgid " hours"
+#~ msgstr " hores"
+
+#~ msgid "Configure Wikipedia Plugin"
+#~ msgstr "Configura el connector de la Viquipèdia"
+
+#~ msgid "Show thumbnail images"
+#~ msgstr "Mostra les imatges en miniatura"
+
+#~ msgid "Route type:"
+#~ msgstr "Tipus de ruta:"
+
+#~ msgid "Speed:"
+#~ msgstr "Velocitat:"
+
+#~ msgid "AppKey"
+#~ msgstr "AppKey"
+
+#~ msgid "Preference:"
+#~ msgstr "Preferència:"
+
+#~ msgid "Avoid motorways"
+#~ msgstr "Evita les autopistes"
+
+#~ msgid "Avoid tollways"
+#~ msgstr "Evita vies de peatge"
+
+#~ msgid "Avoid ferries"
+#~ msgstr "Evita els ferris"
+
+#~ msgid "Ascending slope:"
+#~ msgstr "Desnivell ascendent:"
+
+#~ msgid "Descending slope:"
+#~ msgstr "Desnivell descendent:"
+
+#~ msgid ""
+#~ "An AppKey is required for MapQuest routing to work. You can register one "
+#~ "<a href=\"http://developer.mapquest.com/web/products/open\">here</a>."
+#~ msgstr ""
+#~ "Es requereix una «AppKey» perquè funcioni l'itinerari de MapQuest. La "
+#~ "podeu registrar <a href=\"http://developer.mapquest.com/web/products/open"
+#~ "\">aquí</a>."
+
+#~ msgid "Monav Configuration"
+#~ msgstr "Configuració de Monav"
+
+#~ msgid "Transport Type:"
+#~ msgstr "Tipus de transport:"
+
+#~ msgid "Any"
+#~ msgstr "Qualsevol"
+
+#~ msgid "Manage Maps"
+#~ msgstr "Gestiona els mapes"
+
+#~ msgid "Install New"
+#~ msgstr "Instal·la'n de nous"
+
+#~ msgid "Continent"
+#~ msgstr "Continent"
+
+#~ msgid "Country"
+#~ msgstr "País"
+
+#~ msgid "Download Variant"
+#~ msgstr "Descarrega una variant"
+
+#~ msgid "Install"
+#~ msgstr "Instal·la"
+
+#~ msgid "Nothing to do."
+#~ msgstr "Res per fer."
+
+#~ msgid "%v/%m MB"
+#~ msgstr "%v/%m MB"
+
+#~ msgid "Abort"
+#~ msgstr "Avorta"
+
+#~ msgid "Transport:"
+#~ msgstr "Transport:"
+
+#~ msgid "Profile:"
+#~ msgstr "Perfil:"
+
+#~ msgid "Method"
+#~ msgstr "Mètode"
+
+#~ msgid "Fastest"
+#~ msgstr "Més ràpida"
+
+#~ msgid "Shortest"
+#~ msgstr "Més curta"
+
+#~ msgid "Please allow access to KWallet."
+#~ msgstr "Si us plau, permeteu l'accés al KWallet."
+
+#~ msgid ""
+#~ "You haven't allowed Marble to use KWallet yet.\n"
+#~ "This is dangerous since Marble will store your password without "
+#~ "encryption.\n"
+#~ "Are you sure?"
+#~ msgstr ""
+#~ "Encara no heu permès que el Marble usi el KWallet.\n"
+#~ "Això és perillós, ja que el Marble emmagatzemarà la vostra contrasenya "
+#~ "sense encriptatge.\n"
+#~ "Esteu segur?"
+
+#~ msgid "KWallet Access in Marble"
+#~ msgstr "Accés al KWallet en el Marble"
+
+#~ msgid ""
+#~ "You still don't allow Marble to use KWallet.\n"
+#~ "If you haven't seen the KWallet dialog asking to allow access, it means "
+#~ "that you have disabled it.\n"
+#~ "If you would like to change this see System Information -> Account "
+#~ "Details -> KDE Wallet -> Access Control.\n"
+#~ "Choose your wallet and allow Marble to use it."
+#~ msgstr ""
+#~ "Encara no heu permès que el Marble usi el KWallet.\n"
+#~ "Si no heu vist el diàleg del KWallet demanant el permís d'accés, vol dir "
+#~ "que l'heu desactivat.\n"
+#~ "Si us agradaria canviar-ho, aneu a Informació del sistema -> Detalls del "
+#~ "compte -> Cartera del KDE -> Control d'accés.\n"
+#~ "Trieu la cartera i permeteu que el Marble l'utilitzi."
+
+#~ msgid "Location Browser"
+#~ msgstr "Navegador d'emplaçaments"
+
+#~ msgid "Double click an entry of this list to get it displayed on the map."
+#~ msgstr ""
+#~ "Feu dobleclic en una entrada d'aquesta llista per presentar-la al mapa."
+
+#~ msgid "Navigate to your 'Home Location'"
+#~ msgstr "Navega fins al vostre «emplaçament inicial»"
+
+#~ msgid "Do you allow Marble to use KWallet?"
+#~ msgstr "Permeteu que el Marble usi el KWallet?"
+
+#~ msgid "Url:"
+#~ msgstr "URL:"
+
+#, fuzzy
+#~| msgid "&Add Folder"
+#~ msgid "Add SoundCue"
+#~ msgstr "&Afegeix una carpeta"
+
+#~ msgid "Mode"
+#~ msgstr "Mode"
+
+#~| msgid "Circled"
+#~ msgid "Circular"
+#~ msgstr "Circular"
+
+#~ msgid "&Name"
+#~ msgstr "&Nom"
+
+#~ msgid "Link"
+#~ msgstr "Enllaç"
+
+#~ msgid "Pause"
+#~ msgstr "Pausa"
+
+#~ msgid "Pauses touring until you start it again"
+#~ msgstr "Pausa el recorregut fins que el torneu a iniciar"
+
+#~ msgid "Land"
+#~ msgstr "Terra"
+
+#, fuzzy
+#~| msgid "Areas"
+#~ msgid "Ara"
+#~ msgstr "Àrees"
+
+#, fuzzy
+#~| msgid "Cancel"
+#~ msgid "Cancer"
+#~ msgstr "Cancel·la"
+
+#, fuzzy
+#~| msgid "Craters"
+#~ msgid "Crater"
+#~ msgstr "Cràters"
+
+#, fuzzy
+#~| msgid "Log"
+#~ msgid "Leo"
+#~ msgstr "Registre"
+
+#, fuzzy
+#~| msgid "Library"
+#~ msgid "Libra"
+#~ msgstr "Biblioteca"
+
+#, fuzzy
+#~| msgid "Normal"
+#~ msgid "Norma"
+#~ msgstr "Normal"
+
+#, fuzzy
+#~| msgid "Doctors"
+#~ msgid "Pictor"
+#~ msgstr "Metges"
+
+#~ msgid "Show distance labels for each section"
+#~ msgstr "Mostra les etiquetes de distància per cada secció"
+
+#~ msgid "Constellation Labels"
+#~ msgstr "Etiquetes de les constel·lacions"
+
+#~ msgid "Constellation Names"
+#~ msgstr "Noms de les constel·lacions"
+
+#~ msgid "Military Grid Reference System (MGRS)"
+#~ msgstr "Sistema de coordenades de referència militar (MGRS)"
+
+#~ msgctxt "Action for toggling the atmosphere"
+#~ msgid "&Atmosphere"
+#~ msgstr "&Atmosfera"
+
+#~ msgid "Enable tab to see gpxFileView"
+#~ msgstr "Habilita la pestanya per veure el gpxFileView"
+
+#~ msgctxt "Action for toggling the 'current location' box"
+#~ msgid "Current Location"
+#~ msgstr "Emplaçament actual"
+
+#~ msgctxt "Action for toggling the navigation panel"
+#~ msgid "Show &Navigation Panel"
+#~ msgstr "Mostra el tauler de &navegació"
+
+#~ msgctxt "Status tip"
+#~ msgid "Show Navigation Panel"
+#~ msgstr "Mostra el tauler de navegació"
+
+#, fuzzy
+#~| msgid "File View"
+#~ msgctxt "Action for showing the File View"
+#~ msgid "&Show File View"
+#~ msgstr "Vista de fitxer"
+
+#~ msgid "Guides"
+#~ msgstr "Guies"
+
+#~ msgid "Name Ids of plugins."
+#~ msgstr "Nom dels identificadors dels connectors."
+
+#~ msgid "List of toggles for enabling plugins."
+#~ msgstr "Llista de commutadors per habilitar els connectors."
+
+#~ msgid "List of toggles for making plugins visible."
+#~ msgstr "Llista de commutadors per fer visibles els connectors."
+
+#~ msgid "Marble Infocenter"
+#~ msgstr "InfoCentre del Marble"
+
+#~ msgid "Data Sheet"
+#~ msgstr "Full de dades"
+
+#~ msgid "Name of the location"
+#~ msgstr "Nom de l'emplaçament"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal; text-decoration:none;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:14pt; font-weight:600;\">Name</span></p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal; text-decoration:none;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:14pt; font-weight:600;\">Nom</span></p></body></html>"
+
+#~ msgid "Role of the location."
+#~ msgstr "Rol de l'emplaçament."
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal; text-decoration:none;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "style:italic;\">Role</span></p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal; text-decoration:none;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "style:italic;\">Rol</span></p></body></html>"
+
+#~ msgid "Alternative name"
+#~ msgstr "Nom alternatiu"
+
+#~ msgid "Alternative name of the location."
+#~ msgstr "Nom alternatiu de l'emplaçament."
+
+#~ msgid "Alternative Name"
+#~ msgstr "Nom alternatiu"
+
+#~ msgid "Short description:"
+#~ msgstr "Descripció curta:"
+
+#~ msgid ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">No description "
+#~ "available.</p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
+#~ "\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">If you are connected to "
+#~ "the Internet please click the \"Wikipedia\" tab at the top of this page "
+#~ "to get more information.</p></body></html>"
+#~ msgstr ""
+#~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
+#~ "REC-html40/strict.dtd\">\n"
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">No hi ha cap descripció "
+#~ "disponible.</p>\n"
+#~ "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+#~ "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
+#~ "\"></p>\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\">Si esteu connectat a "
+#~ "Internet cliqueu si us plau la pestanya «Viquipèdia» al capdamunt "
+#~ "d'aquesta pàgina per obtenir més informació.</p></body></html>"
+
+#~ msgid ""
+#~ "000° 00' 00\" N\n"
+#~ "000° 00' 00\" E "
+#~ msgstr ""
+#~ "000° 00' 00\" N\n"
+#~ "000° 00' 00\" E "
+
+#~ msgid "9000.0 m"
+#~ msgstr "9000,0 m"
+
+#~ msgid "1000000"
+#~ msgstr "1000000"
+
+#~ msgid "Area:"
+#~ msgstr "Àrea:"
+
+#~ msgid "0.0 sq km"
+#~ msgstr "0,0 km²"
+
+#~ msgid "Diameter:"
+#~ msgstr "Diàmetre:"
+
+#~ msgid "Timezone (Normal/DST):"
+#~ msgstr "Zona horària (Normal/horari d'estiu):"
+
+#~ msgid "gmt / dst"
+#~ msgstr "gmt / he"
+
+#~ msgid "State:"
+#~ msgstr "Estat:"
+
+#~ msgid "Wikipedia"
+#~ msgstr "Viquipèdia"
+
+#~ msgid "Back"
+#~ msgstr "Enrere"
+
+#~ msgid "Move backwards one step in the browsing history."
+#~ msgstr "Fa un pas enrere en la història de navegació."
+
+#~ msgid "Print Page"
+#~ msgstr "Imprimeix la pàgina"
+
+#~ msgid "Reverse"
+#~ msgstr "Inverteix"
+
+#~ msgid "Sun is Zenith at"
+#~ msgstr "El sol és al zenit a"
+
+#~ msgid "Show"
+#~ msgstr "Mostra"
+
+#~ msgid "Hide"
+#~ msgstr "Oculta"
+
+#~ msgid "Show Zenith"
+#~ msgstr "Mostra el zenit"
+
+#~ msgid "Hide Zenith"
+#~ msgstr "Oculta el zenit"
+
+#~ msgid "Shows and hides the zenith location of the sun"
+#~ msgstr "Mostra i oculta la posició zenital del Sol"

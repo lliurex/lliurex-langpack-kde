@@ -1,0 +1,601 @@
+# Translation of kamoso.po to Catalan (Valencian)
+# Copyright (C) 2009-2019 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kamoso package.
+#
+# Aleix Pol <aleixpol@kde.org>, 2009.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2010, 2014, 2015, 2016, 2017, 2018, 2019.
+# Manue Tortosa <manutortosa@chakra-project.org>, 2011.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2015, 2016.
+# empar <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kamoso\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-09-08 03:07+0200\n"
+"PO-Revision-Date: 2019-10-03 13:08+0200\n"
+"Last-Translator: empar <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#. i18n: ectx: label, entry (saveUrl), group (General)
+#. i18n: ectx: label, entry (saveVideos), group (General)
+#: src/kamosoSettings.kcfg:11 src/kamosoSettings.kcfg:15
+#, kde-format
+msgid "Where the photos are saved."
+msgstr "On es guarden les fotos."
+
+#. i18n: ectx: label, entry (mirrored), group (WebcamSettings)
+#: src/kamosoSettings.kcfg:22
+#, kde-format
+msgid "Vertically mirror the camera view."
+msgstr "Reflecteix verticalment la vista de la càmera."
+
+#. i18n: ectx: label, entry (deviceUdi), group (WebcamSettings)
+#: src/kamosoSettings.kcfg:25
+#, kde-format
+msgid "Points to the last used webcam."
+msgstr "Apunta a l'última càmera web usada."
+
+#: src/main.cpp:34 src/qml/Main.qml:14
+#, kde-format
+msgid "Kamoso"
+msgstr "Kamoso"
+
+#: src/main.cpp:34
+#, kde-format
+msgid "Utility for taking photos and videos using a webcam"
+msgstr "Una utilitat per a fer fotos i vídeos emprant una càmera web"
+
+#: src/main.cpp:35
+#, kde-format
+msgid "(C) 2008-2015 Alex Fiestas and Aleix Pol"
+msgstr "(C) 2008-2015 Alex Fiestas and Aleix Pol"
+
+#: src/main.cpp:37
+#, kde-format
+msgid "Aleix Pol Gonzalez"
+msgstr "Aleix Pol i Gonzàlez"
+
+#: src/main.cpp:37
+#, kde-format
+msgid "Semaphore hacker"
+msgstr "Hacker de semàfors"
+
+#: src/main.cpp:38
+#, kde-format
+msgid "Alex Fiestas"
+msgstr "Alex Fiestas"
+
+#: src/main.cpp:38
+#, kde-format
+msgid "Coffee drinker"
+msgstr "Bevedor de cafè"
+
+#: src/main.cpp:39
+#, kde-format
+msgid "caseymoura"
+msgstr "caseymoura"
+
+#: src/main.cpp:39
+#, kde-format
+msgid ""
+"Uploaded the shutter sound: https://freesound.org/people/caseymoura/"
+"sounds/445482/"
+msgstr ""
+"Ha pujat el so del disparador: https://freesound.org/people/caseymoura/"
+"sounds/445482/"
+
+#: src/qml/ImagesView.qml:37
+#, kde-format
+msgid "Share"
+msgstr "Comparteix"
+
+#: src/qml/ImagesView.qml:104 src/qml/ImagesView.qml:149
+#: src/qml/ImagesView.qml:303
+#, kde-format
+msgid "Back"
+msgstr "Arrere"
+
+#: src/qml/ImagesView.qml:143
+#, kde-format
+msgid "Media now exported"
+msgstr "Ara s'ha exportat el suport"
+
+#: src/qml/ImagesView.qml:170
+#, kde-format
+msgid "Configure Kamoso"
+msgstr "Configura el Kamoso"
+
+#: src/qml/ImagesView.qml:178
+#, kde-format
+msgid "Save Locations"
+msgstr "Guarda les ubicacions"
+
+#: src/qml/ImagesView.qml:185
+#, kde-format
+msgid "Pictures:"
+msgstr "Imatges:"
+
+#: src/qml/ImagesView.qml:200 src/qml/ImagesView.qml:213
+#, kde-format
+msgid "Choose the folder where Kamoso will save pictures"
+msgstr "Trieu la carpeta on Kamoso guardarà les imatges"
+
+#: src/qml/ImagesView.qml:231
+#, kde-format
+msgid "Videos:"
+msgstr "Vídeos:"
+
+#: src/qml/ImagesView.qml:246 src/qml/ImagesView.qml:260
+#, kde-format
+msgid "Choose the folder where Kamoso will save videos"
+msgstr "Trieu la carpeta on Kamoso guardarà els vídeos"
+
+#: src/qml/ImagesView.qml:275
+#, kde-format
+msgid "Cameras"
+msgstr "Càmeres"
+
+#: src/qml/ImagesView.qml:291
+#, kde-format
+msgid "Mirror camera"
+msgstr "Espill vertical"
+
+#: src/qml/ImagesView.qml:334
+#, kde-kuit-format
+msgctxt "@info"
+msgid "There are no images in <filename>%1</filename>"
+msgstr "No hi ha imatges en <filename>%1</filename>"
+
+#: src/qml/ImagesView.qml:347
+#, kde-format
+msgid "Share %1 Item..."
+msgid_plural "Share %1 Items..."
+msgstr[0] "Comparteix %1 element..."
+msgstr[1] "Comparteix %1 elements..."
+
+#: src/qml/ImagesView.qml:347
+#, kde-format
+msgid "Share Item..."
+msgstr "Comparteix element..."
+
+#: src/qml/ImagesView.qml:358
+#, kde-format
+msgid "Move %1 Item to Trash"
+msgid_plural "Move %1 Items to Trash"
+msgstr[0] "Mou %1 element a la paperera"
+msgstr[1] "Mou %1 elements a la paperera"
+
+#: src/qml/ImagesView.qml:358
+#, kde-format
+msgid "Move Item to Trash"
+msgstr "Mou l'element a la paperera"
+
+#: src/qml/ImagesView.qml:367
+#, kde-format
+msgid "Open Pictures Folder"
+msgstr "Obri la carpeta d'imatges"
+
+#: src/qml/ImagesView.qml:374
+#, kde-format
+msgid "Configure Kamoso..."
+msgstr "Configura Kamoso..."
+
+#: src/qml/Main.qml:70
+#, kde-format
+msgid "Take a Picture"
+msgstr "Pren una fotografia"
+
+#: src/qml/Main.qml:95
+#, kde-format
+msgid "End Burst"
+msgstr "Fi de ràfega"
+
+#: src/qml/Main.qml:95
+#, kde-format
+msgid "Capture a Burst"
+msgstr "Captura una ràfega"
+
+#: src/qml/Main.qml:97
+#, kde-format
+msgid "1 photo taken"
+msgid_plural "%1 photos taken"
+msgstr[0] "S'ha pres 1 foto"
+msgstr[1] "S'han pres %1 fotos"
+
+#: src/qml/Main.qml:120
+#, kde-format
+msgid "Stop Recording"
+msgstr "Para la gravació"
+
+#: src/qml/Main.qml:120
+#, kde-format
+msgid "Record a Video"
+msgstr "Grava un vídeo"
+
+#: src/qml/Main.qml:176
+#, kde-format
+msgid "Effects Gallery"
+msgstr "Galeria d'efectes"
+
+#: src/video/webcamcontrol.cpp:366
+#, kde-format
+msgid "Photo taken"
+msgstr "Foto presa"
+
+#: src/video/webcamcontrol.cpp:366
+#, kde-format
+msgid "Saved in %1"
+msgstr "Guardada en %1"
+
+#~ msgid "Save to..."
+#~ msgstr "Desa a..."
+
+#~ msgid "Select a directory where to save your pictures"
+#~ msgstr "Seleccioneu un directori a on desar les fotografies"
+
+#~ msgid "Select a directory where to save your videos"
+#~ msgstr "Seleccioneu un directori a on desar els vídeos"
+
+#~ msgid "Move to trash... (%1)"
+#~ msgstr "Mou a la paperera... (%1)"
+
+#~ msgid "Are you sure you want to remove %1 file?"
+#~ msgid_plural "Are you sure you want to remove %1 files?"
+#~ msgstr[0] "Esteu segur que voleu suprimir %1 fitxer?"
+#~ msgstr[1] "Esteu segur que voleu suprimir aquests %1 fitxers?"
+
+#~ msgid "Share... (%1)"
+#~ msgstr "Comparteix... (%1)"
+
+#~ msgid "Shoot"
+#~ msgstr "Dispara"
+
+#~ msgid "Places"
+#~ msgstr "Llocs"
+
+#~ msgid "Photos: %1"
+#~ msgstr "Fotos: %1"
+
+#~ msgid "Use flash"
+#~ msgstr "Usa el flaix"
+
+#~ msgid "On screen information"
+#~ msgstr "Rètols informatius en pantalla"
+
+#~ msgid "Brightness:"
+#~ msgstr "Lluminositat:"
+
+#~ msgid "Hue:"
+#~ msgstr "To:"
+
+#~ msgid "Contrast:"
+#~ msgstr "Contrast:"
+
+#~ msgid "Saturation:"
+#~ msgstr "Saturació:"
+
+#~ msgid "Gamma:"
+#~ msgstr "Gamma:"
+
+#~ msgid "Reset"
+#~ msgstr "Restableix"
+
+#~ msgid "%1 selected"
+#~ msgstr "Seleccionades %1"
+
+#~ msgid "The URL was just shared"
+#~ msgstr "S'ha compartit l'URL"
+
+#~ msgid "Run"
+#~ msgstr "Executa"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel·la"
+
+#~ msgid "Switch to '%1' mode"
+#~ msgstr "Canvia al mode «%1»"
+
+#~ msgid "Show gallery..."
+#~ msgstr "Mostra la galeria..."
+
+#~ msgid "Show settings..."
+#~ msgstr "Mostra l'arranjament..."
+
+#~ msgid "Open..."
+#~ msgstr "Obre..."
+
+#~ msgid "Open Directory..."
+#~ msgstr "Obre el directori..."
+
+#~ msgid "Action!"
+#~ msgstr "Acció!"
+
+#~ msgid "Play a sound when a photo is taken."
+#~ msgstr "Reprodueix un so quan es prengui una foto."
+
+#~ msgid "How much seconds kamoso waits before make the picture."
+#~ msgstr "Els segons que trigarà el Kamoso abans de prendre la fotografia."
+
+#~ msgid "Webcam picture retriever"
+#~ msgstr "Càmera de fotografies"
+
+#~ msgid "Smile! :)"
+#~ msgstr "Somriu! :)"
+
+#~ msgid "Dummy export Output: "
+#~ msgstr "Sortida d'exportació simulada: "
+
+#~ msgid "Video Information:"
+#~ msgstr "Informació del vídeo:"
+
+#~ msgid "Title"
+#~ msgstr "Títol"
+
+#~ msgid "Tags:"
+#~ msgstr "Etiquetes:"
+
+#~ msgid "Kamoso, KDE"
+#~ msgstr "Kamoso, KDE"
+
+#~ msgid "Description"
+#~ msgstr "Descripció"
+
+#~ msgid ""
+#~ "You need to supply a username and a password to be able to upload videos "
+#~ "to YouTube"
+#~ msgstr ""
+#~ "Heu de proporcionar un nom d'usuari i una contrasenya per poder pujar "
+#~ "fitxers a YouTube"
+
+#~ msgid "Server:"
+#~ msgstr "Servidor:"
+
+#~ msgid "Authentication for YouTube"
+#~ msgstr "Autenticació per YouTube"
+
+#~ msgid "Title:"
+#~ msgstr "Títol:"
+
+#~ msgid "Enter a title for the video..."
+#~ msgstr "Introduïu un títol pel vídeo..."
+
+#~ msgid "KDE, Kamoso"
+#~ msgstr "KDE, Kamoso"
+
+#~ msgid "Description:"
+#~ msgstr "Descripció:"
+
+#~ msgid "Share Tool"
+#~ msgstr "Eina de compartició"
+
+#~ msgid "Implementation"
+#~ msgstr "Implementació"
+
+#~ msgid "Files to share"
+#~ msgstr "Fitxers a compartir"
+
+#~ msgid "Data tuple to initialize the process with"
+#~ msgstr "La tupla de dades amb el que inicialitzar el procés"
+
+#~ msgid "Must specify some files to share"
+#~ msgstr "Cal especificar alguns fitxers a compartir"
+
+#~ msgid "Error in the data argument formatting: %1 at %2"
+#~ msgstr "Error en el format de l'argument de dades: %1 a %2"
+
+#~ msgid "Error in the data argument type, it should be a json object."
+#~ msgstr ""
+#~ "Error en el tipus de l'argument de dades, hauria de ser un objecte del "
+#~ "json."
+
+#~ msgid "Use"
+#~ msgstr "Usa"
+
+#~ msgid "Directory where kamoso saves the photos"
+#~ msgstr "Directori a on el kamoso desarà les fotos"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "Photo Settings"
+#~ msgstr "Configuració de les fotografies"
+
+#~ msgid "Video Settings"
+#~ msgstr "Arranjament del vídeo"
+
+#~ msgid "Trash"
+#~ msgstr "Paperera"
+
+#~ msgctxt "Used to join urls"
+#~ msgid ", "
+#~ msgstr ", "
+
+#~ msgid "Done: %1"
+#~ msgstr "Fet: %1"
+
+#~ msgid "(C) 2008-2010 Alex Fiestas and Aleix Pol"
+#~ msgstr "(C) 2008-2010 Alex Fiestas i Aleix Pol"
+
+#~ msgid "No webcam was found."
+#~ msgstr "No s'ha trobat cap càmera web."
+
+#~ msgid "Choose the webcam to use:"
+#~ msgstr "Seleccioneu la càmera web a usar:"
+
+#~ msgid "<"
+#~ msgstr "<"
+
+#~ msgid ">"
+#~ msgstr ">"
+
+#~ msgid "Time until the photo is taken:"
+#~ msgstr "Temps fins que es pren la foto:"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Uploads files to YouTube"
+#~ msgstr "Puja fitxers a YouTube"
+
+#~ msgid "Video information:"
+#~ msgstr "Informació del vídeo:"
+
+#~ msgid "Kamoso %1"
+#~ msgstr "Kamoso %1"
+
+#~ msgid ""
+#~ "This video has been recorded using Kamoso, a KDE software to play with "
+#~ "webcams!"
+#~ msgstr ""
+#~ "Aquest vídeo s'ha gravat amb Kamoso, un programa KDE per jugar amb "
+#~ "càmeres web!"
+
+#~ msgid "Taken with kamoso"
+#~ msgstr "Presa amb el Kamoso"
+
+#~ msgid "Plugin tester"
+#~ msgstr "Provador de connectors"
+
+#~ msgid "asdasd"
+#~ msgstr "asdasd"
+
+#~ msgid "Brightness"
+#~ msgstr "Lluminositat"
+
+#~ msgid "Hue"
+#~ msgstr "To"
+
+#~ msgid "Contrast"
+#~ msgstr "Contrast"
+
+#~ msgid "Saturation"
+#~ msgstr "Saturació"
+
+#~ msgid "Gamma"
+#~ msgstr "Gamma"
+
+#~ msgid "Video recorded using Kamoso"
+#~ msgstr "Vídeo enregistrat fent servir el Kamoso"
+
+#~ msgid "Form"
+#~ msgstr "Formulari"
+
+#~ msgid "Error while loading the plugin '%1'"
+#~ msgstr "Error en carregar el connector «%1»"
+
+#~ msgid "Execute"
+#~ msgstr "Executa"
+
+#~ msgid "Runs a viewer for the specified file."
+#~ msgstr "Executa un visor pel fitxer especificat."
+
+#~ msgid "Could not open %1"
+#~ msgstr "No s'ha pogut obrir %1"
+
+#~ msgid "Facebook support"
+#~ msgstr "Compatibilitat amb el Facebook"
+
+#~ msgid "Allows to communicate with Facebook"
+#~ msgstr "Permet comunicar-se amb el Facebook"
+
+#~ msgid "Upload to Facebook..."
+#~ msgstr "Puja al Facebook..."
+
+#~ msgid "Facebook New Album"
+#~ msgstr "Nou àlbum del Facebook"
+
+#~ msgid "Title of the album that will be created (required)."
+#~ msgstr "Títol amb el que es crearà l'àlbum (obligatori)."
+
+#~ msgid "Location of the album that will be created (optional)."
+#~ msgstr "Localització de l'àlbum que es crearà (opcional)."
+
+#~ msgid "Description of the album that will be created (optional)."
+#~ msgstr "Descripció de l'àlbum que es crearà (opcional)."
+
+#~ msgid "Privacy setting of the album that will be created (required)."
+#~ msgstr "Opció de privadesa amb la que es crearà l'àlbum (obligatori)."
+
+#~ msgid "Only Friends"
+#~ msgstr "Només pels amics"
+
+#~ msgid "Friends of Friends"
+#~ msgstr "Amics dels amics"
+
+#~ msgid "My Networks and Friends"
+#~ msgstr "Les meves xarxes i amics"
+
+#~ msgid "Everyone"
+#~ msgstr "Tothom"
+
+#~ msgid "Privacy:"
+#~ msgstr "Privadesa:"
+
+#~ msgid "Validate previous session..."
+#~ msgstr "Valida la sessió anterior..."
+
+#~ msgid ""
+#~ "Please follow the instructions in the browser window. Press \"OK\" when "
+#~ "done."
+#~ msgstr ""
+#~ "Sisplau, seguiu les instruccions a la finestra del navegador. Premeu «Bé» "
+#~ "quan hàgiu enllestit."
+
+#~ msgid "Facebook Application Authorization"
+#~ msgstr "Autorització de l'aplicació Facebook"
+
+#~ msgid "The service is not available at this time."
+#~ msgstr "En aquests moments el servei no està disponible."
+
+#~ msgid "The application has reached the maximum number of requests allowed."
+#~ msgstr "L'aplicació ha arribat al nombre màxim de peticions permeses."
+
+#~ msgid "Invalid session key or session expired. Try to log in again."
+#~ msgstr ""
+#~ "La clau de sessió no és vàlida o ha caducat la sessió. Proveu de tornar a "
+#~ "connectar-vos."
+
+#~ msgid "Invalid album ID."
+#~ msgstr "L'identificador de l'àlbum no és vàlid."
+
+#~ msgid "Album is full."
+#~ msgstr "L'àlbum és ple."
+
+#~ msgid "Missing or invalid file."
+#~ msgstr "Falta un fitxer o no és vàlid."
+
+#~ msgid "Too many unapproved photos pending."
+#~ msgstr "Hi ha massa fotos pendents d'aprovació."
+
+#~ msgid ""
+#~ "Please follow the instructions in the browser window. Press \"Yes\" if "
+#~ "you have authenticated and \"No\" if you failed."
+#~ msgstr ""
+#~ "Si us plau, seguiu les instruccions de la finestra del navegador. Premeu "
+#~ "«Sí» si us heu autenticat o «No» si no heu pogut."
+
+#~ msgid "Facebook Service Web Authorization"
+#~ msgstr "Autorització al servei web Facebook"
+
+#~ msgid "Canceled by user."
+#~ msgstr "Cancel·lat per l'usuari."
+
+#~ msgid "Upload to YouTube"
+#~ msgstr "Puja a YouTube"
