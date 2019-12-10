@@ -1,0 +1,86 @@
+# Translation of plasma-thunderbolt._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-thunderbolt desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-21 01:29+0000\n"
+"PO-Revision-Date: 2019-05-16 19:48+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: src/kcm/kcm_bolt.desktop:12 src/kcm/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Thunderbolt"
+msgstr "Thunderbolt"
+
+#: src/kcm/kcm_bolt.desktop:39 src/kcm/package/metadata.desktop:29
+msgctxt "Comment"
+msgid "Thunderbolt Device Management"
+msgstr "Gestió del dispositiu Thunderbolt"
+
+#: src/kcm/kcm_bolt.desktop:66
+msgctxt "X-KDE-Keywords"
+msgid "thunderbolt,hardware,device"
+msgstr "thunderbolt,maquinari,dispositiu"
+
+#: src/kded/kded_bolt.desktop:2 src/kded/kded_bolt.notifyrc:3
+msgctxt "Name"
+msgid "Thunderbolt Device Monitor"
+msgstr "Supervisor del dispositiu Thunderbolt"
+
+#: src/kded/kded_bolt.desktop:28 src/kded/kded_bolt.notifyrc:29
+msgctxt "Comment"
+msgid "Thunderbolt Device Monitor"
+msgstr "Supervisor del dispositiu Thunderbolt"
+
+#: src/kded/kded_bolt.notifyrc:57
+msgctxt "Name"
+msgid "Warning"
+msgstr "Avís"
+
+#: src/kded/kded_bolt.notifyrc:84
+msgctxt "Comment"
+msgid "Used for warning notifications"
+msgstr "S'usa per a les notificacions d'avís"
+
+#: src/kded/kded_bolt.notifyrc:113
+msgctxt "Name"
+msgid "Error"
+msgstr "Error"
+
+#: src/kded/kded_bolt.notifyrc:140
+msgctxt "Comment"
+msgid "Used for error notifications"
+msgstr "S'usa per a les notificacions d'error"
+
+#: src/kded/kded_bolt.notifyrc:169
+msgctxt "Name"
+msgid "Unauthorized device is plugged in"
+msgstr "S'ha endollat un dispositiu no autoritzat"
+
+#: src/kded/kded_bolt.notifyrc:194
+msgctxt "Comment"
+msgid "An unauthorized Thunderbolt device has been plugged into the computer"
+msgstr "S'ha endollat un dispositiu Thunderbolt no autoritzat a l'ordinador"
+
+#: src/kded/kded_bolt.notifyrc:223
+msgctxt "Name"
+msgid "Error during device authorization"
+msgstr "Error durant l'autorització del dispositiu"
+
+#: src/kded/kded_bolt.notifyrc:248
+msgctxt "Comment"
+msgid "An error occurred while authorizing or blocking a Thunderbolt device"
+msgstr "Hi ha hagut un error en autoritzar o blocar un dispositiu Thunderbolt"
