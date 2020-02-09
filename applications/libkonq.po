@@ -1,0 +1,221 @@
+# Translation of libkonq.po to Catalan (Valencian)
+# Copyright (C) 1999-2014 This_file_is_part_of_KDE
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 1999, 2000, 2001, 2002, 2004, 2005.
+# Albert Astals Cid <aacid@kde.org>, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2014.
+# empar <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: libkonq\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"PO-Revision-Date: 2019-09-11 14:43+0200\n"
+"Last-Translator: empar <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: src/konq_popupmenu.cpp:242
+#, kde-format
+msgid "&Open"
+msgstr "&Obri"
+
+#: src/konq_popupmenu.cpp:265
+#, kde-format
+msgid "Create &Folder..."
+msgstr "Crea la &carpeta..."
+
+#: src/konq_popupmenu.cpp:276
+#, kde-format
+msgid "&Restore"
+msgstr "&Restaura"
+
+#: src/konq_popupmenu.cpp:288
+#, kde-format
+msgid "Show Original Directory"
+msgstr "Mostra el directori original"
+
+#: src/konq_popupmenu.cpp:288
+#, kde-format
+msgid "Show Original File"
+msgstr "Mostra el fitxer original"
+
+#: src/konq_popupmenu.cpp:323
+#, kde-format
+msgid "&Empty Trash Bin"
+msgstr "&Buida la paperera"
+
+#: src/konq_popupmenu.cpp:335
+#, kde-format
+msgid "&Configure Trash Bin"
+msgstr "&Configura la paperera"
+
+#: src/konq_popupmenu.cpp:359
+#, kde-format
+msgid "&Bookmark This Page"
+msgstr "&Afig aquesta pàgina als marcadors"
+
+#: src/konq_popupmenu.cpp:361
+#, kde-format
+msgid "&Bookmark This Location"
+msgstr "&Afig aquesta ubicació als marcadors"
+
+#: src/konq_popupmenu.cpp:364
+#, kde-format
+msgid "&Bookmark This Folder"
+msgstr "&Afig aquesta carpeta als marcadors"
+
+#: src/konq_popupmenu.cpp:366
+#, kde-format
+msgid "&Bookmark This Link"
+msgstr "&Afig aquest enllaç als marcadors"
+
+#: src/konq_popupmenu.cpp:368
+#, kde-format
+msgid "&Bookmark This File"
+msgstr "&Afig aquest fitxer als marcadors"
+
+#: src/konq_popupmenu.cpp:402
+#, kde-format
+msgid "Preview In"
+msgstr "Vista prèvia en"
+
+#: src/konq_popupmenu.cpp:437
+#, kde-format
+msgid "&Properties"
+msgstr "&Propietats"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Copy To"
+#~ msgstr "Copia a"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Move To"
+#~ msgstr "Mou a"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Home Folder"
+#~ msgstr "Carpeta inicial"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Root Folder"
+#~ msgstr "Carpeta arrel"
+
+#~ msgctxt "@title:menu in Copy To or Move To submenu"
+#~ msgid "Browse..."
+#~ msgstr "Navega..."
+
+#~ msgctxt "@title:menu"
+#~ msgid "Copy Here"
+#~ msgstr "Copia aquí"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Move Here"
+#~ msgstr "Mou aquí"
+
+#~ msgid "You cannot drop a folder on to itself"
+#~ msgstr "No podeu deixar anar una carpeta en ella mateixa"
+
+#~ msgid "File name for dropped contents:"
+#~ msgstr "Nom de fitxer pel contingut que s'ha deixat anar:"
+
+#~ msgid "&Move Here"
+#~ msgstr "&Mou aquí"
+
+#~ msgid "&Copy Here"
+#~ msgstr "&Copia aquí"
+
+#~ msgid "&Link Here"
+#~ msgstr "&Enllaça aquí"
+
+#~ msgid "Set as &Wallpaper"
+#~ msgstr "Estableix com a &fons de pantalla"
+
+#~ msgid "C&ancel"
+#~ msgstr "C&ancel·la"
+
+#~ msgctxt "@action:button"
+#~ msgid "Create directory"
+#~ msgstr "Crea un directori"
+
+#~ msgctxt "@action:button"
+#~ msgid "Enter a different name"
+#~ msgstr "Introduïu un nom diferent"
+
+#~ msgid ""
+#~ "The name \"%1\" starts with a dot, so the directory will be hidden by "
+#~ "default."
+#~ msgstr ""
+#~ "El nom «%1» comença amb un punt, per tant, el directori estarà ocult per "
+#~ "defecte."
+
+#~ msgctxt "@title:window"
+#~ msgid "Create hidden directory?"
+#~ msgstr "Creació de directori ocult?"
+
+#~ msgctxt "@label Default name when creating a folder"
+#~ msgid "New Folder"
+#~ msgstr "Carpeta nova"
+
+#~ msgctxt "@title:window"
+#~ msgid "New Folder"
+#~ msgstr "Carpeta nova"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Enter folder name:"
+#~ msgstr "Introduïu el nom de la carpeta:"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste One Folder"
+#~ msgstr "Enganxa una carpeta"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste One File"
+#~ msgstr "Enganxa un fitxer"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste One Item"
+#~ msgid_plural "Paste %1 Items"
+#~ msgstr[0] "Enganxa un element"
+#~ msgstr[1] "Enganxa %1 elements"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste Clipboard Contents..."
+#~ msgstr "Enganxa el contingut del porta-retalls..."
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste"
+#~ msgstr "Enganxa"
+
+#~ msgid ""
+#~ "Restores this file or directory, back to the location where it was "
+#~ "deleted from initially"
+#~ msgstr ""
+#~ "Restaura aquest fitxer o directori, tornant a la ubicació des d'on es va "
+#~ "suprimir inicialment"
+
+#~ msgid ""
+#~ "Opens a new file manager window showing the target of this link, in its "
+#~ "parent directory."
+#~ msgstr ""
+#~ "Obra una finestra nova del gestor de fitxers mostrant l'objectiu d'aquest "
+#~ "enllaç, en el seu directori superior."
+
+#~ msgid "Share"
+#~ msgstr "Comparteix"
+
+#~ msgctxt "@info"
+#~ msgid "Close"
+#~ msgstr "Tanca"
+
+#~ msgid "Close"
+#~ msgstr "Tanca"
+
+#~ msgid "Error: %1"
+#~ msgstr "Error: %1"
