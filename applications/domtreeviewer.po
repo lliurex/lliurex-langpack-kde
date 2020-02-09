@@ -1,0 +1,517 @@
+# Translation of domtreeviewer.po to Catalan (Valencian)
+# Copyright (C) 2002-2015 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2002, 2003.
+# Albert Astals Cid <aacid@kde.org>, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2005, 2006, 2007, 2008, 2009, 2011, 2014, 2015.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: domtreeviewer\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"PO-Revision-Date: 2019-09-03 12:10+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: attributeeditwidget.ui:24
+#, kde-format
+msgid "Attribute &name:"
+msgstr "&Nom de l'atribut:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: attributeeditwidget.ui:42
+#, kde-format
+msgid "Attribute &value:"
+msgstr "&Valor de l'atribut:"
+
+#: domtreecommands.cpp:33
+#, kde-format
+msgid "No error"
+msgstr "Sense errors"
+
+#: domtreecommands.cpp:34
+#, kde-format
+msgid "Index size exceeded"
+msgstr "S'ha excedit la mida de l'índex"
+
+#: domtreecommands.cpp:35
+#, kde-format
+msgid "DOMString size exceeded"
+msgstr "S'ha excedit la mida de DOMString"
+
+#: domtreecommands.cpp:36
+#, kde-format
+msgid "Hierarchy request error"
+msgstr "S'ha produït un error de sol·licitud de jerarquia"
+
+#: domtreecommands.cpp:37
+#, kde-format
+msgid "Wrong document"
+msgstr "El document és erroni"
+
+#: domtreecommands.cpp:38
+#, kde-format
+msgid "Invalid character"
+msgstr "El caràcter no és vàlid"
+
+#: domtreecommands.cpp:39
+#, kde-format
+msgid "No data allowed"
+msgstr "No es permeten dades"
+
+#: domtreecommands.cpp:40
+#, kde-format
+msgid "No modification allowed"
+msgstr "No es permet modificar"
+
+#: domtreecommands.cpp:41
+#, kde-format
+msgid "Not found"
+msgstr "No s'ha trobat"
+
+#: domtreecommands.cpp:42
+#, kde-format
+msgid "Not supported"
+msgstr "No acceptat"
+
+#: domtreecommands.cpp:43
+#, kde-format
+msgid "Attribute in use"
+msgstr "Atributs en ús"
+
+#: domtreecommands.cpp:44
+#, kde-format
+msgid "Invalid state"
+msgstr "Estat no vàlid"
+
+#: domtreecommands.cpp:45
+#, kde-format
+msgid "Syntax error"
+msgstr "Error de sintaxi"
+
+#: domtreecommands.cpp:46
+#, kde-format
+msgid "Invalid modification"
+msgstr "Modificació no vàlida"
+
+#: domtreecommands.cpp:47
+#, kde-format
+msgid "Namespace error"
+msgstr "S'ha produït un error d'espai de nom"
+
+#: domtreecommands.cpp:48
+#, kde-format
+msgid "Invalid access"
+msgstr "L'accés no és vàlid"
+
+#: domtreecommands.cpp:56
+#, kde-format
+msgid "Unknown Exception %1"
+msgstr "Excepció desconeguda %1"
+
+#: domtreecommands.cpp:324
+#, kde-format
+msgid "Add attribute"
+msgstr "Afig atribut"
+
+#: domtreecommands.cpp:356
+#, kde-format
+msgid "Change attribute value"
+msgstr "Canvia el valor de l'atribut"
+
+#: domtreecommands.cpp:388
+#, kde-format
+msgid "Remove attribute"
+msgstr "Elimina l'atribut"
+
+#: domtreecommands.cpp:421
+#, kde-format
+msgid "Rename attribute"
+msgstr "Reanomena l'atribut"
+
+#: domtreecommands.cpp:457
+#, kde-format
+msgid "Change textual content"
+msgstr "Canvia el contingut textual"
+
+#: domtreecommands.cpp:519
+#, kde-format
+msgid "Insert node"
+msgstr "Insereix un node"
+
+#: domtreecommands.cpp:547
+#, kde-format
+msgid "Remove node"
+msgstr "Elimina un node"
+
+#: domtreecommands.cpp:593
+#, kde-format
+msgid "Move node"
+msgstr "Mou un node"
+
+#: domtreeview.cpp:69
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Element"
+msgstr "Edició d'element"
+
+#: domtreeview.cpp:71 domtreeview.cpp:90
+#, kde-format
+msgid "&Append as Child"
+msgstr "&Afig com un fill"
+
+#: domtreeview.cpp:72 domtreeview.cpp:91
+#, kde-format
+msgid "Insert &Before Current"
+msgstr "Insereix a&bans de l'actual"
+
+#: domtreeview.cpp:88
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Text"
+msgstr "Edició de text"
+
+#: domtreeview.cpp:107
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Attribute"
+msgstr "Edició d'atributs"
+
+#: domtreeview.cpp:168
+#, kde-format
+msgctxt "@title:window"
+msgid "DOM Tree for %1"
+msgstr "Arbre DOM per a %1"
+
+#: domtreeview.cpp:168
+#, kde-format
+msgctxt "@title:window"
+msgid "DOM Tree"
+msgstr "Arbre DOM"
+
+#: domtreeview.cpp:509
+#, kde-format
+msgid "Move Nodes"
+msgstr "Mou nodes"
+
+#: domtreeview.cpp:581
+#, kde-format
+msgid "Save DOM Tree as HTML"
+msgstr "Guarda l'arbre DOM com a HTML"
+
+#: domtreeview.cpp:586
+#, kde-format
+msgctxt "@title:window"
+msgid "File Exists"
+msgstr "El fitxer ja existeix"
+
+#: domtreeview.cpp:587
+#, kde-format
+msgid ""
+"Do you really want to overwrite: \n"
+"%1?"
+msgstr ""
+"Realment desitgeu sobreescriure: \n"
+"%1?"
+
+#: domtreeview.cpp:601
+#, kde-format
+msgctxt "@title:window"
+msgid "Unable to Open File"
+msgstr "No s'ha pogut obrir el fitxer"
+
+#: domtreeview.cpp:602
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing"
+msgstr ""
+"No es pot obrir \n"
+" %1 \n"
+" per a escriptura"
+
+#: domtreeview.cpp:606
+#, kde-format
+msgctxt "@title:window"
+msgid "Invalid URL"
+msgstr "L'URL no és vàlid"
+
+#: domtreeview.cpp:607
+#, kde-format
+msgid ""
+"This URL \n"
+" %1 \n"
+" is not valid."
+msgstr ""
+"Aquest URL \n"
+" %1 \n"
+" no és vàlid."
+
+#: domtreeview.cpp:837
+#, kde-format
+msgid "Delete Nodes"
+msgstr "Suprimeix nodes"
+
+#: domtreeview.cpp:1074
+#, kde-format
+msgid "<Click to add>"
+msgstr "<Clic per a afegir>"
+
+#: domtreeview.cpp:1430
+#, kde-format
+msgid "Delete Attributes"
+msgstr "Suprimeix atributs"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, DOMTreeViewBase)
+#: domtreeviewbase.ui:19
+#, kde-format
+msgid "DOM Tree Viewer"
+msgstr "Visor d'arbres DOM"
+
+#. i18n: ectx: property (text), widget (QPushButton, messageListBtn)
+#: domtreeviewbase.ui:61
+#, kde-format
+msgid "&List"
+msgstr "&Llista"
+
+#. i18n: ectx: property (text), widget (QPushButton, messageHideBtn)
+#: domtreeviewbase.ui:92
+#, kde-format
+msgid "H&ide"
+msgstr "Ocul&ta"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_listView)
+#: domtreeviewbase.ui:115
+#, kde-format
+msgid "DOM Tree"
+msgstr "Arbre DOM"
+
+#. i18n: ectx: attribute (title), widget (QWidget, domTab)
+#: domtreeviewbase.ui:127
+#, kde-format
+msgid "DOM Node"
+msgstr "Node DOM"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: domtreeviewbase.ui:138
+#, kde-format
+msgid "Node &value:"
+msgstr "&Valor de node:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: domtreeviewbase.ui:151
+#, kde-format
+msgid "Node &type:"
+msgstr "&Tipus de node:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: domtreeviewbase.ui:164
+#, kde-format
+msgid "Namespace &URI:"
+msgstr "&URI d'espai de noms:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: domtreeviewbase.ui:177
+#, kde-format
+msgid "Node &name:"
+msgstr "&Nom de node:"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#: domtreeviewbase.ui:249
+#, kde-format
+msgid "Name"
+msgstr "Nom"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: domtreeviewbase.ui:254 domtreeviewbase.ui:344
+#, kde-format
+msgid "Value"
+msgstr "Valor"
+
+#. i18n: ectx: property (text), widget (QPushButton, applyContent)
+#: domtreeviewbase.ui:287
+#, kde-format
+msgid "Appl&y"
+msgstr "Apl&ica"
+
+#. i18n: ectx: attribute (title), widget (QWidget, cssTab)
+#: domtreeviewbase.ui:320
+#, kde-format
+msgid "Computed Style"
+msgstr "Estil calculat"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: domtreeviewbase.ui:339
+#, kde-format
+msgid "Property"
+msgstr "Propietat"
+
+#. i18n: ectx: attribute (title), widget (QWidget, styleSheetsTab)
+#: domtreeviewbase.ui:353
+#, kde-format
+msgid "Stylesheets"
+msgstr "Fulls d'estil"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, styleSheetsTree)
+#: domtreeviewbase.ui:366
+#, kde-format
+msgid "1"
+msgstr "1"
+
+#. i18n: ectx: Menu (file)
+#: domtreeviewerui.rc:4
+#, kde-format
+msgid "&File"
+msgstr "&Fitxer"
+
+#. i18n: ectx: Menu (edit)
+#: domtreeviewerui.rc:6
+#, kde-format
+msgid "&Edit"
+msgstr "E&dita"
+
+#. i18n: ectx: Menu (view)
+#: domtreeviewerui.rc:8
+#, kde-format
+msgid "&View"
+msgstr "Vi&sualitza"
+
+#. i18n: ectx: Menu (go)
+#: domtreeviewerui.rc:19
+#, kde-format
+msgid "&Go"
+msgstr "&Ves"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: domtreeviewerui.rc:23
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Barra d'eines principal"
+
+#. i18n: ectx: ToolBar (treeToolBar)
+#: domtreeviewerui.rc:25
+#, kde-format
+msgid "Tree Toolbar"
+msgstr "Barra d'eines de l'arbre"
+
+#: domtreewindow.cpp:65
+#, kde-format
+msgctxt "@title:window"
+msgid "Message Log"
+msgstr "Registre de missatges"
+
+#: domtreewindow.cpp:169
+#, kde-format
+msgid "Pure DOM Tree"
+msgstr "Arbre DOM pur"
+
+#: domtreewindow.cpp:175
+#, kde-format
+msgid "Show DOM Attributes"
+msgstr "Mostra els atributs DOM"
+
+#: domtreewindow.cpp:182
+#, kde-format
+msgid "Highlight HTML"
+msgstr "Ressalta l'HTML"
+
+#: domtreewindow.cpp:190
+#, kde-format
+msgid "Show Message Log"
+msgstr "Mostra el registre de missatges"
+
+#: domtreewindow.cpp:202
+#, kde-format
+msgid "Expand"
+msgstr "Expandeix"
+
+#: domtreewindow.cpp:205
+#, kde-format
+msgid "Increase expansion level"
+msgstr "Incrementa el nivell d'expansió"
+
+#: domtreewindow.cpp:208
+#, kde-format
+msgid "Collapse"
+msgstr "Redueix"
+
+#: domtreewindow.cpp:211
+#, kde-format
+msgid "Decrease expansion level"
+msgstr "Disminueix el nivell d'expansió"
+
+#: domtreewindow.cpp:217 domtreewindow.cpp:235
+#, kde-format
+msgid "&Delete"
+msgstr "Su&primeix"
+
+#: domtreewindow.cpp:220
+#, kde-format
+msgid "Delete nodes"
+msgstr "Suprimeix nodes"
+
+#: domtreewindow.cpp:225
+#, kde-format
+msgid "New &Element..."
+msgstr "&Element nou..."
+
+#: domtreewindow.cpp:229
+#, kde-format
+msgid "New &Text Node..."
+msgstr "Node de &text nou..."
+
+#: domtreewindow.cpp:238
+#, kde-format
+msgid "Delete attributes"
+msgstr "Suprimeix atributs"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: elementeditwidget.ui:24
+#, kde-format
+msgid "Element &name:"
+msgstr "&Nom d'element:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: elementeditwidget.ui:47
+#, kde-format
+msgid "Element &namespace:"
+msgstr "Espai de &noms d'element:"
+
+#: plugin_domtreeviewer.cpp:25
+#, kde-format
+msgid "Show &DOM Tree"
+msgstr "Mostra l'arbre &DOM"
+
+#. i18n: ectx: Menu (tools)
+#: plugin_domtreeviewer.rc:4
+#, kde-format
+msgid "&Tools"
+msgstr "&Eines"
+
+#. i18n: ectx: ToolBar (extraToolBar)
+#: plugin_domtreeviewer.rc:8
+#, kde-format
+msgid "Extra Toolbar"
+msgstr "Barra d'eines extra"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: texteditwidget.ui:19
+#, kde-format
+msgid "Edit &text for text node:"
+msgstr "Edita &text per al node de text:"
+
+#~ msgid "Overwrite"
+#~ msgstr "Sobreescriu"

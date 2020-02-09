@@ -1,0 +1,121 @@
+# Translation of kwin._json_.po to Catalan (Valencian)
+# Copyright (C) 2015-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwin json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:36+0000\n"
+"PO-Revision-Date: 2019-07-11 12:46+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: plugins/platforms/virtual/virtual.json
+msgctxt "Name"
+msgid "virtual"
+msgstr "Virtual"
+
+#: plugins/platforms/x11/windowed/x11.json
+msgctxt "Name"
+msgid "x11"
+msgstr "X11"
+
+#: plugins/platforms/x11/standalone/x11.json
+msgctxt "Name"
+msgid "x11-standalone"
+msgstr "X11-autònoma"
+
+#: plugins/platforms/fbdev/fbdev.json
+msgctxt "Name"
+msgid "framebuffer"
+msgstr "Framebuffer"
+
+#: plugins/platforms/drm/drm.json
+msgctxt "Name"
+msgid "drm"
+msgstr "DRM"
+
+#: plugins/platforms/wayland/wayland.json
+msgctxt "Name"
+msgid "wayland"
+msgstr "Wayland"
+
+#: plugins/platforms/hwcomposer/hwcomposer.json
+msgctxt "Name"
+msgid "hwcomposer"
+msgstr "hwcomposer"
+
+#: plugins/scenes/opengl/opengl.json
+msgctxt "Name"
+msgid "SceneOpenGL"
+msgstr "SceneOpenGL"
+
+#: plugins/scenes/xrender/xrender.json
+msgctxt "Name"
+msgid "SceneXRender"
+msgstr "SceneXRender"
+
+#: plugins/scenes/qpainter/qpainter.json
+msgctxt "Name"
+msgid "SceneQPainter"
+msgstr "SceneQPainter"
+
+#: plugins/platforms/virtual/virtual.json
+msgctxt "Description"
+msgid "Render to a virtual framebuffer."
+msgstr "Renderitza en un «framebuffer» virtual."
+
+#: plugins/platforms/x11/windowed/x11.json
+msgctxt "Description"
+msgid "Render to a nested window on X11 windowing system."
+msgstr "Renderitza a una finestra imbricada en el sistema de finestres X11."
+
+#: plugins/platforms/x11/standalone/x11.json
+msgctxt "Description"
+msgid "Platform plugin for standalone x11 in kwin_x11."
+msgstr "Connector de plataforma per a una X11 autònoma en kwin_x11."
+
+#: plugins/platforms/fbdev/fbdev.json
+msgctxt "Description"
+msgid "Render to framebuffer."
+msgstr "Renderitza en el «framebuffer»."
+
+#: plugins/platforms/drm/drm.json
+msgctxt "Description"
+msgid "Render through drm node."
+msgstr "Renderitza mitjançant el node DRM."
+
+#: plugins/platforms/wayland/wayland.json
+msgctxt "Description"
+msgid "Render to a nested window on running Wayland compositor."
+msgstr "Renderitza en una finestra imbricada en un compositor Wayland en execució."
+
+#: plugins/platforms/hwcomposer/hwcomposer.json
+msgctxt "Description"
+msgid "Render through hwcomposer through libhybris."
+msgstr "Renderitza mitjançant «hwcomposer» mitjançant «libhybris»."
+
+#: plugins/scenes/opengl/opengl.json
+msgctxt "Description"
+msgid "KWin Compositor plugin rendering through OpenGL"
+msgstr "Connector del Compositor de KWin que renderitza a través d'OpenGL"
+
+#: plugins/scenes/xrender/xrender.json
+msgctxt "Description"
+msgid "KWin Compositor plugin rendering through XRender"
+msgstr "Connector del Compositor de KWin que renderitza a través de XRender"
+
+#: plugins/scenes/qpainter/qpainter.json
+msgctxt "Description"
+msgid "KWin Compositor plugin rendering through QPainter"
+msgstr "Connector del Compositor de KWin que renderitza a través de QPainter"

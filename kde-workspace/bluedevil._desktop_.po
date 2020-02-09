@@ -1,0 +1,201 @@
+# Translation of bluedevil._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2010-2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Manuel Tortosa <manutortosa@chakra-project.org>, 2010.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2011, 2012, 2013, 2015.
+# Joan Maspons <joanmaspons@gmail.com>, 2011.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2013, 2015, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: bluedevil desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-23 01:30+0000\n"
+"PO-Revision-Date: 2019-07-02 12:57+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: src/applet/package/metadata.desktop:2
+#: src/kio/bluetooth/bluetooth-network.desktop:3
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: src/applet/package/metadata.desktop:48
+msgctxt "Comment"
+msgid "Bluetooth status and control"
+msgstr "Estat i control del Bluetooth"
+
+#: src/bluedevil.notifyrc:3
+msgctxt "Comment"
+msgid "Bluetooth system"
+msgstr "Sistema Bluetooth"
+
+#: src/bluedevil.notifyrc:51
+msgctxt "Name"
+msgid "Authorization Requested"
+msgstr "Sol·licitud d'autorització"
+
+#: src/bluedevil.notifyrc:96
+msgctxt "Comment"
+msgid "A device wants to connect"
+msgstr "Un dispositiu es vol connectar"
+
+#: src/bluedevil.notifyrc:145
+msgctxt "Name"
+msgid "Confirm PIN"
+msgstr "Confirmació del PIN"
+
+#: src/bluedevil.notifyrc:191
+msgctxt "Comment"
+msgid "Confirm a device request using matching PINs"
+msgstr "Confirma una sol·licitud d'un dispositiu usant PIN que coincidisquen"
+
+#: src/bluedevil.notifyrc:240
+msgctxt "Name"
+msgid "Request PIN"
+msgstr "Sol·licita el PIN"
+
+#: src/bluedevil.notifyrc:285
+msgctxt "Comment"
+msgid "A PIN is needed"
+msgstr "Es necessita un PIN"
+
+#: src/bluedevil.notifyrc:335
+msgctxt "Name"
+msgid "Incoming File"
+msgstr "Fitxer entrant"
+
+#: src/bluedevil.notifyrc:381
+msgctxt "Comment"
+msgid "Incoming file transfer"
+msgstr "Transferència de fitxer entrant"
+
+#: src/bluedevil.notifyrc:430
+msgctxt "Name"
+msgid "Connection Failed"
+msgstr "Ha fallat la connexió"
+
+#: src/bluedevil.notifyrc:475
+msgctxt "Comment"
+msgid "Connection to device failed"
+msgstr "Ha fallat la connexió amb el dispositiu"
+
+#: src/kcmodule/adapters/bluedeviladapters.desktop:14
+msgctxt "Name"
+msgid "Adapters"
+msgstr "Adaptadors"
+
+#: src/kcmodule/adapters/bluedeviladapters.desktop:61
+msgctxt "Comment"
+msgid "Bluetooth Adapters"
+msgstr "Adaptadors Bluetooth"
+
+#: src/kcmodule/adapters/bluedeviladapters.desktop:105
+#: src/kcmodule/devices/bluedevildevices.desktop:106
+#: src/kcmodule/global/bluedevilglobal.desktop:104
+msgctxt "X-KDE-Keywords"
+msgid "Network,Connectivity,Bluetooth"
+msgstr "Xarxa,Connectivitat,Bluetooth"
+
+#: src/kcmodule/devices/bluedevildevices.desktop:14
+msgctxt "Name"
+msgid "Devices"
+msgstr "Dispositius"
+
+#: src/kcmodule/devices/bluedevildevices.desktop:61
+msgctxt "Comment"
+msgid "Bluetooth Devices"
+msgstr "Dispositius Bluetooth"
+
+#: src/kcmodule/global/bluedevilglobal.desktop:14
+msgctxt "Name"
+msgid "Advanced Settings"
+msgstr "Configuració avançada"
+
+#: src/kcmodule/global/bluedevilglobal.desktop:59
+msgctxt "Comment"
+msgid "Advanced Bluetooth Settings"
+msgstr "Configuració avançada del Bluetooth"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:2
+msgctxt "Name"
+msgid "BlueDevil Send File"
+msgstr "Envia fitxers amb BlueDevil"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:45
+msgctxt "GenericName"
+msgid "BlueDevil Send File"
+msgstr "Envia fitxers amb BlueDevil"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:88
+msgctxt "Comment"
+msgid "BlueDevil Send File"
+msgstr "Envia fitxers amb BlueDevil"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:2
+msgctxt "Name"
+msgid "BlueDevil Wizard"
+msgstr "Assistent del BlueDevil"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:46
+msgctxt "GenericName"
+msgid "BlueDevil Wizard"
+msgstr "Assistent del BlueDevil"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:90
+msgctxt "Comment"
+msgid "BlueDevil Wizard"
+msgstr "Assistent del BlueDevil"
+
+#~ msgctxt "Name"
+#~ msgid "Send file via Bluetooth"
+#~ msgstr "Envia un fitxer per Bluetooth"
+
+#~ msgctxt "X-KDE-Submenu"
+#~ msgid "Bluetooth"
+#~ msgstr "Bluetooth"
+
+#~ msgctxt "Comment"
+#~ msgid "Handles Bluetooth events"
+#~ msgstr "Gestiona els esdeveniments del Bluetooth"
+
+#~ msgctxt "Name"
+#~ msgid "Bluetooth File Transfer"
+#~ msgstr "Transferència de fitxer per Bluetooth"
+
+#~ msgctxt "Comment"
+#~ msgid "Supports Bluetooth file transfer using ObexFTP"
+#~ msgstr "Accepta transferència de fitxer per Bluetooth usant ObexFTP"
+
+#~ msgctxt "Name"
+#~ msgid "File Transfers"
+#~ msgstr "Transferències de fitxers"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Bluetooth file sharing and transfers"
+#~ msgstr "Configura la compartició i transferència de fitxers per Bluetooth"
+
+#~ msgctxt "Name"
+#~ msgid "Confirm Mode Change"
+#~ msgstr "Confirmació del canvi de mode"
+
+#~ msgctxt "Comment"
+#~ msgid "Bluetooth mode is about to be changed (normal to flight for example)"
+#~ msgstr "El mode Bluetooth és a punt de canviar (de mode normal a mode avió per exemple)"
+
+#~ msgctxt "Name"
+#~ msgid "BlueDevil"
+#~ msgstr "BlueDevil"
+
+#~ msgctxt "GenericName"
+#~ msgid "BlueDevil"
+#~ msgstr "BlueDevil"

@@ -1,0 +1,365 @@
+# Translation of kdeconnect-plugins.po to Catalan (Valencian)
+# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016, 2018, 2019.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2017, 2019.
+# empar <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-plugins\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-06-14 02:48+0200\n"
+"PO-Revision-Date: 2019-12-16 11:56+0100\n"
+"Last-Translator: empar <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#: battery/batteryplugin.cpp:74
+#, kde-format
+msgctxt "device name: low battery"
+msgid "%1: Low Battery"
+msgstr "%1: Bateria baixa"
+
+#: battery/batteryplugin.cpp:74
+#, kde-format
+msgid "Battery at %1%"
+msgstr "Bateria al %1%"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: findthisdevice/findthisdevice_config.ui:17
+#, kde-format
+msgid "Discovery Utilities"
+msgstr "Utilitats per a descobrir"
+
+#. i18n: ectx: property (text), widget (QLabel)
+#: findthisdevice/findthisdevice_config.ui:25
+#, kde-format
+msgid "Sound to play:"
+msgstr "So a reproduir:"
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, soundFileRequester)
+#: findthisdevice/findthisdevice_config.ui:39
+#, kde-format
+msgid "Select the sound to play"
+msgstr "Seleccioneu el so a reproduir"
+
+#: mousepad/waylandremoteinput.cpp:60
+#, kde-format
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+#: mousepad/waylandremoteinput.cpp:60
+#, kde-format
+msgid "Use your phone as a touchpad and keyboard"
+msgstr "Utilitzeu el telèfon com un ratolí tàctil i un teclat"
+
+#: notifications/notification.cpp:145
+#, kde-format
+msgid "Reply"
+msgstr "Respon"
+
+#: notifications/sendreplydialog.cpp:41
+#, kde-format
+msgid "Send"
+msgstr "Envia"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, SendReplyDialog)
+#: notifications/sendreplydialog.ui:14
+#, kde-format
+msgid "Dialog"
+msgstr "Diàleg"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, PauseMusicConfigUi)
+#: pausemusic/pausemusic_config.ui:17
+#, kde-format
+msgid "Pause music plugin"
+msgstr "Connector Pausa la música"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: pausemusic/pausemusic_config.ui:32
+#, kde-format
+msgid "Condition"
+msgstr "Condició"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rad_ringing)
+#: pausemusic/pausemusic_config.ui:38
+#, kde-format
+msgid "Pause as soon as phone rings"
+msgstr "Pausa tan prompte com sone el telèfon"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rad_talking)
+#: pausemusic/pausemusic_config.ui:45
+#, kde-format
+msgid "Pause only while talking"
+msgstr "Pausa només mentre es parla"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: pausemusic/pausemusic_config.ui:61
+#, kde-format
+msgid "Actions"
+msgstr "Accions"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_pause)
+#: pausemusic/pausemusic_config.ui:67
+#, kde-format
+msgid "Pause media players"
+msgstr "Pausa els reproductors multimèdia"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_mute)
+#: pausemusic/pausemusic_config.ui:74
+#, kde-format
+msgid "Mute system sound"
+msgstr "Silencia el so del sistema"
+
+#: ping/pingplugin.cpp:50
+#, kde-format
+msgid "Ping!"
+msgstr "Ping"
+
+#: runcommand/runcommand_config.cpp:45
+#, kde-format
+msgid "Suspend"
+msgstr "Suspén"
+
+#: runcommand/runcommand_config.cpp:46
+#, kde-format
+msgid "Maximum Brightness"
+msgstr "Lluminositat màxima"
+
+#: runcommand/runcommand_config.cpp:47
+#, kde-format
+msgid "Lock Screen"
+msgstr "Bloqueja la pantalla"
+
+#: runcommand/runcommand_config.cpp:48
+#, kde-format
+msgid "Unlock Screen"
+msgstr "Desbloqueja la pantalla"
+
+#: runcommand/runcommand_config.cpp:49
+#, kde-format
+msgid "Close All Vaults"
+msgstr "Tanca totes les caixes fortes"
+
+#: runcommand/runcommand_config.cpp:50
+#, kde-format
+msgid "Forcefully Close All Vaults"
+msgstr "Tanca fortament totes les caixes fortes"
+
+#: runcommand/runcommand_config.cpp:57
+#, kde-format
+msgid "Sample commands"
+msgstr "Ordres de mostra"
+
+#: runcommand/runcommand_config.cpp:66
+#: sendnotifications/notifyingapplicationmodel.cpp:208
+#, kde-format
+msgid "Name"
+msgstr "Nom"
+
+#: runcommand/runcommand_config.cpp:66
+#, kde-format
+msgid "Command"
+msgstr "Ordre"
+
+#: screensaver-inhibit/screensaverinhibitplugin.cpp:45
+#, kde-format
+msgid "Phone is connected"
+msgstr "El telèfon està connectat"
+
+#: sendnotifications/notifyingapplicationmodel.cpp:212
+#, kde-format
+msgid "Blacklisted"
+msgstr "Es troba en la llista negra"
+
+#: sendnotifications/notifyingapplicationmodel.cpp:216
+#, kde-format
+msgid "Name of a notifying application."
+msgstr "Nom d'una aplicació amb notificacions."
+
+#: sendnotifications/notifyingapplicationmodel.cpp:218
+#, kde-format
+msgid "Synchronize notifications of an application?"
+msgstr "Voleu sincronitzar les notificacions d'una aplicació?"
+
+#: sendnotifications/notifyingapplicationmodel.cpp:220
+#, kde-format
+msgid ""
+"Regular expression defining which notifications should not be sent.\n"
+"This pattern is applied to the summary and, if selected above, the body of "
+"notifications."
+msgstr ""
+"Expressió regular que defineix les notificacions que no s'han d'enviar.\n"
+"Aquest patró s'aplica al resum, i si s'ha seleccionat anteriorment, al cos de"
+" les "
+"notificacions."
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: sendnotifications/sendnotifications_config.ui:38
+#, kde-format
+msgid "General"
+msgstr "General"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, check_persistent)
+#: sendnotifications/sendnotifications_config.ui:44
+#, kde-format
+msgid "Synchronize only notifications with a timeout value of 0?"
+msgstr ""
+"Voleu sincronitzar només les notificacions amb un valor de temps d'espera de"
+" 0?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_persistent)
+#: sendnotifications/sendnotifications_config.ui:47
+#, kde-format
+msgid "Persistent notifications only"
+msgstr "Només les notificacions persistents"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, check_body)
+#: sendnotifications/sendnotifications_config.ui:60
+#, kde-format
+msgid ""
+"Append the notification body to the summary when synchronizing notifications?"
+msgstr ""
+"Voleu afegir el cos de la notificació al resum en sincronitzar les"
+" notificacions?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_body)
+#: sendnotifications/sendnotifications_config.ui:63
+#, kde-format
+msgid "Include body"
+msgstr "Inclou el cos"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, check_icons)
+#: sendnotifications/sendnotifications_config.ui:76
+#, kde-format
+msgid "Synchronize icons of notifying applications if possible?"
+msgstr ""
+"Voleu sincronitzar les icones i notificacions d'una aplicació si és possible?"
+
+#. i18n: ectx: property (text), widget (QCheckBox, check_icons)
+#: sendnotifications/sendnotifications_config.ui:79
+#, kde-format
+msgid "Synchronize icons"
+msgstr "Sincronitza les icones"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, spin_urgency)
+#: sendnotifications/sendnotifications_config.ui:107
+#, kde-format
+msgid ""
+"<html><head/><body><p>Minimum urgency level of the notifications</p></body></"
+"html>"
+msgstr ""
+"<html><head/><body><p>Nivell mínim d'urgència de les notificacions</p></"
+"body></html>"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label)
+#: sendnotifications/sendnotifications_config.ui:123
+#, kde-format
+msgid "Synchronize only notifications with the given urgency level."
+msgstr "Sincronitza només les notificacions amb el nivell d'urgència indicat."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: sendnotifications/sendnotifications_config.ui:126
+#, kde-format
+msgid "Minimum urgency level"
+msgstr "Nivell mínim d'urgència"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: sendnotifications/sendnotifications_config.ui:148
+#, kde-format
+msgid "Applications"
+msgstr "Aplicacions"
+
+#: sftp/mounter.cpp:185
+#, kde-format
+msgid "Failed to start sshfs"
+msgstr "No s'ha pogut iniciar «sshfs»"
+
+#: sftp/mounter.cpp:189
+#, kde-format
+msgid "sshfs process crashed"
+msgstr "El procés «sshfs» ha fallat"
+
+#: sftp/mounter.cpp:193
+#, kde-format
+msgid "Unknown error in sshfs"
+msgstr "S'ha produït un error desconegut en «sshfs»"
+
+#: sftp/mounter.cpp:207
+#, kde-format
+msgid "Error when accessing filesystem. sshfs finished with exit code %0"
+msgstr ""
+"S'ha produït un error en accedir al sistema de fitxers. «sshfs» ha finalitzat"
+" amb un codi "
+"d'eixida %0"
+
+#: sftp/mounter.cpp:216
+#, kde-format
+msgid "Failed to mount filesystem: device not responding"
+msgstr "El muntatge del sistema de fitxers ha fallat: el dispositiu no respon"
+
+#: sftp/sftpplugin.cpp:155
+#, kde-format
+msgid "All files"
+msgstr "Tots els fitxers"
+
+#: sftp/sftpplugin.cpp:156
+#, kde-format
+msgid "Camera pictures"
+msgstr "Imatges de la càmera"
+
+#: share/share_config.cpp:38
+#, kde-format
+msgid "&percnt;1 in the path will be replaced with the specific device name."
+msgstr "&percnt;1 en el camí serà substituït pel nom específic del dispositiu."
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ShareConfigUi)
+#: share/share_config.ui:17
+#, kde-format
+msgid "Share plugin settings"
+msgstr "Configuració del connector Compartició"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: share/share_config.ui:23
+#, kde-format
+msgid "Receiving"
+msgstr "Recepció"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: share/share_config.ui:31
+#, kde-format
+msgid "Save files in:"
+msgstr "Guarda els fitxers en:"
+
+#: telephony/telephonyplugin.cpp:43
+#, kde-format
+msgid "unknown number"
+msgstr "número desconegut"
+
+#: telephony/telephonyplugin.cpp:55
+#, kde-format
+msgid "Incoming call from %1"
+msgstr "Trucada entrant des de %1"
+
+#: telephony/telephonyplugin.cpp:59
+#, kde-format
+msgid "Missed call from %1"
+msgstr "Trucada perduda des de %1"
+
+#: telephony/telephonyplugin.cpp:69
+#, kde-format
+msgid "Unknown telephony event: %1"
+msgstr "Esdeveniment de telefonia desconegut: %1"
+
+#: telephony/telephonyplugin.cpp:90
+#, kde-format
+msgid "Mute Call"
+msgstr "Silencia la trucada"

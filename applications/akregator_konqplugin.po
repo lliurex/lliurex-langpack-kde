@@ -1,0 +1,75 @@
+# Translation of akregator_konqplugin.po to Catalan (Valencian)
+# Copyright (C) 2004-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2005, 2006, 2008, 2011, 2018.
+# Manuel Tortosa Moreno <manutortosa@gmail.com>, 2009.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: akregator_konqplugin\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-07-28 02:23+0200\n"
+"PO-Revision-Date: 2019-09-03 11:18+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: akregatorplugin.cpp:74
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Add Feed to Akregator"
+msgstr "Afig aquesta font a Akregator"
+
+#: konqfeedicon.cpp:142
+#, kde-format
+msgid "Add Feed to Akregator"
+msgstr "Afig aquesta font a Akregator"
+
+#: konqfeedicon.cpp:144
+#, kde-format
+msgid "Add Feeds to Akregator"
+msgstr "Afig aquestes fonts a Akregator"
+
+#: konqfeedicon.cpp:153
+#, kde-format
+msgid "Add All Found Feeds to Akregator"
+msgstr "Afig totes les fonts trobades a Akregator"
+
+#: konqfeedicon.cpp:177
+#, kde-format
+msgid "Subscribe to site updates (using news feed)"
+msgstr ""
+"Subscriu-me a les actualitzacions d'aquest lloc (utilitzant les fonts de"
+" notícies)"
+
+#: pluginutil.cpp:52 pluginutil.cpp:62
+#, kde-format
+msgid "Imported Feeds"
+msgstr "Fonts importades"
+
+#: pluginutil.cpp:54
+#, kde-format
+#| msgid "Unable to contact Akregator via DBus"
+msgid "Unable to contact Akregator via D-Bus"
+msgstr "No s'ha pogut contactar amb 'Akregator via DBus"
+
+#: pluginutil.cpp:55
+#, kde-format
+#| msgctxt "@title:window"
+#| msgid "DBus call failed"
+msgctxt "@title:window"
+msgid "D-Bus call failed"
+msgstr "Ha fallat la crida a DBus"
+
+#~ msgid "Akregator feed icon - DBus Call failed"
+#~ msgstr "Icona d'una font de l'Akregator -ha fallat la crida de DBus-"

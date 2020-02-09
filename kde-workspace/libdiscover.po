@@ -1,0 +1,3243 @@
+# Translation of libdiscover.po to Catalan (Valencian)
+# Copyright (C) 2011-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2017, 2018, 2019.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: libdiscover\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-28 03:23+0200\n"
+"PO-Revision-Date: 2019-08-29 09:26+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#, kde-format
+#| msgctxt "Category"
+#| msgid "Board Games"
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: libdiscover/appstream/AppStreamUtils.cpp:92
+#, kde-format
+msgid "Proprietary"
+msgstr "Propietària"
+
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:198
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:114
+#, kde-format
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:4
+#, kde-format
+msgctxt "Category"
+msgid "Dummy Category"
+msgstr "Categoria simulada"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:10
+#, kde-format
+msgctxt "Category"
+msgid "dummy"
+msgstr "simulació"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:18
+#, kde-format
+msgctxt "Category"
+msgid "dummy addons"
+msgstr "complement simulat"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:27
+#, kde-format
+msgctxt "Category"
+msgid "dummy 1"
+msgstr "simulació 1"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:35
+#, kde-format
+msgctxt "Category"
+msgid "dummy with stuff"
+msgstr "simulació amb coses"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:42
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:57
+#, kde-format
+msgctxt "Category"
+msgid "dummy 2.1"
+msgstr "simulació 2.1"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:50
+#, kde-format
+msgctxt "Category"
+msgid "dummy with quite some stuff"
+msgstr "simulació amb algunes coses"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:66
+#, kde-format
+msgctxt "Category"
+msgid "dummy 3"
+msgstr "simulació 3"
+
+#: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:76
+#, kde-format
+msgctxt "Category"
+msgid "dummy 4"
+msgstr "simulació 4"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:5
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:5
+#: libdiscover/backends/SnapBackend/snap-backend-categories.xml:5
+#, kde-format
+msgctxt "Category"
+msgid "Applications"
+msgstr "Aplicacions"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:14
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:14
+#, kde-format
+msgctxt "Category"
+msgid "Accessories"
+msgstr "Accessoris"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:26
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:26
+#, kde-format
+msgctxt "Category"
+msgid "Accessibility"
+msgstr "Accessibilitat"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:38
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:38
+#, kde-format
+msgctxt "Category"
+msgid "Developer Tools"
+msgstr "Eines de desenvolupament"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:48
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:48
+#, kde-format
+msgctxt "Category"
+msgid "Debugging"
+msgstr "Depuració"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:58
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:58
+#, kde-format
+msgctxt "Category"
+msgid "Graphic Interface Design"
+msgstr "Disseny d'interfície gràfica"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:67
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:67
+#, kde-format
+msgctxt "Category"
+msgid "IDEs"
+msgstr "Entorns integrats de desenvolupament"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:76
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:76
+#, kde-format
+msgctxt "Category"
+msgid "Localization"
+msgstr "Localització"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:86
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:86
+#, kde-format
+msgctxt "Category"
+msgid "Profiling"
+msgstr "Anàlisi del rendiment"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:95
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:95
+#, kde-format
+msgctxt "Category"
+msgid "Web Development"
+msgstr "Desenvolupament web"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:108
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:108
+#, kde-format
+msgctxt "Category"
+msgid "Education"
+msgstr "Educació"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:120
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:120
+#, kde-format
+msgctxt "Category"
+msgid "Science and Engineering"
+msgstr "Ciència i enginyeria"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:130
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:130
+#, kde-format
+msgctxt "Category"
+msgid "Astronomy"
+msgstr "Astronomia"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:138
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:138
+#, kde-format
+msgctxt "Category"
+msgid "Biology"
+msgstr "Biologia"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:146
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:146
+#, kde-format
+msgctxt "Category"
+msgid "Chemistry"
+msgstr "Química"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:155
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:155
+#, kde-format
+msgctxt "Category"
+msgid "Computer Science and Robotics"
+msgstr "Informàtica i robòtica"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:166
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:166
+#, kde-format
+msgctxt "Category"
+msgid "Electronics"
+msgstr "Electrònica"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:175
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:175
+#, kde-format
+msgctxt "Category"
+msgid "Engineering"
+msgstr "Enginyeria"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:184
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:184
+#, kde-format
+msgctxt "Category"
+msgid "Geography"
+msgstr "Geografia"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:192
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:192
+#, kde-format
+msgctxt "Category"
+msgid "Geology"
+msgstr "Geologia"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:201
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:201
+#, kde-format
+msgctxt "Category"
+msgid "Mathematics"
+msgstr "Matemàtiques"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:212
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:212
+#, kde-format
+msgctxt "Category"
+msgid "Physics"
+msgstr "Física"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:223
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:223
+#, kde-format
+msgctxt "Category"
+msgid "Games"
+msgstr "Jocs"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:233
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:233
+#, kde-format
+msgctxt "Category"
+msgid "Arcade"
+msgstr "Arcade"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:242
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:242
+#, kde-format
+msgctxt "Category"
+msgid "Board Games"
+msgstr "Jocs de taula"
+
+# skip-rule: ff-card
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:251
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:251
+#, kde-format
+msgctxt "Category"
+msgid "Card Games"
+msgstr "Jocs de cartes"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:260
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:260
+#, kde-format
+msgctxt "Category"
+msgid "Puzzles"
+msgstr "Trencaclosques"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:269
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:269
+#, kde-format
+msgctxt "Category"
+msgid "Role Playing"
+msgstr "Jocs de rol"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:278
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:278
+#, kde-format
+msgctxt "Category"
+msgid "Simulation"
+msgstr "Simulació"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:287
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:287
+#, kde-format
+msgctxt "Category"
+msgid "Strategy"
+msgstr "Estratègia"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:296
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:296
+#, kde-format
+msgctxt "Category"
+msgid "Sports"
+msgstr "Esports"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:305
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:305
+#, kde-format
+msgctxt "Category"
+msgid "Action"
+msgstr "Acció"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:314
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:314
+#, kde-format
+msgctxt "Category"
+msgid "Emulators"
+msgstr "Emuladors"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:327
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:327
+#, kde-format
+msgctxt "Category"
+msgid "Graphics"
+msgstr "Gràfics"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:336
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:336
+#, kde-format
+msgctxt "Category"
+msgid "3D"
+msgstr "3D"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:344
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:344
+#, kde-format
+msgctxt "Category"
+msgid "Drawing"
+msgstr "Dibuix"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:356
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:356
+#, kde-format
+msgctxt "Category"
+msgid "Painting and Editing"
+msgstr "Pintura i edició"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:369
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:369
+#, kde-format
+msgctxt "Category"
+msgid "Photography"
+msgstr "Fotografia"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:378
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:378
+#, kde-format
+msgctxt "Category"
+msgid "Publishing"
+msgstr "Publicació"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:387
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:387
+#, kde-format
+msgctxt "Category"
+msgid "Scanning and OCR"
+msgstr "Escaneig i ROC (OCR)"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:397
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:397
+#, kde-format
+msgctxt "Category"
+msgid "Viewers"
+msgstr "Visualitzadors"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:409
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:409
+#, kde-format
+msgctxt "Category"
+msgid "Internet"
+msgstr "Internet"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:418
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:418
+#, kde-format
+msgctxt "Category"
+msgid "Chat"
+msgstr "Xat"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:428
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:428
+#, kde-format
+msgctxt "Category"
+msgid "File Sharing"
+msgstr "Compartició de fitxers"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:437
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:437
+#, kde-format
+msgctxt "Category"
+msgid "Mail"
+msgstr "Correu"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:446
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:446
+#, kde-format
+msgctxt "Category"
+msgid "Web Browsers"
+msgstr "Navegadors web"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:458
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:458
+#, kde-format
+msgctxt "Category"
+msgid "Multimedia"
+msgstr "Multimèdia"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:468
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:468
+#, kde-format
+msgctxt "Category"
+msgid "Audio and Video Editors"
+msgstr "Editors d'àudio i de vídeo"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:477
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:477
+#, kde-format
+msgctxt "Category"
+msgid "Audio Players"
+msgstr "Reproductors d'àudio"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:498
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:498
+#, kde-format
+msgctxt "Category"
+msgid "Video Players"
+msgstr "Reproductors de vídeo"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:516
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:516
+#, kde-format
+msgctxt "Category"
+msgid "CD and DVD"
+msgstr "CD i DVD"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:528
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:528
+#, kde-format
+msgctxt "Category"
+msgid "Office"
+msgstr "Oficina"
+
+#: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:539
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:539
+#, kde-format
+msgctxt "Category"
+msgid "System Settings"
+msgstr "Configuració del sistema"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:393
+#, kde-format
+msgid "Local bundle"
+msgstr "Paquet local"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1214
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:473
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:487
+#, kde-format
+msgid "Malformed appstream url '%1'"
+msgstr "URL d'«appstream» amb format incorrecte «%1»"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:109
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:238
+#, kde-format
+msgid "Unknown"
+msgstr "Desconegut"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:365
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:373
+#, kde-format
+msgid "Retrieving size information"
+msgstr "S'està recuperant la informació de la mida"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:367
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:375
+#, kde-format
+msgid "Unknown size"
+msgstr "Mida desconeguda"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:369
+#, kde-format
+msgctxt "@info app size"
+msgid "%1 to download, %2 on disk"
+msgstr "%1 per a baixar, %2 en el disc"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:377
+#, kde-format
+msgctxt "@info app size"
+msgid "%1 on disk"
+msgstr "%1 en el disc"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:53
+#, kde-format
+msgid "Add Flathub"
+msgstr "Afig Flathub"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:103
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:114
+#, kde-format
+msgid "Could not add the source %1"
+msgstr "No s'ha pogut afegir la font %1"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:299
+#, kde-format
+msgid "Flatpak repository URI (*.flatpakrepo)"
+msgstr "URI del repositori Flatpak (*.flatpakrepo)"
+
+#: libdiscover/backends/FlatpakBackend/FlatpakTransactionThread.cpp:40
+#, kde-format
+msgid "Adding remote '%1' in %2 from %3"
+msgstr "S'afig el remot «%1» en %2 des de %3"
+
+#: libdiscover/backends/FwupdBackend/FwupdSourcesBackend.cpp:123
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:329
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:274
+#, kde-format
+msgid "Accept EULA"
+msgstr "Accepta EULA"
+
+#: libdiscover/backends/FwupdBackend/FwupdSourcesBackend.cpp:123
+#, kde-format
+msgid ""
+"The remote %1 require that you accept their license:\n"
+" %2"
+msgstr ""
+"El remot %1 requereix que accepteu la seua llicència:\n"
+" %2"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:123
+#, kde-format
+msgid "Backend %1 took too long to initialize"
+msgstr "El dorsal %1 ha tardat massa temps en inicialitzar-se"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:183
+#, kde-format
+msgid "Applications"
+msgstr "Aplicacions"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:217
+#, kde-format
+msgid "Plasma Addons"
+msgstr "Complements de Plasma"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:217
+#, kde-format
+msgid "Application Addons"
+msgstr "Complements d'aplicacions"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:341
+#, kde-format
+msgid "Network error in backend %1: %2"
+msgstr "Error de xarxa en el dorsal %1: %2"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:348
+#, kde-format
+msgid ""
+"Too many requests sent to the server for backend %1. Please try again in a "
+"few minutes."
+msgstr ""
+"Hi ha massa peticions enviades al servidor pel dorsal %1. Torneu-ho a provar "
+"en uns quants minuts."
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:351
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:357
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:362
+#, kde-format
+msgid "Invalid %1 backend, contact your distributor."
+msgstr "Dorsal %1 no vàlid, contacteu amb el vostre distribuïdor."
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:371
+#, kde-format
+msgid "Could not fetch screenshot for the entry %1 in backend %2"
+msgstr ""
+"No s'ha pogut recuperar la captura de pantalla per a l'entrada %1 en el"
+" dorsal %2"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:375
+#, kde-format
+msgid "Unhandled error in %1 backend. Contact your distributor."
+msgstr ""
+"Error no gestionat en el dorsal %1. Contacteu amb el vostre distribuïdor."
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:385
+#, kde-format
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:554
+#, kde-format
+msgid "Wrong KNewStuff URI: %1"
+msgstr "URI de KNewStuff incorrecte: %1"
+
+#: libdiscover/backends/KNSBackend/KNSResource.cpp:238
+#: libdiscover/resources/AbstractResource.cpp:247
+#, kde-format
+msgid "Launch"
+msgstr "Inicia"
+
+#: libdiscover/backends/KNSBackend/KNSResource.cpp:240
+#, kde-format
+msgid "Use"
+msgstr "Utilitza"
+
+#: libdiscover/backends/KNSBackend/KNSReviews.cpp:142
+#, kde-format
+msgid "Log in information for %1"
+msgstr "Informació d'accés per a %1"
+
+#: libdiscover/backends/PackageKitBackend/AppPackageKitResource.cpp:233
+#, kde-format
+msgid "Cannot launch %1"
+msgstr "No s'ha pogut iniciar %1"
+
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:552
+#, kde-format
+msgctxt "Category"
+msgid "Plasma Addons"
+msgstr "Complements de Plasma"
+
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:563
+#, kde-format
+msgctxt "Category"
+msgid "Plasma Widgets"
+msgstr "Ginys (widgets) de Plasma"
+
+#: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:575
+#, kde-format
+msgctxt "Category"
+msgid "Fonts"
+msgstr "Tipus de lletra"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:172
+#, kde-format
+msgid "Please make sure that Appstream is properly set up on your system"
+msgstr "Assegureu-vos que Appstream està ben instal·lat en el sistema"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:34
+#, kde-format
+msgid "Out of memory"
+msgstr "Memòria exhaurida"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:36
+#, kde-format
+msgid "No network connection available"
+msgstr "La connexió de xarxa no està disponible"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:38
+#, kde-format
+msgid "Operation not supported"
+msgstr "No s'admet l'operació"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:40
+#, kde-format
+msgid "Internal error"
+msgstr "S'ha produït un error intern"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:42
+#, kde-format
+msgid "GPG failure"
+msgstr "Ha fallat el GPG"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:44
+#, kde-format
+msgid "PackageID invalid"
+msgstr "PackageID no és vàlid"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:46
+#, kde-format
+msgid "Package not installed"
+msgstr "No s'ha instal·lat el paquet"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:48
+#, kde-format
+msgid "Package not found"
+msgstr "No s'ha trobat el paquet"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:50
+#, kde-format
+msgid "Package is already installed"
+msgstr "El paquet ja està instal·lat"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:52
+#, kde-format
+msgid "Package download failed"
+msgstr "Ha fallat la baixada del paquet"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:54
+#, kde-format
+msgid "Package group not found"
+msgstr "No s'ha trobat el grup de paquets"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:56
+#, kde-format
+msgid "Package group list invalid"
+msgstr "La llista del grup de paquets no és vàlida"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:58
+#, kde-format
+msgid "Dependency resolution failed"
+msgstr "Ha fallat la resolució de dependències"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:60
+#, kde-format
+msgid "Filter invalid"
+msgstr "El filtre no és vàlid"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:62
+#, kde-format
+msgid "Failed while creating a thread"
+msgstr "S'ha produït un error en crear un fil"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:64
+#, kde-format
+msgid "Transaction failure"
+msgstr "Transacció fallida"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:66
+#, kde-format
+msgid "Transaction canceled"
+msgstr "S'ha cancel·lat la transacció"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:68
+#, kde-format
+msgid "No Cache available"
+msgstr "No hi ha memòria cau disponible"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:70
+#, kde-format
+msgid "Cannot find repository"
+msgstr "No s'ha pogut trobar el repositori"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:72
+#, kde-format
+msgid "Cannot remove system package"
+msgstr "No s'ha pogut eliminar el paquet del sistema"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:74
+#, kde-format
+msgid "The PackageKit daemon has crashed"
+msgstr "El dimoni PackageKit ha fallat"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:76
+#, kde-format
+msgid "Initialization failure"
+msgstr "Ha fallat la inicialització"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:78
+#, kde-format
+msgid "Failed to finalize transaction"
+msgstr "No s'ha pogut finalitzar la transacció"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:80
+#, kde-format
+msgid "Config parsing failed"
+msgstr "Ha fallat l'anàlisi de la configuració"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:82
+#, kde-format
+msgid "Cannot cancel transaction"
+msgstr "No s'ha pogut cancel·lar la transacció"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:84
+#, kde-format
+msgid "Cannot obtain lock"
+msgstr "No s'ha pogut obtindre el bloqueig"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:86
+#, kde-format
+msgid "No packages to update"
+msgstr "No hi ha cap paquet per a actualitzar"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:88
+#, kde-format
+msgid "Cannot write repo config"
+msgstr "No s'ha pogut escriure la configuració del repositori"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:90
+#, kde-format
+msgid "Local install failed"
+msgstr "La instal·lació local ha fallat"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:92
+#, kde-format
+msgid "Bad GPG signature found"
+msgstr "La signatura GPG és incorrecta"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:94
+#, kde-format
+msgid "No GPG signature found"
+msgstr "No s'ha trobat la signatura GPG"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:96
+#, kde-format
+msgid "Cannot install source package"
+msgstr "No s'ha pogut instal·lar un paquet de codi font"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:98
+#, kde-format
+msgid "Repo configuration error"
+msgstr "Hi ha un error de configuració del repositori"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:100
+#, kde-format
+msgid "No license agreement"
+msgstr "No hi ha cap acord de llicència"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:102
+#, kde-format
+msgid "File conflicts found"
+msgstr "S'han trobat conflictes de fitxers"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:104
+#, kde-format
+msgid "Package conflict found"
+msgstr "S'ha trobat un conflicte de paquets"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:106
+#, kde-format
+msgid "Repo not available"
+msgstr "El repositori no està disponible"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:108
+#, kde-format
+msgid "Invalid package file"
+msgstr "El fitxer de paquet no és vàlid"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:110
+#, kde-format
+msgid "Package install blocked"
+msgstr "S'ha bloquejat la instal·lació del paquet"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:112
+#, kde-format
+msgid "Corrupt package found"
+msgstr "S'ha trobat un paquet corrupte"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:114
+#, kde-format
+msgid "All packages already installed"
+msgstr "Ja estan instal·lats tots els paquets"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:116
+#, kde-format
+msgid "File not found"
+msgstr "No s'ha trobat el fitxer"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:118
+#, kde-format
+msgid "No more mirrors available"
+msgstr "No hi ha més rèpliques disponibles"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:120
+#, kde-format
+msgid "No distro upgrade data"
+msgstr "No hi ha dades d'actualitzacions de la distribució"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:122
+#, kde-format
+msgid "Incompatible architecture"
+msgstr "L'arquitectura és incompatible"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:124
+#, kde-format
+msgid "No space on device left"
+msgstr "No queda espai en el dispositiu"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:126
+#, kde-format
+msgid "A media change is required"
+msgstr "Cal canviar el suport"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:128
+#, kde-format
+msgid "You have no authorization to execute this operation"
+msgstr "No teniu autorització per a executar aquesta operació"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:130
+#, kde-format
+msgid "Update not found"
+msgstr "No s'ha trobat l'actualització"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:132
+#, kde-format
+msgid "Cannot install from unsigned repo"
+msgstr "No es pot instal·lar des d'un repositori no signat"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:134
+#, kde-format
+msgid "Cannot update from unsigned repo"
+msgstr "No es pot actualitzar des d'un repositori no signat"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:136
+#, kde-format
+msgid "Cannot get file list"
+msgstr "No s'ha pogut obtindre la llista de fitxers"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:138
+#, kde-format
+msgid "Cannot get requires"
+msgstr "No es poden obtindre els requeriments"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:140
+#, kde-format
+msgid "Cannot disable repository"
+msgstr "No s'ha pogut desactivar el repositori"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:142
+#, kde-format
+msgid "Restricted download detected"
+msgstr "S'ha detectat una descàrrega restrictiva"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:144
+#, kde-format
+msgid "Package failed to configure"
+msgstr "No s'ha pogut configurar el paquet"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:146
+#, kde-format
+msgid "Package failed to build"
+msgstr "No s'ha pogut muntar el paquet"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:148
+#, kde-format
+msgid "Package failed to install"
+msgstr "No s'ha pogut instal·lar el paquet"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:150
+#, kde-format
+msgid "Package failed to remove"
+msgstr "No s'ha pogut eliminar el paquet"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:152
+#, kde-format
+msgid "Update failed due to running process"
+msgstr "No s'ha pogut actualitzar a causa d'un procés en execució"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:154
+#, kde-format
+msgid "The package database changed"
+msgstr "La base de dades dels paquets ha canviat"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:156
+#, kde-format
+msgid "The provided type is not supported"
+msgstr "El tipus proporcionat no està admés"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:158
+#, kde-format
+msgid "Install root is invalid"
+msgstr "L'arrel de la instal·lació no és vàlida"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:160
+#, kde-format
+msgctxt ""
+"Failed to sync your Linux distro repositories or other sources of packages"
+msgid "Cannot fetch sources"
+msgstr "No s'han pogut recuperar les fonts"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:162
+#, kde-format
+msgid "Canceled priority"
+msgstr "La prioritat s'ha cancel·lat"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:164
+#, kde-format
+msgid "Unfinished transaction"
+msgstr "Transacció sense finalitzar"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:166
+#, kde-format
+msgid "Lock required"
+msgstr "Es requereix un bloqueig"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:171
+#, kde-format
+msgid "Unknown error %1."
+msgstr "S'ha produït un error desconegut %1."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:180
+#, kde-format
+msgid "'%1' was changed and suggests to be restarted."
+msgstr "«%1» ha canviat i suggereix que es reinicie."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:182
+#, kde-format
+msgid "A change by '%1' suggests your session to be restarted."
+msgstr "Un canvi en «%1» suggereix que es reinicie la vostra sessió."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:184
+#, kde-format
+msgid ""
+"'%1' was updated for security reasons, a restart of the session is "
+"recommended."
+msgstr ""
+"S'ha actualitzat «%1» per motius de seguretat. Es recomana que es reinicie la"
+" sessió."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:186
+#, kde-format
+msgid ""
+"'%1' was updated for security reasons, a restart of the system is "
+"recommended."
+msgstr ""
+"S'ha actualitzat «%1» per motius de seguretat. Es recomana que es reinicie el"
+" sistema."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:191
+#, kde-format
+msgid "A change by '%1' suggests your system to be restarted."
+msgstr "Un canvi en «%1» suggereix que es reinicie el sistema."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:199
+#, kde-format
+msgid "The application will have to be restarted."
+msgstr "L'aplicació s'ha de reiniciar."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:201
+#, kde-format
+msgid "The session will have to be restarted"
+msgstr "La sessió s'ha de reiniciar"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:203
+#, kde-format
+msgid "The system will have to be restarted."
+msgstr "Cal reiniciar el sistema."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:205
+#, kde-format
+msgid "For security, the session will have to be restarted."
+msgstr "Per a més seguretat, la sessió s'ha de reiniciar."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:207
+#, kde-format
+msgid "For security, the system will have to be restarted."
+msgstr "Per a més seguretat, el sistema s'ha de reiniciar."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:219
+#, kde-format
+msgid "Waiting..."
+msgstr "S'està esperant..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:221
+#, kde-format
+msgid "Refreshing Cache..."
+msgstr "S'està refrescant la memòria cau..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:223
+#, kde-format
+msgid "Setup..."
+msgstr "Configuració..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:225
+#, kde-format
+msgid "Processing..."
+msgstr "S'està processant..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:227
+#, kde-format
+msgid "Remove..."
+msgstr "Elimina..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:229
+#, kde-format
+msgid "Downloading..."
+msgstr "S'està baixant..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:231
+#, kde-format
+msgid "Installing..."
+msgstr "S'està instal·lant..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:233
+#, kde-format
+msgid "Updating..."
+msgstr "S'està actualitzant..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:235
+#, kde-format
+msgid "Cleaning up..."
+msgstr "S'està netejant..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:238
+#, kde-format
+msgid "Resolving dependencies..."
+msgstr "S'estan resolent les dependències..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:240
+#, kde-format
+msgid "Checking signatures..."
+msgstr "S'estan comprovant les signatures..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:242
+#, kde-format
+msgid "Test committing..."
+msgstr "S'està comprovant la publicació..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:244
+#, kde-format
+msgid "Committing..."
+msgstr "S'està publicant..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:247
+#, kde-format
+msgid "Finished"
+msgstr "Ha finalitzat"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:249
+#, kde-format
+msgid "Canceled"
+msgstr "S'ha cancel·lat"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:251
+#, kde-format
+msgid "Waiting for lock..."
+msgstr "S'està esperant el bloqueig..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:253
+#, kde-format
+msgid "Waiting for authorization..."
+msgstr "S'està esperant l'autorització..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:258
+#, kde-format
+msgid "Copying files..."
+msgstr "S'estan copiant els fitxers..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:261
+#, kde-format
+msgid "Unknown Status"
+msgstr "Estat desconegut"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:269
+#, kde-format
+msgid "We are waiting for something."
+msgstr "S'està esperant alguna cosa."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:271
+#, kde-format
+msgid "Setting up transaction..."
+msgstr "S'està configurant la transacció..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:273
+#, kde-format
+msgid "The transaction is currently working..."
+msgstr "Actualment la transacció està en curs..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:275
+#, kde-format
+msgid "The transaction is currently removing packages..."
+msgstr "Actualment la transacció està eliminant els paquets..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:277
+#, kde-format
+msgid "The transaction is currently downloading packages..."
+msgstr "Actualment la transacció està baixant els paquets..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:279
+#, kde-format
+msgid "The transactions is currently installing packages..."
+msgstr "Actualment la transacció està instal·lant paquets..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:281
+#, kde-format
+msgid "The transaction is currently updating packages..."
+msgstr "Actualment la transacció està actualitzant paquets..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:283
+#, kde-format
+msgid "The transaction is currently cleaning up..."
+msgstr "Actualment la transacció està netejant paquets..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:286
+#, kde-format
+msgid ""
+"The transaction is currently resolving the dependencies of the packages it "
+"will install..."
+msgstr ""
+"Actualment la transacció està resolent les dependències dels paquets que "
+"instal·larà..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:288
+#, kde-format
+msgid "The transaction is currently checking the signatures of the packages..."
+msgstr ""
+"Actualment la transacció està comprovant les signatures dels paquets..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:290
+#, kde-format
+msgid ""
+"The transaction is currently testing the commit of this set of packages..."
+msgstr ""
+"Actualment la transacció està comprovant la publicació d'aquest conjunt de "
+"paquets..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:292
+#, kde-format
+msgid "The transaction is currently committing its set of packages..."
+msgstr "Actualment la transacció està publicant el seu conjunt de paquets..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:295
+#, kde-format
+msgid "The transaction has finished!"
+msgstr "La transacció ha finalitzat!"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:297
+#, kde-format
+msgid "The transaction was canceled"
+msgstr "S'ha cancel·lat la transacció"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:299
+#, kde-format
+msgid "The transaction is currently waiting for the lock..."
+msgstr "Actualment la transacció està esperant el bloqueig..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:301
+#, kde-format
+msgid "Waiting for the user to authorize the transaction..."
+msgstr "S'està esperant que l'usuari autoritze la transacció..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:306
+#, kde-format
+msgid "The transaction is currently copying files..."
+msgstr "Actualment la transacció està copiant fitxers..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:308
+#, kde-format
+msgid "Currently refreshing the repository cache..."
+msgstr "Actualment s'està refrescant la memòria cau del repositori..."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:313
+#, kde-format
+msgid "Unknown status %1."
+msgstr "Estat desconegut %1."
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:324
+#, kde-format
+msgctxt "update state"
+msgid "Stable"
+msgstr "Estable"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:326
+#, kde-format
+msgctxt "update state"
+msgid "Unstable"
+msgstr "Inestable"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:328
+#, kde-format
+msgctxt "update state"
+msgid "Testing"
+msgstr "Proves"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:119
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:138
+#, kde-format
+msgid "Offline Updates"
+msgstr "Actualitzacions fora de línia"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:120
+#, kde-format
+msgid ""
+"Failed to update %1 package\n"
+"%2"
+msgid_plural ""
+"Failed to update %1 packages\n"
+"%2"
+msgstr[0] ""
+"No s'ha pogut actualitzar %1 paquet\n"
+"%2"
+msgstr[1] ""
+"Ha fallat en actualitzar %1 paquets\n"
+"%2"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:130
+#, kde-format
+msgid "Repair Failed"
+msgstr "Ha fallat la reparació"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:130
+#, kde-format
+msgid "Please report to your distribution: %1"
+msgstr "Informeu-ne a la vostra distribució: %1"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:139
+#, kde-format
+msgid "Successfully updated %1 package"
+msgid_plural "Successfully updated %1 packages"
+msgstr[0] "S'ha actualitzat amb èxit %1 paquet"
+msgstr[1] "S'han actualitzat amb èxit %1 paquets"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:250
+#, kde-format
+msgctxt "package-name (version)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:252
+#, kde-format
+msgctxt "comma separating package names"
+msgid ", "
+msgstr ", "
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:290
+#, kde-format
+msgid "Obsoletes:"
+msgstr "Obsolets:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:291
+#, kde-format
+msgid "Release Notes:"
+msgstr "Notes del llançament:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:292
+#, kde-format
+msgid "Update State:"
+msgstr "Estat d'actualització:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:293
+#, kde-format
+msgid "Restart:"
+msgstr "Reinicia:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:296
+#, kde-format
+msgid "Vendor:"
+msgstr "Proveïdor:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:316
+#, kde-format
+msgid "%2 (plus %1 dependency)"
+msgid_plural "%2 (plus %1 dependencies)"
+msgstr[0] "%2 (més %1 dependència)"
+msgstr[1] "%2 (més %1 dependències)"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitSourcesBackend.cpp:103
+#, kde-format
+msgid "Repository URL:"
+msgstr "URL del repositori:"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:213
+#, kde-format
+msgid "Packages to remove"
+msgstr "Paquets que s'han d'eliminar"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:213
+#, kde-format
+msgid ""
+"The following packages will be removed by the update:\n"
+"<ul><li>%1</li></ul>\n"
+"in order to install:\n"
+"<ul><li>%2</li></ul>"
+msgstr ""
+"L'actualització eliminarà els paquets següents:\n"
+"<ul><li>%1</li></ul>\n"
+"per tal d'instal·lar:\n"
+"<ul><li>%2</li></ul>"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:229
+#, kde-format
+msgid "Please restart the computer to finish the update"
+msgstr "Reinicieu l'ordinador per a finalitzar l'actualització"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:316
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:289
+#, kde-format
+msgid ""
+"Media Change of type '%1' is requested.\n"
+"%2"
+msgstr ""
+"Es requereix un canvi de suport del tipus «%1».\n"
+"%2"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:329
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:274
+#, kde-format
+msgid ""
+"The package %1 and its vendor %2 require that you accept their license:\n"
+" %3"
+msgstr ""
+"El paquet %1 i el seu fabricant %2 requereixen que accepteu la seua "
+"llicència:\n"
+" %3"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:423
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:301
+#, kde-format
+msgid "Missing signature for %1 in %2"
+msgstr "Falta la signatura per a %1 a %2"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:424
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:302
+#, kde-format
+msgid ""
+"Do you trust the following key?\n"
+"\n"
+"Url: %1\n"
+"User: %2\n"
+"Key: %3\n"
+"Fingerprint: %4\n"
+"Timestamp: %4\n"
+msgstr ""
+"Confieu en la següent clau?\n"
+"\n"
+"URL: %1\n"
+"Usuari: %2\n"
+"Clau: %3\n"
+"Empremta digital: %4\n"
+"Marca de temps: %4\n"
+
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:191
+#, kde-format
+msgid "Confirm package removal"
+msgstr "Confirma la supressió del paquet"
+
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:191
+#, kde-format
+msgid ""
+"This action will also remove the following package:\n"
+"%2"
+msgid_plural ""
+"This action will also remove the following packages:\n"
+"%2"
+msgstr[0] ""
+"Aquesta acció també eliminarà el paquet següent:\n"
+"%2"
+msgstr[1] ""
+"Aquesta acció també eliminarà els paquets següents:\n"
+"%2"
+
+#: libdiscover/backends/SnapBackend/SnapBackend.cpp:50
+#, kde-format
+msgid "Snap"
+msgstr "Snap"
+
+#: libdiscover/backends/SnapBackend/SnapResource.cpp:368
+#, kde-format
+msgid "%1 - %2"
+msgstr "%1 - %2"
+
+#: libdiscover/backends/SnapBackend/SnapTransaction.cpp:61
+#, kde-format
+msgid "This snap application needs security confinement measures disabled."
+msgstr ""
+"Aquesta aplicació «snap» necessita desactivar les mesures de confinament de "
+"seguretat."
+
+#: libdiscover/DiscoverBackendsFactory.cpp:120
+#, kde-format
+msgid ""
+"List all the backends we'll want to have loaded, separated by comma ','."
+msgstr ""
+"Llista tots els dorsals que voldríeu tindre carregats, separats per una coma "
+"«,»."
+
+#: libdiscover/resources/AbstractResource.cpp:99
+#, kde-format
+msgid "Broken"
+msgstr "Trencat"
+
+#: libdiscover/resources/AbstractResource.cpp:100
+#, kde-format
+msgid "Available"
+msgstr "Disponible"
+
+#: libdiscover/resources/AbstractResource.cpp:101
+#, kde-format
+msgid "Installed"
+msgstr "Instal·lat"
+
+#: libdiscover/resources/AbstractResource.cpp:102
+#, kde-format
+msgid "Upgradeable"
+msgstr "Actualitzable"
+
+#: libdiscover/resources/AbstractResource.cpp:242
+#, kde-format
+msgctxt "origin (backend name)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: libdiscover/resources/ResourcesModel.cpp:81
+#, kde-format
+msgctxt "@action Checks the Internet for updates"
+msgid "Check for Updates"
+msgstr "Comprova si hi ha actualitzacions"
+
+#: libdiscover/resources/ResourcesUpdatesModel.cpp:108
+#, kde-format
+msgid "Update"
+msgstr "Actualitza"
+
+#: libdiscover/Transaction/Transaction.cpp:148
+#, kde-format
+msgctxt "@label Download rate"
+msgid "%1/s"
+msgstr "%1/s"
+
+#: libdiscover/Transaction/TransactionModel.cpp:88
+#, kde-format
+msgctxt "@info:status"
+msgid "Starting"
+msgstr "Iniciant"
+
+#: libdiscover/Transaction/TransactionModel.cpp:90
+#, kde-format
+msgctxt "@info:status"
+msgid "Waiting"
+msgstr "En espera"
+
+#: libdiscover/Transaction/TransactionModel.cpp:92
+#, kde-format
+msgctxt "@info:status"
+msgid "Downloading"
+msgstr "S'està baixant"
+
+#: libdiscover/Transaction/TransactionModel.cpp:96
+#, kde-format
+msgctxt "@info:status"
+msgid "Installing"
+msgstr "S'està instal·lant"
+
+#: libdiscover/Transaction/TransactionModel.cpp:98
+#, kde-format
+msgctxt "@info:status"
+msgid "Removing"
+msgstr "S'està eliminant"
+
+#: libdiscover/Transaction/TransactionModel.cpp:100
+#, kde-format
+msgctxt "@info:status"
+msgid "Changing Addons"
+msgstr "S'estan canviant els complements"
+
+#: libdiscover/Transaction/TransactionModel.cpp:104
+#, kde-format
+msgctxt "@info:status"
+msgid "Done"
+msgstr "Fet"
+
+#: libdiscover/Transaction/TransactionModel.cpp:106
+#, kde-format
+msgctxt "@info:status"
+msgid "Failed"
+msgstr "Ha fallat"
+
+#: libdiscover/Transaction/TransactionModel.cpp:108
+#, kde-format
+msgctxt "@info:status"
+msgid "Cancelled"
+msgstr "S'ha cancel·lat"
+
+#: libdiscover/UpdateModel/UpdateModel.cpp:145
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Application Updates"
+msgstr "Actualitzacions de les aplicacions"
+
+#: libdiscover/UpdateModel/UpdateModel.cpp:146
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "System Updates"
+msgstr "Actualitzacions del sistema"
+
+#: libdiscover/UpdateModel/UpdateModel.cpp:147
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Addons"
+msgstr "Complements"
+
+#~ msgid "Current Version:"
+#~ msgstr "Versió actual:"
+
+#~ msgid "New Version:"
+#~ msgstr "Versió nova:"
+
+#~ msgid "Not Invokable"
+#~ msgstr "No es pot invocar"
+
+#~ msgid "Upgrade available"
+#~ msgstr "Hi ha una actualització disponible"
+
+#~ msgid "New unstable version: %1"
+#~ msgstr "Versió inestable nova: %1"
+
+#~ msgid "New version: %1"
+#~ msgstr "Versió nova: %1"
+
+#~ msgid "FWUPD ERROR ALREADY PENDING!"
+#~ msgstr "ERROR DEL FWUPD - ENCARA PENDENT!"
+
+#~ msgid "FWUPD ERROR INVALID FILE"
+#~ msgstr "ERROR DEL FWUPD - FITXER NO VÀLID"
+
+#~ msgid "FWUPD ERROR NOT SUPPORTED"
+#~ msgstr "ERROR DEL FWUPD - NO IMPLEMENTAT"
+
+#~ msgid "FWUPD ERROR AUTH FAILED"
+#~ msgstr "ERROR DEL FWUPD - FALLA L'AUTORITZACIÓ"
+
+#~ msgid "FWUPD ERROR SIGNATURE INVALID"
+#~ msgstr "ERROR DEL FWUPD - SIGNATURA NO VÀLIDA"
+
+#~ msgid "FWUPD ERROR AC POWER REQUIRED"
+#~ msgstr "ERROR DEL FWUPD - ES REQUEREIX CONNEXIÓ A LA CORRENT"
+
+#~ msgid "Restart is required"
+#~ msgstr "Cal reiniciar"
+
+#~ msgid "The system needs to be restarted for the updates to take effect."
+#~ msgstr "Cal reiniciar el sistema perquè les actualitzacions tinguin efecte."
+
+#~ msgid "Session restart is required"
+#~ msgstr "Es requereix reiniciar la sessió"
+
+#~ msgid "You will need to log out and back in for the update to take effect."
+#~ msgstr ""
+#~ "Cal finalitzar la sessió i tornar a accedir per tal que l'actualització "
+#~ "tingui efecte."
+
+#~ msgid "Reason:"
+#~ msgstr "Motiu:"
+
+#~ msgid "Updates:"
+#~ msgstr "Actualitzacions:"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Important Security Updates"
+#~ msgstr "Actualitzacions importants de seguretat"
+
+#~ msgid "Confirm..."
+#~ msgstr "Confirma..."
+
+#~ msgid ""
+#~ "To proceed with this action, the following package needs removal:\n"
+#~ "%2"
+#~ msgid_plural ""
+#~ "To proceed with this action, the following packages need removal:\n"
+#~ "%2"
+#~ msgstr[0] ""
+#~ "Per efectuar aquesta acció, cal eliminar els paquets següents:\n"
+#~ "%2"
+#~ msgstr[1] ""
+#~ "Per efectuar aquesta acció, cal eliminar els paquets següents:\n"
+#~ "%2"
+
+#~ msgctxt "description (url)"
+#~ msgid "%1 (%2)"
+#~ msgstr "%1 (%2)"
+
+#~ msgid "Change Log:"
+#~ msgstr "Llista de canvis:"
+
+#~ msgid "Software Management"
+#~ msgstr "Gestió del programari"
+
+#~ msgctxt "Category"
+#~ msgid "Science & Engineering"
+#~ msgstr "Ciència i enginyeria"
+
+#~ msgctxt "Category"
+#~ msgid "Computer Science & Robotics"
+#~ msgstr "Informàtica i robòtica"
+
+#~ msgctxt "Category"
+#~ msgid "Painting & Editing"
+#~ msgstr "Pintura i edició"
+
+#~ msgctxt "Category"
+#~ msgid "Scanning & OCR"
+#~ msgstr "Escaneig i ROC (OCR)"
+
+#~ msgctxt "Category"
+#~ msgid "System & Settings"
+#~ msgstr "Sistema i Configuració"
+
+#~ msgctxt "Category"
+#~ msgid "Science Engineering"
+#~ msgstr "Enginyeria científica"
+
+#~ msgctxt "Category"
+#~ msgid "Computer Science Robotics"
+#~ msgstr "Robòtica informàtica"
+
+#~ msgctxt "Category"
+#~ msgid "Painting Editing"
+#~ msgstr "Edició de pintura"
+
+#~ msgctxt "Category"
+#~ msgid "Scanning OCR"
+#~ msgstr "Escaneig ROC (OCR)"
+
+#~ msgctxt "@item:intext Unknown remaining time"
+#~ msgid "Updating..."
+#~ msgstr "S'està actualitzant..."
+
+#~ msgctxt "@item:intext Remaining time"
+#~ msgid "%1 remaining"
+#~ msgstr "Resta %1"
+
+#~ msgid "%1 has been updated"
+#~ msgstr "S'ha actualitzat %1"
+
+#~ msgid "Setting up for install..."
+#~ msgstr "S'està configurant la instal·lació..."
+
+#~ msgid "List all the available backends."
+#~ msgstr "Llista tots els dorsals disponibles."
+
+#~ msgid "Available backends:\n"
+#~ msgstr "Dorsals disponibles:\n"
+
+#~ msgid "Add Remote"
+#~ msgstr "Afegeix un remot"
+
+#~ msgid ""
+#~ "Would you like to add remote '%1'?\n"
+#~ "\n"
+#~ "From: %2\n"
+#~ "With GPG key=%3..."
+#~ msgstr ""
+#~ "Voleu afegir el remot «%1»?\n"
+#~ "\n"
+#~ "Des de: %2\n"
+#~ "Amb la clau GPG=%3..."
+
+#~ msgctxt "Category"
+#~ msgid "Application Addons"
+#~ msgstr "Complements d'aplicacions"
+
+#~ msgctxt "Category"
+#~ msgid "Kate Snippets"
+#~ msgstr "Retalls del Kate"
+
+#~ msgctxt "Category"
+#~ msgid "Comics"
+#~ msgstr "Còmics"
+
+#~ msgid "Got it"
+#~ msgstr "S'ha fet"
+
+#~ msgid "%1 requires user to accept its license"
+#~ msgstr "%1 requereix que l'usuari accepti la seva llicència"
+
+#~ msgctxt "Category"
+#~ msgid "Haskell"
+#~ msgstr "Haskell"
+
+#~ msgctxt "Category"
+#~ msgid "Java"
+#~ msgstr "Java"
+
+#~ msgctxt "Category"
+#~ msgid "Perl"
+#~ msgstr "Perl"
+
+#~ msgctxt "Category"
+#~ msgid "Python"
+#~ msgstr "Python"
+
+#~ msgctxt "Category"
+#~ msgid "Version Control"
+#~ msgstr "Control de versions"
+
+#~ msgctxt "@info license"
+#~ msgid "Open Source"
+#~ msgstr "Codi obert"
+
+#~ msgctxt "@info license"
+#~ msgid "Unknown"
+#~ msgstr "Desconeguda"
+
+#~ msgctxt "@info/rich"
+#~ msgid ""
+#~ "The list of changes is not yet available. Please use <link "
+#~ "url='%1'>Launchpad</link> instead."
+#~ msgstr ""
+#~ "Encara no és disponible la llista dels canvis. En el seu lloc utilitzeu "
+#~ "el <link url='%1'>Launchpad</link>."
+
+#~ msgctxt "@info"
+#~ msgid "The list of changes is not yet available."
+#~ msgstr "Encara no és disponible la llista dels canvis."
+
+#~ msgctxt "@info:label"
+#~ msgid "This update was issued on %1"
+#~ msgstr "Aquesta actualització es va publicar el %1"
+
+#~ msgid "System update available!"
+#~ msgstr "Hi ha disponible una actualització del sistema!"
+
+#~ msgctxt "Notification when a new version of Kubuntu is available"
+#~ msgid "A new version of Kubuntu is available"
+#~ msgstr "Hi ha disponible una nova versió de la Kubuntu"
+
+#~ msgid "Upgrade"
+#~ msgstr "Actualització"
+
+#~ msgctxt "@title:window"
+#~ msgid "Media Change Required"
+#~ msgstr "Es requereix un canvi de suport"
+
+#~ msgctxt "@label"
+#~ msgid "Please insert %1 into <filename>%2</filename>"
+#~ msgstr "Introduïu %1 a <filename>%2</filename>"
+
+#~ msgctxt "@title:window"
+#~ msgid "Warning - Unverified Software"
+#~ msgstr "Avís - Programari no verificat"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The following piece of software cannot be verified. <warning>Installing "
+#~ "unverified software represents a security risk, as the presence of "
+#~ "unverifiable software can be a sign of tampering.</warning> Do you wish "
+#~ "to continue?"
+#~ msgid_plural ""
+#~ "The following pieces of software cannot be verified. <warning>Installing "
+#~ "unverified software represents a security risk, as the presence of "
+#~ "unverifiable software can be a sign of tampering.</warning> Do you wish "
+#~ "to continue?"
+#~ msgstr[0] ""
+#~ "La següent peça de programari no es pot verificar. <warning>La "
+#~ "instal·lació de programari no verificat representa un risc de seguretat, "
+#~ "ja que la presència de programari no verificable pot ser un senyal de "
+#~ "manipulació.</warning> Voleu continuar?"
+#~ msgstr[1] ""
+#~ "Les següents peces de programari no es poden verificar. <warning>La "
+#~ "instal·lació de programari no verificat representa un risc de seguretat, "
+#~ "ja que la presència de programari no verificable pot ser un senyal de "
+#~ "manipulació.</warning> Voleu continuar?"
+
+#~ msgctxt "@title:window"
+#~ msgid "Configuration File Changed"
+#~ msgstr "El fitxer de configuració ha canviat"
+
+#~ msgctxt "@label Notifies a config file change"
+#~ msgid ""
+#~ "A new version of the configuration file <filename>%1</filename> is "
+#~ "available, but your version has been modified. Would you like to keep "
+#~ "your current version or install the new version?"
+#~ msgstr ""
+#~ "Hi ha disponible una versió nova del fitxer de configuració <filename>%1</"
+#~ "filename>, però es va modificar la vostra versió. Us agradaria mantenir "
+#~ "la vostra versió o instal·lar la versió nova?"
+
+#~ msgctxt "@action Use the new config file"
+#~ msgid "Use New Version"
+#~ msgstr "Usa la versió nova"
+
+#~ msgctxt "@action Keep the old config file"
+#~ msgid "Keep Old Version"
+#~ msgstr "Mantén la versió antiga"
+
+#~ msgctxt "@info Status info, widget title"
+#~ msgid "Starting"
+#~ msgstr "Iniciant"
+
+#~ msgctxt "@info Status info, widget title"
+#~ msgid "Waiting for Authentication"
+#~ msgstr "S'està esperant l'autenticació"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "Waiting"
+#~ msgstr "En espera"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for other transactions to finish"
+#~ msgstr "S'està esperant que acabin altres transaccions"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for other software managers to quit"
+#~ msgstr "S'està esperant que acabin altres gestors de programari"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for required medium"
+#~ msgstr "S'està esperant el suport requerit"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Waiting for configuration file"
+#~ msgstr "S'està esperant el fitxer de configuració"
+
+#~ msgctxt "@info Status info"
+#~ msgid "Loading Software List"
+#~ msgstr "Càrrega de la llista de programari"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "Updating software sources"
+#~ msgstr "Actualització de les fonts de programari"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "Downloading Packages"
+#~ msgstr "Baixada de paquets"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "Applying Changes"
+#~ msgstr "Aplicació dels canvis"
+
+#~ msgctxt "@info Status information, widget title"
+#~ msgid "Finished"
+#~ msgstr "Finalitzat"
+
+#~ msgid "Adding Origins..."
+#~ msgstr "S'estan afegint els orígens..."
+
+#~ msgid "Removing Origins..."
+#~ msgstr "S'estan eliminant els orígens..."
+
+#~ msgid "%1 (Binary)"
+#~ msgstr "%1 (binari)"
+
+#~ msgid ""
+#~ "<sourceline> - The apt repository source line to add. This is one of:\n"
+#~ "  a complete apt line, \n"
+#~ "  a repo url and areas (areas defaults to 'main')\n"
+#~ "  a PPA shortcut.\n"
+#~ "\n"
+#~ "  Examples:\n"
+#~ "    deb http://myserver/path/to/repo stable myrepo\n"
+#~ "    http://myserver/path/to/repo myrepo\n"
+#~ "    https://packages.medibuntu.org free non-free\n"
+#~ "    http://extras.ubuntu.com/ubuntu\n"
+#~ "    ppa:user/repository"
+#~ msgstr ""
+#~ "<sourceline> - La línia de codi pel repositori apt que voleu afegir. "
+#~ "Aquesta és una de:\n"
+#~ "   una línia completa per a apt, \n"
+#~ "   un URL de repositori i les àrees (per omissió a «main»)\n"
+#~ "   una drecera al PPA.\n"
+#~ "\n"
+#~ "  Exemples:\n"
+#~ "    deb http://meu_servidor/camí/al/repositori stable meu_repo\n"
+#~ "    http://meu_servidor/camí/al/repositori meu_repo\n"
+#~ "    https://packages.medibuntu.org free non-free\n"
+#~ "    http://extras.ubuntu.com/ubuntu\n"
+#~ "    ppa:usuari/repositori"
+
+#~ msgctxt "@title:window"
+#~ msgid "Confirm Additional Changes"
+#~ msgstr "Confirmació dels canvis addicionals"
+
+#~ msgctxt "@info"
+#~ msgid "<h2>Mark additional changes?</h2>"
+#~ msgstr "<h2>Marco els canvis addicionals?</h2>"
+
+#~ msgid "This action requires a change to another package:"
+#~ msgid_plural "This action requires changes to other packages:"
+#~ msgstr[0] "Aquesta acció requereix un canvi en un altre paquet:"
+#~ msgstr[1] "Aquesta acció requereix canvis en altres paquets:"
+
+#~ msgctxt "@info"
+#~ msgid "<title>History</title>"
+#~ msgstr "<title>Historial</title>"
+
+#~ msgctxt "@label Line edit click message"
+#~ msgid "Search"
+#~ msgstr "Cerca"
+
+#~ msgctxt "@item:inlistbox Filters all changes in the history view"
+#~ msgid "All changes"
+#~ msgstr "Tots els canvis"
+
+#~ msgctxt "@item:inlistbox Filters installations in the history view"
+#~ msgid "Installations"
+#~ msgstr "Instal·lacions"
+
+#~ msgctxt "@item:inlistbox Filters removals in the history view"
+#~ msgid "Removals"
+#~ msgstr "Eliminacions"
+
+#~ msgctxt "@title:column"
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgctxt "@info:status describes a past-tense action"
+#~ msgid "Installed"
+#~ msgstr "Instal·lat"
+
+#~ msgctxt "@info:status describes a past-tense action"
+#~ msgid "Upgraded"
+#~ msgstr "Actualitzat"
+
+#~ msgctxt "@status describes a past-tense action"
+#~ msgid "Downgraded"
+#~ msgstr "Desactualitzat"
+
+#~ msgctxt "@status describes a past-tense action"
+#~ msgid "Removed"
+#~ msgstr "Eliminat"
+
+#~ msgctxt "@status describes a past-tense action"
+#~ msgid "Purged"
+#~ msgstr "Purgat"
+
+#~ msgctxt "@item example: muon installed at 16:00"
+#~ msgid "%1 %2 at %3"
+#~ msgstr "%1 %2 a les %3"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "No Change"
+#~ msgstr "Sense canvis"
+
+#~ msgctxt "@info:status Requested action"
+#~ msgid "Install"
+#~ msgstr "Instal·la"
+
+#~ msgctxt "@info:status Requested action"
+#~ msgid "Reinstall"
+#~ msgstr "Reinstal·la"
+
+#~ msgctxt "@info:status Requested action"
+#~ msgid "Upgrade"
+#~ msgstr "Actualitza"
+
+#~ msgctxt "@info:status Requested action"
+#~ msgid "Downgrade"
+#~ msgstr "Desactualitza"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Held"
+#~ msgstr "Retingut"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Installed"
+#~ msgstr "Instal·lat"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Upgradeable"
+#~ msgstr "Actualitzable"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Broken"
+#~ msgstr "Trencat"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Install Broken"
+#~ msgstr "Instal·lació trencada"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Orphaned"
+#~ msgstr "Orfe"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Locked"
+#~ msgstr "Blocat"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "New in repository"
+#~ msgstr "Nou en els repositoris"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Residual Configuration"
+#~ msgstr "Configuració residual"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Not Downloadable"
+#~ msgstr "No es pot baixar"
+
+#~ msgctxt "@info:status Requested action"
+#~ msgid "Purge"
+#~ msgstr "Purga"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Important for base install"
+#~ msgstr "Important per a la instal·lació base"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Version overridden"
+#~ msgstr "Versió superada"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Required by other packages"
+#~ msgstr "Requerit per altres paquets"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Installed (auto-removable)"
+#~ msgstr "Instal·lat (eliminable automàticament)"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Policy Broken"
+#~ msgstr "Ha trencat la política"
+
+#~ msgctxt "@info:status Package locked at a certain version"
+#~ msgid "Locked"
+#~ msgstr "Blocat"
+
+#~ msgctxt "@info:status Package state"
+#~ msgid "Manually held back"
+#~ msgstr "Retingut manualment"
+
+#~ msgctxt "@title:window"
+#~ msgid "Initialization Error"
+#~ msgstr "Error d'inicialització"
+
+#~ msgctxt "@title:window"
+#~ msgid "Unable to Obtain Package System Lock"
+#~ msgstr "No s'ha pogut obtenir el blocat del sistema de paquets"
+
+#~ msgctxt "@title:window"
+#~ msgid "Low Disk Space"
+#~ msgstr "Espai lliure escàs al disc"
+
+#~ msgctxt "@title:window"
+#~ msgid "Failed to Apply Changes"
+#~ msgstr "Ha fallat en aplicar els canvis"
+
+#~ msgctxt "@title:window"
+#~ msgid "Authentication error"
+#~ msgstr "Error d'autenticació"
+
+#~ msgctxt "@title:window"
+#~ msgid "Unexpected Error"
+#~ msgstr "Error inesperat"
+
+#~ msgctxt "@title:window"
+#~ msgid "Untrusted Packages"
+#~ msgstr "Paquets no fiables"
+
+#~ msgctxt "@title:window"
+#~ msgid "Unknown Error"
+#~ msgstr "Error desconegut"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The package system could not be initialized, your configuration may be "
+#~ "broken."
+#~ msgstr ""
+#~ "El sistema de paquets no s'ha pogut inicialitzar, la vostra configuració "
+#~ "deu estar trencada."
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Another application seems to be using the package system at this time. "
+#~ "You must close all other package managers before you will be able to "
+#~ "install or remove any packages."
+#~ msgstr ""
+#~ "Una altra aplicació sembla estar usant ara el sistema de paquets. Heu de "
+#~ "tancar tots els altres gestors de paquets abans de poder instal·lar o "
+#~ "eliminar qualsevol paquet."
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "You do not have enough disk space in the directory at %1 to continue with "
+#~ "this operation."
+#~ msgstr ""
+#~ "No teniu espai al disc suficient al directori %1 per continuar amb "
+#~ "aquesta operació."
+
+#~ msgctxt "@label"
+#~ msgid "Could not download packages"
+#~ msgstr "No s'han pogut baixar els paquets"
+
+#~ msgctxt "@label"
+#~ msgid "An error occurred while applying changes:"
+#~ msgstr "S'ha detectat un error en aplicar els canvis:"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "This operation cannot continue since proper authorization was not provided"
+#~ msgstr ""
+#~ "Aquesta operació no pot continuar perquè no s'ha proporcionat "
+#~ "l'autorització adequada"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "It appears that the QApt worker has either crashed or disappeared. Please "
+#~ "report a bug to the QApt maintainers"
+#~ msgstr ""
+#~ "Sembla que el treballador QApt ha fallat o ha desaparegut. Informeu de "
+#~ "l'error als mantenidors del QApt"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The following package has not been verified by its author. Downloading "
+#~ "untrusted packages has been disallowed by your current configuration."
+#~ msgid_plural ""
+#~ "The following packages have not been verified by their authors. "
+#~ "Downloading untrusted packages has been disallowed by your current "
+#~ "configuration."
+#~ msgstr[0] ""
+#~ "El següent paquet no ha estat verificat pel seu autor. La vostra "
+#~ "configuració actual no permet baixar paquets sense verificar."
+#~ msgstr[1] ""
+#~ "Els següents paquets no han estat verificats pels seus autors. La vostra "
+#~ "configuració actual no permet baixar paquets sense verificar."
+
+#~ msgctxt "@action Reverts all potential changes to the cache"
+#~ msgid "Unmark All"
+#~ msgstr "Desmarca-ho tot"
+
+#~ msgctxt "@action Opens the software sources configuration dialog"
+#~ msgid "Configure Software Sources"
+#~ msgstr "Configura les fonts de programari"
+
+#~ msgctxt "@action"
+#~ msgid "Read Markings..."
+#~ msgstr "Llegeix marques..."
+
+#~ msgctxt "@action"
+#~ msgid "Save Markings As..."
+#~ msgstr "Desa les marques com a..."
+
+#~ msgctxt "@action"
+#~ msgid "Save Package Download List..."
+#~ msgstr "Desa la llista de baixades de paquets..."
+
+#~ msgctxt "@action"
+#~ msgid "Download Packages From List..."
+#~ msgstr "Baixa els paquets des d'una llista..."
+
+#~ msgctxt "@action"
+#~ msgid "Add Downloaded Packages"
+#~ msgstr "Afegeix paquets baixats"
+
+#~ msgctxt "@action"
+#~ msgid "Save Installed Packages List..."
+#~ msgstr "Desa la llista dels paquets instal·lats..."
+
+#~ msgctxt "@action::inmenu"
+#~ msgid "History..."
+#~ msgstr "Historial..."
+
+#~ msgctxt "@action"
+#~ msgid "Upgrade"
+#~ msgstr "Actualització"
+
+#~ msgctxt "Notification when a new version of Kubuntu is available"
+#~ msgid "A new version of Kubuntu is available."
+#~ msgstr "Hi ha disponible una nova versió de la Kubuntu."
+
+#~ msgctxt "@title:window"
+#~ msgid "Save Markings As"
+#~ msgstr "Desa les marques com a"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The document could not be saved, as it was not possible to write to "
+#~ "<filename>%1</filename>\n"
+#~ "\n"
+#~ "Check that you have write access to this file or that enough disk space "
+#~ "is available."
+#~ msgstr ""
+#~ "El document no es pot desar, perquè no ha estat possible escriure a "
+#~ "<filename>%1</filename>\n"
+#~ "\n"
+#~ "Comproveu que teniu accés d'escriptura a aquest fitxer o que hi ha prou "
+#~ "espai disponible al disc."
+
+#~ msgctxt "@title:window"
+#~ msgid "Save Installed Packages List As"
+#~ msgstr "Desa la llista dels paquets instal·lats com a"
+
+#~ msgctxt "@title:window"
+#~ msgid "Save Download List As"
+#~ msgstr "Desa la llista de baixades com a"
+
+#~ msgctxt "@title:window"
+#~ msgid "Open File"
+#~ msgstr "Obre el fitxer"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Could not mark changes. Please make sure that the file is a markings file "
+#~ "created by either the Muon Package Manager or the Synaptic Package "
+#~ "Manager."
+#~ msgstr ""
+#~ "No s'han pogut marcar els canvis. Verifiqueu que el fitxer sigui un "
+#~ "fitxer de marques creat pel gestor de paquets Muon o pel gestor de "
+#~ "paquets Synaptic."
+
+#~ msgctxt "@title:window"
+#~ msgid "Choose a Directory"
+#~ msgstr "Seleccioneu un directori"
+
+#~ msgctxt "@label"
+#~ msgid "%1 package was successfully added to the cache"
+#~ msgid_plural "%1 packages were successfully added to the cache"
+#~ msgstr[0] "S'ha afegit correctament %1 paquet a la memòria cau"
+#~ msgstr[1] "S'han afegit correctament %1 paquets a la memòria cau"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "No valid packages could be found in this directory. Please make sure the "
+#~ "packages are compatible with your computer and are at the latest version."
+#~ msgstr ""
+#~ "No s'ha pogut trobar cap paquet vàlid en aquest directori. Assegureu-vos "
+#~ "que els paquets siguin compatibles amb l'ordinador i siguin la darrera "
+#~ "versió."
+
+#~ msgctxt "@title:window"
+#~ msgid "Packages Could Not be Found"
+#~ msgstr "No s'han pogut trobar alguns paquets"
+
+#~ msgctxt "@title:window"
+#~ msgid "Package History"
+#~ msgstr "Historial dels paquets"
+
+#~ msgid "No reviews available for Debian."
+#~ msgstr "No hi ha comentaris disponibles per a Debian."
+
+#~ msgid "Log in to the Ubuntu SSO service"
+#~ msgstr "Connecteu-vos al servei SSO d'Ubuntu"
+
+#~ msgid "PackageKit error found"
+#~ msgstr "El PackageKit ha trobat un error"
+
+#~ msgid "PackageKit media change"
+#~ msgstr "PackageKit demana canviar el suport"
+
+#~ msgid "PackageKit Error"
+#~ msgstr "Error del PackageKit"
+
+#~ msgctxt "Category"
+#~ msgid "dummy 5"
+#~ msgstr "simulació 5"
+
+#~ msgctxt "Category"
+#~ msgid "dummy 6"
+#~ msgstr "simulació 6"
+
+#~ msgctxt "Category"
+#~ msgid "dummy 7"
+#~ msgstr "simulació 7"
+
+#~ msgctxt "Category"
+#~ msgid "dummy 8"
+#~ msgstr "simulació 8"
+
+#~ msgctxt "Category"
+#~ msgid "dummy 9"
+#~ msgstr "simulació 9"
+
+#~ msgctxt "Category"
+#~ msgid "dummy 10"
+#~ msgstr "simulació 10"
+
+#~ msgctxt "Category"
+#~ msgid "dummy 11"
+#~ msgstr "simulació 11"
+
+#~ msgctxt "@label The label used for viewing all members of this category"
+#~ msgid "All"
+#~ msgstr "Tot"
+
+#~ msgctxt "Category"
+#~ msgid "Unknown"
+#~ msgstr "Desconegut"
+
+#~ msgid "Something went wrong!"
+#~ msgstr "Ha ocorregut algun problema!"
+
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid "There are a couple of transaction messages:"
+#~ msgstr "Hi ha un parell de missatges de transacció:"
+
+#~ msgid "Transaction messages"
+#~ msgstr "Missatges de transacció"
+
+#~ msgid "Another transaction is still running!"
+#~ msgstr "Encara hi ha una altra transacció en curs!"
+
+#~ msgid "Started downloading packages..."
+#~ msgstr "S'ha iniciat la baixada dels paquets..."
+
+#~ msgid "Started processing packages..."
+#~ msgstr "S'ha iniciat el processament dels paquets..."
+
+#~ msgid "Started downloading %1..."
+#~ msgstr "S'ha iniciat la baixada de %1..."
+
+#~ msgid "Started processing %1..."
+#~ msgstr "S'ha iniciat el processament de %1..."
+
+#~ msgid "Enter %1 credentials for MakePlayLive (http://makeplaylive.com)"
+#~ msgstr ""
+#~ "Introduïu les credencials de %1 per al MakePlayLive (http://makeplaylive."
+#~ "com)"
+
+#~ msgctxt "@label Column label"
+#~ msgid "Updates"
+#~ msgstr "Actualitzacions"
+
+#~ msgctxt "@label Column label"
+#~ msgid "Version"
+#~ msgstr "Versió"
+
+#~ msgctxt "@label Column label"
+#~ msgid "Download Size"
+#~ msgstr "Mida de la baixada"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"admin"
+#~ "\""
+#~ msgid "System Administration"
+#~ msgstr "Administració del sistema"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"base"
+#~ "\""
+#~ msgid "Base System"
+#~ msgstr "Sistema base"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"cli-"
+#~ "mono\""
+#~ msgid "Mono/CLI Infrastructure"
+#~ msgstr "Infraestructura Mono/CLI"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"comm"
+#~ "\""
+#~ msgid "Communication"
+#~ msgstr "Comunicacions"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"database\""
+#~ msgid "Databases"
+#~ msgstr "Bases de dades"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"devel"
+#~ "\""
+#~ msgid "Development"
+#~ msgstr "Desenvolupament"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"doc\""
+#~ msgid "Documentation"
+#~ msgstr "Documentació"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"debug"
+#~ "\""
+#~ msgid "Debug"
+#~ msgstr "Depuració"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"editors\""
+#~ msgid "Editors"
+#~ msgstr "Editors"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"electronics\""
+#~ msgid "Electronics"
+#~ msgstr "Electrònica"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"embedded\""
+#~ msgid "Embedded Devices"
+#~ msgstr "Dispositius incrustats"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"fonts"
+#~ "\""
+#~ msgid "Fonts"
+#~ msgstr "Tipus de lletres"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"games"
+#~ "\""
+#~ msgid "Games and Amusement"
+#~ msgstr "Jocs i passatemps"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"gnome"
+#~ "\""
+#~ msgid "GNOME Desktop Environment"
+#~ msgstr "Entorn d'escriptori GNOME"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"graphics\""
+#~ msgid "Graphics"
+#~ msgstr "Gràfics"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"gnu-r"
+#~ "\""
+#~ msgid "GNU R Statistical System"
+#~ msgstr "Sistema estadístic GNU R"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"gnustep\""
+#~ msgid "Gnustep Desktop Environment"
+#~ msgstr "Entorn d'escriptori Gnustep"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"hamradio\""
+#~ msgid "Amateur Radio"
+#~ msgstr "Radioafició"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"haskell\""
+#~ msgid "Haskell Programming Language"
+#~ msgstr "Llenguatge de programació Haskell"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"httpd"
+#~ "\""
+#~ msgid "Web Servers"
+#~ msgstr "Servidors web"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"interpreters\""
+#~ msgid "Interpreted Computer Languages"
+#~ msgstr "Llenguatges d'ordinador interpretats"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"java"
+#~ "\""
+#~ msgid "Java Programming Language"
+#~ msgstr "Llenguatge de programació Java"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"kde\""
+#~ msgid "KDE Software Compilation"
+#~ msgstr "Compilació de programari KDE"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"kernel\""
+#~ msgid "Kernel and Modules"
+#~ msgstr "Nucli i mòduls"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"libdevel\""
+#~ msgid "Libraries - Development"
+#~ msgstr "Biblioteques - desenvolupament"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"libs"
+#~ "\""
+#~ msgid "Libraries"
+#~ msgstr "Biblioteques"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"lisp"
+#~ "\""
+#~ msgid "Lisp Programming Language"
+#~ msgstr "Llenguatge de programació Lisp"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"localization\""
+#~ msgid "Localization"
+#~ msgstr "Traducció"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"mail"
+#~ "\""
+#~ msgid "Email"
+#~ msgstr "Correu electrònic"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"math"
+#~ "\""
+#~ msgid "Mathematics"
+#~ msgstr "Matemàtiques"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"misc"
+#~ "\""
+#~ msgid "Miscellaneous - Text-based"
+#~ msgstr "Diversos - basats en text"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"net\""
+#~ msgid "Networking"
+#~ msgstr "Xarxes"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"news"
+#~ "\""
+#~ msgid "Newsgroups"
+#~ msgstr "Grups de notícies"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"ocaml"
+#~ "\""
+#~ msgid "OCaml Programming Language"
+#~ msgstr "Llenguatge de programació OCaml"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"oldlibs\""
+#~ msgid "Libraries - Old"
+#~ msgstr "Biblioteques - antigues"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"otherosfs\""
+#~ msgid "Cross Platform"
+#~ msgstr "Multiplataforma"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"perl"
+#~ "\""
+#~ msgid "Perl Programming Language"
+#~ msgstr "Llenguatge de programació Perl"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"php\""
+#~ msgid "PHP Programming Language"
+#~ msgstr "Llenguatge de programació PHP"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"python\""
+#~ msgid "Python Programming Language"
+#~ msgstr "Llenguatge de programació Python"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"ruby"
+#~ "\""
+#~ msgid "Ruby Programming Language"
+#~ msgstr "Llenguatge de programació Ruby"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"science\""
+#~ msgid "Science"
+#~ msgstr "Ciència"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"shells\""
+#~ msgid "Shells"
+#~ msgstr "Intèrprets d'ordres"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"sound"
+#~ "\""
+#~ msgid "Multimedia"
+#~ msgstr "Multimèdia"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"tex\""
+#~ msgid "TeX Authoring"
+#~ msgstr "Escriptura en TeX"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"text"
+#~ "\""
+#~ msgid "Word Processing"
+#~ msgstr "Processadors de textos"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"utils"
+#~ "\""
+#~ msgid "Utilities"
+#~ msgstr "Utilitats"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"vcs\""
+#~ msgid "Version Control Systems"
+#~ msgstr "Sistemes de control de versió"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"video"
+#~ "\""
+#~ msgid "Video Software"
+#~ msgstr "Programari de vídeo"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"web\""
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"x11\""
+#~ msgid "Miscellaneous - Graphical"
+#~ msgstr "Diversos - gràfics"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"xfce"
+#~ "\""
+#~ msgid "Xfce Desktop Environment"
+#~ msgstr "Entorn d'escriptori XFCE"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"zope"
+#~ "\""
+#~ msgid "Zope/Plone Environment"
+#~ msgstr "Entorn Zope/Plone"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"unknown\""
+#~ msgid "Unknown"
+#~ msgstr "Desconegut"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"alien"
+#~ "\""
+#~ msgid "Converted from RPM by Alien"
+#~ msgstr "Convertit des d'RPM per l'Alien"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"translations\""
+#~ msgid "Internationalization and Localization"
+#~ msgstr "Internacionalització i localització"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"metapackages\""
+#~ msgid "Meta Packages"
+#~ msgstr "Metapaquets"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Debian package section \"non-US\", for packages that "
+#~ "cannot be shipped in the US"
+#~ msgid "Restricted On Export"
+#~ msgstr "Restriccions a l'exportació"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section \"non-"
+#~ "free\""
+#~ msgid "Non-free"
+#~ msgstr "No lliure"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"contrib\""
+#~ msgid "Contrib"
+#~ msgstr "Contrib"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"education\""
+#~ msgid "Education"
+#~ msgstr "Educació"
+
+#~ msgctxt ""
+#~ "@item:inlistbox Human-readable name for the Debian package section "
+#~ "\"introspection\""
+#~ msgid "GObject Introspection Data"
+#~ msgstr "Dades d'introspecció de GObject"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Common"
+#~ msgstr "Comú"
+
+#~ msgctxt "@item:inlistbox CPU architecture"
+#~ msgid "32-bit"
+#~ msgstr "32 bits"
+
+#~ msgctxt "@item:inlistbox CPU architecture"
+#~ msgid "64-bit"
+#~ msgstr "64 bits"
+
+#~ msgctxt "@item:inlistbox PU architecture"
+#~ msgid "Power PC"
+#~ msgstr "Power PC"
+
+#~ msgid "Show notifications for available updates"
+#~ msgstr "Mostra les notificacions de les actualitzacions disponibles"
+
+#~ msgid "Show the number of available updates"
+#~ msgstr "Mostra el nombre d'actualitzacions disponibles"
+
+#~ msgid "Bugs found"
+#~ msgstr "S'han trobat errors"
+
+#~ msgid "Checking for bugs..."
+#~ msgstr "S'està comprovant si hi ha errors..."
+
+#~ msgid "Cannot kill process"
+#~ msgstr "No es pot matar el procés"
+
+#~ msgid ""
+#~ "PackageKit does not tell us a useful status right now! Its status is %1."
+#~ msgstr ""
+#~ "El PackageKit no ha comunicat cap estat útil fins ara! El seu estat és %1."
+
+#~ msgid "Muon Notification Daemon"
+#~ msgstr "Dimoni de notificacions del Muon"
+
+#~ msgid "A Notification Daemon for Muon"
+#~ msgstr "Un dimoni de notificacions pel Muon"
+
+#~ msgid ""
+#~ "(C) 2013 Lukas Appelhans, (C) 2009-2012 Jonathan Thomas, (C) 2009 Harald "
+#~ "Sitter"
+#~ msgstr ""
+#~ "(C) 2013 Lukas Appelhans, (C) 2009-2012 Jonathan Thomas, (C) 2009 Harald "
+#~ "Sitter"
+
+#~ msgid "%1 update notifier"
+#~ msgstr "Notificador d'actualitzacions %1"
+
+#~ msgid "Muon %1 update notifier"
+#~ msgstr "Notificador d'actualitzacions %1 del Muon"
+
+#~ msgid "Open Muon..."
+#~ msgstr "Obre el Muon..."
+
+#~ msgid "Quit notifier..."
+#~ msgstr "Surt del notificador..."
+
+#~ msgid "A security update is available for your system."
+#~ msgstr "Hi ha disponible una actualització de seguretat pel sistema."
+
+#~ msgid "An update is available for your system!"
+#~ msgstr "Hi ha disponible una actualització pel sistema!"
+
+#~ msgid ""
+#~ "There are %1 updated packages, of which %2 were updated for security "
+#~ "reasons!"
+#~ msgstr ""
+#~ "Hi ha %1 paquets actualitzats, dels que %2 s'han actualitzat per motius "
+#~ "de seguretat!"
+
+#~ msgid "There are %1 updated packages!"
+#~ msgstr "Hi ha %1 paquets actualitzats!"
+
+#~ msgid "%1 packages were updated for security reasons"
+#~ msgstr "%1 paquets actualitzats per motius de seguretat"
+
+#~ msgid "A system update is recommended"
+#~ msgstr "Es recomana una actualització del sistema"
+
+#~ msgid "System update available"
+#~ msgstr "Hi ha disponible una actualització del sistema"
+
+#~ msgid "Your system is up-to-date!"
+#~ msgstr "El sistema està actualitzat!"
+
+#~ msgid "No system update available"
+#~ msgstr "No ni ha disponible cap actualització del sistema"
+
+#~ msgid "Akabei Backend"
+#~ msgstr "Dorsal Akabei"
+
+#~ msgid "Chakra-Applications in your system"
+#~ msgstr "Aplicacions del Chakra en el vostre sistema"
+
+#~ msgid "Applications Backend"
+#~ msgstr "Dorsal d'aplicacions"
+
+#~ msgid "Applications in your system"
+#~ msgstr "Aplicacions en el vostre sistema"
+
+#~ msgid "Bodega Backend"
+#~ msgstr "Dorsal del Bodega"
+
+#~ msgid "Install Bodega data in your system"
+#~ msgstr "Instal·leu el Bodega en el vostre sistema"
+
+#~ msgid "Dummy Backend"
+#~ msgstr "Dorsal simulat"
+
+#~ msgid "Dummy backend to test muon frontends"
+#~ msgstr "Dorsal simulat per provar els frontals del muon"
+
+#~ msgid "KNewStuff Backend"
+#~ msgstr "Dorsal del KNewStuff"
+
+#~ msgid "Install KNewStuff data in your system"
+#~ msgstr "Instal·leu les dades del KNewStuff en el vostre sistema"
+
+#~ msgid "Install PackageKit data in your system"
+#~ msgstr "Instal·leu el PackageKit en el sistema"
+
+#~ msgid "Finished."
+#~ msgstr "Finalitzat."
+
+#~ msgid "Available updates"
+#~ msgstr "Actualitzacions disponibles"
+
+#~ msgid "Distribution upgrades"
+#~ msgstr "Actualitzacions de la distribució"
+
+#~ msgid "Use both popups and tray icons"
+#~ msgstr "Utilitza finestres emergents i icones a la safata del sistema"
+
+#~ msgid "Tray icons only"
+#~ msgstr "Només icones a la safata del sistema"
+
+#~ msgid "Popup notifications only"
+#~ msgstr "Només notificacions emergents"
+
+#, fuzzy
+#~| msgid "Enter MakePlayLive credentials"
+#~ msgid "Enter %1 credentials"
+#~ msgstr "Introduïu les credencials del MakePlayLive"
+
+#~ msgctxt "@info:status Progress text when done"
+#~ msgid "Done"
+#~ msgstr "Fet"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "There are marked changes that have not yet been applied. Do you want to "
+#~ "save your changes or discard them?"
+#~ msgstr ""
+#~ "Hi ha canvis marcats que encara no s'han aplicat. Voleu desar els canvis "
+#~ "o descartar-los?"
+
+#~ msgctxt "@info:status"
+#~ msgid "Muon is making system changes"
+#~ msgstr "El Muon està efectuant canvis en el sistema"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Changes could not be applied since some packages could not be downloaded."
+#~ msgstr ""
+#~ "No s'han pogut aplicar els canvis ja que no s'han pogut baixar alguns "
+#~ "paquets."
+
+#~ msgctxt "@label"
+#~ msgid "The size of the downloaded items did not equal the expected size."
+#~ msgstr "La mida dels elements baixats no és igual a l'esperada."
+
+#~ msgctxt "@title:window"
+#~ msgid "Size Mismatch"
+#~ msgstr "Diferència de mida"
+
+#~ msgctxt "@title:window"
+#~ msgid "Some Packages Could not be Downloaded"
+#~ msgstr "No s'han pogut baixar alguns paquets"
+
+#~ msgctxt "@label Shows which package failed"
+#~ msgid "Package: %1"
+#~ msgstr "Paquet: %1"
+
+#~ msgctxt "@title:window"
+#~ msgid "Commit error"
+#~ msgstr "Error en efectuar"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Muon always selects the most applicable version available. If you force a "
+#~ "different version from the default one, errors in the dependency handling "
+#~ "can occur."
+#~ msgstr ""
+#~ "El Muon sempre selecciona la versió disponible més aplicable. Si forceu "
+#~ "una versió diferent de la predeterminada, poden produir-se errors en la "
+#~ "gestió de les dependències."
+
+#~ msgctxt "@action:button"
+#~ msgid "Force Version"
+#~ msgstr "Força la versió"
+
+#~ msgctxt "@label Label preceding the package maintainer"
+#~ msgid "Maintainer:"
+#~ msgstr "Mantenidor:"
+
+#~ msgctxt "@label The parent package that this package comes from"
+#~ msgid "Source Package:"
+#~ msgstr "Paquet font:"
+
+#~ msgctxt "@label The software source that this package comes from"
+#~ msgid "Origin:"
+#~ msgstr "Origen:"
+
+#~ msgctxt "@label Label preceding the package size"
+#~ msgid "Installed Size:"
+#~ msgstr "Mida instal·lat:"
+
+#~ msgctxt "@title:group"
+#~ msgid "Available Version"
+#~ msgstr "Versió disponible"
+
+#~ msgctxt "@label"
+#~ msgid "Mark for:"
+#~ msgstr "Marca per a:"
+
+#~ msgctxt "@action:button"
+#~ msgid "Installation"
+#~ msgstr "Instal·lació"
+
+#~ msgctxt "@action:button"
+#~ msgid "Removal"
+#~ msgstr "Eliminació"
+
+#~ msgctxt "@action:button"
+#~ msgid "Upgrade"
+#~ msgstr "Actualització"
+
+#~ msgctxt "@action:button"
+#~ msgid "Reinstallation"
+#~ msgstr "Reinstal·lació"
+
+#~ msgctxt "@action:button"
+#~ msgid "Purge"
+#~ msgstr "Purga"
+
+#~ msgctxt "@action:button"
+#~ msgid "Unmark"
+#~ msgstr "Desmarca"
+
+#~ msgctxt "@info Tells how long Canonical, Ltd. will support a package"
+#~ msgid "Canonical provides critical updates for %1 until %2."
+#~ msgstr ""
+#~ "Canonical proporcionarà actualitzacions crítiques per %1 fins el %2."
+
+#~ msgctxt "@info Tells how long Canonical, Ltd. will support a package"
+#~ msgid ""
+#~ "Canonical does not provide updates for %1. Some updates may be provided "
+#~ "by the Ubuntu community."
+#~ msgstr ""
+#~ "Canonical no proporciona actualitzacions per %1. La comunitat Ubuntu pot "
+#~ "proporcionar algunes actualitzacions."
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Dependencies of the Current Version"
+#~ msgstr "Dependències de la versió actual"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Dependencies of the Latest Version"
+#~ msgstr "Dependències de la darrera versió"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Dependants (Reverse Dependencies)"
+#~ msgstr "Dependents (dependències inverses)"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Virtual Packages Provided"
+#~ msgstr "Paquets virtuals proporcionats"
+
+#~ msgctxt "@label"
+#~ msgid "This package does not have any dependencies"
+#~ msgstr "Aquest paquet no té cap dependència"
+
+#~ msgctxt "@label"
+#~ msgid "This package has no dependents. (Nothing depends on it.)"
+#~ msgstr "Aquest paquet no té cap dependent (res depèn d'ell)."
+
+#~ msgctxt "@label"
+#~ msgid "This package does not provide any virtual packages"
+#~ msgstr "Aquest paquet no proporciona cap paquet virtual"
+
+#~ msgctxt "@title:column"
+#~ msgid "Package"
+#~ msgstr "Paquet"
+
+#~ msgctxt "@title:column"
+#~ msgid "Size"
+#~ msgstr "Mida"
+
+#~ msgctxt "@title:column"
+#~ msgid "Progress"
+#~ msgstr "En curs"
+
+#~ msgctxt "@info:status Progress text when a download is ignored"
+#~ msgid "Ignored"
+#~ msgstr "Ignorat"
+
+#~ msgid "Status"
+#~ msgstr "Estat"
+
+#~ msgid "Requested"
+#~ msgstr "Requerit"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Mark for Installation"
+#~ msgstr "Marca per instal·lar"
+
+#~ msgctxt "@action:button"
+#~ msgid "Mark for Removal"
+#~ msgstr "Marca per eliminar"
+
+#~ msgctxt "@action:button"
+#~ msgid "Mark for Upgrade"
+#~ msgstr "Marca per actualitzar"
+
+#~ msgctxt "@action:button"
+#~ msgid "Mark for Reinstallation"
+#~ msgstr "Marca per reinstal·lar"
+
+#~ msgctxt "@action:button"
+#~ msgid "Mark for Purge"
+#~ msgstr "Marca per purgar"
+
+#~ msgctxt "@action:button"
+#~ msgid "Lock Package at Current Version"
+#~ msgstr "Bloqueja el paquet en la versió actual"
+
+#~ msgctxt "@action:button"
+#~ msgid "Unlock package"
+#~ msgstr "Desbloqueja el paquet"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "Removing this package may break your system. Are you sure you want to "
+#~ "remove it?"
+#~ msgstr ""
+#~ "L'eliminació d'aquest paquet pot trencar el sistema. esteu segur que "
+#~ "voleu eliminar-lo?"
+
+#~ msgctxt "@label"
+#~ msgid "Warning - Removing Important Package"
+#~ msgstr "Avís - Eliminació de paquet important"
+
+#~ msgctxt "@label"
+#~ msgid "The \"%1\" package could not be marked for installation or upgrade:"
+#~ msgstr "El paquet «%1» no es pot marcar per instal·lar o actualitzar:"
+
+#~ msgctxt "@title:window"
+#~ msgid "Unable to Mark Package"
+#~ msgstr "No s'ha pogut marcar el paquet"
+
+#~ msgctxt "@label"
+#~ msgid ""
+#~ "The \"%1\" package has no available version, but exists in the database.\n"
+#~ "\tThis typically means that the package was mentioned in a dependency and "
+#~ "never uploaded, has been obsoleted, or is not available from the "
+#~ "currently-enabled repositories."
+#~ msgstr ""
+#~ "El paquet «%1» no té cap versió disponible, però existeix a la base de "
+#~ "dades.\n"
+#~ "\tNormalment, això vol dir que el paquet està mencionat en una "
+#~ "dependència i mai s'ha pujat, és obsolet, o no és disponible en els "
+#~ "repositoris actualment actius."
+
+#~ msgctxt "@label Example: Depends: libqapt 0.1, but 0.2 is to be installed"
+#~ msgid "%1: %2 %3, but %4 is to be installed"
+#~ msgstr "%1: %2 %3, però s'instal·larà %4"
+
+#~ msgctxt "@label Example: or libqapt 0.1, but 0.2 is to be installed"
+#~ msgid "or %1 %2, but %3 is to be installed"
+#~ msgstr "o %1 %2, però s'instal·larà %3"
+
+#~ msgctxt "@label Example: Depends: libqapt, but is not installable"
+#~ msgid "%1: %2, but it is not installable"
+#~ msgstr "%1: %2, però no es pot instal·lar"
+
+#~ msgctxt "@label Example: or libqapt, but is not installable"
+#~ msgid "or %1, but is not installable"
+#~ msgstr "o %1, però no es pot instal·lar"
+
+#~ msgctxt "@label Example: Depends: libqapt, but it is a virtual package"
+#~ msgid "%1: %2, but it is a virtual package"
+#~ msgstr "%1: %2, però és un paquet virtual"
+
+#~ msgctxt "@label Example: or libqapt, but it is a virtual package"
+#~ msgid "or %1, but it is a virtual package"
+#~ msgstr "o %1, però és un paquet virtual"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Details"
+#~ msgstr "Detalls"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Technical Details"
+#~ msgstr "Detalls tècnics"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Dependencies"
+#~ msgstr "Dependències"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Installed Files"
+#~ msgstr "Fitxers instal·lats"
+
+#~ msgctxt "@label Download rate"
+#~ msgid "Download rate: %1/s"
+#~ msgstr "Velocitat de baixada: %1/s"
+
+#~ msgctxt "@info:status"
+#~ msgid "Rebuilding Search Index"
+#~ msgstr "S'està reconstruint l'índex de cerca"
+
+#~ msgctxt "@info:status"
+#~ msgid "%1 installed, "
+#~ msgstr "%1 instal·lats, "
+
+#~ msgctxt "@info:status"
+#~ msgid "%1 upgradeable,"
+#~ msgstr "%1 actualitzables,"
+
+#~ msgctxt "@info:status"
+#~ msgid "%1 upgradeable"
+#~ msgstr "%1 actualitzables"
+
+#~ msgctxt "@info:status Part of the status label"
+#~ msgid " %1 to install/upgrade"
+#~ msgstr " %1 a instal·lar/actualitzar"
+
+#~ msgctxt ""
+#~ "@info:status Label for the number of packages pending removal when "
+#~ "packages are also pending upgrade"
+#~ msgid ", %1 to remove"
+#~ msgstr ", %1 a eliminar"
+
+#~ msgctxt ""
+#~ "@info:status Label for the number of packages pending removal when there "
+#~ "are only removals"
+#~ msgid " %1 to remove"
+#~ msgstr " %1 a eliminar"
+
+#~ msgctxt "@label showing download and install size"
+#~ msgid "%1 to download, %2 of space to be freed"
+#~ msgstr "%1 a baixar, %2 d'espai a alliberar"
+
+#~ msgctxt "@item:intext Label for when the remaining time is unknown"
+#~ msgid " - Unknown time remaining"
+#~ msgstr " - Temps restant desconegut"
+
+#~ msgctxt "@action:button"
+#~ msgid "Get Screenshot..."
+#~ msgstr "Obtén una captura de pantalla..."
+
+#~ msgctxt "@title:window"
+#~ msgid "Screenshot"
+#~ msgstr "Captura de pantalla"

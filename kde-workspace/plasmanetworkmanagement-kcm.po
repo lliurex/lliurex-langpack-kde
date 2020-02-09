@@ -1,0 +1,119 @@
+# Translation of plasmanetworkmanagement-kcm.po to Catalan (Valencian)
+# Copyright (C) 2017-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017, 2019.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasmanetworkmanagement-kcm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-13 03:38+0200\n"
+"PO-Revision-Date: 2019-08-30 12:19+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#: kcm.cpp:330
+#, kde-format
+msgid "my_shared_connection"
+msgstr "la_meua_connexió_compartida"
+
+#: kcm.cpp:392
+#, kde-format
+msgid "Export VPN Connection"
+msgstr "Exportació de la connexió VPN"
+
+#: kcm.cpp:412
+#, kde-format
+msgid "Do you want to save changes made to the connection '%1'?"
+msgstr "Voleu guardar els canvis efectuats en la connexió «%1»?"
+
+#: kcm.cpp:412
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Changes"
+msgstr "Guarda els canvis"
+
+#: kcm.cpp:501
+#, kde-format
+msgid "Import VPN Connection"
+msgstr "Importació d'una connexió VPN"
+
+#: qml/ConnectionItem.qml:113
+msgid "Connect"
+msgstr "Connecta"
+
+#: qml/ConnectionItem.qml:113
+msgid "Disconnect"
+msgstr "Desconnecta"
+
+#: qml/ConnectionItem.qml:126
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: qml/ConnectionItem.qml:136
+msgid "Export"
+msgstr "Exporta"
+
+#: qml/ConnectionItem.qml:161
+msgid "Connected"
+msgstr "Connectat"
+
+#: qml/ConnectionItem.qml:163
+msgid "Connecting"
+msgstr "Connectant"
+
+#: qml/Dialog.qml:31
+msgctxt "@title:window"
+msgid "Choose a Connection Type"
+msgstr "Trieu un tipus de connexió"
+
+#: qml/Dialog.qml:174
+msgid "Create"
+msgstr "Crea"
+
+#: qml/Dialog.qml:184
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: qml/main.qml:68
+msgid "Search..."
+msgstr "Busca..."
+
+#: qml/main.qml:143
+msgid "Add new connection"
+msgstr "Afig una connexió nova"
+
+#: qml/main.qml:155
+msgid "Remove selected connection"
+msgstr "Elimina la connexió seleccionada"
+
+#: qml/main.qml:169
+msgid "Export selected connection"
+msgstr "Exporta la connexió seleccionada"
+
+#: qml/main.qml:185
+msgctxt "@title:window"
+msgid "Remove Connection"
+msgstr "Elimina la connexió"
+
+#: qml/main.qml:186
+msgid "Do you want to remove the connection '%1'?"
+msgstr "Voleu eliminar la connexió «%1»?"
+
+#~ msgid "Type here to search connections..."
+#~ msgstr "Escriviu aquí per a cercar les connexions..."
+
+#~ msgid "Close"
+#~ msgstr "Tanca"
+
+#~ msgid "Form"
+#~ msgstr "Formulari"

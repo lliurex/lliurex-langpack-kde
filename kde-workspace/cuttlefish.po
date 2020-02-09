@@ -1,0 +1,118 @@
+# Translation of cuttlefish.po to Catalan (Valencian)
+# Copyright (C) 2015-2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2015, 2017.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: cuttlefish\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"PO-Revision-Date: 2019-07-02 14:27+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: package/contents/ui/Preview.qml:134
+#, kde-format
+msgid "Name:"
+msgstr "Nom:"
+
+#: package/contents/ui/Preview.qml:141
+#, kde-format
+msgid "Filename:"
+msgstr "Nom de fitxer:"
+
+#: package/contents/ui/Preview.qml:149
+#, kde-format
+msgid "Category:"
+msgstr "Categoria:"
+
+#: package/contents/ui/Preview.qml:156
+#, kde-format
+msgid "Scalable:"
+msgstr "Escalable:"
+
+#: package/contents/ui/Preview.qml:159
+#, kde-format
+msgid "yes"
+msgstr "sí"
+
+#: package/contents/ui/Preview.qml:159
+#, kde-format
+msgid "no"
+msgstr "no"
+
+#: package/contents/ui/Preview.qml:162
+#, kde-format
+msgid "Sizes:"
+msgstr "Mides:"
+
+#: package/contents/ui/Preview.qml:172
+#, kde-format
+msgid "Insert icon name"
+msgstr "Inseriu un nom d'icona"
+
+#: package/contents/ui/Preview.qml:172
+#, kde-format
+msgid "Copy icon name to clipboard"
+msgstr "Copia el nom d'icona al porta-retalls"
+
+#: package/contents/ui/Preview.qml:178
+#, kde-format
+msgid "Insert QtQuick code"
+msgstr "Insereix el codi QtQuick"
+
+#: package/contents/ui/Preview.qml:178
+#, kde-format
+msgid "Copy QtQuick code to clipboard"
+msgstr "Copia el codi QtQuick al porta-retalls"
+
+#: package/contents/ui/Preview.qml:195
+#, kde-format
+msgid "Update preview on hover"
+msgstr "Actualitza la vista prèvia en passar-hi per damunt"
+
+#: package/contents/ui/Tools.qml:122
+#, kde-format
+msgid "Inverted"
+msgstr "Invertit"
+
+#: package/contents/ui/Tools.qml:128
+#, kde-format
+msgid "Monochrome"
+msgstr "Monocrom"
+
+#: src/main.cpp:45
+#, kde-format
+msgid "Start with category"
+msgstr "Comença amb una categoria"
+
+#: src/main.cpp:45
+#, kde-format
+msgid "category"
+msgstr "categoria"
+
+#: src/main.cpp:49
+#, kde-format
+msgid "Start full-screen"
+msgstr "Inicia en pantalla completa"
+
+#: src/main.cpp:53
+#, kde-format
+msgid "Run in icon-picker mode"
+msgstr "Executa en el mode de selecció d'icona"
+
+#~ msgid "Cuttlefish Icon Browser"
+#~ msgstr "Navegador d'icones del Cuttlefish"
+
+#~ msgid "Insert Icon with Cuttlefish"
+#~ msgstr "Insereix una icona amb Cuttlefish"

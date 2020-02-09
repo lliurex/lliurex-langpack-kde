@@ -1,0 +1,868 @@
+# Translation of webenginepart.po to Catalan (Valencian)
+# Copyright (C) 2016-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2016, 2017, 2018.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017.
+# empar <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: webenginepart\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-25 02:21+0200\n"
+"PO-Revision-Date: 2019-09-12 11:58+0200\n"
+"Last-Translator: empar <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: src/settings/webenginesettings.cpp:903
+#, kde-format
+msgid "Filter error"
+msgstr "Error de filtre"
+
+#: src/ui/featurepermissionbar.cpp:36
+#, kde-format
+msgctxt "@action:deny access"
+msgid "&Deny access"
+msgstr "&Denega l'accés"
+
+#: src/ui/featurepermissionbar.cpp:40
+#, kde-format
+msgctxt "@action:grant access"
+msgid "&Grant access"
+msgstr "&Atorga l'accés"
+
+#: src/ui/passwordbar.cpp:40
+#, kde-format
+msgctxt "@action:remember password"
+msgid "&Remember"
+msgstr "&Recorda"
+
+#: src/ui/passwordbar.cpp:44
+#, kde-format
+msgctxt "@action:never for this site"
+msgid "Ne&ver for this site"
+msgstr "Ma&i per a aquest lloc"
+
+#: src/ui/passwordbar.cpp:48
+#, kde-format
+msgctxt "@action:not now"
+msgid "N&ot now"
+msgstr "Ara n&o"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, closeButton)
+#: src/ui/searchbar.ui:23
+#, kde-format
+msgid "Close the search bar"
+msgstr "Tanca la barra de cerca"
+
+#. i18n: ectx: property (text), widget (QLabel, searchInfo)
+#: src/ui/searchbar.ui:36
+#, kde-format
+msgctxt "label for input line to find text"
+msgid "&Find:"
+msgstr "&Busca:"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, nextButton)
+#: src/ui/searchbar.ui:59
+#, kde-format
+msgid "Find the next match for the current search phrase"
+msgstr "Busca la coincidència següent per a la frase de cerca actual"
+
+#. i18n: ectx: property (text), widget (QToolButton, nextButton)
+#: src/ui/searchbar.ui:62
+#, kde-format
+msgid "&Next"
+msgstr "Següe&nt"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, previousButton)
+#. i18n: ectx: property (toolTip), widget (QToolButton, optionsButton)
+#: src/ui/searchbar.ui:78 src/ui/searchbar.ui:94
+#, kde-format
+msgid "Find the previous match for the current search phrase"
+msgstr "Busca la coincidència anterior per a la frase de cerca actual"
+
+#. i18n: ectx: property (text), widget (QToolButton, previousButton)
+#: src/ui/searchbar.ui:81
+#, kde-format
+msgid "&Previous"
+msgstr "&Anterior"
+
+#. i18n: ectx: property (text), widget (QToolButton, optionsButton)
+#: src/ui/searchbar.ui:97
+#, kde-format
+msgid "&Options"
+msgstr "&Opcions"
+
+#. i18n: ectx: property (text), item, widget (QToolButton, optionsButton)
+#: src/ui/searchbar.ui:126
+#, kde-format
+msgid "&Match Case"
+msgstr "&Distingix entre majúscules i minúscules"
+
+#. i18n: ectx: property (text), item, widget (QToolButton, optionsButton)
+#: src/ui/searchbar.ui:137
+#, kde-format
+msgid "&Search As You Type"
+msgstr "&Busca a mesura que es tecleja"
+
+#. i18n: ectx: property (text), item, widget (QToolButton, optionsButton)
+#: src/ui/searchbar.ui:145
+#, kde-format
+msgid "&Highlight All Matches"
+msgstr "&Ressalta totes les coincidències"
+
+#. i18n: ectx: property (toolTip), item, widget (QToolButton, optionsButton)
+#: src/ui/searchbar.ui:148
+#, kde-format
+msgid "Highlight Matches"
+msgstr "Ressaltat de les coincidències"
+
+#: src/webenginepage.cpp:130
+#, kde-format
+msgid "The download manager (%1) could not be found in your installation."
+msgstr ""
+"No s'ha pogut trobar el gestor de descàrrega (%1) en aquesta instal·lació."
+
+#: src/webenginepage.cpp:131
+#, kde-format
+msgid ""
+"Try to reinstall it and make sure that it is available in $PATH. \n"
+"\n"
+"The integration will be disabled."
+msgstr ""
+"Intenteu reinstal·lar-ho i comproveu que estiga disponible en $PATH \n"
+"\n"
+"S'inhabilitarà la integració."
+
+#: src/webenginepage.cpp:224
+#, kde-format
+msgid ""
+"<qt><p>To display the requested web page again, the browser needs to resend "
+"information you have previously submitted.</p><p>If you were shopping online "
+"and made a purchase, click the Cancel button to prevent a duplicate purchase."
+"Otherwise, click the Continue button to display the webpage again.</p>"
+msgstr ""
+"<qt><p>Per a tornar a mostrar la pàgina web sol·licitada, el navegador "
+"necessita tornar a enviar informació que ja s'ha tramés anteriorment.</"
+"p><p>Si esteu en una botiga en línia i heu fet una compra, cliqueu el botó "
+"Cancel·la per a evitar duplicar la compra. En cas contrari, cliqueu el botó "
+"Continua per a tornar a mostra la pàgina web.</p>"
+
+#: src/webenginepage.cpp:231
+#, kde-format
+msgid "Resubmit Information"
+msgstr "Torna a enviar la informació"
+
+#: src/webenginepage.cpp:326
+#, kde-format
+msgid ""
+"<p>The server failed the authenticity check (%1). The error is:</p><p><tt>"
+"%2</tt></p>Do you want to ignore this error?"
+msgstr ""
+"<p>El servidor ha fallat en comprovar l'autenticitat (%1). L'error és:</"
+"p><p><tt>%2</tt></p>Voleu ignorar aquest error?"
+
+#: src/webenginepage.cpp:328
+#, kde-format
+msgid "Authentication error"
+msgstr "S'ha produït un error d'autenticació"
+
+#: src/webenginepage.cpp:471
+#, kde-format
+msgid ""
+"This site is attempting to access information about your physical location.\n"
+"Do you want to allow it access?"
+msgstr ""
+"Aquest lloc està intentant accedir a la informació relativa a la vostra "
+"ubicació física.\n"
+"Voleu permetre l'accés?"
+
+#: src/webenginepage.cpp:475 src/webenginepage.cpp:592
+#: src/webenginepage.cpp:603
+#, kde-format
+msgid "Network Transmission"
+msgstr "Transmissió de xarxa"
+
+#: src/webenginepage.cpp:476
+#, kde-format
+msgid "Allow access"
+msgstr "Permet l'accés"
+
+#: src/webenginepage.cpp:551
+#, kde-format
+msgid ""
+"<qt>This untrusted page links to<br/><b>%1</b>.<br/>Do you want to follow "
+"the link?</qt>"
+msgstr ""
+"<qt>Aquesta pàgina no fiable enllaça a<br/><b>%1</b>.<br/>Voleu seguir "
+"l'enllaç?</qt>"
+
+#: src/webenginepage.cpp:553
+#, kde-format
+msgid "Security Warning"
+msgstr "Avís de seguretat"
+
+#: src/webenginepage.cpp:554
+#, kde-format
+msgctxt "follow link despite of security warning"
+msgid "Follow"
+msgstr "Segueix"
+
+#: src/webenginepage.cpp:556
+#, kde-format
+msgid "Security Alert"
+msgstr "Alerta de seguretat"
+
+#: src/webenginepage.cpp:557
+#, kde-format
+msgid "<qt>Access by untrusted page to<br/><b>%1</b><br/> denied.</qt>"
+msgstr "<qt>S'ha denegat l'accés a la pàgina no fiable <br/><b>%1</b>.</qt>"
+
+#: src/webenginepage.cpp:585
+#, kde-format
+msgid ""
+"Warning: This is a secure form but it is attempting to send your data back "
+"unencrypted.\n"
+"A third party may be able to intercept and view this information.\n"
+"Are you sure you want to send the data unencrypted?"
+msgstr ""
+"Avís: Aquest és un formulari segur però està intentant enviar les vostres "
+"dades sense encriptar.\n"
+"Un tercer podria interceptar-les i veure aquesta informació.\n"
+"Segur que voleu enviar les dades sense encriptar?"
+
+#: src/webenginepage.cpp:593
+#, kde-format
+msgid "&Send Unencrypted"
+msgstr "&Envia sense encriptar"
+
+#: src/webenginepage.cpp:600
+#, kde-format
+msgid ""
+"This site is attempting to submit form data via email.\n"
+"Do you want to continue?"
+msgstr ""
+"Aquest lloc està intentant enviar dades de formulari via correu.\n"
+"Voleu continuar?"
+
+#: src/webenginepage.cpp:604
+#, kde-format
+msgid "&Send Email"
+msgstr "&Envia el correu"
+
+#: src/webenginepage.cpp:653
+#, kde-format
+msgid ""
+"<qt>Do you want to allow this site to attach the following files to the "
+"email message?</qt>"
+msgstr ""
+"<qt>Voleu permetre que aquest lloc adjunte els fitxers següents en el"
+" missatge "
+"de correu electrònic?</qt>"
+
+#: src/webenginepage.cpp:655
+#, kde-format
+msgid "Email Attachment Confirmation"
+msgstr "Confirmació d'adjunt en el correu"
+
+#: src/webenginepage.cpp:656
+#, kde-format
+msgid "&Allow attachments"
+msgstr "Permet els &adjunts"
+
+#: src/webenginepage.cpp:657
+#, kde-format
+msgid "&Ignore attachments"
+msgstr "&Ignora els adjunts"
+
+#: src/webenginepage.cpp:671
+#, kde-format
+msgid ""
+"This site attempted to attach a file from your computer in the form "
+"submission. The attachment was removed for your protection."
+msgstr ""
+"Aquest lloc ha intentat adjuntar un fitxer des del vostre ordinador al "
+"formulari d'enviament. S'ha eliminat l'adjunt per a la vostra protecció."
+
+#: src/webenginepage.cpp:674
+#, kde-format
+msgid "Attachment Removed"
+msgstr "Eliminació d'adjunt"
+
+#: src/webenginepage.cpp:788
+#, kde-format
+msgid ""
+"This site is requesting to open a new popup window.\n"
+"Do you want to allow this?"
+msgstr ""
+"Aquest lloc està sol·licitant obrir una finestra emergent nova.\n"
+"Voleu permetre-ho?"
+
+#: src/webenginepage.cpp:790
+#, kde-format
+msgid ""
+"<qt>This site is requesting to open a popup window to<p>%1</p><br/>Do you "
+"want to allow this?</qt>"
+msgstr ""
+"<qt>Aquest lloc està demanant d'obrir una finestra emergent en <p>%1</p>. <br/"
+">Voleu permetre-ho?</qt>"
+
+#: src/webenginepage.cpp:794
+#, kde-format
+msgid "Javascript Popup Confirmation"
+msgstr "Confirmació de finestra emergent de Javascript"
+
+#: src/webenginepage.cpp:795
+#, kde-format
+msgid "Allow"
+msgstr "Permet"
+
+#: src/webenginepage.cpp:796
+#, kde-format
+msgid "Do Not Allow"
+msgstr "No permetes"
+
+#: src/webenginepart.cpp:138
+#, kde-format
+msgctxt "Program Name"
+msgid "WebEnginePart"
+msgstr "WebEnginePart"
+
+#: src/webenginepart.cpp:140
+#, kde-format
+msgctxt "Short Description"
+msgid "QtWebEngine Browser Engine Component"
+msgstr "Component del motor del navegador QtWebEngine"
+
+#: src/webenginepart.cpp:142
+#, kde-format
+msgid ""
+"(C) 2009-2010 Dawit Alemayehu\n"
+"(C) 2008-2010 Urs Wolfer\n"
+"(C) 2007 Trolltech ASA"
+msgstr ""
+"(C) 2009-2010 Dawit Alemayehu\n"
+"(C) 2008-2010 Urs Wolfer\n"
+"(C) 2007 Trolltech ASA"
+
+#: src/webenginepart.cpp:146
+#, kde-format
+msgid "Sune Vuorela"
+msgstr "Sune Vuorela"
+
+#: src/webenginepart.cpp:146 src/webenginepart.cpp:148
+#, kde-format
+msgid "Maintainer, Developer"
+msgstr "Mantenidor, desenvolupador"
+
+#: src/webenginepart.cpp:147
+#, kde-format
+msgid "Dawit Alemayehu"
+msgstr "Dawit Alemayehu"
+
+#: src/webenginepart.cpp:147 src/webenginepart.cpp:149
+#: src/webenginepart.cpp:150 src/webenginepart.cpp:151
+#, kde-format
+msgid "Developer"
+msgstr "Desenvolupador"
+
+#: src/webenginepart.cpp:148
+#, kde-format
+msgid "Urs Wolfer"
+msgstr "Urs Wolfer"
+
+#: src/webenginepart.cpp:149
+#, kde-format
+msgid "Michael Howell"
+msgstr "Michael Howell"
+
+#: src/webenginepart.cpp:150
+#, kde-format
+msgid "Laurent Montel"
+msgstr "Laurent Montel"
+
+#: src/webenginepart.cpp:151
+#, kde-format
+msgid "Dirk Mueller"
+msgstr "Dirk Mueller"
+
+#: src/webenginepart.cpp:249
+#, kde-format
+msgid "Save &Frame As..."
+msgstr "Anomena i guarda el &marc..."
+
+#: src/webenginepart.cpp:253
+#, kde-format
+msgid "Print Preview"
+msgstr "Vista prèvia d'impressió"
+
+#: src/webenginepart.cpp:257
+#, kde-format
+msgctxt "zoom in action"
+msgid "Zoom In"
+msgstr "Amplia"
+
+#: src/webenginepart.cpp:262
+#, kde-format
+msgctxt "zoom out action"
+msgid "Zoom Out"
+msgstr "Redueix"
+
+#: src/webenginepart.cpp:267
+#, kde-format
+msgctxt "reset zoom action"
+msgid "Actual Size"
+msgstr "Mida real"
+
+#: src/webenginepart.cpp:272
+#, kde-format
+msgid "Zoom Text Only"
+msgstr "Amplia només el text"
+
+#: src/webenginepart.cpp:280
+#, kde-format
+msgid "Zoom To DPI"
+msgstr "Amplia en PPP"
+
+#: src/webenginepart.cpp:292
+#, kde-format
+msgid "Set &Encoding"
+msgstr "Estableix la &codificació"
+
+#: src/webenginepart.cpp:296
+#, kde-format
+msgid "View Do&cument Source"
+msgstr "Visualitza el codi font del do&cument"
+
+#: src/webenginepart.cpp:301 src/webenginepart.cpp:602
+#, kde-format
+msgctxt "Secure Sockets Layer"
+msgid "SSL"
+msgstr "SSL"
+
+#: src/webenginepart.cpp:306
+#, kde-format
+msgctxt "find action \"whats this\" text"
+msgid ""
+"<h3>Find text</h3>Shows a dialog that allows you to find text on the "
+"displayed page."
+msgstr ""
+"<h3>Busca text</h3>Mostra un diàleg que us permet buscar text en la pàgina "
+"mostrada."
+
+#: src/webenginepart.cpp:600
+#, kde-format
+msgid "The SSL information for this site appears to be corrupt."
+msgstr "La informació SSL d'aquest lloc sembla corrupta."
+
+#: src/webenginepart.cpp:681
+#, kde-format
+msgctxt ""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+msgid "Email: "
+msgstr "Correu electrònic: "
+
+#: src/webenginepart.cpp:710
+#, kde-format
+msgctxt ""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+msgid " - CC: "
+msgstr " - Cc: "
+
+#: src/webenginepart.cpp:712
+#, kde-format
+msgctxt ""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+msgid " - BCC: "
+msgstr " - C/o: "
+
+#: src/webenginepart.cpp:714
+#, kde-format
+msgctxt ""
+"status bar text when hovering email links; looks like \"Email: xy@kde.org - "
+"CC: z@kde.org -BCC: x@kde.org - Subject: Hi translator\""
+msgid " - Subject: "
+msgstr " - Assumpte: "
+
+#: src/webenginepart.cpp:718 src/webenginepart.cpp:729
+#, kde-format
+msgid " (In new window)"
+msgstr " (En una finestra nova)"
+
+#: src/webenginepart.cpp:727
+#, kde-format
+msgid " (In parent frame)"
+msgstr " (En el marc origen)"
+
+#: src/webenginepart.cpp:791
+#, kde-format
+msgid "<qt>Do you want to search for <b>%1</b>?</qt>"
+msgstr "<qt>Voleu buscar <b>%1</b>?</qt>"
+
+#: src/webenginepart.cpp:792
+#, kde-format
+msgid "Internet Search"
+msgstr "Busca en Internet"
+
+#: src/webenginepart.cpp:792
+#, kde-format
+msgid "&Search"
+msgstr "&Busca"
+
+#: src/webenginepart.cpp:815
+#, kde-format
+msgid "&Allow password caching for this site"
+msgstr "Permet l'ús de la memòria c&au de contrasenyes per a aquest lloc"
+
+#: src/webenginepart.cpp:818
+#, kde-format
+msgid "Remove all cached passwords for this site"
+msgstr "Elimina totes les contrasenyes de la memòria cau per a aquest lloc"
+
+#: src/webenginepart.cpp:821
+#, kde-format
+msgid "&Close Wallet"
+msgstr "&Tanca la cartera"
+
+#: src/webenginepart.cpp:879
+#, kde-format
+msgid "Close window?"
+msgstr "Voleu tancar la finestra?"
+
+#: src/webenginepart.cpp:879
+#, kde-format
+msgid "Confirmation Required"
+msgstr "Es requereix confirmació"
+
+#. i18n("<html>Do you want to grant the site <b>%1</b> "
+#. "access to information about your current physical location?",
+#. url.host()));
+#: src/webenginepart.cpp:910
+#, kde-format
+msgid ""
+"<html>Do you want to grant the site access to information about your current "
+"physical location?"
+msgstr ""
+"<html>Voleu atorgar al lloc web accés a la informació relativa a la vostra "
+"ubicació física actual?"
+
+#: src/webenginepart.cpp:956
+#, kde-format
+msgid ""
+"<html>Do you want %1 to remember the login information for <b>%2</b>?</html>"
+msgstr ""
+"<html>Voleu que %1 recorde la informació de connexió per a <b>%2</b>?</html>"
+
+#. i18n: ectx: Menu (file)
+#: src/webenginepart.rc:5
+#, kde-format
+msgid "&File"
+msgstr "&Fitxer"
+
+#. i18n: ectx: Menu (edit)
+#: src/webenginepart.rc:12
+#, kde-format
+msgid "&Edit"
+msgstr "&Edita"
+
+#. i18n: ectx: Menu (view)
+#: src/webenginepart.rc:18
+#, kde-format
+msgid "&View"
+msgstr "&Visualitza"
+
+#. i18n: ectx: ToolBar (htmlToolBar)
+#: src/webenginepart.rc:30
+#, kde-format
+msgid "HTML Toolbar"
+msgstr "Barra d'eines HTML"
+
+#: src/webenginepart_ext.cpp:256
+#, kde-format
+msgid "Print Document"
+msgstr "Imprimeix el document"
+
+#: src/webenginepart_ext.cpp:479
+#, kde-format
+msgid "Add URL to Filter"
+msgstr "Afig l'URL al filtre"
+
+#: src/webenginepart_ext.cpp:480
+#, kde-format
+msgid "Enter the URL:"
+msgstr "Introduïu l'URL:"
+
+#: src/webengineparterrorschemehandler.cpp:108
+#, kde-format
+msgid ""
+"<html><body><h3>Unable to display error message</h3><p>The error template "
+"file <em>error.html</em> could not be found.</p></body></html>"
+msgstr ""
+"<html><body><h3>No s'ha pogut mostrar el missatge d'error</h3><p>No s'ha "
+"pogut trobar el fitxer de plantilla d'error <em>error.html</em>.</p></body></"
+"html>"
+
+#: src/webengineparterrorschemehandler.cpp:117
+#, kde-format
+msgid "The requested operation could not be completed"
+msgstr "L'operació sol·licitada no s'ha pogut completar"
+
+#: src/webengineparterrorschemehandler.cpp:124
+#, kde-format
+msgid "Technical Reason: %1"
+msgstr "Motiu tècnic: %1"
+
+#: src/webengineparterrorschemehandler.cpp:129
+#, kde-format
+msgid "Details of the Request:"
+msgstr "Detalls de la sol·licitud:"
+
+#. i18n, and once for HTML.
+#: src/webengineparterrorschemehandler.cpp:132
+#, kde-format
+msgid "URL: %1"
+msgstr "URL: %1"
+
+#. i18n, and once for HTML.
+#: src/webengineparterrorschemehandler.cpp:138
+#, kde-format
+msgid "Protocol: %1"
+msgstr "Protocol: %1"
+
+#: src/webengineparterrorschemehandler.cpp:142
+#, kde-format
+msgid "Date and Time: %1"
+msgstr "Data i hora: %1"
+
+#. i18n, and once for HTML.
+#: src/webengineparterrorschemehandler.cpp:146
+#, kde-format
+msgid "Additional Information: %1"
+msgstr "Informació addicional: %1"
+
+#: src/webengineparterrorschemehandler.cpp:148
+#, kde-format
+msgid "Description:"
+msgstr "Descripció:"
+
+#: src/webengineparterrorschemehandler.cpp:155
+#, kde-format
+msgid "Possible Causes:"
+msgstr "Causes possibles:"
+
+#: src/webengineparterrorschemehandler.cpp:163
+#, kde-format
+msgid "Possible Solutions:"
+msgstr "Solucions possibles:"
+
+#: src/webengineparterrorschemehandler.cpp:169
+#, kde-format
+msgid "Error: %1"
+msgstr "Error: %1"
+
+#: src/webengineview.cpp:342
+#, kde-format
+msgid "Save Image As..."
+msgstr "Anomena i guarda la imatge..."
+
+#: src/webengineview.cpp:347
+#, kde-format
+msgid "Send Image..."
+msgstr "Envia la imatge..."
+
+#: src/webengineview.cpp:352
+#, kde-format
+msgid "Copy Image URL"
+msgstr "Copia l'URL de la imatge"
+
+#: src/webengineview.cpp:358
+#, kde-format
+msgid "Copy Image"
+msgstr "Copia la imatge"
+
+#: src/webengineview.cpp:365
+#, kde-format
+msgid "View Image (%1)"
+msgstr "Visualitza la imatge (%1)"
+
+#: src/webengineview.cpp:371
+#, kde-format
+msgid "Block Image..."
+msgstr "Bloqueja la imatge..."
+
+#: src/webengineview.cpp:379
+#, kde-format
+msgid "Block Images From %1"
+msgstr "Bloqueja les imatges de %1"
+
+#: src/webengineview.cpp:406 src/webengineview.cpp:444
+#, kde-format
+msgid "&Copy Text"
+msgstr "&Copia el text"
+
+#: src/webengineview.cpp:416
+#, kde-format
+msgctxt "open selected url"
+msgid "Open '%1'"
+msgstr "Obri «%1»"
+
+#: src/webengineview.cpp:452
+#, kde-format
+msgid "&Copy Email Address"
+msgstr "&Copia l'adreça de correu"
+
+#: src/webengineview.cpp:460
+#, kde-format
+msgid "Copy Link &Text"
+msgstr "Copia el &text de l'enllaç"
+
+#: src/webengineview.cpp:467
+#, kde-format
+msgid "Copy Link &URL"
+msgstr "Copia l'&URL de l'enllaç"
+
+#: src/webengineview.cpp:472
+#, kde-format
+msgid "&Save Link As..."
+msgstr "Anomena i guar&da l'enllaç..."
+
+#: src/webengineview.cpp:489
+#, kde-format
+msgid "&Play/Pause"
+msgstr "Re&produeix/Posa en pausa"
+
+#: src/webengineview.cpp:494
+#, kde-format
+msgid "Un&mute/&Mute"
+msgstr "Activa el &so/Silencia"
+
+#: src/webengineview.cpp:499
+#, kde-format
+msgid "Toggle &Loop"
+msgstr "Activa/desactiva &la repetició"
+
+#: src/webengineview.cpp:504
+#, kde-format
+msgid "Toggle &Controls"
+msgstr "Commuta els &controls"
+
+#: src/webengineview.cpp:515
+#, kde-format
+msgid "Sa&ve Video As..."
+msgstr "Anomena i guarda el &vídeo..."
+
+#: src/webengineview.cpp:516
+#, kde-format
+msgid "C&opy Video URL"
+msgstr "C&opia l'URL del vídeo"
+
+#: src/webengineview.cpp:518
+#, kde-format
+msgid "Sa&ve Audio As..."
+msgstr "Anomena i guarda l'à&udio..."
+
+#: src/webengineview.cpp:519
+#, kde-format
+msgid "C&opy Audio URL"
+msgstr "C&opia l'URL de l'àudio"
+
+#: src/webengineview.cpp:521
+#, kde-format
+msgid "Sa&ve Media As..."
+msgstr "Anomena i guar&da el suport..."
+
+#: src/webengineview.cpp:522
+#, kde-format
+msgid "C&opy Media URL"
+msgstr "C&opia l'URL del suport"
+
+#: src/webengineview.cpp:573
+#, kde-format
+msgctxt "Search \"search provider\" for \"text\""
+msgid "Search %1 for '%2'"
+msgstr "Busca «%2» en %1"
+
+#: src/webengineview.cpp:584
+#, kde-format
+msgctxt "Search for \"text\" with"
+msgid "Search for '%1' with"
+msgstr "Busca «%1» amb"
+
+#: src/webengineview.cpp:597
+#, kde-format
+msgid "Configure Web Shortcuts..."
+msgstr "Configura les dreceres web..."
+
+#~ msgid "&Find:"
+#~ msgstr "&Cerca:"
+
+#~ msgid "Save As"
+#~ msgstr "Desa com a"
+
+#~ msgctxt "input dialog window title for selecting html elements"
+#~ msgid "Select elements"
+#~ msgstr "Selecció d'elements"
+
+#~ msgctxt "input dialog text for selecting html elements"
+#~ msgid "Choose elements"
+#~ msgstr "Seleccioneu els elements"
+
+#~ msgid "New Window"
+#~ msgstr "Finestra nova"
+
+#~ msgid "Print"
+#~ msgstr "Imprimeix"
+
+#~ msgid "Close"
+#~ msgstr "Tanca"
+
+#~ msgid "Set Editable"
+#~ msgstr "Defineix com editable"
+
+#~ msgid "Zoom &In"
+#~ msgstr "&Apropa"
+
+#~ msgid "Zoom &Out"
+#~ msgstr "A&llunya"
+
+#~ msgid "Reset Zoom"
+#~ msgstr "Treu el zoom"
+
+#~ msgid "Dump HTML"
+#~ msgstr "Bolcar l'HTML"
+
+#~ msgid "F&ormat"
+#~ msgstr "F&ormat"
+
+#~ msgid "Writing Direction"
+#~ msgstr "Direcció d'escriptura"
+
+#~ msgid "&Tools"
+#~ msgstr "Ei&nes"
+
+#~ msgid "Select elements..."
+#~ msgstr "Selecció d'elements..."
+
+#~ msgid "KDELauncher"
+#~ msgstr "KDELauncher"

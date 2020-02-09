@@ -1,0 +1,415 @@
+# Translation of plasmashellprivateplugin.po to Catalan (Valencian)
+# Copyright (C) 2007-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2015, 2016, 2018.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasmashellprivateplugin\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"PO-Revision-Date: 2019-07-22 09:50+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#. i18n: ectx: label, entry, group (Daemon)
+#: sessionsprivate/kscreenlockersettings.kcfg:10
+#, kde-format
+msgid "Screen lock enabled"
+msgstr "El bloqueig de la pantalla està activat"
+
+#. i18n: ectx: whatsthis, entry, group (Daemon)
+#: sessionsprivate/kscreenlockersettings.kcfg:11
+#, kde-format
+msgid "Sets whether the screen will be locked after the specified time."
+msgstr "Defineix si la pantalla s'ha de bloquejar després del temps indicat."
+
+#. i18n: ectx: label, entry, group (Daemon)
+#: sessionsprivate/kscreenlockersettings.kcfg:16
+#, kde-format
+msgid "Screen saver timeout"
+msgstr "Temps d'espera de l'estalvi de pantalla"
+
+#. i18n: ectx: whatsthis, entry, group (Daemon)
+#: sessionsprivate/kscreenlockersettings.kcfg:17
+#, kde-format
+msgid "Sets the minutes after which the screen is locked."
+msgstr "Estableix els minuts després dels quals es bloqueja la pantalla."
+
+#: sessionsprivate/sessionsmodel.cpp:253 sessionsprivate/sessionsmodel.cpp:255
+#, kde-format
+msgid "New Session"
+msgstr "Sessió nova"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:71
+#, kde-format
+msgid "&Execute"
+msgstr "&Executa"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:72
+#, kde-format
+msgctxt "Toolbar Button to switch to Plasma Scripting Mode"
+msgid "Plasma"
+msgstr "Plasma"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:73
+#, kde-format
+msgctxt "Toolbar Button to switch to KWin Scripting Mode"
+msgid "KWin"
+msgstr "KWin"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:74
+#, kde-format
+msgid "Templates"
+msgstr "Plantilles"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:83
+#, kde-format
+msgid "Desktop Shell Scripting Console"
+msgstr "Consola per a crear scripts d'intèrpret d'ordres per a l'escriptori"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:90
+#, kde-format
+msgid "Editor"
+msgstr "Editor"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:101
+#, kde-format
+msgid "Load"
+msgstr "Carrega"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:107
+#, kde-format
+msgid "Use"
+msgstr "Usa"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:164
+#, kde-format
+msgid "Output"
+msgstr "Eixida"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:272
+#, kde-format
+msgid "Unable to load script file <b>%1</b>"
+msgstr "No s'ha pogut carregar el fitxer de script <b>%1</b>"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:322
+#, kde-format
+msgid "Open Script File"
+msgstr "Obri un fitxer de script"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:455
+#, kde-format
+msgid "Save Script File"
+msgstr "Guarda el fitxer de script"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:546
+#, kde-format
+msgid "Executing script at %1"
+msgstr "S'està executant l'script en %1"
+
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:584
+#, no-c-format, kde-format
+msgid "Runtime: %1ms"
+msgstr "Temps d'execució: %1ms"
+
+#: shellprivate/wallpaperplugin/wallpaperplugin.cpp:45
+#, kde-format
+msgid "Download Wallpaper Plugins"
+msgstr "Baixa connectors de fons de pantalla"
+
+#: shellprivate/widgetexplorer/kcategorizeditemsviewmodels.cpp:73
+#, kde-format
+msgid "Filters"
+msgstr "Filtres"
+
+#: shellprivate/widgetexplorer/openwidgetassistant.cpp:60
+#, kde-format
+msgid "Select Plasmoid File"
+msgstr "Selecció d'un fitxer Plasmoide"
+
+#: shellprivate/widgetexplorer/openwidgetassistant.cpp:84
+#, kde-format
+msgid "Installing the package %1 failed."
+msgstr "No s'ha pogut instal·lar el paquet %1."
+
+#: shellprivate/widgetexplorer/openwidgetassistant.cpp:85
+#, kde-format
+msgid "Installation Failure"
+msgstr "Ha fallat la instal·lació"
+
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:120
+#, kde-format
+msgid "All Widgets"
+msgstr "Tots els ginys («widgets»)"
+
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:125
+#, kde-format
+msgid "Running"
+msgstr "S'està executant"
+
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:129
+#, kde-format
+msgid "Uninstallable"
+msgstr "No instal·lable"
+
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:133
+#, kde-format
+msgid "Categories:"
+msgstr "Categories:"
+
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:216
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:447
+#, kde-format
+msgid "Download New Plasma Widgets"
+msgstr "Baixa ginys («widgets») de Plasma nous"
+
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:226
+#, kde-format
+msgid "Install Widget From Local File..."
+msgstr "Instal·lació d'un giny («widget») des d'un fitxer..."
+
+#~ msgid "Containments"
+#~ msgstr "Contenidors"
+
+#~ msgctxt ""
+#~ "%1 is a type of widgets, as defined by e.g. some plasma-packagestructure-"
+#~ "*.desktop files"
+#~ msgid "Download New %1"
+#~ msgstr "Baixada nova %1"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Josep Ma. Ferrer"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "txemaq@gmail.com"
+
+#~ msgid "Get New Templates..."
+#~ msgstr "Obtén plantilles noves..."
+
+#~ msgid "Activities"
+#~ msgstr "Activitats"
+
+#~ msgid "Hide Dashboard"
+#~ msgstr "Oculta el tauler"
+
+#~ msgid "Widget Dashboard"
+#~ msgstr "Tauler d'estris"
+
+#~ msgid "The font to use on the desktop"
+#~ msgstr "El tipus de lletra a utilitzar en l'escriptori"
+
+#~ msgid ""
+#~ "Set to true if each virtual desktop should get its own, unique Plasma "
+#~ "view."
+#~ msgstr ""
+#~ "Establiu-ho a cert si cada escriptori virtual ha de tenir la seva pròpia "
+#~ "i única vista del Plasma."
+
+#~ msgid "Next Activity"
+#~ msgstr "Activitat següent"
+
+#~ msgid "Previous Activity"
+#~ msgstr "Activitat anterior"
+
+#~ msgid "Stop Current Activity"
+#~ msgstr "Atura l'activitat actual"
+
+#~ msgid "Add Panel"
+#~ msgstr "Afegeix un plafó"
+
+#~ msgctxt "Default name for a new activity"
+#~ msgid "New Activity"
+#~ msgstr "Activitat nova"
+
+#~ msgid "The KDE desktop, panels and widgets workspace application."
+#~ msgstr ""
+#~ "L'aplicació de l'espai de treball de l'escriptori KDE, els plafons i els "
+#~ "estris."
+
+#~ msgid "Plasma Desktop Shell"
+#~ msgstr "Àrea de treball de l'escriptori Plasma"
+
+#~ msgid "Copyright 2006-2009, The KDE Team"
+#~ msgstr "Copyright 2006-2009, The KDE Team"
+
+#~ msgid "Aaron J. Seigo"
+#~ msgstr "Aaron J. Seigo"
+
+#~ msgid "Author and maintainer"
+#~ msgstr "Autor i mantenidor"
+
+#~ msgid "John Lions"
+#~ msgstr "John Lions"
+
+#~ msgid "In memory of his contributions, 1937-1998."
+#~ msgstr "En memòria de les seves col·laboracions, 1937-1998."
+
+#~ msgid "Panel Alignment"
+#~ msgstr "Alineació del plafó"
+
+#~ msgid "Left"
+#~ msgstr "Esquerra"
+
+#~ msgid "Center"
+#~ msgstr "Centre"
+
+#~ msgid "Right"
+#~ msgstr "Dreta"
+
+#~ msgid "Visibility"
+#~ msgstr "Visibilitat"
+
+#~ msgid "Always visible"
+#~ msgstr "Sempre visible"
+
+#~ msgid "Auto-hide"
+#~ msgstr "Oculta automàticament"
+
+#~ msgid "Windows can cover"
+#~ msgstr "Les finestres el poden tapar"
+
+#~ msgid "Windows go below"
+#~ msgstr "Les finestres van a sota"
+
+#~ msgid "Screen Edge"
+#~ msgstr "Vora de la pantalla"
+
+#~ msgid ""
+#~ "Press left mouse button and drag to a screen edge to change panel edge"
+#~ msgstr ""
+#~ "Premeu el botó esquerre i arrossegueu-lo a una vora de la pantalla per "
+#~ "canviar la vora del plafó"
+
+#~ msgid "Height"
+#~ msgstr "Alçada"
+
+#~ msgid "Press left mouse button and drag vertically to change panel height"
+#~ msgstr ""
+#~ "Premeu el botó esquerre i arrossegueu-lo verticalment canviar l'alçada "
+#~ "del plafó"
+
+#~ msgid "More Settings"
+#~ msgstr "Més paràmetres"
+
+#~ msgid ""
+#~ "Show more options about panel alignment, visibility and other settings"
+#~ msgstr ""
+#~ "Mostra més opcions quan a l'alineació del plafó, la visibilitat i altres "
+#~ "paràmetres"
+
+#~ msgid "Maximize Panel"
+#~ msgstr "Maximitza el plafó"
+
+#~ msgid "Close this configuration window"
+#~ msgstr "Tanca aquesta finestra de configuració"
+
+#~ msgid "Add Spacer"
+#~ msgstr "Afegeix un espaiador"
+
+#~ msgid ""
+#~ "Add a spacer to the panel useful to add some space between two widgets"
+#~ msgstr ""
+#~ "Afegeix un espaiador al plafó. És útil per intercalar espai entre dos "
+#~ "estris"
+
+#~ msgid "Width"
+#~ msgstr "Amplada"
+
+#~ msgid "Top"
+#~ msgstr "Dalt"
+
+#~ msgid "Bottom"
+#~ msgstr "Baix"
+
+#~ msgid "Show Dashboard"
+#~ msgstr "Mostra el tauler"
+
+#~ msgid "Activities..."
+#~ msgstr "Activitats..."
+
+#~ msgctxt "%1 is the activity name"
+#~ msgid "Copy of %1"
+#~ msgstr "Còpia de %1"
+
+#~ msgid ""
+#~ "A new widget has become available on the network:<br><b>%1</b> - <i>%2</i>"
+#~ msgstr ""
+#~ "Un estri nou ha esdevingut disponible en la xarxa:<br><b>%1</b> - <i>%2</"
+#~ "i>"
+
+#~ msgid "Unlock and add to current activity"
+#~ msgstr "Desbloqueja i afegeix a l'activitat actual"
+
+#~ msgid "Add to current activity"
+#~ msgstr "Afegeix a l'activitat actual"
+
+#~ msgid "Run applications"
+#~ msgstr "Executa aplicacions"
+
+#~ msgid "This activity template requests to run the following applications"
+#~ msgstr ""
+#~ "Aquesta plantilla d'activitat sol·licita executar les aplicacions següents"
+
+#~ msgid "Run selected"
+#~ msgstr "Executa les seleccionades"
+
+#~ msgid "Run none"
+#~ msgstr "No executis res"
+
+#~ msgid "Move this slider to set the panel position"
+#~ msgstr "Moveu aquest control lliscant per fixar la posició del plafó"
+
+#~ msgid "Move this slider to set the maximum panel size"
+#~ msgstr "Moveu aquest control lliscant per fixar la mida màxima del plafó"
+
+#~ msgid "Move this slider to set the minimum panel size"
+#~ msgstr "Moveu aquest control lliscant per fixar la mida mínima del plafó"
+
+#~ msgid "Remove activity?"
+#~ msgstr "Elimino l'activitat?"
+
+#~ msgid "Remove"
+#~ msgstr "Elimina"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel·la"
+
+#~ msgid "Accept changes?"
+#~ msgstr "Accepteu els canvis?"
+
+#~ msgid "Apply"
+#~ msgstr "Aplica"
+
+#~ msgid "Configure activity"
+#~ msgstr "Configura l'activitat"
+
+#~ msgid "Stop activity"
+#~ msgstr "Atura l'activitat"
+
+#~ msgid "Start activity"
+#~ msgstr "Inicia l'activitat"
+
+#~ msgid "Enter Search Term"
+#~ msgstr "Introduïu un terme de cerca"
+
+#~ msgid "Create Activity"
+#~ msgstr "Crea una activitat"
+
+#~ msgid "Empty Desktop"
+#~ msgstr "Escriptori buit"
+
+#~ msgid "Clone current activity"
+#~ msgstr "Clona l'activitat actual"

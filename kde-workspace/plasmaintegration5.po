@@ -1,0 +1,155 @@
+# Translation of plasmaintegration5.po to Catalan (Valencian)
+# Copyright (C) 2016-2017 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2016, 2017.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasmaintegration5\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-07-16 03:09+0200\n"
+"PO-Revision-Date: 2019-08-29 13:39+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#: platformtheme/kdeplatformfiledialoghelper.cpp:292
+#, kde-format
+msgctxt "@title:window"
+msgid "Open File"
+msgstr "Obri un fitxer"
+
+#: platformtheme/kdeplatformfiledialoghelper.cpp:292
+#, kde-format
+msgctxt "@title:window"
+msgid "Save File"
+msgstr "Guarda el fitxer"
+
+#: platformtheme/kdeplatformtheme.cpp:281
+#, kde-format
+msgctxt "@action:button"
+msgid "Save All"
+msgstr "Guarda-ho tot"
+
+#: platformtheme/kdeplatformtheme.cpp:287
+#, kde-format
+msgctxt "@action:button"
+msgid "Yes to All"
+msgstr "Sí a tot"
+
+#: platformtheme/kdeplatformtheme.cpp:291
+#, kde-format
+msgctxt "@action:button"
+msgid "No to All"
+msgstr "No a tot"
+
+#: platformtheme/kdeplatformtheme.cpp:294
+#, kde-format
+msgctxt "@action:button"
+msgid "Abort"
+msgstr "Interromp"
+
+#: platformtheme/kdeplatformtheme.cpp:296
+#, kde-format
+msgctxt "@action:button"
+msgid "Retry"
+msgstr "Torna-ho a provar"
+
+#: platformtheme/kdeplatformtheme.cpp:298
+#, kde-format
+msgctxt "@action:button"
+msgid "Ignore"
+msgstr "Ignora"
+
+#: platformtheme/kdirselectdialog.cpp:132
+#, kde-format
+msgctxt "folder name"
+msgid "New Folder"
+msgstr "Carpeta nova"
+
+#: platformtheme/kdirselectdialog.cpp:137
+#, kde-format
+msgctxt "@title:window"
+msgid "New Folder"
+msgstr "Carpeta nova"
+
+#: platformtheme/kdirselectdialog.cpp:138
+#, kde-format
+msgctxt "@label:textbox"
+msgid ""
+"Create new folder in:\n"
+"%1"
+msgstr ""
+"Crea una carpeta nova en:\n"
+"%1"
+
+#: platformtheme/kdirselectdialog.cpp:168
+#, kde-format
+msgid "A file or folder named %1 already exists."
+msgstr "Ja existeix un fitxer o una carpeta anomenats %1."
+
+#: platformtheme/kdirselectdialog.cpp:171
+#, kde-format
+msgid "You do not have permission to create that folder."
+msgstr "No teniu permís per a crear aquesta carpeta."
+
+#: platformtheme/kdirselectdialog.cpp:284
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Folder"
+msgstr "Selecció de carpeta"
+
+#: platformtheme/kdirselectdialog.cpp:293
+#, kde-format
+msgctxt "@action:button"
+msgid "New Folder..."
+msgstr "Carpeta nova..."
+
+#: platformtheme/kdirselectdialog.cpp:339
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Folder..."
+msgstr "Carpeta nova..."
+
+#: platformtheme/kdirselectdialog.cpp:346
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Move to Trash"
+msgstr "Mou a la paperera"
+
+#: platformtheme/kdirselectdialog.cpp:353
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: platformtheme/kdirselectdialog.cpp:362
+#, kde-format
+msgctxt "@option:check"
+msgid "Show Hidden Folders"
+msgstr "Mostra les carpetes ocultes"
+
+#: platformtheme/kdirselectdialog.cpp:369
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Properties"
+msgstr "Propietats"
+
+#: platformtheme/kfiletreeview.cpp:193
+#, kde-format
+msgid "Show Hidden Folders"
+msgstr "Mostra les carpetes ocultes"
+
+#~ msgid "Opening..."
+#~ msgstr "S'està obrint..."
+
+#~ msgid "Saving..."
+#~ msgstr "S'està desant..."
