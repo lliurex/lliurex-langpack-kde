@@ -1,0 +1,99 @@
+# Translation of plasma_applet_org.kde.kdeconnect.po to Catalan (Valencian)
+# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016, 2017, 2018.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018, 2019.
+# empar <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.kdeconnect\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:49+0200\n"
+"PO-Revision-Date: 2019-12-16 12:01+0100\n"
+"Last-Translator: empar <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#: package/contents/ui/Battery.qml:40
+msgid "%1% charging"
+msgstr "Està carregant %1%"
+
+#: package/contents/ui/Battery.qml:40
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/Battery.qml:40
+msgid "No info"
+msgstr "Sense informació"
+
+#: package/contents/ui/DeviceDelegate.qml:65
+msgid "File Transfer"
+msgstr "Transferència de fitxers"
+
+#: package/contents/ui/DeviceDelegate.qml:66
+msgid "Drop a file to transfer it onto your phone."
+msgstr "Deixeu anar un fitxer per a transferir-lo al telèfon."
+
+#: package/contents/ui/DeviceDelegate.qml:88
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: package/contents/ui/DeviceDelegate.qml:105
+msgid "Share file"
+msgstr "Comparteix el fitxer"
+
+#: package/contents/ui/DeviceDelegate.qml:123
+msgid "Ring my phone"
+msgstr "Fes que sone el meu telèfon"
+
+#: package/contents/ui/DeviceDelegate.qml:141
+msgid "Browse this device"
+msgstr "Navega per aquest dispositiu"
+
+#: package/contents/ui/DeviceDelegate.qml:163
+msgid "Remote Keyboard"
+msgstr "Teclat remot"
+
+#: package/contents/ui/DeviceDelegate.qml:179
+msgid "Notifications:"
+msgstr "Notificacions:"
+
+#: package/contents/ui/DeviceDelegate.qml:186
+msgid "Dismiss all notifications"
+msgstr "Descarta totes les notificacions"
+
+#: package/contents/ui/DeviceDelegate.qml:222
+msgid "Reply"
+msgstr "Respon"
+
+#: package/contents/ui/DeviceDelegate.qml:231
+msgid "Dismiss"
+msgstr "Refusa"
+
+#: package/contents/ui/DeviceDelegate.qml:248
+msgid "Run command"
+msgstr "Executa una ordre"
+
+#: package/contents/ui/DeviceDelegate.qml:256
+msgid "Add command"
+msgstr "Afig una ordre"
+
+#: package/contents/ui/DeviceDelegate.qml:285
+msgid "Share text"
+msgstr "Comparteix el text"
+
+#: package/contents/ui/FullRepresentation.qml:35
+msgid "No paired devices available"
+msgstr "No hi ha disponible cap dispositiu emparellat"
+
+#: package/contents/ui/main.qml:62
+msgid "KDE Connect Settings..."
+msgstr "Configuració de KDE Connect..."

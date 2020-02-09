@@ -1,0 +1,1221 @@
+# Translation of kdeplasma-addons._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2008-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018.
+# Joan Maspons <joanmaspons@gmail.com>, 2009.
+# Manuel Tortosa Moreno <manutortosa@gmail.com>, 2009.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-06-10 01:22+0000\n"
+"PO-Revision-Date: 2019-07-09 09:34+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: applets/activitypager/metadata.desktop:2
+msgctxt "Name"
+msgid "Activity Pager"
+msgstr "Paginador d'activitats"
+
+#: applets/activitypager/metadata.desktop:40
+msgctxt "Comment"
+msgid "Switch between activities"
+msgstr "Commuta entre activitats"
+
+#: applets/binary-clock/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Binary Clock"
+msgstr "Rellotge binari"
+
+#: applets/binary-clock/package/metadata.desktop:58
+msgctxt "Comment"
+msgid "Time displayed in binary format"
+msgstr "Mostra l'hora en format binari"
+
+#: applets/calculator/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Calculator"
+msgstr "Calculadora"
+
+#: applets/calculator/package/metadata.desktop:61
+msgctxt "Comment"
+msgid "Calculate simple sums"
+msgstr "Calcula sumes senzilles"
+
+#: applets/colorpicker/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Color Picker"
+msgstr "Selector de color"
+
+#: applets/colorpicker/package/metadata.desktop:62
+msgctxt "Comment"
+msgid "Pick a color from the desktop"
+msgstr "Selecciona un color de l'escriptori"
+
+#: applets/comic/comic.knsrc:2
+msgctxt "Name"
+msgid "Comics"
+msgstr "Còmics"
+
+#: applets/comic/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Comic Strip"
+msgstr "Tira còmica"
+
+#: applets/comic/package/metadata.desktop:58
+msgctxt "Comment"
+msgid "View comic strips from the Internet"
+msgstr "Mostra una tira còmica des d'Internet"
+
+#: applets/dict/package/metadata.desktop:2
+#: runners/dictionary/plasma-runner-dictionary_config.desktop:9
+#: runners/dictionary/plasma-runner-dictionary.desktop:2
+msgctxt "Name"
+msgid "Dictionary"
+msgstr "Diccionari"
+
+#: applets/dict/package/metadata.desktop:63
+msgctxt "Comment"
+msgid ""
+"Look up the meaning of words and their translation into different languages"
+msgstr ""
+"Busca el significat de paraules i la seua traducció en diferents idiomes"
+
+#: applets/diskquota/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Disk Quota"
+msgstr "Quota de disc"
+
+#: applets/diskquota/package/metadata.desktop:41
+msgctxt "Comment"
+msgid "Shows details about disk quota"
+msgstr "Mostra els detalls de la quota de disc"
+
+#: applets/fifteenPuzzle/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fifteen Puzzle"
+msgstr "Trencaclosques quinze"
+
+#: applets/fifteenPuzzle/package/metadata.desktop:58
+msgctxt "Comment"
+msgid "Put the pieces in order"
+msgstr "Poseu les peces en ordre"
+
+#: applets/fuzzy-clock/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fuzzy Clock"
+msgstr "Rellotge difús"
+
+#: applets/fuzzy-clock/package/metadata.desktop:58
+msgctxt "Comment"
+msgid "Time displayed in a less precise format"
+msgstr "Mostra l'hora en un format aproximat"
+
+#: applets/grouping/container/package/metadata.desktop:2
+#: applets/grouping/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Grouping Plasmoid"
+msgstr "Plasmoide d'agrupació"
+
+#: applets/grouping/container/package/metadata.desktop:39
+#: applets/grouping/package/metadata.desktop:39
+msgctxt "Comment"
+msgid "Group Plasma widgets together"
+msgstr "Agrupa els ginys («widgets») de Plasma"
+
+#: applets/keyboardindicator/metadata.desktop:2
+msgctxt "Name"
+msgid "Keyboard Indicator"
+msgstr "Indicador de teclat"
+
+#: applets/keyboardindicator/metadata.desktop:32
+msgctxt "Comment"
+msgid "Shows the state of the keyboard"
+msgstr "Mostra l'estat del teclat"
+
+#: applets/kickerdash/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Dashboard"
+msgstr "Tauler d'aplicacions"
+
+#: applets/kickerdash/metadata.desktop:42
+msgctxt "Comment"
+msgid "A fullscreen application launcher"
+msgstr "Un llançador d'aplicacions a pantalla completa"
+
+#: applets/konsoleprofiles/package/metadata.desktop:2
+#: dataengines/konsoleprofiles/plasma-dataengine-konsoleprofiles.desktop:2
+#: runners/konsoleprofiles/plasma-runner-konsoleprofiles.desktop:2
+msgctxt "Name"
+msgid "Konsole Profiles"
+msgstr "Perfils de Konsole"
+
+#: applets/konsoleprofiles/package/metadata.desktop:58
+#: dataengines/konsoleprofiles/plasma-dataengine-konsoleprofiles.desktop:58
+msgctxt "Comment"
+msgid "List and launch Konsole profiles"
+msgstr "Llista i llança els perfils de Konsole"
+
+#: applets/mediaframe/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Media Frame"
+msgstr "Marc multimèdia"
+
+#: applets/mediaframe/package/metadata.desktop:32
+msgctxt "Comment"
+msgid "(Picture) Frame"
+msgstr "Marc (fotografies)"
+
+#: applets/notes/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Notes"
+msgstr "Notes"
+
+#: applets/notes/package/metadata.desktop:64
+msgctxt "Comment"
+msgid "Desktop sticky notes"
+msgstr "Notes adhesives per a l'escriptori"
+
+#: applets/quicklaunch/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Quicklaunch"
+msgstr "Quicklaunch"
+
+#: applets/quicklaunch/package/metadata.desktop:42
+msgctxt "Comment"
+msgid "Launch your favourite Applications"
+msgstr "Llança les vostres aplicacions preferides"
+
+#: applets/quickshare/plasmoid/metadata.desktop:2
+msgctxt "Name"
+msgid "Quick Share"
+msgstr "Comparteix ràpidament"
+
+#: applets/quickshare/plasmoid/metadata.desktop:44
+msgctxt "Comment"
+msgid "Paste text/images to a remote server"
+msgstr "Apega text/imatges en un servidor remot"
+
+#: applets/systemloadviewer/package/metadata.desktop:2
+msgctxt "Name"
+msgid "System Load Viewer"
+msgstr "Visor de la càrrega del sistema"
+
+#: applets/systemloadviewer/package/metadata.desktop:58
+msgctxt "Comment"
+msgid "Tiny CPU/RAM/Swap monitor"
+msgstr "Xicotet monitor de la CPU/RAM/Memòria d'intercanvi"
+
+#: applets/timer/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Timer"
+msgstr "Temporitzador"
+
+#: applets/timer/package/metadata.desktop:60
+msgctxt "Comment"
+msgid "Countdown over a specified time period"
+msgstr "Compte arrere durant un període de temps especificat"
+
+#: applets/userswitcher/package/metadata.desktop:2
+msgctxt "Name"
+msgid "User Switcher"
+msgstr "Commutador d'usuaris"
+
+#: applets/userswitcher/package/metadata.desktop:40
+msgctxt "Comment"
+msgid "Quickly switch between different users"
+msgstr "Commuta ràpidament entre diferents usuaris"
+
+#: applets/weather/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Weather Report"
+msgstr "Informe meteorològic"
+
+#: applets/weather/package/metadata.desktop:32
+msgctxt "Comment"
+msgid "Forecast and current conditions"
+msgstr "Previsió i condicions actuals"
+
+#: applets/webbrowser/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Web browser"
+msgstr "Navegador web"
+
+#: applets/webbrowser/package/metadata.desktop:42
+msgctxt "Comment"
+msgid "Add a webpage on your desktop."
+msgstr "Afig una pàgina web a l'escriptori."
+
+#: dataengines/comic/plasma_comicprovider.desktop:4
+msgctxt "Comment"
+msgid "Plugin for Plasma Comic Engine"
+msgstr "Connector per al motor de còmics del plasma"
+
+#: dataengines/comic/plasma-dataengine-comic.desktop:2
+msgctxt "Name"
+msgid "Comic Strips"
+msgstr "Tires còmiques"
+
+#: dataengines/comic/plasma-dataengine-comic.desktop:57
+msgctxt "Comment"
+msgid "Online comic strips"
+msgstr "Tires còmiques en línia"
+
+#: dataengines/comic/plasma-packagestructure-comic.desktop:2
+msgctxt "Name"
+msgid "Comic"
+msgstr "Còmic"
+
+#: dataengines/comic/plasma-packagestructure-comic.desktop:58
+msgctxt "Comment"
+msgid "Comic Package Structure"
+msgstr "Estructura de paquet de còmic"
+
+#: dataengines/potd/plasma-dataengine-potd.desktop:2
+#: wallpapers/potd/metadata.desktop:2
+msgctxt "Name"
+msgid "Picture of the Day"
+msgstr "Imatge del dia"
+
+#: dataengines/potd/plasma-dataengine-potd.desktop:55
+msgctxt "Comment"
+msgid "Data Engine for getting various online Pictures of The Day."
+msgstr "Motor de dades per a accedir a diverses «imatges del dia» en línia."
+
+#: dataengines/potd/plasma_potdprovider.desktop:4
+msgctxt "Comment"
+msgid "Plugin for Plasma PoTD Engine"
+msgstr "Connector per al motor PoTD del plasma"
+
+#: desktopswitchers/previews/metadata.desktop:2
+msgctxt "Name"
+msgid "Previews"
+msgstr "Vistes prèvies"
+
+#: desktopswitchers/previews/metadata.desktop:42
+msgctxt "Comment"
+msgid "A desktop switcher layout with previews of the desktops"
+msgstr ""
+"Una disposició del commutador d'escriptori amb vistes prèvies dels "
+"escriptoris"
+
+#: runners/characters/plasma-runner-character_config.desktop:2
+msgctxt "Name"
+msgid "special Characters"
+msgstr "Caràcters especials"
+
+#: runners/characters/plasma-runner-character.desktop:2
+msgctxt "Name"
+msgid "Special Characters"
+msgstr "Caràcters especials"
+
+#: runners/characters/plasma-runner-character.desktop:56
+msgctxt "Comment"
+msgid "Creates special characters from their hexadecimal codes"
+msgstr "Crea caràcters especials a partir dels seus codis hexadecimals"
+
+#: runners/converter/plasma-runner-converter.desktop:2
+msgctxt "Name"
+msgid "Unit Converter"
+msgstr "Convertidor d'unitats"
+
+#: runners/converter/plasma-runner-converter.desktop:60
+msgctxt "Comment"
+msgid "Convert values to different units"
+msgstr "Converteix valors a diferents unitats"
+
+#: runners/datetime/plasma-runner-datetime.desktop:2
+msgctxt "Name"
+msgid "Date and Time"
+msgstr "Data i hora"
+
+#: runners/datetime/plasma-runner-datetime.desktop:58
+msgctxt "Comment"
+msgid "The current date and time, locally or in any timezone"
+msgstr "La data i l'hora actuals, localment o en qualsevol zona horària"
+
+#: runners/dictionary/plasma-runner-dictionary_config.desktop:70
+#: runners/dictionary/plasma-runner-dictionary.desktop:63
+msgctxt "Comment"
+msgid "Define words"
+msgstr "Defineix mots"
+
+#: runners/katesessions/plasma-runner-katesessions.desktop:2
+msgctxt "Name"
+msgid "Kate Sessions"
+msgstr "Sessions de Kate"
+
+#: runners/katesessions/plasma-runner-katesessions.desktop:58
+msgctxt "Comment"
+msgid "Matches Kate Sessions"
+msgstr "Correspon amb sessions de Kate"
+
+#: runners/konsoleprofiles/plasma-runner-konsoleprofiles.desktop:58
+msgctxt "Comment"
+msgid "Matches Konsole Profiles"
+msgstr "Correspon amb perfils de Konsole"
+
+#: runners/mediawiki/plasma-runner-techbase.desktop:2
+msgctxt "Name"
+msgid "TechBase"
+msgstr "TechBase"
+
+#: runners/mediawiki/plasma-runner-techbase.desktop:51
+msgctxt "Comment"
+msgid "Search on KDE's TechBase"
+msgstr "Busca en la TechBase de KDE"
+
+#: runners/mediawiki/plasma-runner-userbase.desktop:2
+msgctxt "Name"
+msgid "KDE Documentation"
+msgstr "Documentació de KDE"
+
+#: runners/mediawiki/plasma-runner-userbase.desktop:55
+msgctxt "Comment"
+msgid "Search on KDE's Userbase"
+msgstr "Busca en la Userbase de KDE"
+
+#: runners/mediawiki/plasma-runner-wikipedia.desktop:2
+msgctxt "Name"
+msgid "Wikipedia"
+msgstr "Viquipèdia"
+
+#: runners/mediawiki/plasma-runner-wikipedia.desktop:56
+msgctxt "Comment"
+msgid "Search on Wikipedia"
+msgstr "Busca en la Viquipèdia"
+
+#: runners/mediawiki/plasma-runner-wikitravel.desktop:2
+msgctxt "Name"
+msgid "Wikitravel"
+msgstr "Wikitravel"
+
+#: runners/mediawiki/plasma-runner-wikitravel.desktop:53
+msgctxt "Comment"
+msgid "Search on Wikitravel"
+msgstr "Busca en Wikitravel"
+
+#: runners/spellchecker/plasma-runner-spellchecker_config.desktop:9
+msgctxt "Name"
+msgid "Spell Checker Runner"
+msgstr "Executor del corrector ortogràfic"
+
+#: runners/spellchecker/plasma-runner-spellchecker.desktop:2
+msgctxt "Name"
+msgid "Spell Checker"
+msgstr "Corrector ortogràfic"
+
+#: runners/spellchecker/plasma-runner-spellchecker.desktop:54
+msgctxt "Comment"
+msgid "Check the spelling of a word"
+msgstr "Comprova l'ortografia d'una paraula"
+
+#: wallpapers/haenau/metadata.desktop:2
+msgctxt "Name"
+msgid "Haenau"
+msgstr "Haenau"
+
+#: wallpapers/haenau/metadata.desktop:46
+msgctxt "Comment"
+msgid "Haenau wallpaper"
+msgstr "Fons de pantalla Haenau"
+
+#: wallpapers/hunyango/metadata.desktop:2
+msgctxt "Name"
+msgid "Hunyango"
+msgstr "Hunyango"
+
+#: wallpapers/hunyango/metadata.desktop:46
+msgctxt "Comment"
+msgid "Hunyango wallpaper"
+msgstr "Fons de pantalla Hunyango"
+
+#: wallpapers/potd/metadata.desktop:55
+msgctxt "Comment"
+msgid "A new picture from the Internet each day"
+msgstr "Una imatge nova des d'Internet cada dia"
+
+#: windowswitchers/big_icons/metadata.desktop:2
+msgctxt "Name"
+msgid "Large Icons"
+msgstr "Icones grans"
+
+#: windowswitchers/big_icons/metadata.desktop:42
+msgctxt "Comment"
+msgid "A window switcher layout using large icons to represent the window"
+msgstr ""
+"Una disposició del commutador de finestres que utilitza icones grans per a "
+"representar la finestra"
+
+#: windowswitchers/compact/metadata.desktop:2
+msgctxt "Name"
+msgid "Compact"
+msgstr "Compacte"
+
+#: windowswitchers/compact/metadata.desktop:42
+msgctxt "Comment"
+msgid "A compact window switcher layout"
+msgstr "Una disposició del commutador de finestres compacta"
+
+#: windowswitchers/informative/metadata.desktop:2
+msgctxt "Name"
+msgid "Informative"
+msgstr "Informativa"
+
+#: windowswitchers/informative/metadata.desktop:42
+msgctxt "Comment"
+msgid "An informative window switcher layout including desktop name"
+msgstr ""
+"Una disposició del commutador de finestres informativa que inclou el nom "
+"d'escriptori"
+
+#: windowswitchers/present_windows/metadata.desktop:2
+msgctxt "Name"
+msgid "Grid"
+msgstr "Quadrícula"
+
+#: windowswitchers/present_windows/metadata.desktop:42
+msgctxt "Comment"
+msgid "A Window Switcher layout showing all windows as thumbnails in a grid"
+msgstr ""
+"Una disposició del commutador de finestres que mostra totes les finestres "
+"com a miniatures en una quadrícula"
+
+#: windowswitchers/small_icons/metadata.desktop:2
+msgctxt "Name"
+msgid "Small Icons"
+msgstr "Icones xicotetes"
+
+#: windowswitchers/small_icons/metadata.desktop:42
+msgctxt "Comment"
+msgid "A window switcher layout using small icons to represent the window"
+msgstr ""
+"Una disposició del commutador de finestres que utilitza icones xicotetes per "
+"a representar la finestra"
+
+#: windowswitchers/text/metadata.desktop:2
+msgctxt "Name"
+msgid "Text Only"
+msgstr "Només el text"
+
+#: windowswitchers/text/metadata.desktop:42
+msgctxt "Comment"
+msgid "A window switcher layout only showing window captions"
+msgstr ""
+"Una disposició del commutador de finestres que només mostra els títols de "
+"les finestres"
+
+#: windowswitchers/thumbnails/metadata.desktop:2
+msgctxt "Name"
+msgid "Thumbnails"
+msgstr "Miniatures"
+
+#: windowswitchers/thumbnails/metadata.desktop:42
+msgctxt "Comment"
+msgid "A window switcher layout using live thumbnails"
+msgstr ""
+"Una disposició del commutador de finestres que utilitza miniatures animades"
+
+#~ msgctxt "Name"
+#~ msgid "Minimize all Windows"
+#~ msgstr "Minimitza totes les finestres"
+
+#~ msgctxt "Comment"
+#~ msgid "Shows the desktop by minimizing all windows"
+#~ msgstr "Mostra l'escriptori minimitzant totes les finestres"
+
+#~ msgctxt "Name"
+#~ msgid "Show Desktop"
+#~ msgstr "Mostra l'escriptori"
+
+#~ msgctxt "Comment"
+#~ msgid "Show the Plasma desktop"
+#~ msgstr "Mostra l'escriptori Plasma"
+
+#~ msgctxt "Comment"
+#~ msgid "Find out weather for today"
+#~ msgstr "Descobreix la meteorologia per avui"
+
+#~ msgctxt "Name"
+#~ msgid "Astronomy Picture of the Day"
+#~ msgstr "Imatge astronòmica del dia"
+
+#~ msgctxt "Comment"
+#~ msgid "Apod Provider"
+#~ msgstr "Proveïdor Apod"
+
+#~ msgctxt "Name"
+#~ msgid "Bing's Picture of the Day"
+#~ msgstr "Imatge del dia del Bing"
+
+#~ msgctxt "Comment"
+#~ msgid "Bing Provider"
+#~ msgstr "Proveïdor Bing"
+
+#~ msgctxt "Name"
+#~ msgid "Earth Science Picture of the Day"
+#~ msgstr "Imatge de ciències terràqüies del dia"
+
+#~ msgctxt "Comment"
+#~ msgid "Epod Provider"
+#~ msgstr "Proveïdor Epod"
+
+#~ msgctxt "Name"
+#~ msgid "Flickr Picture of the Day"
+#~ msgstr "Imatge Flickr del dia"
+
+#~ msgctxt "Comment"
+#~ msgid "Flickr Provider"
+#~ msgstr "Proveïdor Flickr"
+
+#~ msgctxt "Name"
+#~ msgid "National Geographic"
+#~ msgstr "National Geographic"
+
+#~ msgctxt "Name"
+#~ msgid "NOAA Environmental Visualization Laboratory Picture of the Day"
+#~ msgstr "Imatge del dia del NOAA Environmental Visualization Laboratory"
+
+#~ msgctxt "Comment"
+#~ msgid "NOAA Provider"
+#~ msgstr "Proveïdor NOAA"
+
+#~ msgctxt "Name"
+#~ msgid "Wikimedia Picture of the Day"
+#~ msgstr "Imatge Wikimedia del dia"
+
+#~ msgctxt "Comment"
+#~ msgid "Wcpotd Provider"
+#~ msgstr "Proveïdor Wcpotd"
+
+#~ msgctxt "Name"
+#~ msgid "Konsole Sessions"
+#~ msgstr "Sessions del Konsole"
+
+#~ msgctxt "Comment"
+#~ msgid "Matches Konsole Sessions"
+#~ msgstr "Correspon amb sessions del Konsole"
+
+#~ msgctxt "Name"
+#~ msgid "Black Board"
+#~ msgstr "Pissarra"
+
+#~ msgctxt "Comment"
+#~ msgid "Draw a quick note or a colorful image"
+#~ msgstr "Per dibuixar una nota ràpida o una imatge a tot color"
+
+#~ msgctxt "Name"
+#~ msgid "Bookmarks"
+#~ msgstr "Adreces d'interès"
+
+#~ msgctxt "Comment"
+#~ msgid "Quick Access to the Bookmarks"
+#~ msgstr "Accés ràpid a les adreces d'interès"
+
+#~ msgctxt "Name"
+#~ msgid "Bubblemon"
+#~ msgstr "Monitor bombolla"
+
+#~ msgctxt "Comment"
+#~ msgid "A pretty bubble that monitors your system"
+#~ msgstr "Una bombolla graciosa que vigila el sistema"
+
+#~ msgctxt "Name"
+#~ msgid "Character Selector"
+#~ msgstr "Selector de caràcters"
+
+#~ msgctxt "Comment"
+#~ msgid "View, select, and copy characters from a font collection"
+#~ msgstr ""
+#~ "Mostra, selecciona i copia caràcters d'una col·lecció de tipus de lletra"
+
+#~ msgctxt "Name"
+#~ msgid "Eyes"
+#~ msgstr "Ulls"
+
+#~ msgctxt "Comment"
+#~ msgid "XEyes clone"
+#~ msgstr "Clon del XEyes"
+
+#~ msgctxt "Name"
+#~ msgid "File Watcher"
+#~ msgstr "Vigilant de fitxers"
+
+#~ msgctxt "Comment"
+#~ msgid "Watch for changes in specified files"
+#~ msgstr "Vigila de canvis en els fitxers especificats"
+
+#~ msgctxt "Name"
+#~ msgid "Picture Frame"
+#~ msgstr "Marc de fotografies"
+
+#~ msgctxt "Comment"
+#~ msgid "Display your favorite pictures"
+#~ msgstr "Mostra les fotografies preferides"
+
+#~ msgctxt "Name"
+#~ msgid "Incoming Message"
+#~ msgstr "Missatge entrant"
+
+#~ msgctxt "Comment"
+#~ msgid "Notification of new messages"
+#~ msgstr "Notificació de missatges nous"
+
+#~ msgctxt "Name"
+#~ msgid "KnowledgeBase"
+#~ msgstr "KnowledgeBase"
+
+#~ msgctxt "Comment"
+#~ msgid "Opendesktop Knowledgebase"
+#~ msgstr "Knowledgebase Opendesktop"
+
+#~ msgctxt "Name"
+#~ msgid "Konqueror Profiles"
+#~ msgstr "Perfils del Konqueror"
+
+#~ msgctxt "Comment"
+#~ msgid "List and launch Konqueror profiles"
+#~ msgstr "Llista i llança els perfils del Konqueror"
+
+#~ msgctxt "Name"
+#~ msgid "Leave A Note"
+#~ msgstr "Deixa una nota"
+
+#~ msgctxt "Comment"
+#~ msgid "Leave notes for users while they are away"
+#~ msgstr "Deixa notes pels usuaris que no hi són"
+
+#~ msgctxt "Name"
+#~ msgid "Life"
+#~ msgstr "Vida"
+
+#~ msgctxt "Comment"
+#~ msgid "Conway's Game of Life applet"
+#~ msgstr "Miniaplicació del joc de la vida de Conway"
+
+#~ msgctxt "Name"
+#~ msgid "Magnifique"
+#~ msgstr "Magnifique"
+
+#~ msgctxt "Comment"
+#~ msgid "A magnification glass for the Plasma desktop"
+#~ msgstr "Una lent d'augment per l'escriptori Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Media Player"
+#~ msgstr "Reproductor multimèdia"
+
+#~ msgctxt "Comment"
+#~ msgid "Widget that can play video and sound"
+#~ msgstr "Estri que permet reproduir vídeos i so."
+
+#~ msgctxt "Name"
+#~ msgid "Microblogging"
+#~ msgstr "Microblogs"
+
+#~ msgctxt "Comment"
+#~ msgid "Update and view your microblog status."
+#~ msgstr "Actualitza i mostra l'estat del vostre microblog."
+
+#~ msgctxt "Keywords"
+#~ msgid "identi.ca;twitter;"
+#~ msgstr "identi.ca;twitter;"
+
+#~ msgctxt "Name"
+#~ msgid "News"
+#~ msgstr "Notícies"
+
+#~ msgctxt "Comment"
+#~ msgid "Show news from various sources"
+#~ msgstr "Mostra les notícies de diverses fonts"
+
+#~ msgctxt "Comment"
+#~ msgid "A virtual, on-screen keyboard"
+#~ msgstr "Un teclat virtual de pantalla"
+
+#~ msgctxt "Name"
+#~ msgid "Previewer"
+#~ msgstr "Previsualitzador"
+
+#~ msgctxt "Comment"
+#~ msgid "Quickly preview a variety of files"
+#~ msgstr "Vista prèvia ràpida d'una varietat de fitxers"
+
+#~ msgctxt "Name"
+#~ msgid "Preview This File"
+#~ msgstr "Vista prèvia d'aquest fitxer"
+
+#~ msgctxt "Name"
+#~ msgid "Qalculate!"
+#~ msgstr "Qalculate!"
+
+#~ msgctxt "Comment"
+#~ msgid "A powerful mathematical equation solver"
+#~ msgstr "Una calculadora potent d'equacions matemàtiques"
+
+#~ msgctxt "Name"
+#~ msgid "RSSNOW"
+#~ msgstr "RSSNOW"
+
+#~ msgctxt "Name"
+#~ msgid "Spell Check"
+#~ msgstr "Verificació de l'ortografia"
+
+#~ msgctxt "Comment"
+#~ msgid "Fast spell checking"
+#~ msgstr "Verificació ortogràfica ràpida"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasmoid for converting units"
+#~ msgstr "Plasmoide per convertir unitats"
+
+#~ msgctxt "Name"
+#~ msgid "LCD Weather Station (QML)"
+#~ msgstr "Estació meteorològica LCD (QML)"
+
+#~ msgctxt "Name"
+#~ msgid "LCD Weather Station"
+#~ msgstr "Estació meteorològica LCD"
+
+#~ msgctxt "Comment"
+#~ msgid "Weather reports with an LCD display style"
+#~ msgstr "Informes meteorològics en una pantalla d'estil LCD"
+
+#~ msgctxt "Name"
+#~ msgid "Web Slice"
+#~ msgstr "Lliscador Web"
+
+#~ msgctxt "Comment"
+#~ msgid "Show a part of a webpage"
+#~ msgstr "Mostra una part d'una pàgina web"
+
+#~ msgctxt "Name"
+#~ msgid "Grouping Desktop"
+#~ msgstr "Escriptori agrupat"
+
+#~ msgctxt "Name"
+#~ msgid "Grid Desktop"
+#~ msgstr "Escriptori en graella"
+
+#~ msgctxt "Name"
+#~ msgid "Grouping Panel"
+#~ msgstr "Plafó agrupat"
+
+#~ msgctxt "Comment"
+#~ msgid "identi.ca and twitter micro-blogging services"
+#~ msgstr "Serveis de microblogs identi.ca i twitter"
+
+#~ msgctxt "Name"
+#~ msgid "Web Browser History"
+#~ msgstr "Historial del navegador web"
+
+#~ msgctxt "Comment"
+#~ msgid "Searches in Konqueror's history"
+#~ msgstr "Cerques a l'historial del Konqueror"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar Events"
+#~ msgstr "Esdeveniments del calendari"
+
+#~ msgctxt "Comment"
+#~ msgid "Calendar Events runner"
+#~ msgstr "Executor d'esdeveniments de calendari"
+
+#~ msgctxt "Name"
+#~ msgid "Konqueror Sessions"
+#~ msgstr "Sessions del Konqueror"
+
+#~ msgctxt "Comment"
+#~ msgid "Matches Konqueror Sessions"
+#~ msgstr "Correspon amb sessions del Konqueror"
+
+#~ msgctxt "Name"
+#~ msgid "Kopete Contacts"
+#~ msgstr "Contactes del Kopete"
+
+#~ msgctxt "Comment"
+#~ msgid "Search contacts from Kopete"
+#~ msgstr "Cerca contactes del Kopete"
+
+#~ msgctxt "Name"
+#~ msgid "Translator"
+#~ msgstr "Traductor"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Translates into any language using Google Translate. For list of "
+#~ "supported languages visit https://developers.google.com/translate/v2/"
+#~ "using_rest?hl=de#language-params"
+#~ msgstr ""
+#~ "Tradueix a qualsevol idioma usant el Google Translate. Per a la llista "
+#~ "d'idiomes acceptats visiteu https://developers.google.com/translate/v2/"
+#~ "using_rest?hl=de#language-params"
+
+#~ msgctxt "Name"
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgctxt "Comment"
+#~ msgid "Matches YouTube queries"
+#~ msgstr "Correspon amb consultes a YouTube"
+
+#~ msgctxt "Name"
+#~ msgid "Ascii Animals"
+#~ msgstr "Animals ASCII"
+
+#~ msgctxt "Comment"
+#~ msgid "Unsure if cute or just nerdy"
+#~ msgstr "No se sap si és bonic o només setciències"
+
+#~ msgctxt "Name"
+#~ msgid "Contacts"
+#~ msgstr "Contactes"
+
+#~ msgctxt "Comment"
+#~ msgid "Finds entries in your address book"
+#~ msgstr "Cerca entrades a la llibreta d'adreces"
+
+#~ msgctxt "Name"
+#~ msgid "Luna"
+#~ msgstr "Lluna"
+
+#~ msgctxt "Comment"
+#~ msgid "Display moon phases for your location"
+#~ msgstr "Mostra les fases de la lluna per a la vostra ubicació"
+
+#~ msgctxt "Name"
+#~ msgid "Lancelot Launcher"
+#~ msgstr "Llançador Lancelot"
+
+#~ msgctxt "Comment"
+#~ msgid "Launcher to start applications"
+#~ msgstr "Llançador per a iniciar aplicacions"
+
+#~ msgctxt "Name"
+#~ msgid "Lancelot"
+#~ msgstr "Lancelot"
+
+#~ msgctxt "Comment"
+#~ msgid "Lancelot Menu"
+#~ msgstr "Menú del Lancelot"
+
+#~ msgctxt "Name"
+#~ msgid "Usage logging is activated"
+#~ msgstr "El registre d'ús està activat"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Shown only on first launch. Notifies that the usage logging is turned "
+#~ "'on'."
+#~ msgstr ""
+#~ "Només es mostra en el primer llançament. Notifica que el registre d'ús "
+#~ "està «activat»."
+
+#~ msgctxt "Name"
+#~ msgid "Error opening the log"
+#~ msgstr "Hi ha hagut un error en obrir el registre"
+
+#~ msgctxt "Comment"
+#~ msgid "Failed to open the log file."
+#~ msgstr "No s'ha pogut obrir el fitxer de registre."
+
+#~ msgctxt "Name"
+#~ msgid "Shelf"
+#~ msgstr "Shelf"
+
+#~ msgctxt "Name"
+#~ msgid "Control audio player"
+#~ msgstr "Controlador del reproductor d'àudio"
+
+#~ msgctxt "Name"
+#~ msgid "Control Audio Player"
+#~ msgstr "Control del reproductor d'àudio"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Allows to control MPRIS audio players (it is able to search through "
+#~ "Amarok's collection, too)"
+#~ msgstr ""
+#~ "Permet controlar reproductors d'àudio MPRIS (també permet cercar a la "
+#~ "col·lecció de l'Amarok)"
+
+#~ msgctxt "Name"
+#~ msgid "Operational Significant Event Imagery Picture of the Day"
+#~ msgstr "Imatge operacional d'esdeveniment rellevant del dia"
+
+#~ msgctxt "Name"
+#~ msgid "Weather Forecast (QML)"
+#~ msgstr "Previsió meteorològica (QML)"
+
+#~ msgctxt "Comment"
+#~ msgid "Displays Weather information"
+#~ msgstr "Mostra informació meteorològica"
+
+#~ msgctxt "Name"
+#~ msgid "Input Method Panel"
+#~ msgstr "Plafó del mètode d'entrada"
+
+#~ msgctxt "Comment"
+#~ msgid "A generic input method panel"
+#~ msgstr "Un plafó pel mètode d'entrada genèric"
+
+#~ msgctxt "Keywords"
+#~ msgid "Input;IM;"
+#~ msgstr "Entrada;MI;"
+
+#~ msgctxt "Name"
+#~ msgid "DataEngine for Kimpanel"
+#~ msgstr "Motor de dades pel Kimpanel"
+
+#~ msgctxt "Comment"
+#~ msgid "DataEngine for Kimpanel"
+#~ msgstr "Motor de dades pel Kimpanel"
+
+#~ msgctxt "Name"
+#~ msgid "Show Widget Dashboard"
+#~ msgstr "Mostra el tauler d'estris"
+
+#~ msgctxt "Comment"
+#~ msgid "Show the Plasma widget dashboard above other windows"
+#~ msgstr ""
+#~ "Mostra el tauler d'estris del Plasma per sobre de les altres finestres"
+
+#~ msgctxt "Name"
+#~ msgid "Bouncy Ball"
+#~ msgstr "Una pilota que bota"
+
+#~ msgctxt "Comment"
+#~ msgid "A bouncy ball for plasma"
+#~ msgstr "Una pilota que bota per al plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Community"
+#~ msgstr "Comunitat"
+
+#~ msgctxt "Comment"
+#~ msgid "Communicate using the Social Desktop"
+#~ msgstr "Comuniqueu-vos usant l'escriptori social"
+
+#~ msgctxt "Keywords"
+#~ msgid "Utilities;"
+#~ msgstr "Utilitats;"
+
+#~ msgctxt "Name"
+#~ msgid "Icon-Only Task Manager"
+#~ msgstr "Gestor de tasques de només icones"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Observatory"
+#~ msgstr "Observatori KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "Visualize the KDE ecosystem"
+#~ msgstr "Visualitzeu l'ecosistema KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Now Playing"
+#~ msgstr "Ara s'està escoltant"
+
+#~ msgctxt "Comment"
+#~ msgid "Displays currently playing audio"
+#~ msgstr "Mostra la reproducció d'àudio actual"
+
+#~ msgctxt "Name"
+#~ msgid "Pastebin"
+#~ msgstr "Pastebin"
+
+#~ msgctxt "Comment"
+#~ msgid "Pastebin Widget"
+#~ msgstr "Estri Pastebin"
+
+#~ msgctxt "Name"
+#~ msgid "Copied pastebin link"
+#~ msgstr "Enllaç pastebin copiat"
+
+#~ msgctxt "Comment"
+#~ msgid "The pastebin URL has been copied to the clipboard"
+#~ msgstr "S'ha copiat l'URL de pastebin al porta-retalls"
+
+#~ msgctxt "Name"
+#~ msgid "Paste"
+#~ msgstr "Enganxa"
+
+#~ msgctxt "Comment"
+#~ msgid "Paste text snippets"
+#~ msgstr "Enganxa retalls de text"
+
+#~ msgctxt "Name"
+#~ msgid "Remember The Milk"
+#~ msgstr "Remember The Milk"
+
+#~ msgctxt "Comment"
+#~ msgid "Remember The Milk Todo list applet"
+#~ msgstr ""
+#~ "Miniaplicació per a la llista de coses pendents de «Remember The Milk»"
+
+#~ msgctxt "Name"
+#~ msgid "Social News"
+#~ msgstr "Notícies socials"
+
+#~ msgctxt "Comment"
+#~ msgid "Stay informed with the Social Desktop"
+#~ msgstr "Mantingueu-vos informat amb l'escriptori social"
+
+#~ msgctxt "Comment"
+#~ msgid "OpenDesktop Activities Widget"
+#~ msgstr "Estri d'activitats OpenDesktop"
+
+#~ msgctxt "Comment"
+#~ msgid "Something interesting has happened in your friends network"
+#~ msgstr "Ha succeït alguna cosa interessant en la xarxa dels vostres amics"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Commits Engine"
+#~ msgstr "Motor de «commits» del KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "A Data Engine for acquiring consolidated data about KDE SVN Commits"
+#~ msgstr ""
+#~ "Un motor de dades de captura de dades consolidades quant als «commits» en "
+#~ "el SVN del KDE"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Observatory Data Engine"
+#~ msgstr "Motor de dades de l'observatori del KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "A Data Engine for acquiring consolidated data about KDE projects"
+#~ msgstr ""
+#~ "Un motor de dades de captura de dades consolidades quant als projectes "
+#~ "del KDE"
+
+#~ msgctxt "Name"
+#~ msgid "Open Collaboration Services"
+#~ msgstr "Serveis «Open Collaboration»"
+
+#~ msgctxt "Name"
+#~ msgid "Remember The Milk Engine"
+#~ msgstr "Motor per «Remember The Milk»"
+
+#~ msgctxt "Comment"
+#~ msgid "An engine to work with Remember the Milk."
+#~ msgstr "Un motor per treballar amb «Remember The Milk»."
+
+#~ msgctxt "Name"
+#~ msgid "Mandelbrot"
+#~ msgstr "Mandelbrot"
+
+#~ msgctxt "Comment"
+#~ msgid "Explore a classic fractal design"
+#~ msgstr "Explora un disseny fractal clàssic"
+
+#~ msgctxt "Name"
+#~ msgid "Globe"
+#~ msgstr "Globus"
+
+#~ msgctxt "Comment"
+#~ msgid "An interactive map of the world"
+#~ msgstr "Un mapa interactiu del món"
+
+#~ msgctxt "Comment"
+#~ msgid "Digital Bees"
+#~ msgstr "Abelles digitals"
+
+#~ msgctxt "Comment"
+#~ msgid "Celtic Knot"
+#~ msgstr "Escut cèltic"
+
+#~ msgctxt "Comment"
+#~ msgid "Eastern Blues"
+#~ msgstr "Blaus orientals"
+
+#~ msgctxt "Comment"
+#~ msgid "Fish Net"
+#~ msgstr "Xarxa de peix"
+
+#~ msgctxt "Comment"
+#~ msgid "Flowers"
+#~ msgstr "Flors"
+
+#~ msgctxt "Comment"
+#~ msgid "Clearly French"
+#~ msgstr "Evidentment francès"
+
+#~ msgctxt "Comment"
+#~ msgid "Ivory Coast"
+#~ msgstr "Costa d'Ivori"
+
+#~ msgctxt "Comment"
+#~ msgid "Lineage"
+#~ msgstr "Llinatge"
+
+#~ msgctxt "Comment"
+#~ msgid "Night Rock by Tigert"
+#~ msgstr "Night Rock per Tigert"
+
+#~ msgctxt "Comment"
+#~ msgid "Pavement"
+#~ msgstr "Paviment"
+
+#~ msgctxt "Comment"
+#~ msgid "Damascus Flower"
+#~ msgstr "Flor de Damasc"
+
+#~ msgctxt "Comment"
+#~ msgid "Rattan"
+#~ msgstr "Rotang"
+
+#~ msgctxt "Comment"
+#~ msgid "Starry Sky"
+#~ msgstr "Cel estrellat"
+
+#~ msgctxt "Comment"
+#~ msgid "Stonewall 2 by Tigert"
+#~ msgstr "Mur 2 per Tigert"
+
+#~ msgctxt "Comment"
+#~ msgid "Triangles"
+#~ msgstr "Triangles"
+
+#~ msgctxt "Comment"
+#~ msgid "Xerox Star"
+#~ msgstr "Estrella Xerox"
+
+#~ msgctxt "Name"
+#~ msgid "Pattern"
+#~ msgstr "Patró"
+
+#~ msgctxt "Comment"
+#~ msgid "Tilable patterns"
+#~ msgstr "Patrons en mosaic"
+
+#~ msgctxt "Name"
+#~ msgid "Animations"
+#~ msgstr "Animacions"
+
+#~ msgctxt "Name"
+#~ msgid "Virus"
+#~ msgstr "Virus"
+
+#~ msgctxt "Comment"
+#~ msgid "A simulated life form eats your wallpaper"
+#~ msgstr "Una forma de vida simulada que menja el fons de pantalla"
+
+#~ msgctxt "Name"
+#~ msgid "Weather"
+#~ msgstr "Meteorologia"
+
+#~ msgctxt "Comment"
+#~ msgid "Images that reflect the weather outside"
+#~ msgstr "Imatges que reflecteixen el temps de fora"

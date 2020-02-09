@@ -1,0 +1,343 @@
+# Translation of kcm_displayconfiguration.po to Catalan (Valencian)
+# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2015, 2018, 2019.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_displayconfiguration\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-06-14 03:21+0200\n"
+"PO-Revision-Date: 2019-07-03 13:40+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: qml/main.qml:80
+msgid "Tip: Hold Ctrl while dragging a display to disable snapping"
+msgstr ""
+"Consell: Premeu Ctrl en arrossegar una pantalla per desactivar l'ajustament "
+"de finestres"
+
+#: qml/main.qml:88
+msgid "Warning: There are no active outputs!"
+msgstr "Avís: No hi ha cap eixida activa."
+
+#: qml/main.qml:98
+msgid "Your system only supports up to %1 active screen"
+msgid_plural "Your system only supports up to %1 active screens"
+msgstr[0] "Aquest sistema només permet fins a %1 pantalla activa"
+msgstr[1] "Aquest sistema només permet fins a %1 pantalles actives"
+
+#: qml/main.qml:120
+msgid "Identify outputs"
+msgstr "Identificació d'eixides"
+
+#: qml/Output.qml:231 src/unifiedoutputconfig.cpp:87
+#, kde-format
+msgid "Unified Outputs"
+msgstr "Eixides unificades"
+
+#: qml/Output.qml:233 src/utils.cpp:37
+#, kde-format
+msgid "Laptop Screen"
+msgstr "Pantalla de portàtil"
+
+#: src/kcm_kscreen.cpp:60
+#, kde-format
+msgid "Display Configuration"
+msgstr "Configuració de la pantalla"
+
+#: src/kcm_kscreen.cpp:61
+#, kde-format
+msgid "Configuration for displays"
+msgstr "Configuració per a les pantalles"
+
+#: src/kcm_kscreen.cpp:62
+#, kde-format
+msgid "(c), 2012-2013 Daniel Vrátil"
+msgstr "(c), 2012-2013 Daniel Vrátil"
+
+#: src/kcm_kscreen.cpp:64
+#, kde-format
+msgid "Daniel Vrátil"
+msgstr "Daniel Vrátil"
+
+#: src/kcm_kscreen.cpp:64
+#, kde-format
+msgid "Maintainer"
+msgstr "Mantenidor"
+
+#: src/kcm_kscreen.cpp:81
+#, kde-format
+msgid "No kscreen backend found. Please check your kscreen installation."
+msgstr "No s'ha trobat el dorsal kscreen, comproveu la vostra instal·lació."
+
+#: src/kcm_kscreen.cpp:142
+#, kde-format
+msgid "Are you sure you want to disable all outputs?"
+msgstr "Segur que voleu desactivar totes les eixides?"
+
+#: src/kcm_kscreen.cpp:143
+#, kde-format
+msgctxt "@title:window"
+msgid "Disable All Outputs"
+msgstr "Desactiva totes les eixides"
+
+#: src/kcm_kscreen.cpp:144
+#, kde-format
+msgid "&Disable All Outputs"
+msgstr "&Desactiva totes les eixides"
+
+#: src/kcm_kscreen.cpp:145
+#, kde-format
+msgid "&Reconfigure"
+msgstr "&Reconfigura"
+
+#: src/kcm_kscreen.cpp:154
+#, kde-format
+msgid ""
+"Sorry, your configuration could not be applied.\n"
+"\n"
+"Common reasons are that the overall screen size is too big, or you enabled "
+"more displays than supported by your GPU."
+msgstr ""
+"No es pot aplicar aquesta configuració.\n"
+"\n"
+"El motiu més normal és que la mida de la pantalla siga massa gran, o que "
+"hàgeu activat més pantalles que les que permet la GPU."
+
+#: src/kcm_kscreen.cpp:156
+#, kde-format
+msgctxt "@title:window"
+msgid "Unsupported Configuration"
+msgstr "Configuració no permesa"
+
+#: src/kcm_testapp.cpp:34
+#, kde-format
+msgid "KCM Test App"
+msgstr "Aplicació de prova de KCM"
+
+#. i18n: ectx: property (text), widget (QLabel, primaryLabel)
+#: src/kscreen_widget.ui:44
+#, kde-format
+msgid "Primary display:"
+msgstr "Pantalla primària:"
+
+#. i18n: ectx: property (text), widget (QPushButton, unifyButton)
+#: src/kscreen_widget.ui:71 src/widget.cpp:268
+#, kde-format
+msgid "Unify Outputs"
+msgstr "Eixides unificades"
+
+#. i18n: ectx: property (text), widget (QPushButton, scaleAllOutputsButton)
+#: src/kscreen_widget.ui:78
+#, kde-format
+msgid "Scale Display"
+msgstr "Escala de la pantalla:"
+
+#: src/outputconfig.cpp:102
+#, kde-format
+msgid "Enabled"
+msgstr "Habilitada"
+
+#: src/outputconfig.cpp:111
+#, kde-format
+msgid "Display:"
+msgstr "Pantalla:"
+
+#: src/outputconfig.cpp:116 src/unifiedoutputconfig.cpp:97
+#, kde-format
+msgid "Resolution:"
+msgstr "Resolució:"
+
+#: src/outputconfig.cpp:124
+#, kde-format
+msgid "No Rotation"
+msgstr "Sense gir"
+
+#: src/outputconfig.cpp:125 src/unifiedoutputconfig.cpp:105
+#, kde-format
+msgid "90° Clockwise"
+msgstr "90° en sentit horari"
+
+#: src/outputconfig.cpp:126 src/unifiedoutputconfig.cpp:106
+#, kde-format
+msgid "Upside Down"
+msgstr "Cap per avall"
+
+#: src/outputconfig.cpp:127 src/unifiedoutputconfig.cpp:107
+#, kde-format
+msgid "90° Counterclockwise"
+msgstr "90° en sentit antihorari"
+
+#: src/outputconfig.cpp:132 src/unifiedoutputconfig.cpp:108
+#, kde-format
+msgid "Orientation:"
+msgstr "Orientació:"
+
+#: src/outputconfig.cpp:136
+#, kde-format
+msgctxt "Scale multiplier, show everything at 1 times normal scale"
+msgid "1x"
+msgstr "1x"
+
+#: src/outputconfig.cpp:137
+#, kde-format
+msgctxt "Scale multiplier, show everything at 2 times normal scale"
+msgid "2x"
+msgstr "2x"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/outputconfig.cpp:142 src/scaling.ui:28
+#, kde-format
+msgid "Scale:"
+msgstr "Escala:"
+
+#: src/outputconfig.cpp:148
+#, kde-format
+msgid "Auto"
+msgstr "Automàtic"
+
+#: src/outputconfig.cpp:149
+#, kde-format
+msgid "Refresh rate:"
+msgstr "Freqüència de refresc:"
+
+#: src/outputconfig.cpp:155
+#, kde-format
+msgid "Retention of values"
+msgstr "Retenció de valors"
+
+#: src/outputconfig.cpp:156
+#, kde-format
+msgid "Save as new global values for this display."
+msgstr "Guarda com a valors globals nous per a aquesta pantalla."
+
+#: src/outputconfig.cpp:157
+#, kde-format
+msgid "Save values only for display in this specific configuration."
+msgstr ""
+"Guarda els valors només per a la pantalla amb aquesta configuració "
+"específica."
+
+#: src/outputconfig.cpp:212
+#, kde-format
+msgid "%1 Hz"
+msgstr "%1 Hz"
+
+#: src/resolutionslider.cpp:115
+#, kde-format
+msgid "No available resolutions"
+msgstr "Les resolucions no estan disponibles"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: src/scaling.ui:17
+#, kde-format
+msgid "Screen Scaling"
+msgstr "Escalat de la pantalla"
+
+#: src/scalingconfig.cpp:40
+#, kde-format
+msgid "Scaling changes will come into effect after restart"
+msgstr "Els canvis en l'escala entraran en vigor després de reiniciar"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab1)
+#: src/stylepreview.ui:19
+#, kde-format
+msgid "Tab 1"
+msgstr "Pestanya 1"
+
+#. i18n: ectx: property (title), widget (QGroupBox, GroupBox1)
+#: src/stylepreview.ui:29
+#, kde-format
+msgid "Group Box"
+msgstr "Grup de caselles"
+
+#. i18n: ectx: property (text), widget (QRadioButton, RadioButton1)
+#. i18n: ectx: property (text), widget (QRadioButton, RadioButton2)
+#: src/stylepreview.ui:35 src/stylepreview.ui:45
+#, kde-format
+msgid "Radio button"
+msgstr "Botó d'opció"
+
+#. i18n: ectx: property (text), widget (QCheckBox, CheckBox1)
+#: src/stylepreview.ui:62
+#, kde-format
+msgid "Checkbox"
+msgstr "Casella de selecció"
+
+#. i18n: ectx: property (text), widget (QPushButton, PushButton1)
+#: src/stylepreview.ui:115
+#, kde-format
+msgid "Button"
+msgstr "Botó"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, ComboBox1)
+#: src/stylepreview.ui:125
+#, kde-format
+msgid "Combobox"
+msgstr "Quadre combinat"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab2)
+#: src/stylepreview.ui:155
+#, kde-format
+msgid "Tab 2"
+msgstr "Pestanya 2"
+
+#: src/unifiedoutputconfig.cpp:104
+#, kde-format
+msgid "Normal"
+msgstr "Normal"
+
+#: src/widget.cpp:193
+#, kde-format
+msgid "No Primary Output"
+msgstr "No hi ha cap eixida primària"
+
+#: src/widget.cpp:307
+#, kde-format
+msgid "Break Unified Outputs"
+msgstr "Interromp les eixides unificades"
+
+#~ msgid "Active profile"
+#~ msgstr "Perfil actiu"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Arranjament avançat"
+
+#~ msgid "Form"
+#~ msgstr "Formulari"
+
+#~ msgid "Dialog"
+#~ msgstr "Diàleg"
+
+#~ msgid "TextLabel"
+#~ msgstr "EtiquetaDeText"
+
+#~ msgid "No primary screen"
+#~ msgstr "No hi ha una pantalla primària"
+
+#~ msgid "Disable all outputs?"
+#~ msgstr "Desactivo totes les sortides?"
+
+#~ msgid "Unify outputs"
+#~ msgstr "Sortides unificades"

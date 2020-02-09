@@ -1,0 +1,888 @@
+# Translation of kwin._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2000-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 2000, 2004, 2005, 2006.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2002, 2003, 2012, 2014, 2015, 2016, 2018.
+# Albert Astals Cid <aacid@kde.org>, 2004, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019.
+# Robert Millan <rmh@aybabtu.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwin desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-06-29 01:33+0000\n"
+"PO-Revision-Date: 2019-07-11 11:52+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: effects/blur/blur_config.desktop:8
+msgctxt "Name"
+msgid "Blur"
+msgstr "Difumina"
+
+#: effects/coverswitch/coverswitch_config.desktop:8
+msgctxt "Name"
+msgid "Cover Switch"
+msgstr "Canvi de capa"
+
+#: effects/cube/cube_config.desktop:8
+msgctxt "Name"
+msgid "Desktop Cube"
+msgstr "Cub d'escriptori"
+
+#: effects/cubeslide/cubeslide_config.desktop:8
+msgctxt "Name"
+msgid "Desktop Cube Animation"
+msgstr "Animació de cub d'escriptori"
+
+#: effects/desktopgrid/desktopgrid_config.desktop:8
+msgctxt "Name"
+msgid "Desktop Grid"
+msgstr "Graella d'escriptori"
+
+#: effects/dialogparent/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Dialog Parent"
+msgstr "Diàleg principal"
+
+#: effects/dialogparent/package/metadata.desktop:78
+msgctxt "Comment"
+msgid "Darkens the parent window of the currently active dialog"
+msgstr "Enfosqueix la finestra principal del diàleg actual actiu"
+
+#: effects/diminactive/diminactive_config.desktop:8
+msgctxt "Name"
+msgid "Dim Inactive"
+msgstr "Enfosqueix les inactives"
+
+#: effects/dimscreen/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Darkens the entire screen when requesting root privileges"
+msgstr "Enfosqueix tota la pantalla en demanar privilegis d'administrador"
+
+#: effects/dimscreen/package/metadata.desktop:64
+msgctxt "Name"
+msgid "Dim Screen for Administrator Mode"
+msgstr "Enfosqueix la pantalla per al mode d'administrador"
+
+#: effects/eyeonscreen/package/metadata.desktop:2
+msgctxt "Name"
+msgid "eye On Screen"
+msgstr "Ull en la pantalla"
+
+#: effects/eyeonscreen/package/metadata.desktop:44
+msgctxt "Comment"
+msgid ""
+"Suck windows into desktop to show the latter. This might remind you of "
+"something."
+msgstr ""
+"Apega les finestres a l'escriptori per a mostrar l'última. Això podria "
+"recordar-vos alguna cosa."
+
+#: effects/fadedesktop/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fade Desktop"
+msgstr "Fosa de l'escriptori"
+
+#: effects/fadedesktop/package/metadata.desktop:70
+msgctxt "Comment"
+msgid "Fade between virtual desktops when switching between them"
+msgstr "Fosa entre els escriptoris virtuals quan es canvien entre ells"
+
+#: effects/fade/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fade"
+msgstr "Fosa"
+
+#: effects/fade/package/metadata.desktop:82
+msgctxt "Comment"
+msgid "Make windows smoothly fade in and out when they are shown or hidden"
+msgstr ""
+"Fa que les finestres s'encenguen o s'apaguen de manera gradual quan es "
+"mostren o s'oculten"
+
+#: effects/fadingpopups/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Fading Popups"
+msgstr "Missatges emergents que es fonen"
+
+#: effects/fadingpopups/package/metadata.desktop:28
+msgctxt "Comment"
+msgid "Make popups smoothly fade in and out when they are shown or hidden"
+msgstr ""
+"Fa que els missatges emergents s'encenguen o s'apaguen de manera gradual "
+"quan es mostren o s'oculten"
+
+#: effects/flipswitch/flipswitch_config.desktop:8
+msgctxt "Name"
+msgid "Flip Switch"
+msgstr "Canvi en roda"
+
+#: effects/frozenapp/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Desaturate Unresponsive Applications"
+msgstr "Dessatura les aplicacions que no responguen"
+
+#: effects/frozenapp/package/metadata.desktop:38
+msgctxt "Comment"
+msgid "Desaturate windows of unresponsive (frozen) applications"
+msgstr ""
+"Dessatura les finestres de les aplicacions que no responen (congelades)"
+
+#: effects/glide/glide_config.desktop:8
+msgctxt "Name"
+msgid "Glide"
+msgstr "Lliscament"
+
+#: effects/invert/invert_config.desktop:8
+msgctxt "Name"
+msgid "Invert"
+msgstr "Inverteix"
+
+#: effects/kwineffect.desktop:5
+msgctxt "Comment"
+msgid "KWin Effect"
+msgstr "Efecte de KWin"
+
+#: effects/login/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Login"
+msgstr "Entrada"
+
+#: effects/login/package/metadata.desktop:88
+msgctxt "Comment"
+msgid "Smoothly fade to the desktop when logging in"
+msgstr "Transició suau a l'escriptori en connectar-se"
+
+#: effects/logout/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Logout"
+msgstr "Eixida"
+
+#: effects/logout/package/metadata.desktop:32
+msgctxt "Comment"
+msgid "Smoothly fade to the logout screen"
+msgstr "Transició suau a la pantalla d'eixida"
+
+#: effects/lookingglass/lookingglass_config.desktop:8
+msgctxt "Name"
+msgid "Looking Glass"
+msgstr "Aspecte de vidre"
+
+#: effects/magiclamp/magiclamp_config.desktop:8
+msgctxt "Name"
+msgid "Magic Lamp"
+msgstr "Làmpada màgica"
+
+#: effects/magnifier/magnifier_config.desktop:8
+msgctxt "Name"
+msgid "Magnifier"
+msgstr "Lupa"
+
+#: effects/maximize/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Animation for a window going to maximize/restore from maximize"
+msgstr ""
+"Animació per una finestra que es maximitza/restaura des de maximització"
+
+#: effects/maximize/package/metadata.desktop:49
+msgctxt "Name"
+msgid "Maximize"
+msgstr "Maximitza"
+
+#: effects/morphingpopups/package/metadata.desktop:2
+msgctxt "Comment"
+msgid ""
+"Cross fade animation when Tooltips or Notifications change their geometry"
+msgstr ""
+"Animació d'esvaïment creuat quan els consells d'eines o les notificacions "
+"canvien la seua geometria"
+
+#: effects/morphingpopups/package/metadata.desktop:39
+msgctxt "Name"
+msgid "Morphing popups"
+msgstr "Missatges emergents en metamorfosi"
+
+#: effects/mouseclick/mouseclick_config.desktop:8
+msgctxt "Name"
+msgid "Mouse Click Animation"
+msgstr "Animació de clic de ratolí"
+
+#: effects/mousemark/mousemark_config.desktop:8
+msgctxt "Name"
+msgid "Mouse Mark"
+msgstr "Marca amb el ratolí"
+
+#: effects/presentwindows/presentwindows_config.desktop:8
+msgctxt "Name"
+msgid "Present Windows"
+msgstr "Presenta les finestres"
+
+#: effects/resize/resize_config.desktop:8
+msgctxt "Name"
+msgid "Resize Window"
+msgstr "Redimensionament de les finestres"
+
+#: effects/scale/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Scale"
+msgstr "Escala"
+
+#: effects/scale/package/metadata.desktop:32
+msgctxt "Comment"
+msgid "Make windows smoothly scale in and out when they are shown or hidden"
+msgstr ""
+"Fa que les finestres entrin o isquen volant quan es mostren o s'oculten"
+
+#: effects/showfps/showfps_config.desktop:8
+msgctxt "Name"
+msgid "Show FPS"
+msgstr "Mostra els FPS"
+
+#: effects/showpaint/showpaint_config.desktop:8
+msgctxt "Name"
+msgid "Show Paint"
+msgstr "Mostra el pintat"
+
+#: effects/slide/slide_config.desktop:8
+msgctxt "Name"
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: effects/squash/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Squash windows when they are minimized"
+msgstr "Amuntega les finestres quan estan minimitzades"
+
+#: effects/squash/package/metadata.desktop:28
+msgctxt "Name"
+msgid "Squash"
+msgstr "Amuntega"
+
+#: effects/thumbnailaside/thumbnailaside_config.desktop:8
+msgctxt "Name"
+msgid "Thumbnail Aside"
+msgstr "Miniatures de costat"
+
+#: effects/trackmouse/trackmouse_config.desktop:8
+msgctxt "Name"
+msgid "Track Mouse"
+msgstr "Seguiment del ratolí"
+
+#: effects/translucency/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Translucency"
+msgstr "Translucidesa"
+
+#: effects/translucency/package/metadata.desktop:85
+msgctxt "Comment"
+msgid "Make windows translucent under different conditions"
+msgstr "Torna translúcides les finestres en diverses condicions"
+
+#: effects/windowaperture/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Window Aperture"
+msgstr "Obertura de la finestra"
+
+#: effects/windowaperture/package/metadata.desktop:43
+msgctxt "Comment"
+msgid "Move window into the corners while showing desktop"
+msgstr "Mou la finestra cap a les cantonades en mostrar l'escriptori"
+
+#: effects/windowgeometry/windowgeometry_config.desktop:8
+msgctxt "Name"
+msgid "WindowGeometry"
+msgstr "WindowGeometry"
+
+#: effects/wobblywindows/wobblywindows_config.desktop:8
+msgctxt "Name"
+msgid "Wobbly Windows"
+msgstr "Finestres sacsejades"
+
+#: effects/zoom/zoom_config.desktop:8
+msgctxt "Name"
+msgid "Zoom"
+msgstr "Zoom"
+
+#: kcmkwin/kwincompositing/kwincompositing.desktop:15
+msgctxt "Name"
+msgid "Compositor"
+msgstr "Compositor"
+
+#: kcmkwin/kwincompositing/kwincompositing.desktop:59
+msgctxt "Comment"
+msgid "Compositor Settings for Desktop Effects"
+msgstr "Arranjament del compositor pels efectes d'escriptori"
+
+#: kcmkwin/kwincompositing/kwincompositing.desktop:103
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,compositing,effect,3D effects,2D effects,OpenGL,XRender,"
+"video settings,graphical effects,desktop effects,animation speed"
+msgstr ""
+"kwin,finestra,gestor,composició,efecte,efectes 3D,efectes 2D,OpenGL,XRender,"
+"arranjament de vídeo,efectes gràfics,efectes d'escriptori,velocitat de les "
+"animacions"
+
+#: kcmkwin/kwindecoration/kwindecoration.desktop:14
+#: kcmkwin/kwindecoration/package/metadata.desktop:17
+#: kcmkwin/kwindecoration/window-decorations.knsrc:2
+msgctxt "Name"
+msgid "Window Decorations"
+msgstr "Decoració de les finestres"
+
+#: kcmkwin/kwindecoration/kwindecoration.desktop:75
+#: kcmkwin/kwindecoration/package/metadata.desktop:77
+msgctxt "Comment"
+msgid "Configure window titlebars and borders"
+msgstr "Configura la barra de títol i les vores de les finestres"
+
+#: kcmkwin/kwindecoration/kwindecoration.desktop:100
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
+"kwm,decoration"
+msgstr ""
+"kwin,finestra,gestor,vora,estil,tema,aspecte,comportament,disposició,botó,"
+"gestió,vora,kwm,decoració"
+
+#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:15
+#: kcmkwin/kwindesktop/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Virtual Desktops"
+msgstr "Escriptoris virtuals"
+
+#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:78
+#: kcmkwin/kwindesktop/package/metadata.desktop:65
+msgctxt "Comment"
+msgid "Navigation, Number and Layout of Virtual Desktops"
+msgstr "Navegació, nombre i disposició dels escriptoris virtuals"
+
+#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:121
+msgctxt "X-KDE-Keywords"
+msgid ""
+"desktop,desktops,number,virtual desktop,multiple desktops,pager,pager widget,"
+"pager applet,pager settings"
+msgstr ""
+"escriptori,escriptoris,nombre,escriptori virtual,escriptoris múltiples,"
+"paginador,estri paginador,miniaplicació de paginació,arranjament de paginador"
+
+#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:15
+#: kcmkwin/kwineffects/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Desktop Effects"
+msgstr "Efectes d'escriptori"
+
+#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:61
+#: kcmkwin/kwineffects/package/metadata.desktop:49
+msgctxt "Comment"
+msgid "Desktop Effects"
+msgstr "Efectes d'escriptori"
+
+#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:107
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,3D effects,2D effects,graphical effects,desktop "
+"effects,animations,various animations,window management effects,window "
+"switching effect,desktop switching effect,animations,desktop animations,"
+"drivers,driver settings,rendering,render,invert effect,looking glass effect,"
+"magnifier effect,snap helper effect,track mouse effect,zoom effect,blur "
+"effect,fade effect,fade desktop effect,fall apart effect,glide effect,"
+"highlight window effect,login effect,logout effect,magic lamp effect,"
+"minimize animation effect,mouse mark effect,scale effect,screenshot effect,"
+"sheet effect,slide effect,sliding popups effect,thumbnail aside effect,"
+"translucency,translucency effect,transparency,window geometry effect,wobbly "
+"windows effect,startup feedback effect,dialog parent effect,dim inactive "
+"effect,dim screen effect,slide back effect,eye candy,candy,show FPS effect,"
+"show paint effect,cover switch effect,desktop cube effect,desktop cube "
+"animation effect,desktop grid effect,flip switch effect,present windows "
+"effect,resize window effect,background contrast effect"
+msgstr ""
+"kwin,finestra,gestor,efecte,efectes 3D,efectes 2D,efectes gràfics,efectes "
+"d'escriptori,animacions,animacions diverses,efectes en la gestió de les "
+"finestres,efecte en el canvi de finestra,efecte en el canvi d'escriptori,"
+"animacions,animacions en l'escriptori,controladors,configuració dels "
+"controladors,renderització,render,efecte d'inversió,efecte d'aspecte de "
+"vidre,efecte de lupa,efecte ajudant del desplaçament,efecte de seguiment del "
+"ratolí,efecte de zoom,efecte de difuminat,efecte de fosa,efecte de fosa de "
+"l'escriptori,efecte de trencament,efecte de lliscament,efecte de ressaltat "
+"de la finestra,efecte en l'inici de la sessió,efecte en eixir de la sessió,"
+"efecte de làmpada màgica,efecte d'animació de la minimització,efecte de "
+"marca del ratolí,efecte d'apropament,efecte de captura de pantalla,efecte de "
+"full,efecte de diapositiva,efecte de missatges emergents lliscants,efecte de "
+"miniatures laterals,translucidesa,efecte de translucidesa,transparència,"
+"efecte de geometria de la finestra,efecte de finestres sacsejades,efecte de "
+"retroacció d'inici,efecte de diàleg principal,efecte d'enfosquiment en estar "
+"inactiu,efecte d'enfosquiment de la pantalla,efecte de diapositiva prèvia,"
+"decoració,efecte per a mostrar els FPS,efecte per a mostrar les zones "
+"pintades,efecte de canvi de coberta,efecte de cub de l'escriptori,efecte "
+"d'animació del cub de l'escriptori,efecte de graella de l'escriptori,efecte "
+"de canvi en roda,efecte de presentació de les finestres,efecte de "
+"redimensionat de la finestra,efecte de contrast del fons"
+
+#: kcmkwin/kwineffects/kwineffect.knsrc:2
+msgctxt "Name"
+msgid "Window Manager Effects"
+msgstr "Efectes del gestor de finestres"
+
+#: kcmkwin/kwinoptions/kwinactions.desktop:12
+msgctxt "Name"
+msgid "Actions"
+msgstr "Accions"
+
+#: kcmkwin/kwinoptions/kwinactions.desktop:102
+msgctxt "Comment"
+msgid "Mouse Actions on Windows"
+msgstr "Accions del ratolí en les finestres"
+
+#: kcmkwin/kwinoptions/kwinactions.desktop:147
+msgctxt "X-KDE-Keywords"
+msgid ""
+"shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
+"resize"
+msgstr ""
+"ombra,maximitza,maximitza,minimitza,minimitza,abaixa,menú d'operacions,barra "
+"de títol,redimensiona"
+
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:11
+msgctxt "Name"
+msgid "Advanced"
+msgstr "Avançat"
+
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:101
+msgctxt "Comment"
+msgid "Advanced Window Management Features"
+msgstr "Característiques avançades per a la gestió de les finestres"
+
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:146
+msgctxt "X-KDE-Keywords"
+msgid ""
+"shading,border,hover,active borders,tiling,tabs,tabbing,window tabbing,"
+"window grouping,window tiling,window placement,placement of windows,window "
+"advanced behavior"
+msgstr ""
+"ombra,vora,passar per damunt,vores actives,mosaic,pestanyes,pestanyes de "
+"finestra,agrupació de les finestres,mosaic de les finestres,col·locació de "
+"les finestres,comportament avançat de les finestres"
+
+#: kcmkwin/kwinoptions/kwinfocus.desktop:11
+msgctxt "Name"
+msgid "Focus"
+msgstr "Focus"
+
+#: kcmkwin/kwinoptions/kwinfocus.desktop:99
+msgctxt "Comment"
+msgid "Active Window Policy"
+msgstr "Política de la finestra activa"
+
+#: kcmkwin/kwinoptions/kwinfocus.desktop:142
+msgctxt "X-KDE-Keywords"
+msgid ""
+"focus,placement,auto raise,raise,click raise,keyboard,CDE,alt-tab,all "
+"desktop,focus follows mouse,focus prevention,focus stealing,focus policy,"
+"window focus behavior,window screen behavior"
+msgstr ""
+"focus,col·locació,elevació automàtica,elevació,elevació en clic,teclat,CDE,"
+"alt-tab,tots els escriptoris,focus segueix el ratolí,prevenció de focus,"
+"robatori de focus,política de focus,comportament del focus de la finestra,"
+"comportament en pantalla de la finestra"
+
+#: kcmkwin/kwinoptions/kwinmoving.desktop:12
+msgctxt "Name"
+msgid "Moving"
+msgstr "Moviment"
+
+#: kcmkwin/kwinoptions/kwinmoving.desktop:100
+msgctxt "Comment"
+msgid "Window Moving"
+msgstr "Moviment de les finestres"
+
+#: kcmkwin/kwinoptions/kwinmoving.desktop:145
+msgctxt "X-KDE-Keywords"
+msgid "moving,smart,cascade,maximize,maximise,snap zone,snap,border"
+msgstr "moviment,intel·ligent,cascada,maximització,zona d'ajust,ajust,vora"
+
+#: kcmkwin/kwinoptions/kwinoptions.desktop:15
+msgctxt "Name"
+msgid "Window Behavior"
+msgstr "Comportament de les finestres"
+
+#: kcmkwin/kwinoptions/kwinoptions.desktop:103
+msgctxt "Comment"
+msgid "Window Actions and Behavior"
+msgstr "Accions i comportament de les finestres"
+
+#: kcmkwin/kwinoptions/kwinoptions.desktop:148
+msgctxt "X-KDE-Keywords"
+msgid ""
+"focus,placement,window behavior,window actions,animation,raise,auto raise,"
+"windows,frame,titlebar,doubleclick"
+msgstr ""
+"focus,emplaçament,comportament de la finestra,accions de la finestra,"
+"animació,elevació,elevació automàtica,finestres,marc,barra de títol,clic "
+"doble"
+
+#: kcmkwin/kwinrules/kwinrules.desktop:14
+msgctxt "Name"
+msgid "Window Rules"
+msgstr "Regles de les finestres"
+
+#: kcmkwin/kwinrules/kwinrules.desktop:76
+msgctxt "Comment"
+msgid "Individual Window Behavior"
+msgstr "Comportament individual de les finestres"
+
+#: kcmkwin/kwinrules/kwinrules.desktop:121
+msgctxt "X-KDE-Keywords"
+msgid ""
+"size,position,state,window behavior,windows,specific,workarounds,remember,"
+"rules"
+msgstr ""
+"mida,posició,estat,comportament de la finestra,finestres,específic,solucions "
+"alternatives,recorda,regles"
+
+#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:14
+msgctxt "Name"
+msgid "Screen Edges"
+msgstr "Vores de la pantalla"
+
+#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:83
+msgctxt "Comment"
+msgid "Active Screen Corners and Edges"
+msgstr "Cantons i vores actives de la pantalla"
+
+#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:126
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
+"screen edges,desktop edges,screen edges,maximize windows,tile windows,side "
+"of screen,screen behavior,switch desktop,virtual desktop,screen corners"
+msgstr ""
+"kwin,finestra,gestor,efecte,cantó,vora,acció,canvi,escriptori,vores de "
+"pantalla de kwin,vores d'escriptori,vores de pantalla,maximitza finestres,"
+"mosaic de les finestres,costat de pantalla,comportament de pantalla,canvi "
+"d'escriptori,escriptori virtual,cantons de la pantalla"
+
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:13
+msgctxt "Name"
+msgid "Touch Screen"
+msgstr "Pantalla tàctil"
+
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:51
+msgctxt "Comment"
+msgid "Touch screen swipe gestures"
+msgstr "Gestos de lliscament en la pantalla tàctil"
+
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:87
+msgctxt "X-KDE-Keywords"
+msgid ""
+"kwin,window,manager,effect,edge,border,action,switch,desktop,desktop edges,"
+"screen edges,side of screen,screen behavior,touch screen"
+msgstr ""
+"kwin,finestra,gestor,efecte,vora,borde,acció,canvi,escriptori,vores "
+"d'escriptori,vores de pantalla,costat de pantalla,comportament de la "
+"pantalla,pantalla tàctil"
+
+#: kcmkwin/kwinscripts/kwinscripts.desktop:11
+msgctxt "X-KDE-Keywords"
+msgid "kwin script"
+msgstr "script de kwin"
+
+#: kcmkwin/kwinscripts/kwinscripts.desktop:63
+msgctxt "Name"
+msgid "KWin Scripts"
+msgstr "Scripts de KWin"
+
+#: kcmkwin/kwinscripts/kwinscripts.desktop:113
+msgctxt "Comment"
+msgid "Manage KWin scripts"
+msgstr "Gestiona els scripts de KWin"
+
+#: kcmkwin/kwinscripts/kwinscripts.knsrc:2
+msgctxt "Name"
+msgid "Window Manager Scripts"
+msgstr "Scripts del gestor de finestres"
+
+#: kcmkwin/kwintabbox/kwinswitcher.knsrc:2
+msgctxt "Name"
+msgid "Window Manager Switching Layouts"
+msgstr "Disposicions del commutador del gestor de finestres"
+
+#: kcmkwin/kwintabbox/kwintabbox.desktop:13
+msgctxt "Name"
+msgid "Task Switcher"
+msgstr "Commutador de tasques"
+
+#: kcmkwin/kwintabbox/kwintabbox.desktop:73
+msgctxt "Comment"
+msgid "Navigation Through Windows"
+msgstr "Navegació per les finestres"
+
+#: kcmkwin/kwintabbox/kwintabbox.desktop:116
+msgctxt "X-KDE-Keywords"
+msgid ""
+"window,windows,switcher,window switcher,switching,window switching,alttab,"
+"alt-tab,alt+tab,alt tab"
+msgstr ""
+"finestra,finestres,commutador,commutador de finestres,commutació,commutació "
+"de finestres,alttab,alt-tab,alt+tab,alt tab"
+
+#: kwin.notifyrc:3
+msgctxt "Comment"
+msgid "KWin Window Manager"
+msgstr "Gestor de finestres KWin"
+
+#: kwin.notifyrc:68
+msgctxt "Name"
+msgid "Compositing has been suspended"
+msgstr "S'ha suspès la composició"
+
+#: kwin.notifyrc:132
+msgctxt "Comment"
+msgid "Another application has requested to suspend compositing."
+msgstr "Una altra aplicació ha sol·licitat suspendre la composició."
+
+#: kwin.notifyrc:196
+msgctxt "Name"
+msgid "Graphics Reset"
+msgstr "Reinici dels gràfics"
+
+#: kwin.notifyrc:241
+msgctxt "Comment"
+msgid "A graphics reset event occurred"
+msgstr "Ha ocorregut un esdeveniment de reinici dels gràfics"
+
+#: plugins/kdecorations/aurorae/src/aurorae.knsrc:2
+msgctxt "Name"
+msgid "Aurorae Window Decorations"
+msgstr "Decoracions de finestra Aurorae"
+
+#: plugins/kdecorations/aurorae/src/kwindecoration.desktop:5
+msgctxt "Comment"
+msgid "KWin Window Decoration"
+msgstr "Decoració de les finestres de KWin"
+
+#: plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Plastik"
+msgstr "Plastik"
+
+#: plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:90
+msgctxt "Comment"
+msgid "The classic theme known from KDE 3"
+msgstr "El tema clàssic conegut des de KDE 3"
+
+#: plugins/kpackage/aurorae/kwin-packagestructure-aurorae.desktop:2
+msgctxt "Name"
+msgid "KWin Aurorae"
+msgstr "Aurorae de KWin"
+
+#: plugins/kpackage/decoration/kwin-packagestructure-decoration.desktop:2
+msgctxt "Name"
+msgid "KWin Decoration"
+msgstr "Decoració de KWin"
+
+#: plugins/kpackage/effect/kwin-packagestructure-effect.desktop:2
+msgctxt "Name"
+msgid "KWin Effect"
+msgstr "Efecte de KWin"
+
+#: plugins/kpackage/scripts/kwin-packagestructure-scripts.desktop:2
+msgctxt "Name"
+msgid "KWin Script"
+msgstr "Script de KWin"
+
+#: plugins/kpackage/windowswitcher/kwin-packagestructure-windowswitcher.desktop:2
+msgctxt "Name"
+msgid "KWin Window Switcher"
+msgstr "Commutador de finestres de KWin"
+
+#: scripting/kwinscript.desktop:5
+msgctxt "Comment"
+msgid "KWin Script"
+msgstr "Script de KWin"
+
+#: scripts/desktopchangeosd/metadata.desktop:2
+msgctxt "Name"
+msgid "Desktop Change OSD"
+msgstr "OSD de canvi d'escriptori"
+
+#: scripts/desktopchangeosd/metadata.desktop:49
+msgctxt "Comment"
+msgid "An on screen display indicating the desktop change"
+msgstr "Un missatge en la pantalla que indica el canvi d'escriptori"
+
+#: scripts/minimizeall/metadata.desktop:2
+msgctxt "Name"
+msgid "MinimizeAll"
+msgstr "MinimitzaTot"
+
+#: scripts/minimizeall/metadata.desktop:43
+msgctxt "Comment"
+msgid "Adds a shortcut to minimize and restore all windows"
+msgstr "Afig una drecera per a minimitzar i restaurar totes les finestres"
+
+#: scripts/synchronizeskipswitcher/metadata.desktop:2
+msgctxt "Name"
+msgid "Synchronize Skip Switcher with Taskbar"
+msgstr "Sincronitza «Ignora el commutador» amb la barra de tasques"
+
+#: scripts/synchronizeskipswitcher/metadata.desktop:46
+msgctxt "Comment"
+msgid ""
+"Hides all windows marked as Skip Taskbar to be also excluded from window "
+"switchers (e.g. Alt+Tab)"
+msgstr ""
+"Oculta totes les finestres marcades com a «Ignora la barra de tasques» "
+"perquè també s'excloguen dels commutadors de finestres (p. ex. Alt+Tab)"
+
+#: scripts/videowall/metadata.desktop:2
+msgctxt "Name"
+msgid "Video Wall"
+msgstr "Mur de vídeo"
+
+#: scripts/videowall/metadata.desktop:50
+msgctxt "Comment"
+msgid ""
+"Spans fullscreen video player over all attached screens to create a Video "
+"Wall"
+msgstr ""
+"Expandeix el reproductor de vídeo a pantalla completa per a totes les "
+"pantalles adjuntades per a crear un mur de vídeo."
+
+#: tabbox/kwindesktopswitcher.desktop:5
+msgctxt "Comment"
+msgid "KWin Desktop Switcher Layout"
+msgstr "Disposició del commutador d'escriptoris de KWin"
+
+#: tabbox/kwinwindowswitcher.desktop:5
+msgctxt "Comment"
+msgid "KWin Window Switcher Layout"
+msgstr "Disposició del commutador de finestres de KWin"
+
+#~ msgctxt "Name"
+#~ msgid "Enforces Window Decorations on GTK+ window"
+#~ msgstr "Força la decoració de les finestres a les finestres GTK+"
+
+#~ msgctxt "Comment"
+#~ msgid "Fixes functional deficits for client side decorated windows."
+#~ msgstr ""
+#~ "Corregeix els dèficits funcionals amb les finestres decorades a la banda "
+#~ "del client."
+
+#~ msgctxt "Comment"
+#~ msgid "Look and Feel of Window Titles"
+#~ msgstr "Aspecte i comportament dels títols de les finestres"
+
+#~ msgctxt "Comment"
+#~ msgid "Animate the appearing of windows"
+#~ msgstr "Anima l'aparició de les finestres"
+
+#~ msgctxt "Name"
+#~ msgid "Dashboard"
+#~ msgstr "Tauler"
+
+#~ msgctxt "Name"
+#~ msgid "Aurorae Decoration Theme Engine"
+#~ msgstr "Motor del tema de decoració Aurorae"
+
+#~ msgctxt "Name"
+#~ msgid "Large Icons"
+#~ msgstr "Icones grans"
+
+#~ msgctxt "Comment"
+#~ msgid "A window switcher layout using large icons to represent the window"
+#~ msgstr ""
+#~ "Una disposició del commutador de finestres que utilitza icones grans per "
+#~ "representar la finestra"
+
+#~ msgctxt "Name"
+#~ msgid "Compact"
+#~ msgstr "Compacta"
+
+#~ msgctxt "Comment"
+#~ msgid "A compact window switcher layout"
+#~ msgstr "Una disposició del commutador de finestres compacta"
+
+#~ msgctxt "Name"
+#~ msgid "Informative"
+#~ msgstr "Informativa"
+
+#~ msgctxt "Comment"
+#~ msgid "An informative window switcher layout including desktop name"
+#~ msgstr ""
+#~ "Una disposició del commutador de finestres informativa que inclou el nom "
+#~ "d'escriptori"
+
+#~ msgctxt "Name"
+#~ msgid "Grid"
+#~ msgstr "Graella"
+
+#~ msgctxt "Comment"
+#~ msgid "A Window Switcher layout showing all windows as thumbnails in a grid"
+#~ msgstr ""
+#~ "Una disposició del commutador de finestres que mostra totes les finestres "
+#~ "com a miniatures en una graella"
+
+#~ msgctxt "Name"
+#~ msgid "Small Icons"
+#~ msgstr "Icones petites"
+
+#~ msgctxt "Comment"
+#~ msgid "A window switcher layout using small icons to represent the window"
+#~ msgstr ""
+#~ "Una disposició del commutador de finestres que utilitza icones petites "
+#~ "per representar la finestra"
+
+#~ msgctxt "Name"
+#~ msgid "Text Only"
+#~ msgstr "Només text"
+
+#~ msgctxt "Comment"
+#~ msgid "A window switcher layout only showing window captions"
+#~ msgstr ""
+#~ "Una disposició del commutador de finestres que només mostra els títols de "
+#~ "finestra"
+
+#~ msgctxt "Name"
+#~ msgid "Thumbnails"
+#~ msgstr "Miniatures"
+
+#~ msgctxt "Comment"
+#~ msgid "A window switcher layout using live thumbnails"
+#~ msgstr ""
+#~ "Una disposició del commutador de finestres que utilitza miniatures "
+#~ "animades"
+
+#~ msgctxt "Comment"
+#~ msgid "An informative desktop switcher layout"
+#~ msgstr "Una disposició informativa del commutador d'escriptoris"
+
+#~ msgctxt "Name"
+#~ msgid "Previews"
+#~ msgstr "Vistes prèvies"
+
+#~ msgctxt "Comment"
+#~ msgid "A desktop switcher layout with previews of the desktops"
+#~ msgstr ""
+#~ "Una disposició del commutador d'escriptori amb vistes prèvies dels "
+#~ "escriptoris"
+
+#~ msgctxt "Name"
+#~ msgid "Sidebar"
+#~ msgstr "Barra lateral"
+
+#~ msgctxt "Comment"
+#~ msgid "A window switcher with live thumbnails on the screen side"
+#~ msgstr ""
+#~ "Un commutador de finestres amb miniatures animades en un lateral de la "
+#~ "pantalla"

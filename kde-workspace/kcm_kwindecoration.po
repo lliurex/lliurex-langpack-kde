@@ -1,0 +1,407 @@
+# Translation of kcm_kwindecoration.po to Catalan (Valencian)
+# Copyright (C) 2001-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2001, 2002, 2007, 2008, 2009, 2010, 2012, 2013, 2014, 2015, 2018, 2019.
+# Albert Astals Cid <aacid@kde.org>, 2004.
+# Sebastià Pla i Sanz <sps@sastia.com>, 2004, 2005.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017, 2019.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_kwindecoration\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-02 03:10+0200\n"
+"PO-Revision-Date: 2019-08-28 11:58+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer,Albert Astals Cid,Sebastià Pla i Sanz, Empar Montoro"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@post.com,aacid@kde.org,sps@sastia.com,montoro_mde@gva.es"
+
+#: declarative-plugin/buttonsmodel.cpp:68
+#, kde-format
+msgid "Menu"
+msgstr "Menú"
+
+#: declarative-plugin/buttonsmodel.cpp:70
+#, kde-format
+msgid "Application menu"
+msgstr "Menú d'aplicacions"
+
+#: declarative-plugin/buttonsmodel.cpp:72
+#, kde-format
+msgid "On all desktops"
+msgstr "En tots els escriptoris"
+
+#: declarative-plugin/buttonsmodel.cpp:74
+#, kde-format
+msgid "Minimize"
+msgstr "Minimitza"
+
+#: declarative-plugin/buttonsmodel.cpp:76
+#, kde-format
+msgid "Maximize"
+msgstr "Maximitza"
+
+#: declarative-plugin/buttonsmodel.cpp:78
+#, kde-format
+msgid "Close"
+msgstr "Tanca"
+
+#: declarative-plugin/buttonsmodel.cpp:80
+#, kde-format
+msgid "Context help"
+msgstr "Ajuda contextual"
+
+#: declarative-plugin/buttonsmodel.cpp:82
+#, kde-format
+msgid "Shade"
+msgstr "Plega"
+
+#: declarative-plugin/buttonsmodel.cpp:84
+#, kde-format
+msgid "Keep below"
+msgstr "Mantín davall"
+
+#: declarative-plugin/buttonsmodel.cpp:86
+#, kde-format
+msgid "Keep above"
+msgstr "Mantín per damunt"
+
+#: kcm.cpp:95
+#, kde-format
+msgid "Window Decorations"
+msgstr "Decoració de les finestres"
+
+#: kcm.cpp:99
+#, kde-format
+msgid "Valerio Pilo"
+msgstr "Valerio Pilo"
+
+#: kcm.cpp:100
+#, kde-format
+msgid "Author"
+msgstr "Autor"
+
+#: kcm.cpp:138
+#, kde-format
+msgid "Download New Window Decorations"
+msgstr "Baixa decoracions noves de finestra..."
+
+#: package/contents/ui/Buttons.qml:85
+#, kde-format
+msgid "Titlebar"
+msgstr "Barra de títol"
+
+#: package/contents/ui/Buttons.qml:224
+#, kde-format
+msgid "Drop button here to remove it"
+msgstr "Deixeu anar el botó ací per eliminar-lo"
+
+#: package/contents/ui/Buttons.qml:241
+#, kde-format
+msgid "Drag buttons between here and the titlebar"
+msgstr "Arrossegueu els botons des d'ací fins a la barra de títol"
+
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid "This module lets you configure the window decorations."
+msgstr "Aquest mòdul permet configurar les decoracions de les finestres."
+
+#: package/contents/ui/main.qml:62
+#, kde-format
+msgctxt "tab label"
+msgid "Theme"
+msgstr "Tema"
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgctxt "tab label"
+msgid "Titlebar Buttons"
+msgstr "Botons de la barra de títol"
+
+#: package/contents/ui/main.qml:87
+#, kde-format
+msgctxt "checkbox label"
+msgid "Use theme's default window border size"
+msgstr "Usa la mida predeterminada de la vora de la finestra del tema"
+
+#: package/contents/ui/main.qml:118
+#, kde-format
+msgctxt "button text"
+msgid "Get New Window Decorations..."
+msgstr "Obtín decoracions noves de finestra..."
+
+#: package/contents/ui/main.qml:134
+#, kde-format
+msgctxt "checkbox label"
+msgid "Close windows by double clicking the menu button"
+msgstr "Tanca les finestres amb doble clic al botó del menú"
+
+#: package/contents/ui/main.qml:146
+#, kde-format
+msgctxt "popup tip"
+msgid ""
+"Close by double clicking: Keep the window's Menu button pressed until it "
+"appears."
+msgstr ""
+"Tanca amb doble clic: mantingueu el botó premut del menú de la finestra fins "
+"que aparega."
+
+#: package/contents/ui/main.qml:153
+#, kde-format
+msgctxt "checkbox label"
+msgid "Show titlebar button tooltips"
+msgstr "Mostra els consells dels botons de la barra de títol"
+
+#: package/contents/ui/Themes.qml:97
+#, kde-format
+msgid "Edit %1 Theme"
+msgstr "Edita el tema %1"
+
+#: utils.cpp:38
+#, kde-format
+msgid "No Borders"
+msgstr "Sense vores"
+
+#: utils.cpp:39
+#, kde-format
+msgid "No Side Borders"
+msgstr "Sense vores laterals"
+
+#: utils.cpp:40
+#, kde-format
+msgid "Tiny"
+msgstr "Minúscula"
+
+#: utils.cpp:41
+#, kde-format
+msgid "Normal"
+msgstr "Normal"
+
+#: utils.cpp:42
+#, kde-format
+msgid "Large"
+msgstr "Gran"
+
+#: utils.cpp:43
+#, kde-format
+msgid "Very Large"
+msgstr "Molt gran"
+
+#: utils.cpp:44
+#, kde-format
+msgid "Huge"
+msgstr "Enorme"
+
+#: utils.cpp:45
+#, kde-format
+msgid "Very Huge"
+msgstr "Gegant"
+
+#: utils.cpp:46
+#, kde-format
+msgid "Oversized"
+msgstr "Fora de mida"
+
+#~ msgctxt "combobox label"
+#~ msgid "Window border size:"
+#~ msgstr "Mida de la vora de les finestres:"
+
+#~ msgid "Configure window titlebars and borders"
+#~ msgstr "Configura la barra de títol i les vores de les finestres"
+
+#~ msgid "Search..."
+#~ msgstr "Cerca..."
+
+#~ msgid "Close windows by double clicking &the menu button"
+#~ msgstr "&Tanca les finestres amb doble clic al botó menú"
+
+#~ msgid "Border si&ze:"
+#~ msgstr "Mida de la &vora:"
+
+#~ msgid "Buttons"
+#~ msgstr "Botons"
+
+#~ msgid "Configure %1..."
+#~ msgstr "Configura el %1..."
+
+#~ msgid "Drag to re-position buttons"
+#~ msgstr "Arrossegueu per a tornar a posicionar els botons"
+
+#~ msgid "Form"
+#~ msgstr "Formulari"
+
+#~ msgid "Button size:"
+#~ msgstr "Mida dels botons:"
+
+#~ msgctxt "@item:inlistbox Button size:"
+#~ msgid "Tiny"
+#~ msgstr "Minúscul"
+
+#~ msgctxt "@item:inlistbox Button size:"
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgctxt "@item:inlistbox Button size:"
+#~ msgid "Large"
+#~ msgstr "Gran"
+
+#~ msgctxt "@item:inlistbox Button size:"
+#~ msgid "Very Large"
+#~ msgstr "Molt gran"
+
+#~ msgctxt "@item:inlistbox Button size:"
+#~ msgid "Huge"
+#~ msgstr "Enorme"
+
+#~ msgctxt "@item:inlistbox Button size:"
+#~ msgid "Very Huge"
+#~ msgstr "Molt enorme"
+
+#~ msgctxt "@item:inlistbox Button size:"
+#~ msgid "Oversized"
+#~ msgstr "Fora de mida"
+
+#~ msgid "KDE"
+#~ msgstr "KDE"
+
+#~ msgid "%1 (unavailable)"
+#~ msgstr "%1 (no disponible)"
+
+#~ msgid ""
+#~ "To add or remove titlebar buttons, simply <i>drag</i> items between the "
+#~ "available item list and the titlebar preview. Similarly, drag items "
+#~ "within the titlebar preview to re-position them."
+#~ msgstr ""
+#~ "Per afegir o eliminar els botons de la barra de títol, simplement "
+#~ "<i>arrossegueu</i> els elements entre la llista d'elements disponibles i "
+#~ "la vista prèvia de la barra de títol. De manera similar, arrossegueu els "
+#~ "elements dins de la vista prèvia de la barra de títol per a reposicionar-"
+#~ "los."
+
+#~ msgid "Resize"
+#~ msgstr "Redimensiona"
+
+#~ msgid "Help"
+#~ msgstr "Ajuda"
+
+#~ msgctxt "Button showing window actions menu"
+#~ msgid "Window Menu"
+#~ msgstr "Menú de finestra"
+
+#~ msgid "--- spacer ---"
+#~ msgstr "--- espaiador ---"
+
+#~ msgid ""
+#~ "Enabling this checkbox will show window button tooltips. If this checkbox "
+#~ "is off, no window button tooltips will be shown."
+#~ msgstr ""
+#~ "En habilitar aquesta casella de selecció es mostraran consells als botons "
+#~ "de finestra. Si aquesta casella de selecció està desmarcada no es "
+#~ "mostraran consells als botons de finestra."
+
+#~ msgid "Please note that this option is not available on all styles yet."
+#~ msgstr ""
+#~ "Tingueu present que aquest opció encara no està disponible a tots els "
+#~ "estils."
+
+#~ msgid "Use custom titlebar button &positions"
+#~ msgstr "Usa &posicions personalitzades dels botons a la barra de títol"
+
+#~ msgid "B&order size:"
+#~ msgstr "Mida de la v&ora:"
+
+#~ msgid "Use this combobox to change the border size of the decoration."
+#~ msgstr ""
+#~ "Useu aquest quadre combinat per canviar la mida de vores de la decoració."
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "No Side Border"
+#~ msgstr "Sense vores laterals"
+
+#~ msgctxt "@item:inlistbox Border size:"
+#~ msgid "No Border"
+#~ msgstr "Sense vores"
+
+#~ msgid "Decoration Options"
+#~ msgstr "Opcions de decoració"
+
+#~ msgid ""
+#~ "Select the window decoration. This is the look and feel of both the "
+#~ "window borders and the window handle."
+#~ msgstr ""
+#~ "Trieu la decoració de finestra. Això és l'aspecte i efecte de les vores i "
+#~ "de l'ansa de finestra."
+
+#~ msgid "Configure Decoration..."
+#~ msgstr "Configura la decoració..."
+
+#~ msgid "Window Decoration Control Module"
+#~ msgstr "Mòdul de control de decoració de finestres"
+
+#~ msgid "(c) 2001 Karol Szwed"
+#~ msgstr "(c) 2001 Karol Szwed"
+
+#~ msgid "Karol Szwed"
+#~ msgstr "Karol Szwed"
+
+#~ msgid ""
+#~ "<h1>Installation error</h1>The resource<h2>kwin/kcm_kwindecoration/main."
+#~ "qml</h2>could not be located in any application data path.<h2>Please "
+#~ "contact your distribution</h2>The application will now abort"
+#~ msgstr ""
+#~ "<h1>Error d'instal·lació</h1>El recurs<h2>kwin/kcm_kwindecoration/main."
+#~ "qml</h2>no s'ha pogut localitzar en cap camí de dades d'aplicació.<h2>Si "
+#~ "us plau, contacteu amb la vostra distribució</h2>Ara l'aplicació "
+#~ "s'interromprà."
+
+#~ msgid "Installation Error"
+#~ msgstr "Error d'instal·lació"
+
+#~ msgid "Oxygen"
+#~ msgstr "Oxygen"
+
+#~ msgid ""
+#~ "<h1>Window Manager Decoration</h1><p>This module allows you to choose the "
+#~ "window border decorations, as well as titlebar button positions and "
+#~ "custom decoration options.</p>To choose a theme for your window "
+#~ "decoration click on its name and apply your choice by clicking the \"Apply"
+#~ "\" button below. If you do not want to apply your choice you can click "
+#~ "the \"Reset\" button to discard your changes.<p>You can configure each "
+#~ "theme. There are different options specific for each theme.</p><p>On the "
+#~ "\"Buttons\" tab check the \"Use custom titlebar button positions\" box "
+#~ "and you can change the positions of the buttons to your liking.</p>"
+#~ msgstr ""
+#~ "<h1>Decoració del gestor de finestres</h1><p>Aquest mòdul permet escollir "
+#~ "la decoració de les vores de les finestres així com la posició dels "
+#~ "botons de la barra de títol i opcions de decoració a mida.</p>Per a "
+#~ "escollir un tema per a la decoració de les finestres cliqueu al seu nom i "
+#~ "apliqueu l'elecció prement el botó «Aplica». Si no voleu aplicar la "
+#~ "vostra elecció podeu clicar al botó «Inicialitza» per a descartar els "
+#~ "canvis.<p>Podeu configurar cada tema. Hi ha diferents opcions "
+#~ "específiques per a cada tema.</p><p>A la pestanya «Botons» marqueu la "
+#~ "casella «Usa posicions de la barra de títol a mida» i podreu canviar la "
+#~ "posició dels botons al vostre gust.</p>"
+
+#~ msgid "Active Window"
+#~ msgstr "Finestra activa"
+
+#~ msgid "Inactive Window"
+#~ msgstr "Finestra inactiva"

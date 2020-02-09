@@ -1,0 +1,73 @@
+# Translation of plasma_engine_share.po to Catalan (Valencian)
+# Copyright (C) 2010-2016 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2010, 2016.
+# Empar Montoro Martín <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_engine_share\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"PO-Revision-Date: 2019-07-18 13:33+0200\n"
+"Last-Translator: Empar Montoro Martín <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 19.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#: shareprovider.cpp:192
+#, kde-format
+msgid "Could not detect the file's mimetype"
+msgstr "No s'ha pogut detectar el tipus MIME del fitxer"
+
+#: shareprovider.cpp:222
+#, kde-format
+msgid "It was not possible to read the selected file"
+msgstr "No s'ha pogut llegir el fitxer seleccionat"
+
+#: shareprovider.cpp:275
+#, kde-format
+msgid "Service was not available"
+msgstr "El servei no està disponible"
+
+#: shareprovider.cpp:306
+#, kde-format
+msgid "You must specify a URL for this service"
+msgstr "Heu d'indicar un URL per a aquest servei"
+
+#: shareservice.cpp:63
+#, kde-format
+msgid "Could not find the provider with the specified destination"
+msgstr "No s'ha pogut trobar el proveïdor amb la destinació especificada"
+
+#: shareservice.cpp:74
+#, kde-format
+msgid "Invalid path for the requested provider"
+msgstr "Camí no vàlid per al proveïdor requerit"
+
+#: shareservice.cpp:97
+#, kde-format
+msgid "Error trying to execute script"
+msgstr "S'ha produït un error en intentar executar l'script"
+
+#: shareservice.cpp:107
+#, kde-format
+msgid "Could not find all required functions"
+msgstr "No s'han pogut trobar totes les funcions requerides"
+
+#: shareservice.cpp:157
+#, kde-format
+msgid "Unknown Error"
+msgstr "S'ha produït un error desconegut"
+
+#~ msgid "Executable Scripts"
+#~ msgstr "Scripts executables"
+
+#~ msgid "Main Script File"
+#~ msgstr "Fitxer principal de script"

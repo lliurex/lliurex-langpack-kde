@@ -1,0 +1,221 @@
+# Translation of kcm_translations.po to Catalan (Valencian)
+# Copyright (C) 1999-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Sebastià Pla i Sanz <sps@sastia.com>, 1999, 2000, 2001, 2002, 2004, 2005.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2003, 2014, 2015.
+# Albert Astals Cid <aacid@kde.org>, 2005, 2009.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2012, 2015, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_translations\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"PO-Revision-Date: 2019-07-05 08:40+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sebastià Pla i Sanz,Antoni Bella,Albert Astals Cid,Josep Ma. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sps@sastia.com,antonibella5@yahoo.com,aacid@kde.org,txemaq@gmail.com"
+
+#: package/contents/ui/main.qml:31
+#, kde-format
+msgid "Language"
+msgstr "Idioma"
+
+#: package/contents/ui/main.qml:85
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Languages"
+msgstr "Afig idiomes"
+
+#: package/contents/ui/main.qml:111
+#, kde-format
+msgctxt "@action:button"
+msgid "Add"
+msgstr "Afig"
+
+#: package/contents/ui/main.qml:139
+#, kde-format
+msgctxt "@info"
+msgid "There are no languages available on this system."
+msgstr "No hi ha cap idioma disponible en aquest sistema."
+
+#: package/contents/ui/main.qml:149
+#, kde-format
+msgctxt "@info"
+msgid "Your changes will take effect the next time you log in."
+msgstr "Els canvis tindran efecte la pròxima vegada que us connecteu."
+
+#: package/contents/ui/main.qml:150
+#, kde-format
+msgctxt "@info"
+msgid "There are currently no preferred languages configured."
+msgstr "Actualment no hi ha cap idioma preferit configurat."
+
+#: package/contents/ui/main.qml:161
+#, kde-format
+msgctxt "@info %2 is the language code"
+msgid ""
+"The translation files for the language with the code '%2' could not be "
+"found. The language will be removed from your configuration. If you want to "
+"add it back, please install the localization files for it and add the "
+"language again."
+msgid_plural ""
+"The translation files for the languages with the codes '%2' could not be "
+"found. These languages will be removed from your configuration. If you want "
+"to add them back, please install the localization files for it and the "
+"languages again."
+msgstr[0] ""
+"No s'han pogut trobar els fitxers de traducció per a l'idioma amb el codi "
+"«%2». L'idioma s'eliminarà de la configuració. Si voleu afegir-lo una altra "
+"vegada, instal·leu els fitxers de localització  i afegiu-hi l'idioma "
+"novament."
+msgstr[1] ""
+"No s'han pogut trobar els fitxers de traducció per als idiomes amb els codis "
+"«%2». Aquests idiomes s'han eliminat de la configuració. Si voleu afegir-los "
+"una altra vegada, instal·leu els fitxers de localització i afegiu-hi els "
+"idiomes novament."
+
+#: package/contents/ui/main.qml:174
+#, kde-format
+msgid ""
+"The language at the top of this list is the one you want to see and use most "
+"often."
+msgstr ""
+"L'idioma de la part superior de la llista és el que voleu veure i usar més "
+"sovint."
+
+#: package/contents/ui/main.qml:208
+#, kde-format
+msgctxt "@item:inlistbox 1 = Language name"
+msgid "%1 (Default)"
+msgstr "%1 (Predeterminat)"
+
+#: package/contents/ui/main.qml:220
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Promote to default"
+msgstr "Promou a predeterminat"
+
+#: package/contents/ui/main.qml:227
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Remove"
+msgstr "Elimina"
+
+#: package/contents/ui/main.qml:256
+#, kde-format
+msgctxt "@action:button"
+msgid "Add languages..."
+msgstr "Afig idiomes..."
+
+#: translations.cpp:41
+#, kde-format
+msgid "Configure Plasma translations"
+msgstr "Configura les traduccions del Plasma"
+
+#: translationsmodel.cpp:95 translationsmodel.cpp:106
+#, kde-format
+msgctxt "%1 is language name, %2 is language code name"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Move up"
+#~ msgstr "Mou amunt"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Move down"
+#~ msgstr "Mou avall"
+
+#~ msgid "Translations"
+#~ msgstr "Traduccions"
+
+#~ msgid "John Layt"
+#~ msgstr "John Layt"
+
+#~ msgid "Maintainer"
+#~ msgstr "Mantenidor"
+
+#~ msgid "Applying Language Settings"
+#~ msgstr "S'estan aplicant els valors d'idioma"
+
+#~ msgid ""
+#~ "<h1>Translations</h1>\n"
+#~ "<p>Here you can set your preferred language for translating the user "
+#~ "interface of your applications. You can choose a single language, or a "
+#~ "list of languages to be applied in sequence. Only language translations "
+#~ "that are installed on your system will be listed as available. If your "
+#~ "language is not listed then you will need to install it first.</p>"
+#~ msgstr ""
+#~ "<h1>Traduccions</h1>\n"
+#~ "<p>Aquí podeu establir l'idioma preferit per a la traducció de la "
+#~ "interfície d'usuari de les vostres aplicacions. Podeu triar un sol "
+#~ "idioma, o una llista dels idiomes que s'aplicaran en seqüència. Només "
+#~ "apareixeran com a disponibles les traduccions dels idiomes que es trobin "
+#~ "al vostre sistema. Si el vostre idioma no apareix a la llista, llavors "
+#~ "primer l'haureu d'instal·lar.</p>"
+
+#~ msgid "Available Languages:"
+#~ msgstr "Idiomes disponibles:"
+
+#~ msgid ""
+#~ "This is the list of installed KDE Plasma language translations not "
+#~ "currently being used. <br />To use a language translation move it to the "
+#~ "'Preferred Languages' list in the order of preference.  <br />If no "
+#~ "suitable languages are listed, then you may need to install more language "
+#~ "packages using your usual installation method."
+#~ msgstr ""
+#~ "Aquesta és la llista de les traduccions instal·lades pels idiomes de "
+#~ "Plasma del KDE que actualment no s'utilitzen. <br />Per utilitzar una "
+#~ "traducció d'idioma, moveu-la a la llista «Idiomes preferits» segons "
+#~ "l'ordre de preferència. <br />Si no hi ha llistat cap idioma adequat, "
+#~ "llavors caldrà instal·lar més paquets d'idioma utilitzant el mètode "
+#~ "d'instal·lació habitual."
+
+#~ msgid ""
+#~ "This is the list of installed KDE Plasma language translations currently "
+#~ "being used, listed in order of preference.  <br />If a translation is not "
+#~ "available for the first language in the list, the next language will be "
+#~ "used. <br /> If no other translations are available then US English will "
+#~ "be used."
+#~ msgstr ""
+#~ "Aquesta és la llista de les traduccions instal·lades pels idiomes de "
+#~ "Plasma del KDE que s'utilitzen actualment, llistades segons l'ordre de "
+#~ "preferència. <br />Si no hi ha cap traducció disponible pel primer idioma "
+#~ "de la llista, s'utilitzarà el següent idioma. <br />Si no hi ha cap més "
+#~ "traducció disponible, llavors s'utilitza l'anglès US."
+
+#~ msgid "Install more languages"
+#~ msgstr "Instal·la més idiomes"
+
+#~ msgid "<p>Click here to install more languages</p>"
+#~ msgstr "<p>Cliqueu aquí per instal·lar més idiomes</p>"
+
+#~ msgid "Available &Translations:"
+#~ msgstr "&Traduccions disponibles:"
+
+#~ msgid "Preferred Trans&lations:"
+#~ msgstr "Tra&duccions preferides:"
+
+#~ msgid "Install more translations"
+#~ msgstr "Instal·la més traduccions"
+
+#~ msgid "KCMTranslations"
+#~ msgstr "KCMTranslations"

@@ -1,0 +1,321 @@
+# Translation of plasma-nm._desktop_.po to Catalan (Valencian)
+# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016, 2017, 2018, 2019.
+# empar <montoro_mde@gva.es>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-nm desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-06-30 01:22+0000\n"
+"PO-Revision-Date: 2020-01-21 09:16+0100\n"
+"Last-Translator: empar <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#: applet/metadata.desktop:2
+msgctxt "Name"
+msgid "Networks"
+msgstr "Xarxes"
+
+#: applet/metadata.desktop:48
+msgctxt "Comment"
+msgid "Network status and control"
+msgstr "Control i estat de la xarxa"
+
+#: kcm/kcm_networkmanagement.desktop:11
+msgctxt "Name"
+msgid "Connections"
+msgstr "Connexions"
+
+#: kcm/kcm_networkmanagement.desktop:51
+msgctxt "Comment"
+msgid "Edit your Network Connections"
+msgstr "Edita les connexions de xarxa"
+
+#: kcm/kcm_networkmanagement.desktop:91
+msgctxt "X-KDE-Keywords"
+msgid "network,wifi,ethernet,mobile,broadband,vpn,internet,traffic"
+msgstr "xarxa,wifi,ethernet,mòbil,banda ampla,vpn,internet,tràfic"
+
+#: kded/networkmanagement.desktop:2
+msgctxt "Name"
+msgid "Plasma Networkmanagement module"
+msgstr "Mòdul de Plasma per a la Gestió de la xarxa"
+
+#: kded/networkmanagement.desktop:48
+msgctxt "Comment"
+msgid "Provides secrets to the NetworkManager daemon"
+msgstr "Proporciona secrets al dimoni NetworkManager"
+
+#: kded/networkmanagement.notifyrc:3
+msgctxt "Name"
+msgid "Network management"
+msgstr "Gestió de la xarxa"
+
+#: kded/networkmanagement.notifyrc:48
+msgctxt "Comment"
+msgid "Network management"
+msgstr "Gestió de la xarxa"
+
+#: kded/networkmanagement.notifyrc:95
+msgctxt "Name"
+msgid "Connection activated"
+msgstr "Connexió activada"
+
+#: kded/networkmanagement.notifyrc:145
+msgctxt "Name"
+msgid "Connection deactivated"
+msgstr "Connexió desactivada"
+
+#: kded/networkmanagement.notifyrc:194
+msgctxt "Name"
+msgid "Connection added"
+msgstr "S'ha afegit una connexió "
+
+#: kded/networkmanagement.notifyrc:243
+msgctxt "Name"
+msgid "Connection removed"
+msgstr "S'ha eliminat una connexió"
+
+#: kded/networkmanagement.notifyrc:292
+msgctxt "Name"
+msgid "Connection updated"
+msgstr "S'ha actualitzat una connexió"
+
+#: kded/networkmanagement.notifyrc:341
+msgctxt "Name"
+msgid "Device failed"
+msgstr "El dispositiu ha fallat"
+
+#: kded/networkmanagement.notifyrc:389
+msgctxt "Name"
+msgid "Failed to activate connection"
+msgstr "No s'ha pogut activar la connexió"
+
+#: kded/networkmanagement.notifyrc:438
+msgctxt "Name"
+msgid "Failed to add connection"
+msgstr "No s'ha pogut afegir la connexió"
+
+#: kded/networkmanagement.notifyrc:487
+msgctxt "Name"
+msgid "Failed to deactivate connection"
+msgstr "No s'ha pogut desactivar la connexió"
+
+#: kded/networkmanagement.notifyrc:536
+msgctxt "Name"
+msgid "Failed to remove connection"
+msgstr "No s'ha pogut eliminar la connexió"
+
+#: kded/networkmanagement.notifyrc:585
+msgctxt "Name"
+msgid "Failed to get secrets"
+msgstr "No s'ha pogut obtindre els secrets"
+
+#: kded/networkmanagement.notifyrc:634
+msgctxt "Name"
+msgid "Failed to update connection"
+msgstr "No s'ha pogut actualitzar la connexió"
+
+#: kded/networkmanagement.notifyrc:683
+msgctxt "Name"
+msgid "Missing VPN plugin"
+msgstr "Falta el connector VPN"
+
+#: kded/networkmanagement.notifyrc:733
+msgctxt "Name"
+msgid "No longer connected to a network"
+msgstr "Ja no està connectat a cap xarxa"
+
+#: kded/networkmanagement.notifyrc:777
+msgctxt "Name"
+msgid "Captive portal detected"
+msgstr "S'ha detectat un portal captiu"
+
+#: libs/editor/plasma-networkmanagement-vpnuiplugin.desktop:4
+msgctxt "Name"
+msgid "Network Management VPN UI Plugin"
+msgstr "Connector de la IU per a la VPN del Gestor de la xarxa"
+
+#: libs/editor/plasma-networkmanagement-vpnuiplugin.desktop:49
+msgctxt "Comment"
+msgid "Defines KDE Network Management UI Plugins"
+msgstr "Defineix els connectors de la IU del Gestor de la xarxa de KDE"
+
+#: mobile/broadband/mobilebroadbandsettings.desktop:2
+msgctxt "Name"
+msgid "Mobile broadband"
+msgstr "Banda ampla mòbil"
+
+#: mobile/broadband/mobilebroadbandsettings.desktop:29
+#: mobile/broadband/package/metadata.desktop:29
+msgctxt "Comment"
+msgid "Mobile broadband setting"
+msgstr "Configuració de la banda ampla mòbil"
+
+#: mobile/broadband/mobilebroadbandsettings.desktop:69
+msgctxt "X-KDE-Keywords"
+msgid "mobile,data,network"
+msgstr "mòbil,dades,xarxa"
+
+#: mobile/broadband/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Mobile Broadband"
+msgstr "Banda ampla mòbil"
+
+#: mobile/wifi/package/metadata.desktop:2 mobile/wifi/wifisettings.desktop:2
+msgctxt "Name"
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+#: mobile/wifi/package/metadata.desktop:29 mobile/wifi/wifisettings.desktop:29
+msgctxt "Comment"
+msgid "Wireless network setting"
+msgstr "Configuració de la xarxa sense fil"
+
+#: mobile/wifi/wifisettings.desktop:69
+msgctxt "X-KDE-Keywords"
+msgid "wifi,network"
+msgstr "wifi,xarxa"
+
+#: vpn/fortisslvpn/plasmanetworkmanagement_fortisslvpnui.desktop:16
+msgctxt "Name"
+msgid "Fortinet SSLVPN (fortisslvpn)"
+msgstr "Fortinet SSLVPN (fortisslvpn)"
+
+#: vpn/fortisslvpn/plasmanetworkmanagement_fortisslvpnui.desktop:52
+msgctxt "Comment"
+msgid "Fortinet SSLVPN virtual private networks"
+msgstr "Xarxes privades virtuals Fortinet SSLVPN"
+
+#: vpn/iodine/plasmanetworkmanagement_iodineui.desktop:16
+msgctxt "Name"
+msgid "Iodine DNS tunnel (iodine)"
+msgstr "Túnel de DNS Iodine (iodine)"
+
+#: vpn/iodine/plasmanetworkmanagement_iodineui.desktop:52
+msgctxt "Comment"
+msgid "Tunnel connections via DNS"
+msgstr "Túnel de connexions via DNS"
+
+#: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:16
+msgctxt "Name"
+msgid "Layer 2 Tunneling Protocol (L2TP)"
+msgstr "Protocol per a crear túnels de 2 capes (L2TP)"
+
+#: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:54
+msgctxt "Comment"
+msgid "Compatible with L2TP VPN servers"
+msgstr "Compatible amb els servidors VPN del L2TP"
+
+# skip-rule: ff-pan
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:17
+msgctxt "Name"
+msgid "PAN Global Protect (openconnect)"
+msgstr "PAN de Global Protect (openconnect)"
+
+# skip-rule: ff-pan
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:39
+msgctxt "Comment"
+msgid "Compatible with PAN GlobalProtect SSL VPN"
+msgstr "Compatible amb la PAN VPN SSL de GlobalProtect"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_juniperui.desktop:17
+msgctxt "Name"
+msgid "Juniper SSL VPN / Pulse Connect Secure (openconnect)"
+msgstr "VPN SSL Juniper / Pulse Connect Secure (openconnect)"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_juniperui.desktop:53
+msgctxt "Comment"
+msgid "Compatible with Juniper SSL VPN and Pulse Connect Secure"
+msgstr "Compatible amb la VPN SSL Juniper i Pulse Connect Secure"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnectui.desktop:17
+msgctxt "Name"
+msgid "Cisco AnyConnect Compatible VPN (openconnect)"
+msgstr "VPN compatible amb AnyConnect de Cisco (openconnect)"
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnectui.desktop:55
+msgctxt "Comment"
+msgid "Compatible with Cisco AnyConnect SSL VPN"
+msgstr "VPN sobre SSL compatible amb AnyConnect de Cisco"
+
+#: vpn/openswan/plasmanetworkmanagement_openswanui.desktop:16
+msgctxt "Name"
+msgid "IPsec based VPN (openswan)"
+msgstr "VPN basada en IPsec (openswan)"
+
+#: vpn/openswan/plasmanetworkmanagement_openswanui.desktop:54
+#: vpn/strongswan/plasmanetworkmanagement_strongswanui.desktop:55
+msgctxt "Comment"
+msgid "IPsec, IKEv1, IKEv2 based VPN"
+msgstr "VPN basada en IKEv1, IKEv2 sobre IPsec"
+
+#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:16
+msgctxt "Name"
+msgid "OpenVPN"
+msgstr "OpenVPN"
+
+#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:64
+msgctxt "Comment"
+msgid "Compatible with the OpenVPN server"
+msgstr "Compatible amb el servidor OpenVPN"
+
+#: vpn/pptp/plasmanetworkmanagement_pptpui.desktop:16
+msgctxt "Name"
+msgid "Point-to-Point Tunneling Protocol (PPTP)"
+msgstr "Protocol per a crear túnels Punt-a-Punt (PPTP)"
+
+#: vpn/pptp/plasmanetworkmanagement_pptpui.desktop:54
+msgctxt "Comment"
+msgid "Compatible with Microsoft and other PPTP VPN servers"
+msgstr "Compatible amb Microsoft i altres servidors VPN sobre PPTP"
+
+#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:16
+msgctxt "Name"
+msgid "SSH"
+msgstr "SSH"
+
+#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:57
+msgctxt "Comment"
+msgid "Compatible with the SSH server"
+msgstr "Compatible amb el servidor SSH"
+
+#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:16
+msgctxt "Name"
+msgid "Secure Socket Tunneling Protocol (SSTP)"
+msgstr "Protocol per a crear túnels amb sòcols segurs (SSTP)"
+
+#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:55
+msgctxt "Comment"
+msgid "Compatible with Microsoft and other SSTP VPN servers"
+msgstr "Compatible amb Microsoft i altres servidors VPN sobre SSTP"
+
+#: vpn/strongswan/plasmanetworkmanagement_strongswanui.desktop:16
+msgctxt "Name"
+msgid "IPsec based VPN (strongswan)"
+msgstr "VPN basada en IPsec (strongswan)"
+
+#: vpn/vpnc/plasmanetworkmanagement_vpncui.desktop:16
+msgctxt "Name"
+msgid "Cisco Compatible VPN (vpnc)"
+msgstr "VPN compatible amb Cisco (vpnc)"
+
+#: vpn/vpnc/plasmanetworkmanagement_vpncui.desktop:55
+msgctxt "Comment"
+msgid ""
+"Compatible with various Cisco, Juniper, Netscreen and Sonicwall IPsec-based "
+"VPN gateways"
+msgstr ""
+"Compatible amb diverses passarel·les VPN basades en IPsec de Cisco, Juniper, "
+"Netscreen i Sonicwall"

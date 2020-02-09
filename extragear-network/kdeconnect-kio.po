@@ -1,0 +1,57 @@
+# Translation of kdeconnect-kio.po to Catalan (Valencian)
+# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2019.
+# empar <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kio\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:49+0200\n"
+"PO-Revision-Date: 2019-12-16 11:39+0100\n"
+"Last-Translator: empar <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#: kiokdeconnect.cpp:94
+#, kde-format
+msgid "Listing devices..."
+msgstr "S'estan llistant els dispositius..."
+
+#: kiokdeconnect.cpp:135
+#, kde-format
+msgid "Accessing device..."
+msgstr "S'està accedint al dispositiu..."
+
+#: kiokdeconnect.cpp:151
+#, kde-format
+msgid "No such device: %0"
+msgstr "No hi ha aquest dispositiu: %0"
+
+#: kiokdeconnect.cpp:158
+#, kde-format
+msgid "%0 is not paired"
+msgstr "%0 no està emparellat"
+
+#: kiokdeconnect.cpp:163
+#, kde-format
+msgid "%0 is not connected"
+msgstr "%0 no està connectat"
+
+#: kiokdeconnect.cpp:168
+#, kde-format
+msgid "%0 has no Remote Filesystem plugin"
+msgstr "%0 no té un connector per a sistema de fitxers remot"
+
+#: kiokdeconnect.cpp:229
+#, kde-format
+msgid "Could not contact background service."
+msgstr "No s'ha pogut contactar usant el servei en segon pla."

@@ -1,0 +1,182 @@
+# Translation of kdeconnect-core.po to Catalan (Valencian)
+# Copyright (C) 2014-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016, 2018.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016.
+# empar <montoro_mde@gva.es>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-core\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-06-03 02:50+0200\n"
+"PO-Revision-Date: 2019-12-16 11:36+0100\n"
+"Last-Translator: empar <montoro_mde@gva.es>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 19.04.2\n"
+
+#: backends/bluetooth/bluetoothpairinghandler.cpp:71
+#: backends/lan/lanpairinghandler.cpp:67
+#, kde-format
+msgid "Canceled by other peer"
+msgstr "Cancel·lat per l'altre parell"
+
+#: backends/bluetooth/bluetoothpairinghandler.cpp:80
+#: backends/lan/lanpairinghandler.cpp:76
+#, kde-format
+msgid "%1: Already paired"
+msgstr "%1: Ja està emparellat"
+
+#: backends/bluetooth/bluetoothpairinghandler.cpp:83
+#, kde-format
+msgid "%1: Pairing already requested for this device"
+msgstr "%1: Ja s'ha demanat emparellar aquest dispositiu"
+
+#: backends/bluetooth/bluetoothpairinghandler.cpp:139
+#: backends/lan/lanpairinghandler.cpp:120
+#, kde-format
+msgid "Timed out"
+msgstr "Ha excedit el temps límit"
+
+#: backends/lan/compositeuploadjob.cpp:91
+#, kde-format
+msgid "Couldn't find an available port"
+msgstr "No s'ha pogut trobar un port disponible"
+
+#: backends/lan/compositeuploadjob.cpp:122
+#, kde-format
+msgid "Failed to send packet to %1"
+msgstr "No s'ha pogut enviar un paquet a %1"
+
+#: backends/lan/compositeuploadjob.cpp:276
+#, kde-format
+msgid "Sent 1 file"
+msgid_plural "Sent %1 files"
+msgstr[0] "Envia 1 fitxer"
+msgstr[1] "Envia %1 fitxers"
+
+#: backends/lan/compositeuploadjob.cpp:277
+#: backends/lan/compositeuploadjob.cpp:292
+#, kde-format
+msgid "Sending to %1"
+msgstr "S'està enviant a %1"
+
+#: backends/lan/compositeuploadjob.cpp:288 compositefiletransferjob.cpp:151
+#, kde-format
+msgid "Progress"
+msgstr "Progrés"
+
+#: backends/lan/compositeuploadjob.cpp:289
+#, kde-format
+msgid "Sending file %1 of %2"
+msgstr "S'està enviant el fitxer %1 de %2"
+
+#: backends/lan/compositeuploadjob.cpp:293 compositefiletransferjob.cpp:156
+#, kde-format
+msgid "File"
+msgstr "Fitxer"
+
+#: backends/lan/landevicelink.cpp:160 backends/lan/landevicelink.cpp:174
+#, kde-format
+msgid ""
+"This device cannot be paired because it is running an old version of KDE "
+"Connect."
+msgstr ""
+"Aquest dispositiu no es pot emparellar perquè està executant una versió "
+"antiga de KDE Connect."
+
+#: compositefiletransferjob.cpp:152
+#, kde-format
+#| msgid "Sending file %1 of %2"
+msgid "Receiving file %1 of %2"
+msgstr "S'està rebent el fitxer %1 de %2"
+
+#: compositefiletransferjob.cpp:155
+#, kde-format
+#| msgid "Received incomplete file from: %1"
+msgid "Receiving file from %2"
+msgid_plural "Receiving %1 files from %2"
+msgstr[0] "S'està rebent  un fitxer des de: %1"
+msgstr[1] "S'estan rebent %1 fitxers des de %2"
+
+#: device.cpp:222
+#, kde-format
+msgid "Already paired"
+msgstr "Ja està emparellat"
+
+#: device.cpp:227
+#, kde-format
+msgid "Device not reachable"
+msgstr "No es pot accedir al dispositiu"
+
+#: device.cpp:545
+#, kde-format
+msgid "SHA1 fingerprint of your device certificate is: %1\n"
+msgstr "L'empremta digital SHA1 del certificat del vostre dispositiu és: %1\n"
+
+#: device.cpp:553
+#, kde-format
+msgid "SHA1 fingerprint of remote device certificate is: %1\n"
+msgstr "L'empremta digital SHA1 del certificat del dispositiu remot és: %1\n"
+
+#: filetransferjob.cpp:65
+#, kde-format
+msgid "Filename already present"
+msgstr "El nom del fitxer ja està present"
+
+#: filetransferjob.cpp:111
+#, kde-format
+msgid "Received incomplete file: %1"
+msgstr "S'ha rebut un fitxer incomplet: %1"
+
+#: filetransferjob.cpp:129
+#, kde-format
+msgid "Received incomplete file from: %1"
+msgstr "S'ha rebut un fitxer incomplet des de: %1"
+
+#: kdeconnectconfig.cpp:70
+#, kde-format
+msgid "KDE Connect failed to start"
+msgstr "KDE Connect ha fallat en iniciar"
+
+#: kdeconnectconfig.cpp:71
+#, kde-format
+msgid ""
+"Could not find support for RSA in your QCA installation. If your "
+"distribution provides separate packets for QCA-ossl and QCA-gnupg, make sure "
+"you have them installed and try again."
+msgstr ""
+"No s'ha pogut trobar la implementació RSA en la vostra instal·lació de QCA. "
+"Si la vostra distribució ofereix paquets separats per a QCA-ossl i QCA-"
+"gnupg, assegureu-vos que els heu instal·lats i torneu-ho a intentar."
+
+#: kdeconnectconfig.cpp:282
+#, kde-format
+msgid "Could not store private key file: %1"
+msgstr "No s'ha pogut emmagatzemar el fitxer de clau privada: %1"
+
+#: kdeconnectconfig.cpp:327
+#, kde-format
+msgid "Could not store certificate file: %1"
+msgstr "No s'ha pogut emmagatzemar el fitxer del certificat: %1"
+
+#~ msgid "Receiving file over KDE Connect"
+#~ msgstr "S'estan rebent fitxers a través del KDE Connect"
+
+#~ msgctxt "File transfer origin"
+#~ msgid "From"
+#~ msgstr "Des de"
+
+#~ msgctxt "File transfer destination"
+#~ msgid "To"
+#~ msgstr "A"
+
+#~ msgid "Finished sending to %1"
+#~ msgstr "Ha finalitzat l'enviament a %1"
