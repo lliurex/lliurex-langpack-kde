@@ -1,3 +1,9 @@
+lliurex-langpack-kde (0.7) bionic; urgency=medium
+
+  * Added new translations
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 27 Feb 2020 10:18:19 +0100
+
 lliurex-langpack-kde (0.6) bionic; urgency=medium
 
   * Update translations
