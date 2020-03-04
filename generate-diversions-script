@@ -20,7 +20,7 @@ for POFILE in $(find . -type f -name *.po -not -path debian); do
 	APPNAME=$(basename $POFILE .po)
 	msgfmt $POFILE -o ${INSTALLMOPATH}$APPNAME.mo
 	echo "dpkg-divert --package lliurex-langpack-kde --quiet --add --rename ${MOPATH}${APPNAME}.mo" >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
-	echo "dpkg-divert --package lliurex-langpack-kde --rename --divert ${MOPATH}${APPNAME}.mo.distrib --remove ${MOPATH}${APPNAME}.mo" >> ${PWD}/debian/lliurex-langpack-kde.postrm.debhelper
+	echo "dpkg-divert --package lliurex-langpack-kde --quiet --rename --divert ${MOPATH}${APPNAME}.mo.distrib --remove ${MOPATH}${APPNAME}.mo" >> ${PWD}/debian/lliurex-langpack-kde.postrm.debhelper
 
 done
 
@@ -28,7 +28,7 @@ for TSFILE in $(find . -type f -name *.ts -not -path debian); do
 	APPNAME=$(basename $TSFILE .ts)
 	lrelease $POFILE -qm ${INSTALLMOPATH}$APPNAME.qm
 	echo "dpkg-divert --package lliurex-langpack-kde --quiet --add --rename ${MOPATH}${APPNAME}.qm" >> ${PWD}/debian/lliurex-langpack-kde.preinst.debhelper
-	echo "dpkg-divert --package lliurex-langpack-kde --rename --divert ${MOPATH}${APPNAME}.qm.distrib --remove ${MOPATH}${APPNAME}.qm" >> ${PWD}/debian/lliurex-langpack-kde.postrm.debhelper
+	echo "dpkg-divert --package lliurex-langpack-kde --quiet --rename --divert ${MOPATH}${APPNAME}.qm.distrib --remove ${MOPATH}${APPNAME}.qm" >> ${PWD}/debian/lliurex-langpack-kde.postrm.debhelper
 
 done
 
