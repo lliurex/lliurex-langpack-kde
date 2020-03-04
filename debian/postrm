@@ -20,7 +20,10 @@ set -e
 
 
 case "$1" in
-    purge|remove|upgrade|failed-upgrade|abort-install|abort-upgrade|disappear)
+    failed-upgrade)
+	dpkg-divert --package lliurex-langpack-kde --quiet --remove /usr/share/locale/ca@valencia/LC_MESSAGES/dolphin.mo
+	    ;;
+    purge|remove|upgrade|abort-install|abort-upgrade|disappear)
     ;;
 
     *)
