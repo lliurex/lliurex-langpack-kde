@@ -226,7 +226,7 @@ msgstr "Blo&queja les tecles apegaloses"
 #, kde-format
 msgid "Turn sticky keys off when two keys are pressed simultaneously"
 msgstr ""
-"Activa les tecles apegaloses sempre que es premen dues tecles simultàniament"
+"Desactiva les tecles apegaloses sempre que es premen dues tecles simultàniament"
 
 #. i18n: ectx: property (text), widget (QCheckBox, stickyKeysBeep)
 #: accessibility.ui:277
